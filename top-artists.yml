@@ -3,7 +3,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j'
     followers:
       href: null
-      total: 5191928
+      total: 5196541
     genres:
       - canadian pop
       - candy pop
@@ -30,7 +30,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'
     followers:
       href: null
-      total: 15970868
+      total: 16021408
     genres:
       - electropop
       - pop
@@ -54,7 +54,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'
     followers:
       href: null
-      total: 38403236
+      total: 38453552
     genres:
       - dance pop
       - pop
@@ -79,7 +79,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa'
     followers:
       href: null
-      total: 9358484
+      total: 9363879
     genres:
       - art pop
       - pop
@@ -103,7 +103,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms'
     followers:
       href: null
-      total: 9688386
+      total: 9699909
     genres:
       - dance pop
       - pop
@@ -127,7 +127,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q'
     followers:
       href: null
-      total: 23330244
+      total: 23354605
     genres:
       - modern rock
     href: 'https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q'
@@ -150,7 +150,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'
     followers:
       href: null
-      total: 24434469
+      total: 24458923
     genres:
       - dance pop
       - pop
@@ -175,7 +175,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V'
     followers:
       href: null
-      total: 5550798
+      total: 5553254
     genres:
       - celtic rock
       - neo mellow
@@ -202,7 +202,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV'
     followers:
       href: null
-      total: 53710
+      total: 53751
     genres:
       - viral pop
     href: 'https://api.spotify.com/v1/artists/39S7Y72G0tdDPy2INGFicV'
@@ -225,7 +225,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m'
     followers:
       href: null
-      total: 2334751
+      total: 2337259
     genres:
       - dance pop
       - electropop
@@ -244,14 +244,14 @@ longTermArtists:
         url: 'https://i.scdn.co/image/8002d98c34d293433d75cd8bd4c1ade2ad754a95'
         width: 160
     name: Julia Michaels
-    popularity: 85
+    popularity: 86
     type: artist
     uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
   - external_urls:
       spotify: 'https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR'
     followers:
       href: null
-      total: 6310972
+      total: 6316760
     genres:
       - canadian contemporary r&b
       - dance pop
@@ -277,7 +277,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B'
     followers:
       href: null
-      total: 2447137
+      total: 2448648
     genres:
       - dance pop
       - electropop
@@ -304,7 +304,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV'
     followers:
       href: null
-      total: 3315082
+      total: 3320246
     genres:
       - europop
       - swedish pop
@@ -328,7 +328,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF'
     followers:
       href: null
-      total: 13071238
+      total: 13092166
     genres:
       - dance pop
       - pop
@@ -353,7 +353,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP'
     followers:
       href: null
-      total: 3974351
+      total: 3977188
     genres:
       - dance pop
       - electropop
@@ -380,7 +380,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'
     followers:
       href: null
-      total: 1918872
+      total: 1923110
     genres:
       - pop
     href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
@@ -403,10 +403,9 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM'
     followers:
       href: null
-      total: 1295624
+      total: 1296262
     genres:
       - acoustic pop
-      - dance pop
       - folk-pop
       - lilith
       - neo mellow
@@ -432,7 +431,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG'
     followers:
       href: null
-      total: 125139
+      total: 125269
     genres:
       - hollywood
     href: 'https://api.spotify.com/v1/artists/4VIvfOurcf0vuLRxLkGnIG'
@@ -455,7 +454,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2'
     followers:
       href: null
-      total: 50853
+      total: 50886
     genres:
       - hollywood
     href: 'https://api.spotify.com/v1/artists/2HB65P72dFRiOKvbLLcil2'
@@ -495,7 +494,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'
     followers:
       href: null
-      total: 38403236
+      total: 38453552
     genres:
       - dance pop
       - pop
@@ -520,7 +519,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa'
     followers:
       href: null
-      total: 9358484
+      total: 9363879
     genres:
       - art pop
       - pop
@@ -544,7 +543,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j'
     followers:
       href: null
-      total: 5191928
+      total: 5196541
     genres:
       - canadian pop
       - candy pop
@@ -571,7 +570,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'
     followers:
       href: null
-      total: 15970868
+      total: 16021408
     genres:
       - electropop
       - pop
@@ -595,7 +594,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'
     followers:
       href: null
-      total: 24434469
+      total: 24458923
     genres:
       - dance pop
       - pop
@@ -620,7 +619,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B'
     followers:
       href: null
-      total: 2447137
+      total: 2448648
     genres:
       - dance pop
       - electropop
@@ -647,7 +646,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'
     followers:
       href: null
-      total: 1918872
+      total: 1923110
     genres:
       - pop
     href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
@@ -670,7 +669,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m'
     followers:
       href: null
-      total: 2334751
+      total: 2337259
     genres:
       - dance pop
       - electropop
@@ -689,14 +688,14 @@ mediumTermArtists:
         url: 'https://i.scdn.co/image/8002d98c34d293433d75cd8bd4c1ade2ad754a95'
         width: 160
     name: Julia Michaels
-    popularity: 85
+    popularity: 86
     type: artist
     uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
   - external_urls:
       spotify: 'https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF'
     followers:
       href: null
-      total: 13071238
+      total: 13092166
     genres:
       - dance pop
       - pop
@@ -721,7 +720,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR'
     followers:
       href: null
-      total: 6310972
+      total: 6316760
     genres:
       - canadian contemporary r&b
       - dance pop
@@ -747,7 +746,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'
     followers:
       href: null
-      total: 21603953
+      total: 21629608
     genres:
       - canadian pop
       - pop
@@ -773,7 +772,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V'
     followers:
       href: null
-      total: 5550798
+      total: 5553254
     genres:
       - celtic rock
       - neo mellow
@@ -800,7 +799,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1'
     followers:
       href: null
-      total: 695986
+      total: 697459
     genres:
       - boy band
       - dance pop
@@ -826,11 +825,10 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp'
     followers:
       href: null
-      total: 822447
+      total: 823502
     genres:
       - dance pop
       - electropop
-      - indie poptimism
       - pop
       - pop rap
       - post-teen pop
@@ -854,7 +852,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp'
     followers:
       href: null
-      total: 6662217
+      total: 6666452
     genres:
       - dance pop
       - girl group
@@ -882,12 +880,13 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x'
     followers:
       href: null
-      total: 1387655
+      total: 1389059
     genres:
       - dance pop
       - electropop
       - indie poptimism
       - pop
+      - pop rap
       - post-teen pop
       - talent show
       - viral pop
@@ -911,7 +910,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q'
     followers:
       href: null
-      total: 1413010
+      total: 1414686
     genres:
       - dance pop
       - electropop
@@ -938,7 +937,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg'
     followers:
       href: null
-      total: 175236
+      total: 175491
     genres:
       - adult standards
       - nashville sound
@@ -966,7 +965,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F'
     followers:
       href: null
-      total: 4984238
+      total: 4987685
     genres:
       - dance pop
       - pop
@@ -988,36 +987,34 @@ mediumTermArtists:
     type: artist
     uri: 'spotify:artist:5p7f24Rk5HkUZsaS3BLG5F'
   - external_urls:
-      spotify: 'https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx'
+      spotify: 'https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q'
     followers:
       href: null
-      total: 17846362
+      total: 23354605
     genres:
-      - dance pop
-      - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx'
-    id: 0C8ZW7ezQVs4URX5aX7Kqx
+      - modern rock
+    href: 'https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q'
+    id: 53XhwfbYqKCa1cC15pYq2q
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/e89a4b55aaa0ed82fb0c51d0ad2125abfa02341d'
+        url: 'https://i.scdn.co/image/01b36ca0f45f2f15117022a2754287a6ca1acdcc'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/20609f64f39de07b4cbe77bef53e5314208bd181'
+        url: 'https://i.scdn.co/image/ff8d83627cb2a80d4c1fa36fd80a193ca34b7a50'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/6034a354a52ce9e2813a7b4d4ed510141f1b912d'
+        url: 'https://i.scdn.co/image/1cdf5ce3cf329ae433bfa76e88dadeb06653fda9'
         width: 160
-    name: Selena Gomez
-    popularity: 92
+    name: Imagine Dragons
+    popularity: 91
     type: artist
-    uri: 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'
+    uri: 'spotify:artist:53XhwfbYqKCa1cC15pYq2q'
 shortTermArtists:
   - external_urls:
       spotify: 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'
     followers:
       href: null
-      total: 24434469
+      total: 24458923
     genres:
       - dance pop
       - pop
@@ -1042,7 +1039,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'
     followers:
       href: null
-      total: 38403236
+      total: 38453552
     genres:
       - dance pop
       - pop
@@ -1067,7 +1064,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'
     followers:
       href: null
-      total: 15970868
+      total: 16021408
     genres:
       - electropop
       - pop
@@ -1091,7 +1088,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa'
     followers:
       href: null
-      total: 9358484
+      total: 9363879
     genres:
       - art pop
       - pop
@@ -1115,7 +1112,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'
     followers:
       href: null
-      total: 1918872
+      total: 1923110
     genres:
       - pop
     href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
@@ -1138,7 +1135,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF'
     followers:
       href: null
-      total: 13071238
+      total: 13092166
     genres:
       - dance pop
       - pop
@@ -1163,11 +1160,10 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp'
     followers:
       href: null
-      total: 822447
+      total: 823502
     genres:
       - dance pop
       - electropop
-      - indie poptimism
       - pop
       - pop rap
       - post-teen pop
@@ -1191,7 +1187,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR'
     followers:
       href: null
-      total: 6310972
+      total: 6316760
     genres:
       - canadian contemporary r&b
       - dance pop
@@ -1214,10 +1210,36 @@ shortTermArtists:
     type: artist
     uri: 'spotify:artist:2wUjUUtkb5lvLKcGKsKqsR'
   - external_urls:
+      spotify: 'https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m'
+    followers:
+      href: null
+      total: 2337259
+    genres:
+      - dance pop
+      - electropop
+      - pop
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m'
+    id: 0ZED1XzwlLHW4ZaG4lOT6m
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/4a629c160228c0bd5295b064437b01a078aef157'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/c825f8efc145c7621637c474fe40c2864ed21ab8'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/8002d98c34d293433d75cd8bd4c1ade2ad754a95'
+        width: 160
+    name: Julia Michaels
+    popularity: 86
+    type: artist
+    uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
+  - external_urls:
       spotify: 'https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1'
     followers:
       href: null
-      total: 695986
+      total: 697459
     genres:
       - boy band
       - dance pop
@@ -1240,36 +1262,10 @@ shortTermArtists:
     type: artist
     uri: 'spotify:artist:5Y8eJDj37KhaEeqbVO7Ag1'
   - external_urls:
-      spotify: 'https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m'
-    followers:
-      href: null
-      total: 2334751
-    genres:
-      - dance pop
-      - electropop
-      - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m'
-    id: 0ZED1XzwlLHW4ZaG4lOT6m
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/4a629c160228c0bd5295b064437b01a078aef157'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/c825f8efc145c7621637c474fe40c2864ed21ab8'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/8002d98c34d293433d75cd8bd4c1ade2ad754a95'
-        width: 160
-    name: Julia Michaels
-    popularity: 85
-    type: artist
-    uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
-  - external_urls:
       spotify: 'https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx'
     followers:
       href: null
-      total: 17846362
+      total: 17866002
     genres:
       - dance pop
       - pop
@@ -1294,7 +1290,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP'
     followers:
       href: null
-      total: 3974351
+      total: 3977188
     genres:
       - dance pop
       - electropop
@@ -1321,7 +1317,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq'
     followers:
       href: null
-      total: 1055363
+      total: 1056025
     genres:
       - australian pop
       - dance pop
@@ -1348,7 +1344,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc'
     followers:
       href: null
-      total: 201019
+      total: 201270
     genres:
       - dance pop
       - edm
@@ -1377,7 +1373,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k'
     followers:
       href: null
-      total: 2023797
+      total: 2024656
     genres:
       - australian pop
       - dance pop
@@ -1407,7 +1403,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/59mjRp0i1B8oWSSMmGWJlJ'
     followers:
       href: null
-      total: 703766
+      total: 704091
     genres:
       - dance pop
       - pop
@@ -1434,7 +1430,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn'
     followers:
       href: null
-      total: 595348
+      total: 597342
     genres:
       - australian alternative pop
       - pop
@@ -1459,12 +1455,13 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x'
     followers:
       href: null
-      total: 1387655
+      total: 1389059
     genres:
       - dance pop
       - electropop
       - indie poptimism
       - pop
+      - pop rap
       - post-teen pop
       - talent show
       - viral pop
@@ -1485,10 +1482,37 @@ shortTermArtists:
     type: artist
     uri: 'spotify:artist:1o2NpYGqHiCq7FoiYdyd1x'
   - external_urls:
+      spotify: 'https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q'
+    followers:
+      href: null
+      total: 1414686
+    genres:
+      - dance pop
+      - electropop
+      - pop
+      - pop rap
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/2kRfqPViCqYdSGhYSM9R0Q'
+    id: 2kRfqPViCqYdSGhYSM9R0Q
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/9b0ddcd3f57555a65fb61f0f86832ec7cfd96810'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/4174963ad93a2edf82b1655c79a2e09becb6f717'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/9f25b276327a0ea3967a603b96434b9cf385a0cb'
+        width: 160
+    name: Madison Beer
+    popularity: 78
+    type: artist
+    uri: 'spotify:artist:2kRfqPViCqYdSGhYSM9R0Q'
+  - external_urls:
       spotify: 'https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy'
     followers:
       href: null
-      total: 5407376
+      total: 5411356
     genres:
       - boy band
       - dance pop
@@ -1510,31 +1534,3 @@ shortTermArtists:
     popularity: 87
     type: artist
     uri: 'spotify:artist:5Rl15oVamLq7FbSb0NNBNy'
-  - external_urls:
-      spotify: 'https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2'
-    followers:
-      href: null
-      total: 8343180
-    genres:
-      - dance pop
-      - electropop
-      - etherpop
-      - indie poptimism
-      - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2'
-    id: 26VFTg2z8YR0cCuwLzESi2
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/1ccc88afcd13131dc35a1bd028922dbc748a55fb'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/8b56979f115e855301c33828bcad2c57280adbab'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/ac0a244c45f25b7d177bbe629c30565fe0768f14'
-        width: 160
-    name: Halsey
-    popularity: 91
-    type: artist
-    uri: 'spotify:artist:26VFTg2z8YR0cCuwLzESi2'
