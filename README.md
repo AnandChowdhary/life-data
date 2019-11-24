@@ -8,6 +8,7 @@ This repo contains data about my life. It's primarily powered by [Services](http
 | ---- | ----------- |
 | [top-artists.yml](./top-artists.yml) | List of top artists from Spotify |
 | [development.yml](./development.yml) | Programming data from Wakatime |
+| [location.json](./location.json) | Location data from OwnTracks |
 
 ## 📄 License
 
