@@ -9,6 +9,12 @@ This repo contains data about my life. It's primarily powered by [Services](http
 | [top-artists.yml](./top-artists.yml) | List of top artists from Spotify |
 | [development.yml](./development.yml) | Programming data from Wakatime |
 | [location.json](./location.json) | Location data from OwnTracks |
+| [heart-rate.yml](./heart-rate.yml) | Heart rate from [Yoga](https://github.com/AnandChowdhary/yoga) |
+| [step-count.yml](./step-count.yml) | Step count from Yoga |
+| [flights-climbed.yml](./flights-climbed.yml) | Flights climbed from Yoga |
+| [distance.yml](./distance.yml) | Distance walking/running from Yoga |
+| [active-energy.yml](./active-energy.yml) | Active energy burnt from Yoga |
+| [basal-energy.yml](./basal-energy.yml) | Basal energy burnt from Yoga |
 
 ## 📄 License
 
