@@ -1,525 +1,480 @@
-- value: 24.14800000000001
+- value: 15.820000000000014
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T14:28:52.616-0800'
-  endDate: '2019-11-27T14:43:45.684-0800'
-- value: 24.32900000000002
+  startDate: '2019-11-28T19:38:06.789-0800'
+  endDate: '2019-11-28T19:49:54.985-0800'
+- value: 21.248999999999995
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T14:14:09.840-0800'
-  endDate: '2019-11-27T14:28:52.616-0800'
-- value: 23.17600000000002
+  startDate: '2019-11-28T19:23:03.562-0800'
+  endDate: '2019-11-28T19:38:06.789-0800'
+- value: 20.14800000000001
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T14:00:18.355-0800'
-  endDate: '2019-11-27T14:14:09.840-0800'
-- value: 20.476000000000006
+  startDate: '2019-11-28T19:09:12.137-0800'
+  endDate: '2019-11-28T19:23:03.562-0800'
+- value: 21.09500000000001
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T13:48:09.517-0800'
-  endDate: '2019-11-27T14:00:18.355-0800'
-- value: 24.281000000000024
+  startDate: '2019-11-28T18:54:08.799-0800'
+  endDate: '2019-11-28T19:09:12.137-0800'
+- value: 23.206999999999997
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T13:33:06.131-0800'
-  endDate: '2019-11-27T13:48:09.517-0800'
-- value: 19.014
+  startDate: '2019-11-28T18:38:14.213-0800'
+  endDate: '2019-11-28T18:54:08.799-0800'
+- value: 19.122000000000007
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T13:18:33.590-0800'
-  endDate: '2019-11-27T13:33:06.131-0800'
-- value: 24.677000000000007
+  startDate: '2019-11-28T18:24:22.825-0800'
+  endDate: '2019-11-28T18:38:14.213-0800'
+- value: 22.180000000000007
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T13:03:30.247-0800'
-  endDate: '2019-11-27T13:18:33.590-0800'
-- value: 24.523000000000014
+  startDate: '2019-11-28T18:09:40.145-0800'
+  endDate: '2019-11-28T18:24:22.825-0800'
+- value: 20.167999999999996
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T12:48:26.936-0800'
-  endDate: '2019-11-27T13:03:30.247-0800'
-- value: 24.645000000000014
+  startDate: '2019-11-28T17:56:29.866-0800'
+  endDate: '2019-11-28T18:09:40.145-0800'
+- value: 20.538999999999994
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T12:33:44.099-0800'
-  endDate: '2019-11-27T12:48:26.936-0800'
-- value: 25.63300000000002
+  startDate: '2019-11-28T17:41:26.650-0800'
+  endDate: '2019-11-28T17:56:29.866-0800'
+- value: 18.31400000000001
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T12:18:40.738-0800'
-  endDate: '2019-11-27T12:33:44.099-0800'
-- value: 11.225999999999999
+  startDate: '2019-11-28T17:29:48.745-0800'
+  endDate: '2019-11-28T17:41:26.650-0800'
+- value: 20.564000000000004
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T12:12:00.428-0800'
-  endDate: '2019-11-27T12:18:40.738-0800'
-- value: 22.681000000000022
+  startDate: '2019-11-28T17:16:38.466-0800'
+  endDate: '2019-11-28T17:29:48.745-0800'
+- value: 20.439000000000007
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T11:57:27.923-0800'
-  endDate: '2019-11-27T12:12:00.428-0800'
-- value: 22.284000000000002
+  startDate: '2019-11-28T17:03:07.641-0800'
+  endDate: '2019-11-28T17:16:38.466-0800'
+- value: 21.806000000000004
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T11:42:24.578-0800'
-  endDate: '2019-11-27T11:57:27.923-0800'
-- value: 20.447999999999997
+  startDate: '2019-11-28T16:48:04.438-0800'
+  endDate: '2019-11-28T17:03:07.641-0800'
+- value: 21.646000000000004
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T11:28:58.599-0800'
-  endDate: '2019-11-27T11:42:24.578-0800'
-- value: 48.987
+  startDate: '2019-11-28T16:33:01.214-0800'
+  endDate: '2019-11-28T16:48:04.438-0800'
+- value: 18.178000000000015
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T10:49:58.126-0800'
-  endDate: '2019-11-27T11:28:58.599-0800'
-- value: 16.490000000000006
+  startDate: '2019-11-28T16:19:20.092-0800'
+  endDate: '2019-11-28T16:33:01.214-0800'
+- value: 23.157
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T10:37:08.315-0800'
-  endDate: '2019-11-27T10:49:58.126-0800'
-- value: 13.95900000000001
+  startDate: '2019-11-28T16:04:16.906-0800'
+  endDate: '2019-11-28T16:19:20.092-0800'
+- value: 18.901000000000003
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T10:26:11.402-0800'
-  endDate: '2019-11-27T10:37:08.315-0800'
-- value: 19.744000000000003
+  startDate: '2019-11-28T15:52:49.163-0800'
+  endDate: '2019-11-28T16:04:16.906-0800'
+- value: 23.23800000000001
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T10:11:08.088-0800'
-  endDate: '2019-11-27T10:26:11.402-0800'
-- value: 20.294999999999998
+  startDate: '2019-11-28T15:38:16.730-0800'
+  endDate: '2019-11-28T15:52:49.163-0800'
+- value: 25.236000000000022
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T09:56:04.765-0800'
-  endDate: '2019-11-27T10:11:08.088-0800'
-- value: 20.696
+  startDate: '2019-11-28T15:23:13.556-0800'
+  endDate: '2019-11-28T15:38:16.730-0800'
+- value: 25.47400000000002
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T09:41:01.383-0800'
-  endDate: '2019-11-27T09:56:04.765-0800'
-- value: 18.968000000000004
+  startDate: '2019-11-28T15:08:10.369-0800'
+  endDate: '2019-11-28T15:23:13.556-0800'
+- value: 23.320000000000004
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T09:25:57.917-0800'
-  endDate: '2019-11-27T09:41:01.383-0800'
-- value: 17.806000000000004
+  startDate: '2019-11-28T14:53:07.119-0800'
+  endDate: '2019-11-28T15:08:10.369-0800'
+- value: 22.178
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T09:11:45.836-0800'
-  endDate: '2019-11-27T09:25:57.917-0800'
-- value: 14.60200000000001
+  startDate: '2019-11-28T14:38:24.396-0800'
+  endDate: '2019-11-28T14:53:07.119-0800'
+- value: 21.732000000000014
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T09:00:18.039-0800'
-  endDate: '2019-11-27T09:11:45.836-0800'
-- value: 19.034
+  startDate: '2019-11-28T14:25:34.615-0800'
+  endDate: '2019-11-28T14:38:24.396-0800'
+- value: 23.72000000000002
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T08:45:14.641-0800'
-  endDate: '2019-11-27T09:00:18.039-0800'
-- value: 17.176000000000002
+  startDate: '2019-11-28T14:10:31.376-0800'
+  endDate: '2019-11-28T14:25:34.615-0800'
+- value: 19.412999999999993
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T08:31:33.330-0800'
-  endDate: '2019-11-27T08:45:14.641-0800'
-- value: 11.016000000000007
+  startDate: '2019-11-28T13:57:41.548-0800'
+  endDate: '2019-11-28T14:10:31.376-0800'
+- value: 20.375999999999998
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T08:22:49.799-0800'
-  endDate: '2019-11-27T08:31:33.330-0800'
-- value: 18.742
+  startDate: '2019-11-28T13:42:38.230-0800'
+  endDate: '2019-11-28T13:57:41.548-0800'
+- value: 20.131999999999994
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T08:07:56.616-0800'
-  endDate: '2019-11-27T08:22:49.799-0800'
-- value: 19.43500000000001
+  startDate: '2019-11-28T13:28:05.717-0800'
+  endDate: '2019-11-28T13:42:38.230-0800'
+- value: 20.546000000000006
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T07:52:53.201-0800'
-  endDate: '2019-11-27T08:07:56.616-0800'
-- value: 12.871000000000006
+  startDate: '2019-11-28T13:12:31.603-0800'
+  endDate: '2019-11-28T13:28:05.717-0800'
+- value: 19.296999999999997
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T07:42:37.166-0800'
-  endDate: '2019-11-27T07:52:53.201-0800'
-- value: 18.397
+  startDate: '2019-11-28T12:57:38.555-0800'
+  endDate: '2019-11-28T13:12:31.603-0800'
+- value: 21.730999999999998
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T07:28:04.482-0800'
-  endDate: '2019-11-27T07:42:37.166-0800'
-- value: 17.596000000000004
+  startDate: '2019-11-28T12:43:06.055-0800'
+  endDate: '2019-11-28T12:57:38.555-0800'
+- value: 24.597000000000023
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T07:14:02.612-0800'
-  endDate: '2019-11-27T07:28:04.482-0800'
-- value: 13.966000000000006
+  startDate: '2019-11-28T12:28:02.766-0800'
+  endDate: '2019-11-28T12:43:06.055-0800'
+- value: 22.01700000000001
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T07:03:05.581-0800'
-  endDate: '2019-11-27T07:14:02.612-0800'
-- value: 19.846000000000004
+  startDate: '2019-11-28T12:13:19.968-0800'
+  endDate: '2019-11-28T12:28:02.766-0800'
+- value: 23.639000000000006
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T06:47:31.414-0800'
-  endDate: '2019-11-27T07:03:05.581-0800'
-- value: 16.416000000000004
+  startDate: '2019-11-28T11:58:16.619-0800'
+  endDate: '2019-11-28T12:13:19.968-0800'
+- value: 24.36100000000002
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T06:35:22.605-0800'
-  endDate: '2019-11-27T06:47:31.414-0800'
-- value: 23.318000000000005
+  startDate: '2019-11-28T11:43:13.290-0800'
+  endDate: '2019-11-28T11:58:16.619-0800'
+- value: 25.234000000000023
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T06:20:19.271-0800'
-  endDate: '2019-11-27T06:35:22.605-0800'
-- value: 24.208000000000002
+  startDate: '2019-11-28T11:28:10.004-0800'
+  endDate: '2019-11-28T11:43:13.290-0800'
+- value: 24.99500000000002
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T06:05:15.906-0800'
-  endDate: '2019-11-27T06:20:19.271-0800'
-- value: 0.8049999999999999
+  startDate: '2019-11-28T11:13:06.741-0800'
+  endDate: '2019-11-28T11:28:10.004-0800'
+- value: 24.278000000000016
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T06:04:45.072-0800'
-  endDate: '2019-11-27T06:05:15.906-0800'
-- value: 0.883
+  startDate: '2019-11-28T10:58:03.452-0800'
+  endDate: '2019-11-28T11:13:06.741-0800'
+- value: 23.48100000000001
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T06:04:14.256-0800'
-  endDate: '2019-11-27T06:04:45.072-0800'
-- value: 0.883
+  startDate: '2019-11-28T10:43:00.122-0800'
+  endDate: '2019-11-28T10:58:03.452-0800'
+- value: 25.232000000000014
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T06:03:43.465-0800'
-  endDate: '2019-11-27T06:04:14.256-0800'
-- value: 0.723
+  startDate: '2019-11-28T10:27:56.896-0800'
+  endDate: '2019-11-28T10:43:00.122-0800'
+- value: 25.713000000000022
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T06:03:12.659-0800'
-  endDate: '2019-11-27T06:03:43.465-0800'
-- value: 0.643
+  startDate: '2019-11-28T10:12:53.725-0800'
+  endDate: '2019-11-28T10:27:56.896-0800'
+- value: 24.83900000000002
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T06:02:41.863-0800'
-  endDate: '2019-11-27T06:03:12.659-0800'
-- value: 0.508
+  startDate: '2019-11-28T09:57:50.520-0800'
+  endDate: '2019-11-28T10:12:53.725-0800'
+- value: 25.793000000000024
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T06:02:21.337-0800'
-  endDate: '2019-11-27T06:02:41.863-0800'
-- value: 21.042000000000012
+  startDate: '2019-11-28T09:42:47.309-0800'
+  endDate: '2019-11-28T09:57:50.520-0800'
+- value: 23.406000000000013
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T05:47:17.929-0800'
-  endDate: '2019-11-27T06:02:21.337-0800'
-- value: 18.907999999999998
+  startDate: '2019-11-28T09:27:44.066-0800'
+  endDate: '2019-11-28T09:42:47.309-0800'
+- value: 22.104999999999997
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T05:32:24.713-0800'
-  endDate: '2019-11-27T05:47:17.929-0800'
-- value: 14.444000000000013
+  startDate: '2019-11-28T09:13:01.255-0800'
+  endDate: '2019-11-28T09:27:44.066-0800'
+- value: 24.227
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T05:20:56.875-0800'
-  endDate: '2019-11-27T05:32:24.713-0800'
-- value: 18.398000000000003
+  startDate: '2019-11-28T08:53:43.727-0800'
+  endDate: '2019-11-28T09:13:01.255-0800'
+- value: 75.35
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T05:06:24.298-0800'
-  endDate: '2019-11-27T05:20:56.875-0800'
-- value: 16.303000000000004
+  startDate: '2019-11-28T07:53:43.727-0800'
+  endDate: '2019-11-28T08:53:43.727-0800'
+- value: 2.7800000000000002
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T04:53:24.168-0800'
-  endDate: '2019-11-27T05:06:24.298-0800'
-- value: 18.666999999999998
+  startDate: '2019-11-28T07:52:01.068-0800'
+  endDate: '2019-11-28T07:53:43.727-0800'
+- value: 20.06300000000001
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T04:38:31.114-0800'
-  endDate: '2019-11-27T04:53:24.168-0800'
-- value: 17.532000000000004
+  startDate: '2019-11-28T07:36:57.685-0800'
+  endDate: '2019-11-28T07:52:01.068-0800'
+- value: 19.200000000000003
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T04:25:10.259-0800'
-  endDate: '2019-11-27T04:38:31.114-0800'
-- value: 18.924000000000007
+  startDate: '2019-11-28T07:21:54.247-0800'
+  endDate: '2019-11-28T07:36:57.685-0800'
+- value: 17.749
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T04:10:16.374-0800'
-  endDate: '2019-11-27T04:25:10.259-0800'
-- value: 18.02
+  startDate: '2019-11-28T07:07:52.413-0800'
+  endDate: '2019-11-28T07:21:54.247-0800'
+- value: 19.333000000000006
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T03:55:54.158-0800'
-  endDate: '2019-11-27T04:10:16.374-0800'
-- value: 15.876000000000007
+  startDate: '2019-11-28T06:52:38.767-0800'
+  endDate: '2019-11-28T07:07:52.413-0800'
+- value: 16.73100000000001
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T03:43:14.609-0800'
-  endDate: '2019-11-27T03:55:54.158-0800'
-- value: 19.336999999999996
+  startDate: '2019-11-28T06:39:18.044-0800'
+  endDate: '2019-11-28T06:52:38.767-0800'
+- value: 15.471000000000005
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T03:28:01.004-0800'
-  endDate: '2019-11-27T03:43:14.609-0800'
-- value: 17.674
+  startDate: '2019-11-28T06:27:09.144-0800'
+  endDate: '2019-11-28T06:39:18.044-0800'
+- value: 19.198
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T03:13:59.171-0800'
-  endDate: '2019-11-27T03:28:01.004-0800'
-- value: 18.965000000000003
+  startDate: '2019-11-28T06:12:05.780-0800'
+  endDate: '2019-11-28T06:27:09.144-0800'
+- value: 17.463
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T02:58:55.753-0800'
-  endDate: '2019-11-27T03:13:59.171-0800'
-- value: 9.733000000000002
+  startDate: '2019-11-28T05:58:14.277-0800'
+  endDate: '2019-11-28T06:12:05.780-0800'
+- value: 18.398000000000007
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T02:51:13.760-0800'
-  endDate: '2019-11-27T02:58:55.753-0800'
-- value: 19.043000000000003
+  startDate: '2019-11-28T05:43:41.772-0800'
+  endDate: '2019-11-28T05:58:14.277-0800'
+- value: 13.729000000000006
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T02:36:10.335-0800'
-  endDate: '2019-11-27T02:51:13.760-0800'
-- value: 19.307000000000002
+  startDate: '2019-11-28T05:32:44.807-0800'
+  endDate: '2019-11-28T05:43:41.772-0800'
+- value: 16.384000000000007
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T02:20:46.357-0800'
-  endDate: '2019-11-27T02:36:10.335-0800'
-- value: 18.884
+  startDate: '2019-11-28T05:19:44.689-0800'
+  endDate: '2019-11-28T05:32:44.807-0800'
+- value: 17.325999999999997
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T02:05:42.935-0800'
-  endDate: '2019-11-27T02:20:46.357-0800'
-- value: 18.606
+  startDate: '2019-11-28T05:06:03.565-0800'
+  endDate: '2019-11-28T05:19:44.689-0800'
+- value: 18.963000000000005
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T01:51:00.022-0800'
-  endDate: '2019-11-27T02:05:42.935-0800'
-- value: 18.049
+  startDate: '2019-11-28T04:51:00.269-0800'
+  endDate: '2019-11-28T05:06:03.565-0800'
+- value: 15.314000000000005
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T01:36:47.890-0800'
-  endDate: '2019-11-27T01:51:00.022-0800'
-- value: 12.308000000000005
+  startDate: '2019-11-28T04:38:51.444-0800'
+  endDate: '2019-11-28T04:51:00.269-0800'
+- value: 19.626
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T01:27:02.724-0800'
-  endDate: '2019-11-27T01:36:47.890-0800'
-- value: 18.965000000000003
+  startDate: '2019-11-28T04:23:27.539-0800'
+  endDate: '2019-11-28T04:38:51.444-0800'
+- value: 18.875
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T01:11:59.371-0800'
-  endDate: '2019-11-27T01:27:02.724-0800'
-- value: 19.039
+  startDate: '2019-11-28T04:08:24.123-0800'
+  endDate: '2019-11-28T04:23:27.539-0800'
+- value: 16.523000000000003
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T00:56:56.003-0800'
-  endDate: '2019-11-27T01:11:59.371-0800'
-- value: 18.406000000000002
+  startDate: '2019-11-28T03:55:13.665-0800'
+  endDate: '2019-11-28T04:08:24.123-0800'
+- value: 18.745
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T00:42:23.481-0800'
-  endDate: '2019-11-27T00:56:56.003-0800'
-- value: 17.171999999999997
+  startDate: '2019-11-28T03:40:20.588-0800'
+  endDate: '2019-11-28T03:55:13.665-0800'
+- value: 14.312000000000008
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T00:28:42.281-0800'
-  endDate: '2019-11-27T00:42:23.481-0800'
-- value: 18.878
+  startDate: '2019-11-28T03:29:03.097-0800'
+  endDate: '2019-11-28T03:40:20.588-0800'
+- value: 18.825
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-27T00:13:38.969-0800'
-  endDate: '2019-11-27T00:28:42.281-0800'
-- value: 19.294999999999998
+  startDate: '2019-11-28T03:14:10.038-0800'
+  endDate: '2019-11-28T03:29:03.097-0800'
+- value: 16.831000000000003
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T23:58:45.873-0800'
-  endDate: '2019-11-27T00:13:38.969-0800'
-- value: 14.745000000000005
+  startDate: '2019-11-28T03:00:59.679-0800'
+  endDate: '2019-11-28T03:14:10.038-0800'
+- value: 20.214000000000006
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T23:47:07.822-0800'
-  endDate: '2019-11-26T23:58:45.873-0800'
-- value: 19.116999999999997
+  startDate: '2019-11-28T02:45:15.365-0800'
+  endDate: '2019-11-28T03:00:59.679-0800'
+- value: 18.907000000000004
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T23:32:04.441-0800'
-  endDate: '2019-11-26T23:47:07.822-0800'
-- value: 13.913000000000007
+  startDate: '2019-11-28T02:30:22.296-0800'
+  endDate: '2019-11-28T02:45:15.365-0800'
+- value: 15.317000000000005
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T23:21:17.707-0800'
-  endDate: '2019-11-26T23:32:04.441-0800'
-- value: 13.296000000000008
+  startDate: '2019-11-28T02:18:13.506-0800'
+  endDate: '2019-11-28T02:30:22.296-0800'
+- value: 16.466000000000008
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T23:10:41.243-0800'
-  endDate: '2019-11-26T23:21:17.707-0800'
-- value: 19.515000000000004
+  startDate: '2019-11-28T02:05:13.318-0800'
+  endDate: '2019-11-28T02:18:13.506-0800'
+- value: 19.610999999999997
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T22:55:07.052-0800'
-  endDate: '2019-11-26T23:10:41.243-0800'
-- value: 19.034999999999997
+  startDate: '2019-11-28T01:49:39.173-0800'
+  endDate: '2019-11-28T02:05:13.318-0800'
+- value: 15.606000000000007
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T22:40:03.778-0800'
-  endDate: '2019-11-26T22:55:07.052-0800'
-- value: 22.427000000000003
+  startDate: '2019-11-28T01:37:20.116-0800'
+  endDate: '2019-11-28T01:49:39.173-0800'
+- value: 18.467000000000002
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T22:24:50.289-0800'
-  endDate: '2019-11-26T22:40:03.778-0800'
-- value: 21.100000000000012
+  startDate: '2019-11-28T01:23:18.356-0800'
+  endDate: '2019-11-28T01:37:20.116-0800'
+- value: 18.668
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T22:09:46.998-0800'
-  endDate: '2019-11-26T22:24:50.289-0800'
-- value: 21.177000000000003
+  startDate: '2019-11-28T01:08:25.191-0800'
+  endDate: '2019-11-28T01:23:18.356-0800'
+- value: 19.003999999999998
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T21:54:43.727-0800'
-  endDate: '2019-11-26T22:09:46.998-0800'
-- value: 19.672000000000015
+  startDate: '2019-11-28T00:53:42.296-0800'
+  endDate: '2019-11-28T01:08:25.191-0800'
+- value: 18.039
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T21:40:52.284-0800'
-  endDate: '2019-11-26T21:54:43.727-0800'
-- value: 18.184000000000005
+  startDate: '2019-11-28T00:39:30.248-0800'
+  endDate: '2019-11-28T00:53:42.296-0800'
+- value: 19.469999999999995
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T21:28:53.769-0800'
-  endDate: '2019-11-26T21:40:52.284-0800'
-- value: 21.00900000000001
+  startDate: '2019-11-28T00:24:06.337-0800'
+  endDate: '2019-11-28T00:39:30.248-0800'
+- value: 17.107
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T21:13:50.512-0800'
-  endDate: '2019-11-26T21:28:53.769-0800'
-- value: 19.085
+  startDate: '2019-11-28T00:10:35.357-0800'
+  endDate: '2019-11-28T00:24:06.337-0800'
+- value: 16.389000000000003
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T20:59:07.726-0800'
-  endDate: '2019-11-26T21:13:50.512-0800'
-- value: 17.747999999999998
+  startDate: '2019-11-27T23:57:35.166-0800'
+  endDate: '2019-11-28T00:10:35.357-0800'
+- value: 18.886999999999997
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T20:46:17.879-0800'
-  endDate: '2019-11-26T20:59:07.726-0800'
-- value: 19.814000000000007
+  startDate: '2019-11-27T23:42:31.842-0800'
+  endDate: '2019-11-27T23:57:35.166-0800'
+- value: 17.169000000000004
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T20:31:14.558-0800'
-  endDate: '2019-11-26T20:46:17.879-0800'
-- value: 21.567999999999987
+  startDate: '2019-11-27T23:28:50.642-0800'
+  endDate: '2019-11-27T23:42:31.842-0800'
+- value: 18.886
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T20:16:11.282-0800'
-  endDate: '2019-11-26T20:31:14.558-0800'
-- value: 20.52500000000001
+  startDate: '2019-11-27T23:13:47.216-0800'
+  endDate: '2019-11-27T23:28:50.642-0800'
+- value: 19.436000000000003
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T20:02:09.617-0800'
-  endDate: '2019-11-26T20:16:11.282-0800'
-- value: 21.721999999999998
+  startDate: '2019-11-27T22:58:43.759-0800'
+  endDate: '2019-11-27T23:13:47.216-0800'
+- value: 17.962999999999997
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T19:47:37.165-0800'
-  endDate: '2019-11-26T20:02:09.617-0800'
-- value: 24.143000000000004
+  startDate: '2019-11-27T22:44:31.621-0800'
+  endDate: '2019-11-27T22:58:43.759-0800'
+- value: 19.091000000000008
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T19:32:44.216-0800'
-  endDate: '2019-11-26T19:47:37.165-0800'
-- value: 19.010000000000005
+  startDate: '2019-11-27T22:29:17.959-0800'
+  endDate: '2019-11-27T22:44:31.621-0800'
+- value: 14.238000000000005
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T19:20:25.168-0800'
-  endDate: '2019-11-26T19:32:44.216-0800'
-- value: 22.91800000000001
+  startDate: '2019-11-27T22:18:00.389-0800'
+  endDate: '2019-11-27T22:29:17.959-0800'
+- value: 19.273000000000003
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T19:05:21.955-0800'
-  endDate: '2019-11-26T19:20:25.168-0800'
-- value: 23.23700000000001
+  startDate: '2019-11-27T22:02:56.930-0800'
+  endDate: '2019-11-27T22:18:00.389-0800'
+- value: 19.5
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T18:50:18.764-0800'
-  endDate: '2019-11-26T19:05:21.955-0800'
-- value: 22.203
+  startDate: '2019-11-27T21:48:24.284-0800'
+  endDate: '2019-11-27T22:02:56.930-0800'
+- value: 16.618000000000002
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T18:35:15.583-0800'
-  endDate: '2019-11-26T18:50:18.764-0800'
-- value: 20.906000000000006
+  startDate: '2019-11-27T21:37:06.738-0800'
+  endDate: '2019-11-27T21:48:24.284-0800'
+- value: 21.427000000000007
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T18:20:02.140-0800'
-  endDate: '2019-11-26T18:35:15.583-0800'
-- value: 21.568000000000005
+  startDate: '2019-11-27T21:22:44.449-0800'
+  endDate: '2019-11-27T21:37:06.738-0800'
+- value: 22.44000000000001
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T18:04:58.989-0800'
-  endDate: '2019-11-26T18:20:02.140-0800'
-- value: 21.721000000000004
+  startDate: '2019-11-27T21:07:41.168-0800'
+  endDate: '2019-11-27T21:22:44.449-0800'
+- value: 24.678000000000008
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T17:49:55.812-0800'
-  endDate: '2019-11-26T18:04:58.989-0800'
-- value: 19.368000000000002
+  startDate: '2019-11-27T20:52:37.860-0800'
+  endDate: '2019-11-27T21:07:41.168-0800'
+- value: 23.565000000000015
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T17:36:45.494-0800'
-  endDate: '2019-11-26T17:49:55.812-0800'
-- value: 19.555000000000003
+  startDate: '2019-11-27T20:37:34.555-0800'
+  endDate: '2019-11-27T20:52:37.860-0800'
+- value: 21.913000000000004
   sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
   sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T17:22:02.776-0800'
-  endDate: '2019-11-26T17:36:45.494-0800'
-- value: 20.060999999999996
-  sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
-  sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T17:06:59.656-0800'
-  endDate: '2019-11-26T17:22:02.776-0800'
-- value: 22.238000000000003
-  sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
-  sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T16:52:06.756-0800'
-  endDate: '2019-11-26T17:06:59.656-0800'
-- value: 21.329000000000004
-  sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
-  sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T16:37:03.529-0800'
-  endDate: '2019-11-26T16:52:06.756-0800'
-- value: 21.196000000000005
-  sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
-  sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T16:22:10.496-0800'
-  endDate: '2019-11-26T16:37:03.529-0800'
-- value: 21.257000000000012
-  sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
-  sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T16:08:49.859-0800'
-  endDate: '2019-11-26T16:22:10.496-0800'
-- value: 18.833000000000016
-  sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
-  sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T15:55:49.771-0800'
-  endDate: '2019-11-26T16:08:49.859-0800'
-- value: 22.519999999999996
-  sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
-  sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T15:40:46.499-0800'
-  endDate: '2019-11-26T15:55:49.771-0800'
-- value: 16.08300000000001
-  sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
-  sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T15:29:39.320-0800'
-  endDate: '2019-11-26T15:40:46.499-0800'
-- value: 21.641
-  sourceId: com.apple.health.F2EBBA6A-8EDD-4543-8457-810042A49643
-  sourceName: "Anand’s Apple\_Watch"
-  startDate: '2019-11-26T15:14:36.068-0800'
-  endDate: '2019-11-26T15:29:39.320-0800'
+  startDate: '2019-11-27T20:22:41.478-0800'
+  endDate: '2019-11-27T20:37:34.555-0800'
