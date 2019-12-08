@@ -1,6 +1,7 @@
 {
-  "city": "Milpitas",
-  "county": "Alameda County",
+  "city": "San Jose",
+  "county": "Santa Clara County",
+  "suburb": "Alviso",
   "state": "California",
   "country": "United States"
 }
