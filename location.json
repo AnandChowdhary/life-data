@@ -1,6 +1,7 @@
 {
-  "city": "Elizabeth",
-  "county": "Union County",
-  "state": "New Jersey",
+  "city": "Boston",
+  "county": "Suffolk County",
+  "suburb": "East Boston",
+  "state": "Massachusetts",
   "country": "United States"
 }
