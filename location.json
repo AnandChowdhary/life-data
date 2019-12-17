@@ -1,6 +1,7 @@
 {
-  "city": "Brookline",
-  "county": "Norfolk County",
+  "city": "Boston",
+  "county": "Suffolk County",
+  "suburb": "Allston",
   "state": "Massachusetts",
   "country": "United States"
 }
