@@ -1,6 +1,7 @@
 {
-  "city": "Cambridge",
-  "county": "Middlesex County",
+  "city": "Boston",
+  "county": "Suffolk County",
+  "suburb": "Beacon Hill",
   "state": "Massachusetts",
   "country": "United States"
 }
