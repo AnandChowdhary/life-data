@@ -1,79 +1,79 @@
-start: '2019-12-14T08:00:00Z'
-end: '2019-12-21T07:59:59Z'
-total: 7385.587898
-totalText: 2 hrs 3 mins
-dailyAverage: 2462
-dailyAverageText: 41 mins
+start: '2019-12-15T08:00:00Z'
+end: '2019-12-22T07:59:59Z'
+total: 11598.88326
+totalText: 3 hrs 13 mins
+dailyAverage: 2900
+dailyAverageText: 48 mins
 days: 7
 languages:
+  - digital: '1:23'
+    hours: 1
+    minutes: 23
+    name: TypeScript
+    percent: 43.02
+    text: 1 hr 23 mins
+    total_seconds: 4989.62508
   - digital: '0:32'
     hours: 0
     minutes: 32
     name: JavaScript
-    percent: 26.13
+    percent: 16.64
     text: 32 mins
     total_seconds: 1930.18176
-  - digital: '0:21'
+  - digital: '0:24'
     hours: 0
-    minutes: 21
+    minutes: 24
     name: JSON
-    percent: 17.52
-    text: 21 mins
-    total_seconds: 1293.718612
-  - digital: '0:17'
+    percent: 12.71
+    text: 24 mins
+    total_seconds: 1474.33995
+  - digital: '0:16'
     hours: 0
-    minutes: 17
-    name: TypeScript
-    percent: 14.05
-    text: 17 mins
-    total_seconds: 1037.432425
-  - digital: '0:15'
-    hours: 0
-    minutes: 15
+    minutes: 16
     name: Markdown
-    percent: 12.45
-    text: 15 mins
-    total_seconds: 919.793261
+    percent: 8.62
+    text: 16 mins
+    total_seconds: 1000.27463
   - digital: '0:13'
     hours: 0
     minutes: 13
     name: Apache Config
-    percent: 11.12
+    percent: 7.08
     text: 13 mins
     total_seconds: 821.07984
   - digital: '0:12'
     hours: 0
     minutes: 12
     name: Other
-    percent: 10.23
+    percent: 6.51
     text: 12 mins
     total_seconds: 755.230526
   - digital: '0:04'
     hours: 0
     minutes: 4
     name: Git Config
-    percent: 3.87
+    percent: 2.47
     text: 4 mins
     total_seconds: 285.981286
   - digital: '0:04'
     hours: 0
     minutes: 4
     name: SCSS
-    percent: 3.5
+    percent: 2.23
     text: 4 mins
     total_seconds: 258.805217
   - digital: '0:00'
     hours: 0
     minutes: 0
     name: YAML
-    percent: 0.66
+    percent: 0.42
     text: 0 secs
     total_seconds: 48.890819
   - digital: '0:00'
     hours: 0
     minutes: 0
     name: HTML
-    percent: 0.47
+    percent: 0.3
     text: 0 secs
     total_seconds: 34.474152
   - digital: '0:00'
