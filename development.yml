@@ -1,78 +1,78 @@
-start: '2019-12-16T08:00:00Z'
-end: '2019-12-23T07:59:59Z'
-total: 13788.141866
-totalText: 3 hrs 49 mins
-dailyAverage: 3447
-dailyAverageText: 57 mins
+start: null
+end: null
+total: 15101.628831
+totalText: 4 hrs 11 mins
+dailyAverage: 3020
+dailyAverageText: 50 mins
 days: 7
 languages:
-  - digital: '1:54'
-    hours: 1
-    minutes: 54
+  - digital: '2:08'
+    hours: 2
+    minutes: 8
     name: TypeScript
-    percent: 49.97
-    text: 1 hr 54 mins
-    total_seconds: 6890.136208
+    percent: 51.07
+    text: 2 hrs 8 mins
+    total_seconds: 7712.911364
   - digital: '0:32'
     hours: 0
     minutes: 32
     name: JavaScript
-    percent: 14
+    percent: 12.78
     text: 32 mins
     total_seconds: 1930.18176
   - digital: '0:29'
     hours: 0
     minutes: 29
     name: JSON
-    percent: 12.79
+    percent: 11.86
     text: 29 mins
-    total_seconds: 1763.087428
-  - digital: '0:16'
+    total_seconds: 1790.400153
+  - digital: '0:24'
     hours: 0
-    minutes: 16
+    minutes: 24
     name: Markdown
-    percent: 7.25
-    text: 16 mins
-    total_seconds: 1000.27463
+    percent: 9.68
+    text: 24 mins
+    total_seconds: 1462.467105
   - digital: '0:13'
     hours: 0
     minutes: 13
     name: Apache Config
-    percent: 5.95
+    percent: 5.44
     text: 13 mins
     total_seconds: 821.07984
   - digital: '0:12'
     hours: 0
     minutes: 12
     name: Other
-    percent: 5.48
+    percent: 5
     text: 12 mins
     total_seconds: 755.230526
   - digital: '0:04'
     hours: 0
     minutes: 4
     name: Git Config
-    percent: 2.07
+    percent: 1.89
     text: 4 mins
     total_seconds: 285.981286
   - digital: '0:04'
     hours: 0
     minutes: 4
     name: SCSS
-    percent: 1.88
+    percent: 1.71
     text: 4 mins
     total_seconds: 258.805217
   - digital: '0:00'
     hours: 0
     minutes: 0
     name: YAML
-    percent: 0.35
+    percent: 0.33
     text: 0 secs
-    total_seconds: 48.890819
+    total_seconds: 50.097428
   - digital: '0:00'
     hours: 0
     minutes: 0
     name: HTML
-    percent: 0.25
+    percent: 0.23
     text: 0 secs
     total_seconds: 34.474152
