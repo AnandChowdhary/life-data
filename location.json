@@ -1,6 +1,7 @@
 {
-  "city": "Englewood",
-  "county": "Bergen County",
-  "state": "New Jersey",
+  "city": "New York",
+  "county": "New York County",
+  "suburb": "Manhattan",
+  "state": "New York",
   "country": "United States"
 }
