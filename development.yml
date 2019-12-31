@@ -1,65 +1,65 @@
-start: '2019-12-22T08:00:00Z'
-end: '2019-12-29T07:59:59Z'
-total: 31870.532333
-totalText: 8 hrs 51 mins
-dailyAverage: 4553
-dailyAverageText: 1 hr 15 mins
+start: '2019-12-23T08:00:00Z'
+end: '2019-12-30T07:59:59Z'
+total: 29674.463143
+totalText: 8 hrs 14 mins
+dailyAverage: 4946
+dailyAverageText: 1 hr 22 mins
 days: 7
 languages:
   - digital: '2:13'
     hours: 2
     minutes: 13
     name: SCSS
-    percent: 25.13
+    percent: 26.98
     text: 2 hrs 13 mins
     total_seconds: 8007.644843
-  - digital: '2:01'
-    hours: 2
-    minutes: 1
-    name: TypeScript
-    percent: 22.95
-    text: 2 hrs 1 min
-    total_seconds: 7313.420153
   - digital: '1:59'
     hours: 1
     minutes: 59
     name: Other
-    percent: 22.48
+    percent: 24.14
     text: 1 hr 59 mins
     total_seconds: 7163.208562
   - digital: '1:48'
     hours: 1
     minutes: 48
     name: Markdown
-    percent: 20.51
+    percent: 22.02
     text: 1 hr 48 mins
     total_seconds: 6535.532436
-  - digital: '0:23'
+  - digital: '1:30'
+    hours: 1
+    minutes: 30
+    name: TypeScript
+    percent: 18.24
+    text: 1 hr 30 mins
+    total_seconds: 5412.909025
+  - digital: '0:18'
     hours: 0
-    minutes: 23
+    minutes: 18
     name: JSON
-    percent: 4.38
-    text: 23 mins
-    total_seconds: 1396.448984
+    percent: 3.71
+    text: 18 mins
+    total_seconds: 1100.890922
   - digital: '0:17'
     hours: 0
     minutes: 17
     name: JavaScript
-    percent: 3.31
+    percent: 3.56
     text: 17 mins
     total_seconds: 1055.407906
   - digital: '0:05'
     hours: 0
     minutes: 5
     name: Vue.js
-    percent: 0.95
+    percent: 1.02
     text: 5 mins
     total_seconds: 302.732599
   - digital: '0:01'
     hours: 0
     minutes: 1
     name: YAML
-    percent: 0.28
+    percent: 0.3
     text: 1 min
     total_seconds: 89.146888
   - digital: '0:00'
@@ -73,6 +73,6 @@ languages:
     hours: 0
     minutes: 0
     name: HTML
-    percent: 0
+    percent: 0.01
     text: 0 secs
     total_seconds: 1.499236
