@@ -1,7 +1,5 @@
 name: Import Instagram highlights
-on:
-  schedule:
-    - cron:  "0 17 * * *"
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
