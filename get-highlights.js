@@ -15,12 +15,12 @@ const trim = (s, mask) => {
 }
 
 (async () => {
-  await mkdirp(join(__dirname, "..", "highlights"));
+  await mkdirp(join(__dirname, "highlights"));
   const highlights = await readJson(join(__dirname, "instagram-highlights.json"));
   for await (const highlightKey of Object.keys(highlights)) {
     const highlight = highlights[highlightKey];
     const slug = trim(highlight.meta.title.toLowerCase().replace(/ /g, "-").replace(/[^\w-]+/g, ""), "-");
-    const directory = join(__dirname, "..", "highlights", slug);
+    const directory = join(__dirname, "highlights", slug);
     await mkdirp(directory);
     console.log("Downloading", highlight.meta.cover);
     const file = await download(highlight.meta.cover);
