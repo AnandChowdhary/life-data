@@ -20,7 +20,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add . && commit -m "🌇 Update Instagram highlights"
+        git add . && git commit -m "🌇 Update Instagram highlights"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
