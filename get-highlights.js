@@ -1,6 +1,5 @@
-const { mkdirp, writeFile } = require("fs-extra");
+const { mkdirp, writeFile, readJson } = require("fs-extra");
 const { join } = require("path");
-const axios = require("axios");
 const download = require("download");
 
 const wait = time => new Promise(resolve => {
@@ -16,14 +15,12 @@ const trim = (s, mask) => {
 }
 
 (async () => {
-  await mkdirp(join(__dirname, "..", "public", "images", "highlights"));
-  const highlights = (await axios.get("https://raw.githubusercontent.com/AnandChowdhary/life-data/master/instagram-highlights.json")).data;
-  const highlightsJson = await download("https://raw.githubusercontent.com/AnandChowdhary/life-data/master/instagram-highlights.json");
-  await writeFile(join(__dirname, "..", "content", "_data", "highlights.json"), highlightsJson);
+  await mkdirp(join(__dirname, "..", "highlights"));
+  const highlights = await readJson(join(__dirname, "instagram-highlights.json"));
   for await (const highlightKey of Object.keys(highlights)) {
     const highlight = highlights[highlightKey];
     const slug = trim(highlight.meta.title.toLowerCase().replace(/ /g, "-").replace(/[^\w-]+/g, ""), "-");
-    const directory = join(__dirname, "..", "public", "images", "highlights", slug);
+    const directory = join(__dirname, "..", "highlights", slug);
     await mkdirp(directory);
     console.log("Downloading", highlight.meta.cover);
     const file = await download(highlight.meta.cover);

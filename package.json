@@ -5,5 +5,9 @@
   "author": "Anand Chowdhary <mail@anandchowdhary.com>",
   "scripts": {
     "get-stories": "node get-highlights.js"
+  },
+  "dependencies": {
+    "download": "^7.1.0",
+    "fs-extra": "^8.1.0"
   }
 }
