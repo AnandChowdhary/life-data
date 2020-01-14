@@ -1,0 +1,9 @@
+{
+  "name": "life-data",
+  "version": "1.0.0",
+  "repository": "git@github.com:AnandChowdhary/life-data.git",
+  "author": "Anand Chowdhary <mail@anandchowdhary.com>",
+  "scripts": {
+    "get-stories": "node get-highlights.js"
+  }
+}
