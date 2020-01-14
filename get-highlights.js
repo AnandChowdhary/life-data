@@ -10,6 +10,10 @@ const trim = (s, mask) => {
   return s;
 }
 
+const wait = ms => new Promise((resolve) => {
+  setTimeout(() => resolve(), ms);
+});
+
 (async () => {
   await mkdirp(join(__dirname, "highlights"));
   const highlights = await readJson(join(__dirname, "instagram-highlights.json"));
@@ -18,13 +22,13 @@ const trim = (s, mask) => {
     const slug = trim(highlight.meta.title.toLowerCase().replace(/ /g, "-").replace(/[^\w-]+/g, ""), "-");
     const directory = join(__dirname, "highlights", slug);
     await mkdirp(directory);
-    console.log("Downloading", highlight.meta.cover);
+    console.log(`Downloading files for ${slug}`);
     const file = await download(highlight.meta.cover);
     await writeFile(join(directory, "cover.jpg"), file);
-    for await (const image of highlight.data) {
-      console.log("Downloading", image.images[0].url);
-      const img = await download(image.images[0].url);
-      await writeFile(join(directory, `${image.id}.jpg`), img);
-    }
+    highlight.data.forEach(image => {
+      download(image.images[0].url)
+        .then(img => writeFile(join(directory, `${image.id}.jpg`), img));
+    });
+    await wait(1000);
   }
 })();
