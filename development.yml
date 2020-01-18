@@ -1,92 +1,92 @@
-start: '2020-01-10T08:00:00Z'
-end: '2020-01-17T07:59:59Z'
-total: 96083.654147
-totalText: 26 hrs 41 mins
-dailyAverage: 13726
-dailyAverageText: 3 hrs 48 mins
+start: '2020-01-11T08:00:00Z'
+end: '2020-01-18T07:59:59Z'
+total: 97141.652079
+totalText: 26 hrs 59 mins
+dailyAverage: 13877
+dailyAverageText: 3 hrs 51 mins
 days: 7
 languages:
-  - digital: '7:09'
-    hours: 7
-    minutes: 9
-    name: JavaScript
-    percent: 26.82
-    text: 7 hrs 9 mins
-    total_seconds: 25768.86549
-  - digital: '5:07'
-    hours: 5
-    minutes: 7
-    name: Vue.js
-    percent: 19.22
-    text: 5 hrs 7 mins
-    total_seconds: 18466.590036
-  - digital: '3:45'
-    hours: 3
-    minutes: 45
-    name: TypeScript
-    percent: 14.08
-    text: 3 hrs 45 mins
-    total_seconds: 13533.339511
-  - digital: '3:27'
-    hours: 3
-    minutes: 27
-    name: SCSS
-    percent: 12.95
-    text: 3 hrs 27 mins
-    total_seconds: 12441.177005
-  - digital: '2:43'
-    hours: 2
+  - digital: '8:43'
+    hours: 8
     minutes: 43
-    name: Other
-    percent: 10.22
-    text: 2 hrs 43 mins
-    total_seconds: 9819.650579
-  - digital: '2:26'
+    name: JavaScript
+    percent: 32.31
+    text: 8 hrs 43 mins
+    total_seconds: 31385.93076
+  - digital: '3:58'
+    hours: 3
+    minutes: 58
+    name: SCSS
+    percent: 14.74
+    text: 3 hrs 58 mins
+    total_seconds: 14314.741942
+  - digital: '3:30'
+    hours: 3
+    minutes: 30
+    name: TypeScript
+    percent: 13.03
+    text: 3 hrs 30 mins
+    total_seconds: 12658.301336
+  - digital: '2:54'
     hours: 2
-    minutes: 26
+    minutes: 54
     name: Markdown
-    percent: 9.13
-    text: 2 hrs 26 mins
-    total_seconds: 8767.702802
-  - digital: '1:20'
+    percent: 10.77
+    text: 2 hrs 54 mins
+    total_seconds: 10464.872269
+  - digital: '2:53'
+    hours: 2
+    minutes: 53
+    name: Vue.js
+    percent: 10.75
+    text: 2 hrs 53 mins
+    total_seconds: 10439.581012
+  - digital: '2:51'
+    hours: 2
+    minutes: 51
+    name: Other
+    percent: 10.61
+    text: 2 hrs 51 mins
+    total_seconds: 10309.325433
+  - digital: '1:32'
     hours: 1
-    minutes: 20
+    minutes: 32
     name: JSON
-    percent: 5.01
-    text: 1 hr 20 mins
-    total_seconds: 4811.79632
-  - digital: '0:12'
+    percent: 5.69
+    text: 1 hr 32 mins
+    total_seconds: 5523.15098
+  - digital: '0:16'
     hours: 0
-    minutes: 12
+    minutes: 16
     name: Text
-    percent: 0.78
-    text: 12 mins
-    total_seconds: 749.475799
-  - digital: '0:09'
-    hours: 0
-    minutes: 9
-    name: HTML
-    percent: 0.6
-    text: 9 mins
-    total_seconds: 573.3366
+    percent: 1.04
+    text: 16 mins
+    total_seconds: 1010.237171
   - digital: '0:08'
     hours: 0
     minutes: 8
     name: Git Config
-    percent: 0.52
-    text: 8 mins
-    total_seconds: 498.293565
-  - digital: '0:08'
-    hours: 0
-    minutes: 8
-    name: YAML
     percent: 0.51
     text: 8 mins
-    total_seconds: 494.506429
+    total_seconds: 498.293565
+  - digital: '0:03'
+    hours: 0
+    minutes: 3
+    name: YAML
+    percent: 0.25
+    text: 3 mins
+    total_seconds: 239.002162
   - digital: '0:02'
     hours: 0
     minutes: 2
     name: XML
-    percent: 0.17
+    percent: 0.16
     text: 2 mins
     total_seconds: 158.920011
+  - digital: '0:02'
+    hours: 0
+    minutes: 2
+    name: HTML
+    percent: 0.14
+    text: 2 mins
+    total_seconds: 139.295438
