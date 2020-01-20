@@ -3,7 +3,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j'
     followers:
       href: null
-      total: 5425791
+      total: 5456136
     genres:
       - canadian pop
       - candy pop
@@ -30,7 +30,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'
     followers:
       href: null
-      total: 18818996
+      total: 19192883
     genres:
       - electropop
       - pop
@@ -54,7 +54,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'
     followers:
       href: null
-      total: 40918939
+      total: 41221123
     genres:
       - dance pop
       - pop
@@ -79,7 +79,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa'
     followers:
       href: null
-      total: 9711382
+      total: 9762710
     genres:
       - art pop
       - pop
@@ -103,7 +103,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'
     followers:
       href: null
-      total: 25822338
+      total: 25999477
     genres:
       - dance pop
       - pop
@@ -128,7 +128,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms'
     followers:
       href: null
-      total: 10174612
+      total: 10226946
     genres:
       - dance pop
       - pop
@@ -152,7 +152,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q'
     followers:
       href: null
-      total: 24596071
+      total: 24758009
     genres:
       - modern rock
       - rock
@@ -176,7 +176,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF'
     followers:
       href: null
-      total: 14227359
+      total: 14366695
     genres:
       - dance pop
       - pop
@@ -198,10 +198,36 @@ longTermArtists:
     type: artist
     uri: 'spotify:artist:4nDoRrQiYLoBzwC5BhVJzF'
   - external_urls:
+      spotify: 'https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m'
+    followers:
+      href: null
+      total: 2503375
+    genres:
+      - dance pop
+      - electropop
+      - pop
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m'
+    id: 0ZED1XzwlLHW4ZaG4lOT6m
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/4a629c160228c0bd5295b064437b01a078aef157'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/c825f8efc145c7621637c474fe40c2864ed21ab8'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/8002d98c34d293433d75cd8bd4c1ade2ad754a95'
+        width: 160
+    name: Julia Michaels
+    popularity: 87
+    type: artist
+    uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
+  - external_urls:
       spotify: 'https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V'
     followers:
       href: null
-      total: 5673834
+      total: 5688967
     genres:
       - celtic rock
       - neo mellow
@@ -226,36 +252,10 @@ longTermArtists:
     type: artist
     uri: 'spotify:artist:3AQRLZ9PuTAozP28Skbq8V'
   - external_urls:
-      spotify: 'https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m'
-    followers:
-      href: null
-      total: 2482830
-    genres:
-      - dance pop
-      - electropop
-      - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m'
-    id: 0ZED1XzwlLHW4ZaG4lOT6m
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/4a629c160228c0bd5295b064437b01a078aef157'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/c825f8efc145c7621637c474fe40c2864ed21ab8'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/8002d98c34d293433d75cd8bd4c1ade2ad754a95'
-        width: 160
-    name: Julia Michaels
-    popularity: 87
-    type: artist
-    uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
-  - external_urls:
       spotify: 'https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV'
     followers:
       href: null
-      total: 55943
+      total: 56265
     genres:
       - viral pop
     href: 'https://api.spotify.com/v1/artists/39S7Y72G0tdDPy2INGFicV'
@@ -271,14 +271,14 @@ longTermArtists:
         url: 'https://i.scdn.co/image/ecd1d09bbfe37fcef870543b2af73d74680dd957'
         width: 160
     name: Sara Farell
-    popularity: 67
+    popularity: 66
     type: artist
     uri: 'spotify:artist:39S7Y72G0tdDPy2INGFicV'
   - external_urls:
       spotify: 'https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR'
     followers:
       href: null
-      total: 6583343
+      total: 6615762
     genres:
       - canadian contemporary r&b
       - canadian pop
@@ -302,33 +302,10 @@ longTermArtists:
     type: artist
     uri: 'spotify:artist:2wUjUUtkb5lvLKcGKsKqsR'
   - external_urls:
-      spotify: 'https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'
-    followers:
-      href: null
-      total: 2135753
-    genres:
-      - pop
-    href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
-    id: 5JZ7CnR6gTvEMKX4g70Amv
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/d763de4ee1f230d55719b5fcccd76984fcc2d290'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/0bc167ec9a5f07b22a30e61a156d35397923a3ff'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/712454ec150afd9d3e788858e3c970e157f6e535'
-        width: 160
-    name: Lauv
-    popularity: 91
-    type: artist
-    uri: 'spotify:artist:5JZ7CnR6gTvEMKX4g70Amv'
-  - external_urls:
       spotify: 'https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B'
     followers:
       href: null
-      total: 2523991
+      total: 2534100
     genres:
       - dance pop
       - pop
@@ -351,10 +328,33 @@ longTermArtists:
     type: artist
     uri: 'spotify:artist:74KM79TiuVKeVCqs8QtB0B'
   - external_urls:
+      spotify: 'https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'
+    followers:
+      href: null
+      total: 2167604
+    genres:
+      - pop
+    href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
+    id: 5JZ7CnR6gTvEMKX4g70Amv
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/d763de4ee1f230d55719b5fcccd76984fcc2d290'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/0bc167ec9a5f07b22a30e61a156d35397923a3ff'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/712454ec150afd9d3e788858e3c970e157f6e535'
+        width: 160
+    name: Lauv
+    popularity: 91
+    type: artist
+    uri: 'spotify:artist:5JZ7CnR6gTvEMKX4g70Amv'
+  - external_urls:
       spotify: 'https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV'
     followers:
       href: null
-      total: 3586623
+      total: 3621630
     genres:
       - europop
       - swedish pop
@@ -378,7 +378,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP'
     followers:
       href: null
-      total: 4133196
+      total: 4154609
     genres:
       - australian pop
       - dance pop
@@ -406,7 +406,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM'
     followers:
       href: null
-      total: 1330502
+      total: 1335038
     genres:
       - acoustic pop
       - lilith
@@ -433,7 +433,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG'
     followers:
       href: null
-      total: 130378
+      total: 131005
     genres:
       - hollywood
     href: 'https://api.spotify.com/v1/artists/4VIvfOurcf0vuLRxLkGnIG'
@@ -456,7 +456,7 @@ longTermArtists:
       spotify: 'https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'
     followers:
       href: null
-      total: 23125999
+      total: 23329290
     genres:
       - canadian pop
       - pop
@@ -475,16 +475,17 @@ longTermArtists:
         url: 'https://i.scdn.co/image/4ff072e64ddd4098ec1f089fb80839b396a19505'
         width: 160
     name: Shawn Mendes
-    popularity: 94
+    popularity: 93
     type: artist
     uri: 'spotify:artist:7n2wHs1TKAczGzO7Dd2rGr'
   - external_urls:
       spotify: 'https://open.spotify.com/artist/2HB65P72dFRiOKvbLLcil2'
     followers:
       href: null
-      total: 52607
+      total: 52782
     genres:
       - hollywood
+      - movie tunes
     href: 'https://api.spotify.com/v1/artists/2HB65P72dFRiOKvbLLcil2'
     id: 2HB65P72dFRiOKvbLLcil2
     images:
@@ -509,7 +510,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'
     followers:
       href: null
-      total: 25822338
+      total: 25999477
     genres:
       - dance pop
       - pop
@@ -534,7 +535,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa'
     followers:
       href: null
-      total: 9711382
+      total: 9762710
     genres:
       - art pop
       - pop
@@ -558,7 +559,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'
     followers:
       href: null
-      total: 40918939
+      total: 41221123
     genres:
       - dance pop
       - pop
@@ -583,7 +584,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'
     followers:
       href: null
-      total: 18818996
+      total: 19192883
     genres:
       - electropop
       - pop
@@ -607,7 +608,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j'
     followers:
       href: null
-      total: 5425791
+      total: 5456136
     genres:
       - canadian pop
       - candy pop
@@ -634,7 +635,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF'
     followers:
       href: null
-      total: 14227359
+      total: 14366695
     genres:
       - dance pop
       - pop
@@ -656,59 +657,10 @@ mediumTermArtists:
     type: artist
     uri: 'spotify:artist:4nDoRrQiYLoBzwC5BhVJzF'
   - external_urls:
-      spotify: 'https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'
-    followers:
-      href: null
-      total: 2135753
-    genres:
-      - pop
-    href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
-    id: 5JZ7CnR6gTvEMKX4g70Amv
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/d763de4ee1f230d55719b5fcccd76984fcc2d290'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/0bc167ec9a5f07b22a30e61a156d35397923a3ff'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/712454ec150afd9d3e788858e3c970e157f6e535'
-        width: 160
-    name: Lauv
-    popularity: 91
-    type: artist
-    uri: 'spotify:artist:5JZ7CnR6gTvEMKX4g70Amv'
-  - external_urls:
-      spotify: 'https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B'
-    followers:
-      href: null
-      total: 2523991
-    genres:
-      - dance pop
-      - pop
-      - post-teen pop
-      - viral pop
-    href: 'https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B'
-    id: 74KM79TiuVKeVCqs8QtB0B
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/7d8ddc9a374fb2f822b21fee87e63944828115e8'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/fbd1afe92eb3524fa411a160ae45a04da5c36f26'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/de8c10bc728cc184df109ce75f446b7d56b03aa7'
-        width: 160
-    name: Sabrina Carpenter
-    popularity: 79
-    type: artist
-    uri: 'spotify:artist:74KM79TiuVKeVCqs8QtB0B'
-  - external_urls:
       spotify: 'https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m'
     followers:
       href: null
-      total: 2482830
+      total: 2503375
     genres:
       - dance pop
       - electropop
@@ -731,10 +683,59 @@ mediumTermArtists:
     type: artist
     uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
   - external_urls:
+      spotify: 'https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'
+    followers:
+      href: null
+      total: 2167604
+    genres:
+      - pop
+    href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
+    id: 5JZ7CnR6gTvEMKX4g70Amv
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/d763de4ee1f230d55719b5fcccd76984fcc2d290'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/0bc167ec9a5f07b22a30e61a156d35397923a3ff'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/712454ec150afd9d3e788858e3c970e157f6e535'
+        width: 160
+    name: Lauv
+    popularity: 91
+    type: artist
+    uri: 'spotify:artist:5JZ7CnR6gTvEMKX4g70Amv'
+  - external_urls:
+      spotify: 'https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B'
+    followers:
+      href: null
+      total: 2534100
+    genres:
+      - dance pop
+      - pop
+      - post-teen pop
+      - viral pop
+    href: 'https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B'
+    id: 74KM79TiuVKeVCqs8QtB0B
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/7d8ddc9a374fb2f822b21fee87e63944828115e8'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/fbd1afe92eb3524fa411a160ae45a04da5c36f26'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/de8c10bc728cc184df109ce75f446b7d56b03aa7'
+        width: 160
+    name: Sabrina Carpenter
+    popularity: 79
+    type: artist
+    uri: 'spotify:artist:74KM79TiuVKeVCqs8QtB0B'
+  - external_urls:
       spotify: 'https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR'
     followers:
       href: null
-      total: 6583343
+      total: 6615762
     genres:
       - canadian contemporary r&b
       - canadian pop
@@ -761,7 +762,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp'
     followers:
       href: null
-      total: 880069
+      total: 887452
     genres:
       - dance pop
       - electropop
@@ -784,10 +785,35 @@ mediumTermArtists:
     type: artist
     uri: 'spotify:artist:1QRj3hoop9Mv5VvHQkwPEp'
   - external_urls:
+      spotify: 'https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx'
+    followers:
+      href: null
+      total: 19000009
+    genres:
+      - dance pop
+      - pop
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx'
+    id: 0C8ZW7ezQVs4URX5aX7Kqx
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/dc6dd5ccdccee8c947b41af13e3b60ce0a235708'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/640ac8d170be843477ac25a372344683d0449057'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/4741fad16d2ef0331bd139c7786c19233e6cfd79'
+        width: 160
+    name: Selena Gomez
+    popularity: 95
+    type: artist
+    uri: 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'
+  - external_urls:
       spotify: 'https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms'
     followers:
       href: null
-      total: 10174612
+      total: 10226946
     genres:
       - dance pop
       - pop
@@ -811,7 +837,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV'
     followers:
       href: null
-      total: 55943
+      total: 56265
     genres:
       - viral pop
     href: 'https://api.spotify.com/v1/artists/39S7Y72G0tdDPy2INGFicV'
@@ -827,63 +853,14 @@ mediumTermArtists:
         url: 'https://i.scdn.co/image/ecd1d09bbfe37fcef870543b2af73d74680dd957'
         width: 160
     name: Sara Farell
-    popularity: 67
+    popularity: 66
     type: artist
     uri: 'spotify:artist:39S7Y72G0tdDPy2INGFicV'
-  - external_urls:
-      spotify: 'https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx'
-    followers:
-      href: null
-      total: 18863355
-    genres:
-      - dance pop
-      - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx'
-    id: 0C8ZW7ezQVs4URX5aX7Kqx
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/dc6dd5ccdccee8c947b41af13e3b60ce0a235708'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/640ac8d170be843477ac25a372344683d0449057'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/4741fad16d2ef0331bd139c7786c19233e6cfd79'
-        width: 160
-    name: Selena Gomez
-    popularity: 93
-    type: artist
-    uri: 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'
-  - external_urls:
-      spotify: 'https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q'
-    followers:
-      href: null
-      total: 24596071
-    genres:
-      - modern rock
-      - rock
-    href: 'https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q'
-    id: 53XhwfbYqKCa1cC15pYq2q
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/01b36ca0f45f2f15117022a2754287a6ca1acdcc'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/ff8d83627cb2a80d4c1fa36fd80a193ca34b7a50'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/1cdf5ce3cf329ae433bfa76e88dadeb06653fda9'
-        width: 160
-    name: Imagine Dragons
-    popularity: 92
-    type: artist
-    uri: 'spotify:artist:53XhwfbYqKCa1cC15pYq2q'
   - external_urls:
       spotify: 'https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q'
     followers:
       href: null
-      total: 1502289
+      total: 1513921
     genres:
       - dance pop
       - electropop
@@ -906,10 +883,64 @@ mediumTermArtists:
     type: artist
     uri: 'spotify:artist:2kRfqPViCqYdSGhYSM9R0Q'
   - external_urls:
+      spotify: 'https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q'
+    followers:
+      href: null
+      total: 24758009
+    genres:
+      - modern rock
+      - rock
+    href: 'https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q'
+    id: 53XhwfbYqKCa1cC15pYq2q
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/01b36ca0f45f2f15117022a2754287a6ca1acdcc'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/ff8d83627cb2a80d4c1fa36fd80a193ca34b7a50'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/1cdf5ce3cf329ae433bfa76e88dadeb06653fda9'
+        width: 160
+    name: Imagine Dragons
+    popularity: 92
+    type: artist
+    uri: 'spotify:artist:53XhwfbYqKCa1cC15pYq2q'
+  - external_urls:
+      spotify: 'https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK'
+    followers:
+      href: null
+      total: 2283091
+    genres:
+      - dance pop
+      - electropop
+      - metropopolis
+      - pop
+      - post-teen pop
+      - swedish electropop
+      - swedish pop
+      - swedish synthpop
+    href: 'https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK'
+    id: 4NHQUGzhtTLFvgF5SZesLK
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/d478a4f9c29d18d3a715426c04c9e742a0fa2efd'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/bd34a391246211c41c73f70754cb098d1877a0de'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/1082b97aee4f276b5dbf823281396c7603a61306'
+        width: 160
+    name: Tove Lo
+    popularity: 81
+    type: artist
+    uri: 'spotify:artist:4NHQUGzhtTLFvgF5SZesLK'
+  - external_urls:
       spotify: 'https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1'
     followers:
       href: null
-      total: 750851
+      total: 757011
     genres:
       - boy band
       - dance pop
@@ -935,7 +966,7 @@ mediumTermArtists:
       spotify: 'https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'
     followers:
       href: null
-      total: 23125999
+      total: 23329290
     genres:
       - canadian pop
       - pop
@@ -954,14 +985,14 @@ mediumTermArtists:
         url: 'https://i.scdn.co/image/4ff072e64ddd4098ec1f089fb80839b396a19505'
         width: 160
     name: Shawn Mendes
-    popularity: 94
+    popularity: 93
     type: artist
     uri: 'spotify:artist:7n2wHs1TKAczGzO7Dd2rGr'
   - external_urls:
       spotify: 'https://open.spotify.com/artist/43G7qlx7v7OGJJrUTXIqLq'
     followers:
       href: null
-      total: 53520
+      total: 54122
     genres:
       - electropop
       - indie electropop
@@ -978,40 +1009,15 @@ mediumTermArtists:
         url: 'https://i.scdn.co/image/5fb3ec0ad4195555b4f4f0369de0eb386d21d34c'
         width: 160
     name: Ivy Adara
-    popularity: 61
+    popularity: 60
     type: artist
     uri: 'spotify:artist:43G7qlx7v7OGJJrUTXIqLq'
-  - external_urls:
-      spotify: 'https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F'
-    followers:
-      href: null
-      total: 5188446
-    genres:
-      - dance pop
-      - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/5p7f24Rk5HkUZsaS3BLG5F'
-    id: 5p7f24Rk5HkUZsaS3BLG5F
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/1fe03485d11ecce6a26a6f1c85ef4f5186fb992f'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/36e34e31215ebacb6f26a477d4cfd011ecbe9ec7'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/bcce358a078d674eb3825584f5baac1c9b3b323c'
-        width: 160
-    name: Hailee Steinfeld
-    popularity: 82
-    type: artist
-    uri: 'spotify:artist:5p7f24Rk5HkUZsaS3BLG5F'
 shortTermArtists:
   - external_urls:
       spotify: 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'
     followers:
       href: null
-      total: 25822338
+      total: 25999477
     genres:
       - dance pop
       - pop
@@ -1036,7 +1042,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'
     followers:
       href: null
-      total: 40918939
+      total: 41221123
     genres:
       - dance pop
       - pop
@@ -1061,7 +1067,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'
     followers:
       href: null
-      total: 18818996
+      total: 19192883
     genres:
       - electropop
       - pop
@@ -1085,7 +1091,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF'
     followers:
       href: null
-      total: 14227359
+      total: 14366695
     genres:
       - dance pop
       - pop
@@ -1110,12 +1116,14 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4'
     followers:
       href: null
-      total: 167733
+      total: 170545
     genres:
       - electropop
+      - indie electropop
       - indie poptimism
       - indietronica
       - pop
+      - post-teen pop
       - social media pop
     href: 'https://api.spotify.com/v1/artists/5vBrKGOjN10BMwB0cJADj4'
     id: 5vBrKGOjN10BMwB0cJADj4
@@ -1134,33 +1142,36 @@ shortTermArtists:
     type: artist
     uri: 'spotify:artist:5vBrKGOjN10BMwB0cJADj4'
   - external_urls:
-      spotify: 'https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'
+      spotify: 'https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m'
     followers:
       href: null
-      total: 2135753
+      total: 2503375
     genres:
+      - dance pop
+      - electropop
       - pop
-    href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
-    id: 5JZ7CnR6gTvEMKX4g70Amv
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m'
+    id: 0ZED1XzwlLHW4ZaG4lOT6m
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/d763de4ee1f230d55719b5fcccd76984fcc2d290'
+        url: 'https://i.scdn.co/image/4a629c160228c0bd5295b064437b01a078aef157'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/0bc167ec9a5f07b22a30e61a156d35397923a3ff'
+        url: 'https://i.scdn.co/image/c825f8efc145c7621637c474fe40c2864ed21ab8'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/712454ec150afd9d3e788858e3c970e157f6e535'
+        url: 'https://i.scdn.co/image/8002d98c34d293433d75cd8bd4c1ade2ad754a95'
         width: 160
-    name: Lauv
-    popularity: 91
+    name: Julia Michaels
+    popularity: 87
     type: artist
-    uri: 'spotify:artist:5JZ7CnR6gTvEMKX4g70Amv'
+    uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
   - external_urls:
       spotify: 'https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q'
     followers:
       href: null
-      total: 1502289
+      total: 1513921
     genres:
       - dance pop
       - electropop
@@ -1186,7 +1197,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR'
     followers:
       href: null
-      total: 6583343
+      total: 6615762
     genres:
       - canadian contemporary r&b
       - canadian pop
@@ -1213,7 +1224,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B'
     followers:
       href: null
-      total: 2523991
+      total: 2534100
     genres:
       - dance pop
       - pop
@@ -1236,61 +1247,10 @@ shortTermArtists:
     type: artist
     uri: 'spotify:artist:74KM79TiuVKeVCqs8QtB0B'
   - external_urls:
-      spotify: 'https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW'
-    followers:
-      href: null
-      total: 504472
-    genres:
-      - dance pop
-      - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/55fhWPvDiMpLnE4ZzNXZyW'
-    id: 55fhWPvDiMpLnE4ZzNXZyW
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/e4ea4673ee73cce91d105bacb434892c9a5d6f61'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/58818b210c4968a435b5bcc139284ac7d6968c80'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/24ceeee4cf78ae943e65697cbd238217735ecc99'
-        width: 160
-    name: Noah Cyrus
-    popularity: 82
-    type: artist
-    uri: 'spotify:artist:55fhWPvDiMpLnE4ZzNXZyW'
-  - external_urls:
-      spotify: 'https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'
-    followers:
-      href: null
-      total: 23125999
-    genres:
-      - canadian pop
-      - pop
-      - post-teen pop
-      - viral pop
-    href: 'https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr'
-    id: 7n2wHs1TKAczGzO7Dd2rGr
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/6bd59cfbd3e1e6394af710bddcd62999aae31c6f'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/3e0c03d2ef76a80913734e90cf466f9e1478e88c'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/4ff072e64ddd4098ec1f089fb80839b396a19505'
-        width: 160
-    name: Shawn Mendes
-    popularity: 94
-    type: artist
-    uri: 'spotify:artist:7n2wHs1TKAczGzO7Dd2rGr'
-  - external_urls:
       spotify: 'https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot'
     followers:
       href: null
-      total: 159001
+      total: 161147
     genres:
       - canadian pop
       - dance pop
@@ -1314,118 +1274,191 @@ shortTermArtists:
     type: artist
     uri: 'spotify:artist:1cZQSpDsxgKIX2yW5OR9Ot'
   - external_urls:
-      spotify: 'https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2'
+      spotify: 'https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'
     followers:
       href: null
-      total: 9050271
+      total: 2167604
     genres:
-      - dance pop
-      - electropop
-      - etherpop
-      - indie poptimism
       - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2'
-    id: 26VFTg2z8YR0cCuwLzESi2
+    href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
+    id: 5JZ7CnR6gTvEMKX4g70Amv
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/1ccc88afcd13131dc35a1bd028922dbc748a55fb'
+        url: 'https://i.scdn.co/image/d763de4ee1f230d55719b5fcccd76984fcc2d290'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/8b56979f115e855301c33828bcad2c57280adbab'
+        url: 'https://i.scdn.co/image/0bc167ec9a5f07b22a30e61a156d35397923a3ff'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/ac0a244c45f25b7d177bbe629c30565fe0768f14'
+        url: 'https://i.scdn.co/image/712454ec150afd9d3e788858e3c970e157f6e535'
         width: 160
-    name: Halsey
-    popularity: 92
+    name: Lauv
+    popularity: 91
     type: artist
-    uri: 'spotify:artist:26VFTg2z8YR0cCuwLzESi2'
+    uri: 'spotify:artist:5JZ7CnR6gTvEMKX4g70Amv'
   - external_urls:
-      spotify: 'https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy'
+      spotify: 'https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK'
     followers:
       href: null
-      total: 97072
+      total: 2283091
     genres:
       - dance pop
-      - edm
-      - electro house
       - electropop
+      - metropopolis
       - pop
-      - pop edm
       - post-teen pop
-      - tropical house
-    href: 'https://api.spotify.com/v1/artists/5jAMCwdNHWr7JThxtMuEyy'
-    id: 5jAMCwdNHWr7JThxtMuEyy
+      - swedish electropop
+      - swedish pop
+      - swedish synthpop
+    href: 'https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK'
+    id: 4NHQUGzhtTLFvgF5SZesLK
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/20eef23c4d2d3e4f159ac9a430d02fc81a106d2f'
+        url: 'https://i.scdn.co/image/d478a4f9c29d18d3a715426c04c9e742a0fa2efd'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/282392f320ff62d64f542f161b322f83dcfa8b91'
+        url: 'https://i.scdn.co/image/bd34a391246211c41c73f70754cb098d1877a0de'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/3bf577d7f97e73f9b9f64ea662e624cae28ad5e9'
+        url: 'https://i.scdn.co/image/1082b97aee4f276b5dbf823281396c7603a61306'
         width: 160
-    name: NOTD
-    popularity: 76
+    name: Tove Lo
+    popularity: 81
     type: artist
-    uri: 'spotify:artist:5jAMCwdNHWr7JThxtMuEyy'
+    uri: 'spotify:artist:4NHQUGzhtTLFvgF5SZesLK'
   - external_urls:
-      spotify: 'https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m'
+      spotify: 'https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW'
     followers:
       href: null
-      total: 2482830
+      total: 510221
     genres:
       - dance pop
-      - electropop
       - pop
       - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m'
-    id: 0ZED1XzwlLHW4ZaG4lOT6m
+    href: 'https://api.spotify.com/v1/artists/55fhWPvDiMpLnE4ZzNXZyW'
+    id: 55fhWPvDiMpLnE4ZzNXZyW
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/4a629c160228c0bd5295b064437b01a078aef157'
+        url: 'https://i.scdn.co/image/e4ea4673ee73cce91d105bacb434892c9a5d6f61'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/c825f8efc145c7621637c474fe40c2864ed21ab8'
+        url: 'https://i.scdn.co/image/58818b210c4968a435b5bcc139284ac7d6968c80'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/8002d98c34d293433d75cd8bd4c1ade2ad754a95'
+        url: 'https://i.scdn.co/image/24ceeee4cf78ae943e65697cbd238217735ecc99'
         width: 160
-    name: Julia Michaels
+    name: Noah Cyrus
+    popularity: 82
+    type: artist
+    uri: 'spotify:artist:55fhWPvDiMpLnE4ZzNXZyW'
+  - external_urls:
+      spotify: 'https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx'
+    followers:
+      href: null
+      total: 19000009
+    genres:
+      - dance pop
+      - pop
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx'
+    id: 0C8ZW7ezQVs4URX5aX7Kqx
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/dc6dd5ccdccee8c947b41af13e3b60ce0a235708'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/640ac8d170be843477ac25a372344683d0449057'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/4741fad16d2ef0331bd139c7786c19233e6cfd79'
+        width: 160
+    name: Selena Gomez
+    popularity: 95
+    type: artist
+    uri: 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'
+  - external_urls:
+      spotify: 'https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy'
+    followers:
+      href: null
+      total: 5650921
+    genres:
+      - boy band
+      - dance pop
+      - pop
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/5Rl15oVamLq7FbSb0NNBNy'
+    id: 5Rl15oVamLq7FbSb0NNBNy
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/81f45e1c43d961f38e0885e79db547b86d25d101'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/653f8e934d6de38586dfdba91f22f5c9133c4e4f'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/47198de7d5f15c0fbb6e91e60b4d35d8a8932298'
+        width: 160
+    name: 5 Seconds of Summer
     popularity: 87
     type: artist
-    uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
+    uri: 'spotify:artist:5Rl15oVamLq7FbSb0NNBNy'
   - external_urls:
-      spotify: 'https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms'
+      spotify: 'https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn'
     followers:
       href: null
-      total: 10174612
+      total: 727084
     genres:
-      - dance pop
+      - australian alternative pop
+      - australian pop
       - pop
-    href: 'https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms'
-    id: 1HY2Jd0NmPuamShAr6KMms
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/5xkAtLTf309LAGZTbvULBn'
+    id: 5xkAtLTf309LAGZTbvULBn
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/ea76c82c05174105751f850c8a1db426dd03aa78'
+        url: 'https://i.scdn.co/image/d40a05c7b208996978c08f1e193d0192a649086e'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/a29a1516492aceeb0789f51aea4cfd2169dc1a0a'
+        url: 'https://i.scdn.co/image/3602de4d4687a15db05525b3c3c12f7457c52bf6'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/b50b8bb23758337b8c8123636ec5a2c83c51febb'
+        url: 'https://i.scdn.co/image/d4ea21031732e495cf4fa90737dea3bf0586ed2b'
         width: 160
-    name: Lady Gaga
-    popularity: 89
+    name: Ruel
+    popularity: 79
     type: artist
-    uri: 'spotify:artist:1HY2Jd0NmPuamShAr6KMms'
+    uri: 'spotify:artist:5xkAtLTf309LAGZTbvULBn'
+  - external_urls:
+      spotify: 'https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'
+    followers:
+      href: null
+      total: 23329290
+    genres:
+      - canadian pop
+      - pop
+      - post-teen pop
+      - viral pop
+    href: 'https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr'
+    id: 7n2wHs1TKAczGzO7Dd2rGr
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/6bd59cfbd3e1e6394af710bddcd62999aae31c6f'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/3e0c03d2ef76a80913734e90cf466f9e1478e88c'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/4ff072e64ddd4098ec1f089fb80839b396a19505'
+        width: 160
+    name: Shawn Mendes
+    popularity: 93
+    type: artist
+    uri: 'spotify:artist:7n2wHs1TKAczGzO7Dd2rGr'
   - external_urls:
       spotify: 'https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg'
     followers:
       href: null
-      total: 6521996
+      total: 6563520
     genres:
       - dance pop
       - edm
@@ -1435,7 +1468,6 @@ shortTermArtists:
       - swedish electropop
       - swedish pop
       - tropical house
-      - uk pop
     href: 'https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg'
     id: 1Xylc3o4UrD53lo9CvFvVg
     images:
@@ -1456,7 +1488,7 @@ shortTermArtists:
       spotify: 'https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x'
     followers:
       href: null
-      total: 1468754
+      total: 1480486
     genres:
       - dance pop
       - electropop
@@ -1479,60 +1511,34 @@ shortTermArtists:
         url: 'https://i.scdn.co/image/be9fa3cd8bd6c564376e2f40e5d53eee94102958'
         width: 160
     name: Bea Miller
-    popularity: 77
+    popularity: 78
     type: artist
     uri: 'spotify:artist:1o2NpYGqHiCq7FoiYdyd1x'
   - external_urls:
-      spotify: 'https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg'
+      spotify: 'https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2'
     followers:
       href: null
-      total: 187841
+      total: 9178210
     genres:
-      - adult standards
-      - brill building pop
-      - nashville sound
-    href: 'https://api.spotify.com/v1/artists/2Ev0e8GUIX4u7d9etNLTXg'
-    id: 2Ev0e8GUIX4u7d9etNLTXg
-    images:
-      - height: 1167
-        url: 'https://i.scdn.co/image/c39b7fb88bc85c058de0c1151184e6a7f8afe98b'
-        width: 1000
-      - height: 747
-        url: 'https://i.scdn.co/image/eb151fc77b090be348fd8c0422924b91a792a2ea'
-        width: 640
-      - height: 233
-        url: 'https://i.scdn.co/image/18c167cdeb4b9b83f38ba1f563809483883b8be0'
-        width: 200
-      - height: 75
-        url: 'https://i.scdn.co/image/811aba749e911c6e05c237dcd7c2cf99e2c80404'
-        width: 64
-    name: Jim Reeves
-    popularity: 63
-    type: artist
-    uri: 'spotify:artist:2Ev0e8GUIX4u7d9etNLTXg'
-  - external_urls:
-      spotify: 'https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1'
-    followers:
-      href: null
-      total: 750851
-    genres:
-      - boy band
       - dance pop
+      - electropop
+      - etherpop
+      - indie poptimism
       - pop
       - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/5Y8eJDj37KhaEeqbVO7Ag1'
-    id: 5Y8eJDj37KhaEeqbVO7Ag1
+    href: 'https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2'
+    id: 26VFTg2z8YR0cCuwLzESi2
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/b1ebaa5449a6455b83cccbb22d6e0d12285c1927'
+        url: 'https://i.scdn.co/image/1ccc88afcd13131dc35a1bd028922dbc748a55fb'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/73eb8d6648e3dea9610cbe5462fff53ee63cec2a'
+        url: 'https://i.scdn.co/image/8b56979f115e855301c33828bcad2c57280adbab'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/18adf6469630ddd72caba20cad9af41595658e3b'
+        url: 'https://i.scdn.co/image/ac0a244c45f25b7d177bbe629c30565fe0768f14'
         width: 160
-    name: PRETTYMUCH
-    popularity: 76
+    name: Halsey
+    popularity: 93
     type: artist
-    uri: 'spotify:artist:5Y8eJDj37KhaEeqbVO7Ag1'
+    uri: 'spotify:artist:26VFTg2z8YR0cCuwLzESi2'
