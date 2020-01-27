@@ -9,6 +9,9 @@ This repo contains data about my life. It's primarily powered by [Services](http
 | [top-artists.yml](./top-artists.yml) | List of top artists from Spotify |
 | [development.yml](./development.yml) | Programming data from Wakatime |
 | [location.json](./location.json) | Location data from OwnTracks |
+| [podcasts.yml](./podcasts.yml) | List of podcasts from Pocket Casts |
+| [podcast-history.yml](./podcast-history.yml) | Listening history from Pocket Casts |
+| [emails.yml](./emails.yml) | Emails summary from Gmail |
 | [instagram-highlights.json](./instagram-highlights.json) | Story highlights from Instagram |
 | [heart-rate.yml](./heart-rate.yml) | Heart rate from [Yoga](https://github.com/AnandChowdhary/yoga) |
 | [step-count.yml](./step-count.yml) | Step count from Yoga |
