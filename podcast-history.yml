@@ -1,1642 +1,1639 @@
-total: 100
-episodes:
-  - uuid: c3ccac1a-a319-4ee9-ac4a-d44637f456f8
-    url: 'http://traffic.libsyn.com/hellointernet/135.mp3'
-    published: '2020-01-23T16:23:43Z'
-    duration: 5397
-    fileType: audio/mp3
-    title: 'H.I. #135: Place Your Bets'
-    size: '0'
-    playingStatus: 2
-    playedUpTo: 2548
-    starred: false
-    podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 135
-    isDeleted: false
-  - uuid: 3c372eea-f095-4250-b96d-2c86db889fb0
-    url: 'http://traffic.libsyn.com/hellointernet/50.mp3'
-    published: '2015-11-06T16:21:07Z'
-    duration: 9482
-    fileType: audio/mp3
-    title: 'H.I. #50: Queen of Spades'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 9481
-    starred: false
-    podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: faec9b23-f947-408c-9e8b-a8b31ed87745
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM2181649796.mp3
-    published: '2020-01-15T09:00:00Z'
-    duration: 1835
-    fileType: audio/mp3
-    title: Take Insta-Perfect Vacation Photos
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1835
-    starred: false
-    podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: f7bf390b-00b3-49e6-93ec-6a0e1e05c60d
-    url: 'http://traffic.libsyn.com/hellointernet/80.mp3'
-    published: '2017-03-28T22:20:22Z'
-    duration: 6312
-    fileType: audio/mp3
-    title: 'H.I #80: Operation Twinkle Toes'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 6311
-    starred: false
-    podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 63bc25be-6333-4ce9-8cb1-9b0a0c9d6e4c
-    url: 'http://traffic.libsyn.com/unmade/unmade_episode38.mp3'
-    published: '2020-01-15T23:11:54Z'
-    duration: 3099
-    fileType: audio/mp3
-    title: '38: The Jack Ruby Episode'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 3099
-    starred: false
-    podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 2d5ce89f-24d7-43eb-81b6-975c7b39cad2
-    url: 'http://traffic.libsyn.com/hellointernet/66.mp3'
-    published: '2016-07-18T23:19:02Z'
-    duration: 7012
-    fileType: audio/mp3
-    title: 'H.I. #66: A Classic Episode'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 7012
-    starred: false
-    podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 5b75f6b7-fdbc-4134-9404-f5378b8b290f
-    url: 'http://traffic.libsyn.com/hellointernet/47.mp3'
-    published: '2015-09-22T08:24:26Z'
-    duration: 0
-    fileType: ''
-    title: 'H.I. #47: Charismatic Megafauna'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 7610
-    starred: false
-    podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-    podcastTitle: ''
-    episodeType: ''
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: f70fbe41-a9a8-4585-aacf-c93ef3e88c7e
-    url: >-
-      https://chtbl.com/track/8E527/traffic.megaphone.fm/STU9336471345.mp3?updated=1576204769
-    published: '2019-12-13T08:15:00Z'
-    duration: 4900
-    fileType: audio/mpeg
-    title: >-
-      Talking Tech w/ Shark Tank's Kevin O'Leary, Portless iPhone Rumors, & Our
-      Holiday Gift Guide
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 4900
-    starred: false
-    podcastUuid: 7d9a4610-9673-0137-4052-0acc26574db2
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 11
-    isDeleted: true
-  - uuid: 9046f08f-6e56-46e4-b5c8-217a6f07d12a
-    url: 'http://traffic.libsyn.com/hellointernet/The_Rise_of_Skywalker.mp3'
-    published: '2019-12-25T09:38:28Z'
-    duration: 6951
-    fileType: audio/mp3
-    title: The Rise of Skywalker
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 6951
-    starred: false
-    podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 1ba4a1d1-dd9b-4424-8222-b7c83454a4fc
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM4598725188.mp3
-    published: '2020-01-01T09:00:00Z'
-    duration: 2170
-    fileType: audio/mp3
-    title: This Woman is Everyone’s Dream Travel Companion
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 2170
-    starred: false
-    podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 27760ce9-4470-4d20-9d18-3d0b78a421f1
-    url: >-
-      https://chtbl.com/track/8E527/traffic.megaphone.fm/STU3332183984.mp3?updated=1577424149
-    published: '2019-12-27T08:30:00Z'
-    duration: 5770
-    fileType: audio/mpeg
-    title: Behind the Scenes of the 2019 MKBHD Awards
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 5770
-    starred: false
-    podcastUuid: 7d9a4610-9673-0137-4052-0acc26574db2
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 12
-    isDeleted: true
-  - uuid: 59836301-d616-4521-ab3b-e422995c2fe8
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM6796498821.mp3
-    published: '2020-01-08T09:00:00Z'
-    duration: 1788
-    fileType: audio/mp3
-    title: Where To Go In 2020
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1788
-    starred: false
-    podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 8d7c85ae-7bf9-42a1-8e6b-e8d45b1574a6
-    url: 'http://traffic.libsyn.com/hellointernet/HI_91.mp3'
-    published: '2017-10-31T22:05:11Z'
-    duration: 7222
-    fileType: audio/mp3
-    title: 'H.I. #91: Last Man to Die?'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 7228
-    starred: false
-    podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 60eae5f5-65a1-4e59-a9ac-0d10aaea9b71
-    url: 'http://traffic.libsyn.com/hellointernet/HI92.mp3'
-    published: '2017-11-24T22:20:12Z'
-    duration: 6837
-    fileType: audio/mp3
-    title: 'H.I. #92: Grey Honeypot'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 6843
-    starred: false
-    podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 92
-    isDeleted: true
-  - uuid: c041e325-43f6-45ce-9c54-4e870778dd8d
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_275.mp3
-    published: '2020-01-01T16:00:00Z'
-    duration: 5731
-    fileType: audio/mp3
-    title: The Rickies (Early 2020)
-    size: '91861061'
-    playingStatus: 3
-    playedUpTo: 5732
-    starred: false
-    podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 0a8719e8-fddf-4798-b4fc-a12970d890d5
-    url: 'http://traffic.libsyn.com/hellointernet/HI134.mp3'
-    published: '2019-12-30T22:52:28Z'
-    duration: 4956
-    fileType: audio/mp3
-    title: 'H.I. 134: Boxing Day'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 4956
-    starred: false
-    podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 3a5b1cb6-395e-4d50-925b-ebed7cb000b8
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_095.mp3
-    published: '2019-12-31T13:00:00Z'
-    duration: 6148
-    fileType: audio/mp3
-    title: 2020 Yearly Themes
-    size: '99015197'
-    playingStatus: 3
-    playedUpTo: 6149
-    starred: false
-    podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 36d4b1ed-116e-4aef-8cf9-045796c29ccb
-    url: 'http://traffic.libsyn.com/unmade/unmade_tommyball_decade.mp3'
-    published: '2019-12-29T15:26:48Z'
-    duration: 1753
-    fileType: audio/mp3
-    title: 'Special: Tommyball Moment of the Decade'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1753
-    starred: false
-    podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 83fd463e-5ca7-4fc9-803b-fea29fabae3f
-    url: >-
-      https://anchor.fm/s/3b926a4/podcast/play/9255816/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-24%2F40521686-44100-2-d8420ccc7321f.mp3
-    published: '2019-12-25T10:30:00Z'
-    duration: 306
-    fileType: audio/mp3
-    title: Christmas is cancelled
-    size: '12247166'
-    playingStatus: 3
-    playedUpTo: 306
-    starred: false
-    podcastUuid: 1c179450-6200-0136-4e65-69745d675bc7
-    podcastTitle: ''
-    episodeType: bonus
-    episodeSeason: 1
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: fdfecfdd-82cc-4d35-982d-676fa251091c
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM6252524237.mp3
-    published: '2019-12-25T09:00:00Z'
-    duration: 2074
-    fileType: audio/mp3
-    title: Always Look Fresh While On The Road
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 2074
-    starred: false
-    podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 3480b489-94f6-4546-b481-42302bbbbabf
-    url: 'http://traffic.libsyn.com/unmade/unmade_episode37.mp3'
-    published: '2019-12-23T00:05:51Z'
-    duration: 2878
-    fileType: audio/mp3
-    title: '37: The Queen''s Podcast'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 2878
-    starred: false
-    podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 163a1948-1028-4e51-8610-d7d632fb0450
-    url: 'http://traffic.libsyn.com/hellointernet/132.mp3'
-    published: '2019-12-23T22:39:57Z'
-    duration: 5508
-    fileType: audio/mp3
-    title: 'H.I. #132: Artisan Water'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 5517
-    starred: false
-    podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 132
-    isDeleted: true
-  - uuid: 33047014-0067-408e-8ebb-2b441c097fcd
-    url: 'https://traffic.megaphone.fm/WSJ3260734149.mp3'
-    published: '2019-12-18T22:48:52Z'
-    duration: 1132
-    fileType: audio/mp3
-    title: The Senate Prepares for a Trial
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1132
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 325d5c8d-6c71-4229-a249-eeadd4200b39
-    url: 'https://traffic.megaphone.fm/GLT7180580619.mp3?updated=1576729343'
-    published: '2019-12-19T09:00:00Z'
-    duration: 3160
-    fileType: audio/mpeg
-    title: Marie-Claude
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 3160
-    starred: false
-    podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 4
-    episodeNumber: 31
-    isDeleted: true
-  - uuid: 0092d4ea-c06b-48ae-8174-f80b2f1c5036
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM9713725980.mp3
-    published: '2019-12-18T09:00:00Z'
-    duration: 1889
-    fileType: audio/mp3
-    title: Hack Your Way Into Business Class
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1889
-    starred: false
-    podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: df355bbc-3f42-4b1b-a474-d28ab837292d
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM4920116137.mp3
-    published: '2019-12-11T09:00:00Z'
-    duration: 1775
-    fileType: audio/mp3
-    title: Why Do We Go Crazy Boarding Planes?
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1775
-    starred: false
-    podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: b091eecd-9199-41da-a4e6-1a1eb4d58eed
-    url: 'https://traffic.megaphone.fm/GLT8378710544.mp3?updated=1576124921'
-    published: '2019-12-12T09:00:00Z'
-    duration: 3290
-    fileType: audio/mpeg
-    title: The Marshes
-    size: '0'
-    playingStatus: 2
-    playedUpTo: 3171
-    starred: false
-    podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 4
-    episodeNumber: 30
-    isDeleted: true
-  - uuid: 99c5c76b-44f8-4c6c-a91b-18ee47c3719f
-    url: 'https://traffic.megaphone.fm/WSJ7954690576.mp3'
-    published: '2019-11-19T22:09:15Z'
-    duration: 1113
-    fileType: audio/mp3
-    title: Taylor Swift Versus Big Machine
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1113
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: d05ad6b6-215a-47d5-a1cf-574c948dc178
-    url: 'https://traffic.megaphone.fm/WSJ5997098330.mp3'
-    published: '2019-12-05T21:18:32Z'
-    duration: 1134
-    fileType: audio/mp3
-    title: The Central Question of Impeachment
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1134
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 3e250014-e649-4a50-a752-1f2a0080c0ec
-    url: 'https://traffic.megaphone.fm/WSJ7856208324.mp3'
-    published: '2019-12-06T21:44:19Z'
-    duration: 1083
-    fileType: audio/mp3
-    title: Why Tech Is Making Its Own Rules for Political Ads
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1083
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: f945e7e3-fc48-414b-b34d-a3f12c8bdbd6
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_094.mp3
-    published: '2019-12-10T12:00:00Z'
-    duration: 7395
-    fileType: audio/mp3
-    title: State of the Apps 2020
-    size: '119881544'
-    playingStatus: 3
-    playedUpTo: 7395
-    starred: false
-    podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: acd7d5ca-6e54-42a1-be79-3ee8f8e88187
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM4206490730.mp3
-    published: '2019-12-04T09:00:00Z'
-    duration: 1988
-    fileType: audio/mp3
-    title: The Thing You Should Never Pack
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1988
-    starred: false
-    podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: c01cd4c5-25de-42ec-90e9-a9b2501c1e02
-    url: >-
-      https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2019/12/20191206_hibt_minted-b98b6027-296e-4afd-bdf1-156388685ccc.mp3?awCollectionId=510313&awEpisodeId=785607378&orgId=1&d=3162&p=510313&story=785607378&t=podcast&e=785607378&size=50476388&ft=pod&f=510313
-    published: '2019-12-09T05:01:10Z'
-    duration: 3190
-    fileType: audio/mpeg
-    title: 'Minted: Mariam Naficy'
-    size: '50476388'
-    playingStatus: 3
-    playedUpTo: 3190
-    starred: false
-    podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 9bb6d4e7-6264-4be7-b115-6d6dbbc15b22
-    url: 'https://traffic.megaphone.fm/GLT1856562359.mp3?updated=1574312030'
-    published: '2019-11-21T09:00:00Z'
-    duration: 2705
-    fileType: audio/mpeg
-    title: Elyse
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 2705
-    starred: false
-    podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 4
-    episodeNumber: 29
-    isDeleted: true
-  - uuid: b2a50d6b-5f9e-413e-bd86-355e376e8e4f
-    url: 'http://traffic.libsyn.com/hellointernet/64.mp3'
-    published: '2016-05-26T16:57:59Z'
-    duration: 6130
-    fileType: audio/mp3
-    title: 'H.I. #64: The Quiz Show'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 6130
-    starred: false
-    podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 81ae5374-0334-4ca0-a738-7dabe82b89de
-    url: 'https://traffic.megaphone.fm/WSJ8010242777.mp3'
-    published: '2019-12-04T21:49:46Z'
-    duration: 990
-    fileType: audio/mp3
-    title: A $1.5 Billion Bet Against the Stock Market
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 990
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: c35e331f-46aa-4acc-a5d2-16f88074704d
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM5268173597.mp3?updated=1574803710
-    published: '2019-11-27T09:00:00Z'
-    duration: 2028
-    fileType: audio/mpeg
-    title: The Disney Hacks We Can’t Let Go
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 2028
-    starred: false
-    podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: cfeea00f-2730-4de2-a659-383bfc694af3
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM4891644315.mp3?updated=1574197917
-    published: '2019-11-20T09:00:00Z'
-    duration: 2035
-    fileType: audio/mpeg
-    title: On Butter and Bourdain
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 2035
-    starred: false
-    podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 01cd2668-2ae9-428c-a06f-0ff79d5714f3
-    url: 'https://traffic.megaphone.fm/WSJ7580420677.mp3'
-    published: '2019-12-02T22:04:36Z'
-    duration: 1405
-    fileType: audio/mp3
-    title: Why TikTok's Under Investigation
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1405
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 752bce71-676b-40fc-8a20-23c06153d58e
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_093.mp3
-    published: '2019-11-26T13:00:00Z'
-    duration: 4999
-    fileType: audio/mp3
-    title: The Memory of Somebody Else
-    size: '80569273'
-    playingStatus: 3
-    playedUpTo: 4999
-    starred: false
-    podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: d9f2423e-11b4-4482-bbc3-d82ae00b5042
-    url: >-
-      https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2019/11/20191126_hibt_otterbox.mp3?awCollectionId=510313&awEpisodeId=782770480&orgId=1&d=3894&p=510313&story=782770480&t=podcast&e=782770480&size=62164275&ft=pod&f=510313
-    published: '2019-12-02T05:01:28Z'
-    duration: 3894
-    fileType: audio/mpeg
-    title: 'Live Episode! OtterBox: Curt Richardson'
-    size: '62164275'
-    playingStatus: 2
-    playedUpTo: 0
-    starred: false
-    podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: false
-  - uuid: bfe5b048-d5ac-4173-93b7-b91216aa0e54
-    url: 'https://traffic.megaphone.fm/GLT2568029984.mp3'
-    published: '2019-10-15T10:00:00Z'
-    duration: 1332
-    fileType: audio/mp3
-    title: Faking Good Design
-    size: '0'
-    playingStatus: 2
-    playedUpTo: 788
-    starred: false
-    podcastUuid: ead2fd60-a9a3-0136-7b93-27f978dac4db
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 2
-    episodeNumber: 5
-    isDeleted: true
-  - uuid: e6eca78b-7908-4c93-8d22-3aa62cd8ea83
-    url: 'http://traffic.libsyn.com/hellointernet/131.mp3'
-    published: '2019-11-19T21:22:23Z'
-    duration: 5789
-    fileType: audio/mp3
-    title: 'H.I. #131: Panda Park'
-    size: '0'
-    playingStatus: 2
-    playedUpTo: 5757
-    starred: false
-    podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 131
-    isDeleted: true
-  - uuid: a74259fa-3cc9-4297-a061-56d9131a8a90
-    url: 'https://traffic.megaphone.fm/WSJ8819188047.mp3'
-    published: '2019-11-15T22:12:32Z'
-    duration: 1067
-    fileType: audio/mp3
-    title: Nike and Amazon's Breakup
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1067
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 1a2068bf-1165-4279-96a2-99b0edb5b292
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM6396264845.mp3?updated=1573594833
-    published: '2019-11-13T09:00:00Z'
-    duration: 1934
-    fileType: audio/mpeg
-    title: Let’s Make a Travel Deal
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1934
-    starred: false
-    podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 2ada1aa5-af83-4bcd-8890-6f2685fa1cef
-    url: >-
-      https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2019/11/20191108_hibt_evite-86099a32-80b6-4d1b-96c4-163754a7e9b6.mp3?awCollectionId=510313&awEpisodeId=777708195&orgId=1&d=3914&p=510313&story=777708195&t=podcast&e=777708195&size=62488907&ft=pod&f=510313
-    published: '2019-11-11T05:01:46Z'
-    duration: 3947
-    fileType: audio/mpeg
-    title: 'Evite: Selina Tobaccowala'
-    size: '62488907'
-    playingStatus: 3
-    playedUpTo: 3938
-    starred: false
-    podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 3110567a-c07a-4262-b179-da1f26bf6018
-    url: 'https://traffic.megaphone.fm/WSJ3199256329.mp3'
-    published: '2019-11-08T21:38:56Z'
-    duration: 1001
-    fileType: audio/mp3
-    title: WhatsApp's Hack
-    size: '0'
-    playingStatus: 2
-    playedUpTo: 937
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: bd811462-8d35-4520-b4da-13dfe7c47ecc
-    url: 'http://traffic.libsyn.com/unmade/unmade_episode36.mp3'
-    published: '2019-11-12T22:07:18Z'
-    duration: 2988
-    fileType: audio/mp3
-    title: '36: Confession Booth'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 2988
-    starred: false
-    podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: afaf3212-bdeb-4bf1-9350-df32b9c9c613
-    url: 'http://traffic.libsyn.com/numberphile/numberphile_james_maynard.mp3'
-    published: '2019-11-10T22:12:00Z'
-    duration: 2498
-    fileType: audio/mp3
-    title: The Badly Behaved Prime - with James Maynard
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 2498
-    starred: false
-    podcastUuid: 8cb63a90-c70a-0136-7b94-27f978dac4db
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 1273e76f-9cbf-4e60-ad76-8054811ff9f4
-    url: 'https://traffic.megaphone.fm/GLT8127900778.mp3'
-    published: '2019-11-11T21:58:48Z'
-    duration: 3170
-    fileType: audio/mp3
-    title: 'Introducing Esther''s New Podcast: How''s Work?'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 3170
-    starred: false
-    podcastUuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 3
-    episodeNumber: 5
-    isDeleted: true
-  - uuid: 139f9f3d-5ba8-4cd9-a85d-0ab6180843b8
-    url: 'https://traffic.megaphone.fm/GLT6656802567.mp3?updated=1573095593'
-    published: '2019-11-07T09:00:00Z'
-    duration: 2975
-    fileType: audio/mpeg
-    title: Dr. Muller
-    size: '0'
-    playingStatus: 2
-    playedUpTo: 2830
-    starred: false
-    podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 4
-    episodeNumber: 28
-    isDeleted: true
-  - uuid: 8da9fd83-669d-4fcd-a433-f6e2b80e3008
-    url: 'https://traffic.megaphone.fm/WSJ4204455115.mp3'
-    published: '2019-11-06T21:46:17Z'
-    duration: 1051
-    fileType: audio/mp3
-    title: Under Armour Under Investigation
-    size: '0'
-    playingStatus: 2
-    playedUpTo: 791
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: e83ee8c4-c95e-4dca-9915-e686b13d5e9c
-    url: 'https://traffic.megaphone.fm/GLT1543707323.mp3'
-    published: '2019-10-31T08:00:00Z'
-    duration: 2936
-    fileType: audio/mp3
-    title: The Other Woman
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 2936
-    starred: false
-    podcastUuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 3
-    episodeNumber: 3
-    isDeleted: true
-  - uuid: 311832bb-dbb7-4c39-8a92-94bf86e77be8
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM4215582041.mp3?updated=1572992063
-    published: '2019-11-06T09:00:00Z'
-    duration: 1981
-    fileType: audio/mpeg
-    title: Turning Travel Lemons Into Lemonade
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1981
-    starred: false
-    podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: c4779b67-1e9c-4bd2-9e53-1fad31a95e28
-    url: 'https://traffic.megaphone.fm/WSJ6800055025.mp3?updated=1572643153'
-    published: '2019-11-01T20:48:27Z'
-    duration: 1393
-    fileType: audio/mpeg
-    title: When the Drug Cartel Takes Over
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1393
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: fa58eb63-a56c-4cb1-8ef1-bf4df4f780e5
-    url: 'https://traffic.megaphone.fm/WSJ9229153188.mp3'
-    published: '2019-11-04T21:26:11Z'
-    duration: 1123
-    fileType: audio/mp3
-    title: The Investor That Spent $1 Billion a Week
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1123
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 224f928a-1338-4d20-9690-764d3c66fed1
-    url: 'https://traffic.megaphone.fm/WSJ4291483508.mp3'
-    published: '2019-11-05T22:23:29Z'
-    duration: 1163
-    fileType: audio/mp3
-    title: Bitcoin Comes Untethered
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1163
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: b8609b78-3ed5-4ef3-85a3-39d1ef20c800
-    url: 'https://traffic.megaphone.fm/WSJ8562482060.mp3'
-    published: '2019-10-31T22:09:09Z'
-    duration: 1192
-    fileType: audio/mp3
-    title: How Car Makers Got Caught Between Trump and California
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1192
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: e7d59990-142d-4c7b-94e4-70b06659aebf
-    url: 'https://traffic.megaphone.fm/WSJ5271191993.mp3?updated=1572469027'
-    published: '2019-10-30T20:32:21Z'
-    duration: 868
-    fileType: audio/mpeg
-    title: Can Cities Fight Guns with Taxes?
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 868
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 0700d683-ae56-43d9-9768-234bf3b0d93e
-    url: 'https://chtbl.com/track/8E527/traffic.megaphone.fm/STU9289121669.mp3'
-    published: '2019-11-01T07:30:00Z'
-    duration: 4489
-    fileType: audio/mp3
-    title: >-
-      Apple's New Airpods Pro, #TeamTrees, & the Twitch vs Mixer Streaming
-      Platform Battle
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 4489
-    starred: false
-    podcastUuid: 7d9a4610-9673-0137-4052-0acc26574db2
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 8
-    isDeleted: true
-  - uuid: 8d5fe2f1-48dc-4439-882a-27cf956fdf8d
-    url: 'http://traffic.libsyn.com/hellointernet/130.mp3'
-    published: '2019-10-29T09:08:08Z'
-    duration: 5622
-    fileType: audio/mp3
-    title: 'H.I. #130: Remember Harder'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 5622
-    starred: false
-    podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 130
-    isDeleted: true
-  - uuid: 660b97a3-d3e7-4c67-b7e2-21955aa3d3a7
-    url: 'https://traffic.megaphone.fm/WSJ8460065641.mp3'
-    published: '2019-10-28T21:11:56Z'
-    duration: 1183
-    fileType: audio/mp3
-    title: Big Retailers Banned These Apparel Factories. Amazon Didn't.
-    size: '0'
-    playingStatus: 2
-    playedUpTo: 1175
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 6ac324ae-33f7-46f3-9a4d-217bb5bb1b40
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_92.mp3
-    published: '2019-10-28T15:30:00Z'
-    duration: 6041
-    fileType: audio/mp3
-    title: Time Continuum Consequences
-    size: '97467290'
-    playingStatus: 3
-    playedUpTo: 6041
-    starred: false
-    podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 8955c93b-db21-49d3-82f5-bd244540b1f5
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_266.mp3
-    published: '2019-10-23T21:15:00Z'
-    duration: 5446
-    fileType: audio/mp3
-    title: 'What Are You, an Accountant?'
-    size: '87286337'
-    playingStatus: 2
-    playedUpTo: 1028
-    starred: false
-    podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: eea4c139-8c64-417a-8bbc-7cdac68d84ab
-    url: 'https://traffic.megaphone.fm/LM1843473342.mp3?updated=1558363454'
-    published: '2019-05-21T07:00:00Z'
-    duration: 2092
-    fileType: audio/mpeg
-    title: General David Petraeus
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 2092
-    starred: false
-    podcastUuid: 851d1840-476e-0137-f266-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 1
-    episodeNumber: 2
-    isDeleted: true
-  - uuid: d261d8d2-1ef7-42b5-9161-146e390600ee
-    url: 'https://traffic.megaphone.fm/LM1931187514.mp3'
-    published: '2019-04-17T16:11:26Z'
-    duration: 89
-    fileType: audio/mp3
-    title: Introducing Wisdom From the Top
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 89
-    starred: false
-    podcastUuid: 851d1840-476e-0137-f266-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: trailer
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 7161dfff-3fdc-4484-b0e6-44fb48e5f938
-    url: 'http://traffic.libsyn.com/unmade/unmade_episode35.mp3'
-    published: '2019-10-27T06:01:38Z'
-    duration: 2811
-    fileType: audio/mp3
-    title: '35: Backed the Wrong Horse'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 2811
-    starred: false
-    podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: f6c26332-3185-4aa0-8d99-fc6247a17866
-    url: 'https://traffic.megaphone.fm/WSJ5214000317.mp3'
-    published: '2019-10-25T20:49:48Z'
-    duration: 1149
-    fileType: audio/mp3
-    title: 'WeWork: Cashed Out'
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1149
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: fb1f0648-49d0-4616-b682-fd030f3c262f
-    url: >-
-      https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2019/09/20190927_hibt_walker.mp3?awCollectionId=510313&awEpisodeId=764355017&orgId=1&d=3787&p=510313&story=764355017&t=podcast&e=764355017&size=60469170&ft=pod&f=510313
-    published: '2019-09-30T04:01:40Z'
-    duration: 3788
-    fileType: audio/mpeg
-    title: 'Live Episode! Walker & Company: Tristan Walker'
-    size: '60469170'
-    playingStatus: 3
-    playedUpTo: 3788
-    starred: false
-    podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: f72c5f83-7409-4102-9bdc-406bd67352b8
-    url: 'https://traffic.megaphone.fm/WSJ4453117953.mp3'
-    published: '2019-10-24T20:27:58Z'
-    duration: 957
-    fileType: audio/mp3
-    title: States Got Hooked on Tobacco Money. Are Opioids Next?
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 957
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 98ff4488-9d51-48fa-ad25-8b8e107f70e0
-    url: 'https://traffic.megaphone.fm/GLT9331285755.mp3'
-    published: '2019-10-24T08:00:00Z'
-    duration: 2977
-    fileType: audio/mp3
-    title: A Small Town Affair
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 2977
-    starred: false
-    podcastUuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 3
-    episodeNumber: 2
-    isDeleted: true
-  - uuid: c49c2104-f9ce-4581-a20a-2c48ecddff3d
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM2616762501.mp3
-    published: '2019-10-24T18:08:00Z'
-    duration: 105
-    fileType: audio/mp3
-    title: We're Back! Season Two Coming Soon
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 105
-    starred: false
-    podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 3be18ae1-af77-4c7e-8688-32c58e0125ae
-    url: 'https://traffic.megaphone.fm/GLT5809408770.mp3?updated=1571892161'
-    published: '2019-10-24T08:00:00Z'
-    duration: 3186
-    fileType: audio/mpeg
-    title: Scott
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 3186
-    starred: false
-    podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 4
-    episodeNumber: 27
-    isDeleted: true
-  - uuid: a63ffc43-cb1d-4b2f-a1cb-42725282bb70
-    url: 'https://traffic.megaphone.fm/WSJ5305584849.mp3'
-    published: '2019-10-23T21:52:45Z'
-    duration: 1064
-    fileType: audio/mp3
-    title: What Taylor's Testimony Means for Impeachment
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1064
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 37b03a6c-0925-42ba-b692-b245500f23f9
-    url: >-
-      http://feedproxy.google.com/~r/Http203Podcast/~5/nLtrDI95sYE/episode-25.mp3
-    published: '2019-10-18T00:00:00Z'
-    duration: 3628
-    fileType: audio/mp3
-    title: 'Stability, TODOs, and the HTTP 203 census'
-    size: '38066136'
-    playingStatus: 2
-    playedUpTo: 1289
-    starred: false
-    podcastUuid: 3f6543f0-4358-0133-bfa6-0d11918ab357
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 12754ebd-89c5-4adb-8ce9-792406b30838
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise317.mp3
-    published: '2019-10-23T17:15:00Z'
-    duration: 1799
-    fileType: audio/mp3
-    title: Fancy Super Duper Techno Chippy Things
-    size: '21764045'
-    playingStatus: 3
-    playedUpTo: 1799
-    starred: false
-    podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: d078fc3c-ae6c-4aa3-b770-052f7f724b9a
-    url: 'https://traffic.megaphone.fm/GLT4591433287.mp3'
-    published: '2019-10-17T08:00:00Z'
-    duration: 2920
-    fileType: audio/mp3
-    title: Young Love
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 2920
-    starred: false
-    podcastUuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 3
-    episodeNumber: 1
-    isDeleted: true
-  - uuid: dc2b7ddc-df7a-4873-829a-f2d34574551d
-    url: 'https://traffic.megaphone.fm/WSJ4365454830.mp3'
-    published: '2019-10-22T21:12:36Z'
-    duration: 1001
-    fileType: audio/mp3
-    title: The Pressure Inside Boeing
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1001
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 5d28b751-4efc-4108-9872-ab2d5cfc64e0
-    url: 'http://traffic.libsyn.com/numberphile/numberphile_timothy_gowers.mp3'
-    published: '2019-10-22T08:19:56Z'
-    duration: 3259
-    fileType: audio/mp3
-    title: Fame and Admiration - with Timothy Gowers
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 3259
-    starred: false
-    podcastUuid: 8cb63a90-c70a-0136-7b94-27f978dac4db
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: f5ea8dfe-50fb-4e1c-851b-f6aae27869ab
-    url: >-
-      https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2019/10/20191018_hibt_gimletpod-52b67d0e-495b-47ad-873d-adf63240e1bf.mp3?awCollectionId=510313&awEpisodeId=771391075&orgId=1&d=4909&p=510313&story=771391075&t=podcast&e=771391075&size=78362012&ft=pod&f=510313
-    published: '2019-10-21T04:01:01Z'
-    duration: 4944
-    fileType: audio/mpeg
-    title: 'Gimlet Media: Alex Blumberg and Matt Lieber'
-    size: '78362012'
-    playingStatus: 3
-    playedUpTo: 4944
-    starred: false
-    podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: d75c8293-fa0b-433c-b51d-a67ce8e1cee4
-    url: 'https://traffic.megaphone.fm/WSJ2833034177.mp3'
-    published: '2019-10-21T21:41:44Z'
-    duration: 1227
-    fileType: audio/mp3
-    title: Zuckerberg Goes on the Offensive
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1227
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 7e45d24c-8a31-4799-a785-5ea4cd13f653
-    url: >-
-      https://traffic.omny.fm/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/75a86d39-9e0e-4e9a-b948-aae301805fe6/fedb8a2b-8596-48ec-bce7-aae8004dd738/audio.mp3?utm_source=Podcast&in_playlist=514362cf-31b4-4ed2-af40-aae301805ffd
-    published: '2019-10-16T04:00:00Z'
-    duration: 3256
-    fileType: audio/mpeg
-    title: The Pilot
-    size: '49077824'
-    playingStatus: 3
-    playedUpTo: 3256
-    starred: false
-    podcastUuid: 0d1f6c30-bb1e-0137-0dbf-0acc26574db2
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 1
-    isDeleted: true
-  - uuid: 18459cda-1ad8-4d78-8646-0692df3caee6
-    url: 'https://traffic.megaphone.fm/WSJ4334842416.mp3'
-    published: '2019-10-17T23:25:41Z'
-    duration: 1464
-    fileType: audio/mp3
-    title: Ten Days That Shifted Power in Syria
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1464
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 65f16e6c-4967-4261-9721-7263f6ae721c
-    url: >-
-      https://media.blubrry.com/sitepen/media.sitepen.com/podcast/TalkScript_050.mp3
-    published: '2019-10-15T20:11:14Z'
-    duration: 2813
-    fileType: audio/mp3
-    title: 'Episode 50: Classical vs. Functional in TypeScript'
-    size: '45060169'
-    playingStatus: 2
-    playedUpTo: 2662
-    starred: false
-    podcastUuid: 20592310-4f61-0133-c35e-0d11918ab357
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: eb8889d1-e689-4542-87d2-aeea14f15614
-    url: 'https://traffic.megaphone.fm/WSJ6074706611.mp3'
-    published: '2019-10-18T20:06:15Z'
-    duration: 1289
-    fileType: audio/mp3
-    title: Rick Perry's Side of the Ukraine Story
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1289
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 62008e6e-350d-468d-9a55-906575261ac2
-    url: 'https://traffic.megaphone.fm/WSJ8525640832.mp3'
-    published: '2019-10-16T20:33:34Z'
-    duration: 1150
-    fileType: audio/mp3
-    title: How Campaigns Are Tracking Your Location
-    size: '0'
-    playingStatus: 2
-    playedUpTo: 1131
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 9e6067a9-2692-46c7-bbec-56bd0affaa7f
-    url: 'https://traffic.megaphone.fm/WSJ4088427421.mp3'
-    published: '2019-10-15T20:26:45Z'
-    duration: 1106
-    fileType: audio/mp3
-    title: The Airline CEO Trying to Change Amtrak
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1106
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: a90e26bc-2289-4533-b45e-e2fc831e8bd2
-    url: >-
-      https://chtbl.com/track/8E527/traffic.megaphone.fm/STU4704919282.mp3?updated=1570126346
-    published: '2019-10-04T08:00:00Z'
-    duration: 4478
-    fileType: audio/mpeg
-    title: >-
-      Microsoft's New & Future Products and Talking Tesla & Hackintosh w/ Quinn
-      from SnazzyLabs
-    size: '0'
-    playingStatus: 2
-    playedUpTo: 923
-    starred: false
-    podcastUuid: 7d9a4610-9673-0137-4052-0acc26574db2
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 6
-    isDeleted: true
-  - uuid: 0542e6d5-f527-4cb0-bbb4-e42455408436
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise314.mp3
-    published: '2019-10-02T18:00:00Z'
-    duration: 1799
-    fileType: audio/mp3
-    title: 'Get a Real Computer, Jerk'
-    size: '21770707'
-    playingStatus: 2
-    playedUpTo: 1449
-    starred: false
-    podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 746e01da-8aad-490e-bd12-e933aade040c
-    url: >-
-      https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise315.mp3
-    published: '2019-10-09T17:00:00Z'
-    duration: 1783
-    fileType: audio/mp3
-    title: 'Pop Quiz, Hot Shot!'
-    size: '21580636'
-    playingStatus: 3
-    playedUpTo: 1783
-    starred: false
-    podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: b05ac9cb-3b49-4c03-9570-a2f0ec03eeed
-    url: 'https://traffic.megaphone.fm/WSJ3226099740.mp3'
-    published: '2019-10-11T21:33:00Z'
-    duration: 1776
-    fileType: audio/mp3
-    title: The FBI Lost Our Son
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1776
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: ec953ce0-66e2-4868-8f18-181a3d956bd1
-    url: 'https://traffic.megaphone.fm/WSJ6952853725.mp3'
-    published: '2019-10-10T20:48:49Z'
-    duration: 1114
-    fileType: audio/mp3
-    title: An Investigation Into Sex Abuse and Fraud at USA Swimming
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1114
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: a43f3e83-de14-4c63-945a-3897bd442f64
-    url: 'https://traffic.megaphone.fm/GLT7976955472.mp3?updated=1570676164'
-    published: '2019-10-10T08:00:00Z'
-    duration: 2775
-    fileType: audio/mpeg
-    title: Beverley and Van
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 2775
-    starred: false
-    podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 4
-    episodeNumber: 26
-    isDeleted: true
-  - uuid: 428aca86-c654-4dba-98d2-a1a9abbc1f64
-    url: 'https://traffic.megaphone.fm/GLT8460482625.mp3'
-    published: '2018-10-04T10:30:00Z'
-    duration: 3777
-    fileType: audio/mp3
-    title: Rob
-    size: '0'
-    playingStatus: 2
-    playedUpTo: 1196
-    starred: false
-    podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 3
-    episodeNumber: 16
-    isDeleted: true
-  - uuid: 5aea7c17-d7c4-4ecd-9e8b-61d61e08fc81
-    url: >-
-      https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2019/10/20191004_hibt_theknot-105f55e2-e2b6-499e-b452-2e7421a4c3f8.mp3?awCollectionId=510313&awEpisodeId=767378987&orgId=1&d=3421&p=510313&story=767378987&t=podcast&e=767378987&size=54608441&ft=pod&f=510313
-    published: '2019-10-07T04:01:31Z'
-    duration: 3457
-    fileType: audio/mpeg
-    title: 'The Knot: Carley Roney & David Liu'
-    size: '54608441'
-    playingStatus: 2
-    playedUpTo: 1498
-    starred: false
-    podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 974b1866-0c7c-4c62-b58d-9aaf0265ec0c
-    url: 'https://traffic.megaphone.fm/WSJ8938886237.mp3'
-    published: '2019-10-09T21:23:56Z'
-    duration: 1010
-    fileType: audio/mp3
-    title: The First Major Impeachment Clash
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1010
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: f3cbcbd1-45e4-4e9a-a2fb-06a21a5c7872
-    url: 'https://traffic.megaphone.fm/WSJ6550297133.mp3'
-    published: '2019-10-03T20:04:54Z'
-    duration: 1044
-    fileType: audio/mp3
-    title: Lunch With the Two M.B.A.s Who Are Changing Sports
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1044
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: b504ac38-4636-49ff-9b03-6324ee197d9b
-    url: 'https://traffic.megaphone.fm/WSJ5277451271.mp3?updated=1570565110'
-    published: '2019-10-08T20:01:42Z'
-    duration: 1075
-    fileType: audio/mpeg
-    title: The Tweet That Rocked the NBA in China
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1075
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 087fa521-fcb7-4bf9-8df7-c733d52855e2
-    url: 'https://traffic.megaphone.fm/WSJ8800231382.mp3'
-    published: '2019-10-04T21:24:53Z'
-    duration: 1323
-    fileType: audio/mp3
-    title: Facebook's New Currency Hits a Snag
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 1323
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
-  - uuid: 979baacc-2738-41ca-84d2-7f53bef89b3b
-    url: 'https://traffic.megaphone.fm/WSJ4043143546.mp3'
-    published: '2019-10-07T20:57:08Z'
-    duration: 771
-    fileType: audio/mp3
-    title: Will the Supreme Court Redefine 'Sex'?
-    size: '0'
-    playingStatus: 3
-    playedUpTo: 771
-    starred: false
-    podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-    podcastTitle: ''
-    episodeType: full
-    episodeSeason: 0
-    episodeNumber: 0
-    isDeleted: true
+- uuid: c3ccac1a-a319-4ee9-ac4a-d44637f456f8
+  url: 'http://traffic.libsyn.com/hellointernet/135.mp3'
+  published: '2020-01-23T16:23:43Z'
+  duration: 5397
+  fileType: audio/mp3
+  title: 'H.I. #135: Place Your Bets'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 3979
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 135
+  isDeleted: false
+- uuid: 3c372eea-f095-4250-b96d-2c86db889fb0
+  url: 'http://traffic.libsyn.com/hellointernet/50.mp3'
+  published: '2015-11-06T16:21:07Z'
+  duration: 9482
+  fileType: audio/mp3
+  title: 'H.I. #50: Queen of Spades'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 9481
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: faec9b23-f947-408c-9e8b-a8b31ed87745
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM2181649796.mp3
+  published: '2020-01-15T09:00:00Z'
+  duration: 1835
+  fileType: audio/mp3
+  title: Take Insta-Perfect Vacation Photos
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1835
+  starred: false
+  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: f7bf390b-00b3-49e6-93ec-6a0e1e05c60d
+  url: 'http://traffic.libsyn.com/hellointernet/80.mp3'
+  published: '2017-03-28T22:20:22Z'
+  duration: 6312
+  fileType: audio/mp3
+  title: 'H.I #80: Operation Twinkle Toes'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 6311
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 63bc25be-6333-4ce9-8cb1-9b0a0c9d6e4c
+  url: 'http://traffic.libsyn.com/unmade/unmade_episode38.mp3'
+  published: '2020-01-15T23:11:54Z'
+  duration: 3099
+  fileType: audio/mp3
+  title: '38: The Jack Ruby Episode'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 3099
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 2d5ce89f-24d7-43eb-81b6-975c7b39cad2
+  url: 'http://traffic.libsyn.com/hellointernet/66.mp3'
+  published: '2016-07-18T23:19:02Z'
+  duration: 7012
+  fileType: audio/mp3
+  title: 'H.I. #66: A Classic Episode'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 7012
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 5b75f6b7-fdbc-4134-9404-f5378b8b290f
+  url: 'http://traffic.libsyn.com/hellointernet/47.mp3'
+  published: '2015-09-22T08:24:26Z'
+  duration: 0
+  fileType: ''
+  title: 'H.I. #47: Charismatic Megafauna'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 7610
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: ''
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: f70fbe41-a9a8-4585-aacf-c93ef3e88c7e
+  url: >-
+    https://chtbl.com/track/8E527/traffic.megaphone.fm/STU9336471345.mp3?updated=1576204769
+  published: '2019-12-13T08:15:00Z'
+  duration: 4900
+  fileType: audio/mpeg
+  title: >-
+    Talking Tech w/ Shark Tank's Kevin O'Leary, Portless iPhone Rumors, & Our
+    Holiday Gift Guide
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 4900
+  starred: false
+  podcastUuid: 7d9a4610-9673-0137-4052-0acc26574db2
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 11
+  isDeleted: true
+- uuid: 9046f08f-6e56-46e4-b5c8-217a6f07d12a
+  url: 'http://traffic.libsyn.com/hellointernet/The_Rise_of_Skywalker.mp3'
+  published: '2019-12-25T09:38:28Z'
+  duration: 6951
+  fileType: audio/mp3
+  title: The Rise of Skywalker
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 6951
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 1ba4a1d1-dd9b-4424-8222-b7c83454a4fc
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM4598725188.mp3
+  published: '2020-01-01T09:00:00Z'
+  duration: 2170
+  fileType: audio/mp3
+  title: This Woman is Everyone’s Dream Travel Companion
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2170
+  starred: false
+  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 27760ce9-4470-4d20-9d18-3d0b78a421f1
+  url: >-
+    https://chtbl.com/track/8E527/traffic.megaphone.fm/STU3332183984.mp3?updated=1577424149
+  published: '2019-12-27T08:30:00Z'
+  duration: 5770
+  fileType: audio/mpeg
+  title: Behind the Scenes of the 2019 MKBHD Awards
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 5770
+  starred: false
+  podcastUuid: 7d9a4610-9673-0137-4052-0acc26574db2
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 12
+  isDeleted: true
+- uuid: 59836301-d616-4521-ab3b-e422995c2fe8
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM6796498821.mp3
+  published: '2020-01-08T09:00:00Z'
+  duration: 1788
+  fileType: audio/mp3
+  title: Where To Go In 2020
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1788
+  starred: false
+  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 8d7c85ae-7bf9-42a1-8e6b-e8d45b1574a6
+  url: 'http://traffic.libsyn.com/hellointernet/HI_91.mp3'
+  published: '2017-10-31T22:05:11Z'
+  duration: 7222
+  fileType: audio/mp3
+  title: 'H.I. #91: Last Man to Die?'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 7228
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 60eae5f5-65a1-4e59-a9ac-0d10aaea9b71
+  url: 'http://traffic.libsyn.com/hellointernet/HI92.mp3'
+  published: '2017-11-24T22:20:12Z'
+  duration: 6837
+  fileType: audio/mp3
+  title: 'H.I. #92: Grey Honeypot'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 6843
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 92
+  isDeleted: true
+- uuid: c041e325-43f6-45ce-9c54-4e870778dd8d
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_275.mp3
+  published: '2020-01-01T16:00:00Z'
+  duration: 5731
+  fileType: audio/mp3
+  title: The Rickies (Early 2020)
+  size: '91861061'
+  playingStatus: 3
+  playedUpTo: 5732
+  starred: false
+  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 0a8719e8-fddf-4798-b4fc-a12970d890d5
+  url: 'http://traffic.libsyn.com/hellointernet/HI134.mp3'
+  published: '2019-12-30T22:52:28Z'
+  duration: 4956
+  fileType: audio/mp3
+  title: 'H.I. 134: Boxing Day'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 4956
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 3a5b1cb6-395e-4d50-925b-ebed7cb000b8
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_095.mp3
+  published: '2019-12-31T13:00:00Z'
+  duration: 6148
+  fileType: audio/mp3
+  title: 2020 Yearly Themes
+  size: '99015197'
+  playingStatus: 3
+  playedUpTo: 6149
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 36d4b1ed-116e-4aef-8cf9-045796c29ccb
+  url: 'http://traffic.libsyn.com/unmade/unmade_tommyball_decade.mp3'
+  published: '2019-12-29T15:26:48Z'
+  duration: 1753
+  fileType: audio/mp3
+  title: 'Special: Tommyball Moment of the Decade'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1753
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 83fd463e-5ca7-4fc9-803b-fea29fabae3f
+  url: >-
+    https://anchor.fm/s/3b926a4/podcast/play/9255816/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-24%2F40521686-44100-2-d8420ccc7321f.mp3
+  published: '2019-12-25T10:30:00Z'
+  duration: 306
+  fileType: audio/mp3
+  title: Christmas is cancelled
+  size: '12247166'
+  playingStatus: 3
+  playedUpTo: 306
+  starred: false
+  podcastUuid: 1c179450-6200-0136-4e65-69745d675bc7
+  podcastTitle: ''
+  episodeType: bonus
+  episodeSeason: 1
+  episodeNumber: 0
+  isDeleted: true
+- uuid: fdfecfdd-82cc-4d35-982d-676fa251091c
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM6252524237.mp3
+  published: '2019-12-25T09:00:00Z'
+  duration: 2074
+  fileType: audio/mp3
+  title: Always Look Fresh While On The Road
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2074
+  starred: false
+  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 3480b489-94f6-4546-b481-42302bbbbabf
+  url: 'http://traffic.libsyn.com/unmade/unmade_episode37.mp3'
+  published: '2019-12-23T00:05:51Z'
+  duration: 2878
+  fileType: audio/mp3
+  title: '37: The Queen''s Podcast'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2878
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 163a1948-1028-4e51-8610-d7d632fb0450
+  url: 'http://traffic.libsyn.com/hellointernet/132.mp3'
+  published: '2019-12-23T22:39:57Z'
+  duration: 5508
+  fileType: audio/mp3
+  title: 'H.I. #132: Artisan Water'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 5517
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 132
+  isDeleted: true
+- uuid: 33047014-0067-408e-8ebb-2b441c097fcd
+  url: 'https://traffic.megaphone.fm/WSJ3260734149.mp3'
+  published: '2019-12-18T22:48:52Z'
+  duration: 1132
+  fileType: audio/mp3
+  title: The Senate Prepares for a Trial
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1132
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 325d5c8d-6c71-4229-a249-eeadd4200b39
+  url: 'https://traffic.megaphone.fm/GLT7180580619.mp3?updated=1576729343'
+  published: '2019-12-19T09:00:00Z'
+  duration: 3160
+  fileType: audio/mpeg
+  title: Marie-Claude
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 3160
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 4
+  episodeNumber: 31
+  isDeleted: true
+- uuid: 0092d4ea-c06b-48ae-8174-f80b2f1c5036
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM9713725980.mp3
+  published: '2019-12-18T09:00:00Z'
+  duration: 1889
+  fileType: audio/mp3
+  title: Hack Your Way Into Business Class
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1889
+  starred: false
+  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: df355bbc-3f42-4b1b-a474-d28ab837292d
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM4920116137.mp3
+  published: '2019-12-11T09:00:00Z'
+  duration: 1775
+  fileType: audio/mp3
+  title: Why Do We Go Crazy Boarding Planes?
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1775
+  starred: false
+  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: b091eecd-9199-41da-a4e6-1a1eb4d58eed
+  url: 'https://traffic.megaphone.fm/GLT8378710544.mp3?updated=1576124921'
+  published: '2019-12-12T09:00:00Z'
+  duration: 3290
+  fileType: audio/mpeg
+  title: The Marshes
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 3171
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 4
+  episodeNumber: 30
+  isDeleted: true
+- uuid: 99c5c76b-44f8-4c6c-a91b-18ee47c3719f
+  url: 'https://traffic.megaphone.fm/WSJ7954690576.mp3'
+  published: '2019-11-19T22:09:15Z'
+  duration: 1113
+  fileType: audio/mp3
+  title: Taylor Swift Versus Big Machine
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1113
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: d05ad6b6-215a-47d5-a1cf-574c948dc178
+  url: 'https://traffic.megaphone.fm/WSJ5997098330.mp3'
+  published: '2019-12-05T21:18:32Z'
+  duration: 1134
+  fileType: audio/mp3
+  title: The Central Question of Impeachment
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1134
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 3e250014-e649-4a50-a752-1f2a0080c0ec
+  url: 'https://traffic.megaphone.fm/WSJ7856208324.mp3'
+  published: '2019-12-06T21:44:19Z'
+  duration: 1083
+  fileType: audio/mp3
+  title: Why Tech Is Making Its Own Rules for Political Ads
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1083
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: f945e7e3-fc48-414b-b34d-a3f12c8bdbd6
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_094.mp3
+  published: '2019-12-10T12:00:00Z'
+  duration: 7395
+  fileType: audio/mp3
+  title: State of the Apps 2020
+  size: '119881544'
+  playingStatus: 3
+  playedUpTo: 7395
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: acd7d5ca-6e54-42a1-be79-3ee8f8e88187
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM4206490730.mp3
+  published: '2019-12-04T09:00:00Z'
+  duration: 1988
+  fileType: audio/mp3
+  title: The Thing You Should Never Pack
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1988
+  starred: false
+  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: c01cd4c5-25de-42ec-90e9-a9b2501c1e02
+  url: >-
+    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2019/12/20191206_hibt_minted-b98b6027-296e-4afd-bdf1-156388685ccc.mp3?awCollectionId=510313&awEpisodeId=785607378&orgId=1&d=3162&p=510313&story=785607378&t=podcast&e=785607378&size=50476388&ft=pod&f=510313
+  published: '2019-12-09T05:01:10Z'
+  duration: 3190
+  fileType: audio/mpeg
+  title: 'Minted: Mariam Naficy'
+  size: '50476388'
+  playingStatus: 3
+  playedUpTo: 3190
+  starred: false
+  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 9bb6d4e7-6264-4be7-b115-6d6dbbc15b22
+  url: 'https://traffic.megaphone.fm/GLT1856562359.mp3?updated=1574312030'
+  published: '2019-11-21T09:00:00Z'
+  duration: 2705
+  fileType: audio/mpeg
+  title: Elyse
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2705
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 4
+  episodeNumber: 29
+  isDeleted: true
+- uuid: b2a50d6b-5f9e-413e-bd86-355e376e8e4f
+  url: 'http://traffic.libsyn.com/hellointernet/64.mp3'
+  published: '2016-05-26T16:57:59Z'
+  duration: 6130
+  fileType: audio/mp3
+  title: 'H.I. #64: The Quiz Show'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 6130
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 81ae5374-0334-4ca0-a738-7dabe82b89de
+  url: 'https://traffic.megaphone.fm/WSJ8010242777.mp3'
+  published: '2019-12-04T21:49:46Z'
+  duration: 990
+  fileType: audio/mp3
+  title: A $1.5 Billion Bet Against the Stock Market
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 990
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: c35e331f-46aa-4acc-a5d2-16f88074704d
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM5268173597.mp3?updated=1574803710
+  published: '2019-11-27T09:00:00Z'
+  duration: 2028
+  fileType: audio/mpeg
+  title: The Disney Hacks We Can’t Let Go
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2028
+  starred: false
+  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: cfeea00f-2730-4de2-a659-383bfc694af3
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM4891644315.mp3?updated=1574197917
+  published: '2019-11-20T09:00:00Z'
+  duration: 2035
+  fileType: audio/mpeg
+  title: On Butter and Bourdain
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2035
+  starred: false
+  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 01cd2668-2ae9-428c-a06f-0ff79d5714f3
+  url: 'https://traffic.megaphone.fm/WSJ7580420677.mp3'
+  published: '2019-12-02T22:04:36Z'
+  duration: 1405
+  fileType: audio/mp3
+  title: Why TikTok's Under Investigation
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1405
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 752bce71-676b-40fc-8a20-23c06153d58e
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_093.mp3
+  published: '2019-11-26T13:00:00Z'
+  duration: 4999
+  fileType: audio/mp3
+  title: The Memory of Somebody Else
+  size: '80569273'
+  playingStatus: 3
+  playedUpTo: 4999
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: d9f2423e-11b4-4482-bbc3-d82ae00b5042
+  url: >-
+    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2019/11/20191126_hibt_otterbox.mp3?awCollectionId=510313&awEpisodeId=782770480&orgId=1&d=3894&p=510313&story=782770480&t=podcast&e=782770480&size=62164275&ft=pod&f=510313
+  published: '2019-12-02T05:01:28Z'
+  duration: 3894
+  fileType: audio/mpeg
+  title: 'Live Episode! OtterBox: Curt Richardson'
+  size: '62164275'
+  playingStatus: 2
+  playedUpTo: 0
+  starred: false
+  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: bfe5b048-d5ac-4173-93b7-b91216aa0e54
+  url: 'https://traffic.megaphone.fm/GLT2568029984.mp3'
+  published: '2019-10-15T10:00:00Z'
+  duration: 1332
+  fileType: audio/mp3
+  title: Faking Good Design
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 788
+  starred: false
+  podcastUuid: ead2fd60-a9a3-0136-7b93-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 2
+  episodeNumber: 5
+  isDeleted: true
+- uuid: e6eca78b-7908-4c93-8d22-3aa62cd8ea83
+  url: 'http://traffic.libsyn.com/hellointernet/131.mp3'
+  published: '2019-11-19T21:22:23Z'
+  duration: 5789
+  fileType: audio/mp3
+  title: 'H.I. #131: Panda Park'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 5757
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 131
+  isDeleted: true
+- uuid: a74259fa-3cc9-4297-a061-56d9131a8a90
+  url: 'https://traffic.megaphone.fm/WSJ8819188047.mp3'
+  published: '2019-11-15T22:12:32Z'
+  duration: 1067
+  fileType: audio/mp3
+  title: Nike and Amazon's Breakup
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1067
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 1a2068bf-1165-4279-96a2-99b0edb5b292
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM6396264845.mp3?updated=1573594833
+  published: '2019-11-13T09:00:00Z'
+  duration: 1934
+  fileType: audio/mpeg
+  title: Let’s Make a Travel Deal
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1934
+  starred: false
+  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 2ada1aa5-af83-4bcd-8890-6f2685fa1cef
+  url: >-
+    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2019/11/20191108_hibt_evite-86099a32-80b6-4d1b-96c4-163754a7e9b6.mp3?awCollectionId=510313&awEpisodeId=777708195&orgId=1&d=3914&p=510313&story=777708195&t=podcast&e=777708195&size=62488907&ft=pod&f=510313
+  published: '2019-11-11T05:01:46Z'
+  duration: 3947
+  fileType: audio/mpeg
+  title: 'Evite: Selina Tobaccowala'
+  size: '62488907'
+  playingStatus: 3
+  playedUpTo: 3938
+  starred: false
+  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 3110567a-c07a-4262-b179-da1f26bf6018
+  url: 'https://traffic.megaphone.fm/WSJ3199256329.mp3'
+  published: '2019-11-08T21:38:56Z'
+  duration: 1001
+  fileType: audio/mp3
+  title: WhatsApp's Hack
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 937
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: bd811462-8d35-4520-b4da-13dfe7c47ecc
+  url: 'http://traffic.libsyn.com/unmade/unmade_episode36.mp3'
+  published: '2019-11-12T22:07:18Z'
+  duration: 2988
+  fileType: audio/mp3
+  title: '36: Confession Booth'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2988
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: afaf3212-bdeb-4bf1-9350-df32b9c9c613
+  url: 'http://traffic.libsyn.com/numberphile/numberphile_james_maynard.mp3'
+  published: '2019-11-10T22:12:00Z'
+  duration: 2498
+  fileType: audio/mp3
+  title: The Badly Behaved Prime - with James Maynard
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2498
+  starred: false
+  podcastUuid: 8cb63a90-c70a-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 1273e76f-9cbf-4e60-ad76-8054811ff9f4
+  url: 'https://traffic.megaphone.fm/GLT8127900778.mp3'
+  published: '2019-11-11T21:58:48Z'
+  duration: 3170
+  fileType: audio/mp3
+  title: 'Introducing Esther''s New Podcast: How''s Work?'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 3170
+  starred: false
+  podcastUuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 3
+  episodeNumber: 5
+  isDeleted: true
+- uuid: 139f9f3d-5ba8-4cd9-a85d-0ab6180843b8
+  url: 'https://traffic.megaphone.fm/GLT6656802567.mp3?updated=1573095593'
+  published: '2019-11-07T09:00:00Z'
+  duration: 2975
+  fileType: audio/mpeg
+  title: Dr. Muller
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 2830
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 4
+  episodeNumber: 28
+  isDeleted: true
+- uuid: 8da9fd83-669d-4fcd-a433-f6e2b80e3008
+  url: 'https://traffic.megaphone.fm/WSJ4204455115.mp3'
+  published: '2019-11-06T21:46:17Z'
+  duration: 1051
+  fileType: audio/mp3
+  title: Under Armour Under Investigation
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 791
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: e83ee8c4-c95e-4dca-9915-e686b13d5e9c
+  url: 'https://traffic.megaphone.fm/GLT1543707323.mp3'
+  published: '2019-10-31T08:00:00Z'
+  duration: 2936
+  fileType: audio/mp3
+  title: The Other Woman
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2936
+  starred: false
+  podcastUuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 3
+  episodeNumber: 3
+  isDeleted: true
+- uuid: 311832bb-dbb7-4c39-8a92-94bf86e77be8
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM4215582041.mp3?updated=1572992063
+  published: '2019-11-06T09:00:00Z'
+  duration: 1981
+  fileType: audio/mpeg
+  title: Turning Travel Lemons Into Lemonade
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1981
+  starred: false
+  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: c4779b67-1e9c-4bd2-9e53-1fad31a95e28
+  url: 'https://traffic.megaphone.fm/WSJ6800055025.mp3?updated=1572643153'
+  published: '2019-11-01T20:48:27Z'
+  duration: 1393
+  fileType: audio/mpeg
+  title: When the Drug Cartel Takes Over
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1393
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: fa58eb63-a56c-4cb1-8ef1-bf4df4f780e5
+  url: 'https://traffic.megaphone.fm/WSJ9229153188.mp3'
+  published: '2019-11-04T21:26:11Z'
+  duration: 1123
+  fileType: audio/mp3
+  title: The Investor That Spent $1 Billion a Week
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1123
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 224f928a-1338-4d20-9690-764d3c66fed1
+  url: 'https://traffic.megaphone.fm/WSJ4291483508.mp3'
+  published: '2019-11-05T22:23:29Z'
+  duration: 1163
+  fileType: audio/mp3
+  title: Bitcoin Comes Untethered
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1163
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: b8609b78-3ed5-4ef3-85a3-39d1ef20c800
+  url: 'https://traffic.megaphone.fm/WSJ8562482060.mp3'
+  published: '2019-10-31T22:09:09Z'
+  duration: 1192
+  fileType: audio/mp3
+  title: How Car Makers Got Caught Between Trump and California
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1192
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: e7d59990-142d-4c7b-94e4-70b06659aebf
+  url: 'https://traffic.megaphone.fm/WSJ5271191993.mp3?updated=1572469027'
+  published: '2019-10-30T20:32:21Z'
+  duration: 868
+  fileType: audio/mpeg
+  title: Can Cities Fight Guns with Taxes?
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 868
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 0700d683-ae56-43d9-9768-234bf3b0d93e
+  url: 'https://chtbl.com/track/8E527/traffic.megaphone.fm/STU9289121669.mp3'
+  published: '2019-11-01T07:30:00Z'
+  duration: 4489
+  fileType: audio/mp3
+  title: >-
+    Apple's New Airpods Pro, #TeamTrees, & the Twitch vs Mixer Streaming
+    Platform Battle
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 4489
+  starred: false
+  podcastUuid: 7d9a4610-9673-0137-4052-0acc26574db2
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 8
+  isDeleted: true
+- uuid: 8d5fe2f1-48dc-4439-882a-27cf956fdf8d
+  url: 'http://traffic.libsyn.com/hellointernet/130.mp3'
+  published: '2019-10-29T09:08:08Z'
+  duration: 5622
+  fileType: audio/mp3
+  title: 'H.I. #130: Remember Harder'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 5622
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 130
+  isDeleted: true
+- uuid: 660b97a3-d3e7-4c67-b7e2-21955aa3d3a7
+  url: 'https://traffic.megaphone.fm/WSJ8460065641.mp3'
+  published: '2019-10-28T21:11:56Z'
+  duration: 1183
+  fileType: audio/mp3
+  title: Big Retailers Banned These Apparel Factories. Amazon Didn't.
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1175
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 6ac324ae-33f7-46f3-9a4d-217bb5bb1b40
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_92.mp3
+  published: '2019-10-28T15:30:00Z'
+  duration: 6041
+  fileType: audio/mp3
+  title: Time Continuum Consequences
+  size: '97467290'
+  playingStatus: 3
+  playedUpTo: 6041
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 8955c93b-db21-49d3-82f5-bd244540b1f5
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_266.mp3
+  published: '2019-10-23T21:15:00Z'
+  duration: 5446
+  fileType: audio/mp3
+  title: 'What Are You, an Accountant?'
+  size: '87286337'
+  playingStatus: 2
+  playedUpTo: 1028
+  starred: false
+  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: eea4c139-8c64-417a-8bbc-7cdac68d84ab
+  url: 'https://traffic.megaphone.fm/LM1843473342.mp3?updated=1558363454'
+  published: '2019-05-21T07:00:00Z'
+  duration: 2092
+  fileType: audio/mpeg
+  title: General David Petraeus
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2092
+  starred: false
+  podcastUuid: 851d1840-476e-0137-f266-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 1
+  episodeNumber: 2
+  isDeleted: true
+- uuid: d261d8d2-1ef7-42b5-9161-146e390600ee
+  url: 'https://traffic.megaphone.fm/LM1931187514.mp3'
+  published: '2019-04-17T16:11:26Z'
+  duration: 89
+  fileType: audio/mp3
+  title: Introducing Wisdom From the Top
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 89
+  starred: false
+  podcastUuid: 851d1840-476e-0137-f266-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: trailer
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 7161dfff-3fdc-4484-b0e6-44fb48e5f938
+  url: 'http://traffic.libsyn.com/unmade/unmade_episode35.mp3'
+  published: '2019-10-27T06:01:38Z'
+  duration: 2811
+  fileType: audio/mp3
+  title: '35: Backed the Wrong Horse'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2811
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: f6c26332-3185-4aa0-8d99-fc6247a17866
+  url: 'https://traffic.megaphone.fm/WSJ5214000317.mp3'
+  published: '2019-10-25T20:49:48Z'
+  duration: 1149
+  fileType: audio/mp3
+  title: 'WeWork: Cashed Out'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1149
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: fb1f0648-49d0-4616-b682-fd030f3c262f
+  url: >-
+    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2019/09/20190927_hibt_walker.mp3?awCollectionId=510313&awEpisodeId=764355017&orgId=1&d=3787&p=510313&story=764355017&t=podcast&e=764355017&size=60469170&ft=pod&f=510313
+  published: '2019-09-30T04:01:40Z'
+  duration: 3788
+  fileType: audio/mpeg
+  title: 'Live Episode! Walker & Company: Tristan Walker'
+  size: '60469170'
+  playingStatus: 3
+  playedUpTo: 3788
+  starred: false
+  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: f72c5f83-7409-4102-9bdc-406bd67352b8
+  url: 'https://traffic.megaphone.fm/WSJ4453117953.mp3'
+  published: '2019-10-24T20:27:58Z'
+  duration: 957
+  fileType: audio/mp3
+  title: States Got Hooked on Tobacco Money. Are Opioids Next?
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 957
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 98ff4488-9d51-48fa-ad25-8b8e107f70e0
+  url: 'https://traffic.megaphone.fm/GLT9331285755.mp3'
+  published: '2019-10-24T08:00:00Z'
+  duration: 2977
+  fileType: audio/mp3
+  title: A Small Town Affair
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2977
+  starred: false
+  podcastUuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 3
+  episodeNumber: 2
+  isDeleted: true
+- uuid: c49c2104-f9ce-4581-a20a-2c48ecddff3d
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM2616762501.mp3
+  published: '2019-10-24T18:08:00Z'
+  duration: 105
+  fileType: audio/mp3
+  title: We're Back! Season Two Coming Soon
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 105
+  starred: false
+  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 3be18ae1-af77-4c7e-8688-32c58e0125ae
+  url: 'https://traffic.megaphone.fm/GLT5809408770.mp3?updated=1571892161'
+  published: '2019-10-24T08:00:00Z'
+  duration: 3186
+  fileType: audio/mpeg
+  title: Scott
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 3186
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 4
+  episodeNumber: 27
+  isDeleted: true
+- uuid: a63ffc43-cb1d-4b2f-a1cb-42725282bb70
+  url: 'https://traffic.megaphone.fm/WSJ5305584849.mp3'
+  published: '2019-10-23T21:52:45Z'
+  duration: 1064
+  fileType: audio/mp3
+  title: What Taylor's Testimony Means for Impeachment
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1064
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 37b03a6c-0925-42ba-b692-b245500f23f9
+  url: 'http://feedproxy.google.com/~r/Http203Podcast/~5/nLtrDI95sYE/episode-25.mp3'
+  published: '2019-10-18T00:00:00Z'
+  duration: 3628
+  fileType: audio/mp3
+  title: 'Stability, TODOs, and the HTTP 203 census'
+  size: '38066136'
+  playingStatus: 2
+  playedUpTo: 1289
+  starred: false
+  podcastUuid: 3f6543f0-4358-0133-bfa6-0d11918ab357
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 12754ebd-89c5-4adb-8ce9-792406b30838
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise317.mp3
+  published: '2019-10-23T17:15:00Z'
+  duration: 1799
+  fileType: audio/mp3
+  title: Fancy Super Duper Techno Chippy Things
+  size: '21764045'
+  playingStatus: 3
+  playedUpTo: 1799
+  starred: false
+  podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: d078fc3c-ae6c-4aa3-b770-052f7f724b9a
+  url: 'https://traffic.megaphone.fm/GLT4591433287.mp3'
+  published: '2019-10-17T08:00:00Z'
+  duration: 2920
+  fileType: audio/mp3
+  title: Young Love
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2920
+  starred: false
+  podcastUuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 3
+  episodeNumber: 1
+  isDeleted: true
+- uuid: dc2b7ddc-df7a-4873-829a-f2d34574551d
+  url: 'https://traffic.megaphone.fm/WSJ4365454830.mp3'
+  published: '2019-10-22T21:12:36Z'
+  duration: 1001
+  fileType: audio/mp3
+  title: The Pressure Inside Boeing
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1001
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 5d28b751-4efc-4108-9872-ab2d5cfc64e0
+  url: 'http://traffic.libsyn.com/numberphile/numberphile_timothy_gowers.mp3'
+  published: '2019-10-22T08:19:56Z'
+  duration: 3259
+  fileType: audio/mp3
+  title: Fame and Admiration - with Timothy Gowers
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 3259
+  starred: false
+  podcastUuid: 8cb63a90-c70a-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: f5ea8dfe-50fb-4e1c-851b-f6aae27869ab
+  url: >-
+    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2019/10/20191018_hibt_gimletpod-52b67d0e-495b-47ad-873d-adf63240e1bf.mp3?awCollectionId=510313&awEpisodeId=771391075&orgId=1&d=4909&p=510313&story=771391075&t=podcast&e=771391075&size=78362012&ft=pod&f=510313
+  published: '2019-10-21T04:01:01Z'
+  duration: 4944
+  fileType: audio/mpeg
+  title: 'Gimlet Media: Alex Blumberg and Matt Lieber'
+  size: '78362012'
+  playingStatus: 3
+  playedUpTo: 4944
+  starred: false
+  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: d75c8293-fa0b-433c-b51d-a67ce8e1cee4
+  url: 'https://traffic.megaphone.fm/WSJ2833034177.mp3'
+  published: '2019-10-21T21:41:44Z'
+  duration: 1227
+  fileType: audio/mp3
+  title: Zuckerberg Goes on the Offensive
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1227
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 7e45d24c-8a31-4799-a785-5ea4cd13f653
+  url: >-
+    https://traffic.omny.fm/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/75a86d39-9e0e-4e9a-b948-aae301805fe6/fedb8a2b-8596-48ec-bce7-aae8004dd738/audio.mp3?utm_source=Podcast&in_playlist=514362cf-31b4-4ed2-af40-aae301805ffd
+  published: '2019-10-16T04:00:00Z'
+  duration: 3256
+  fileType: audio/mpeg
+  title: The Pilot
+  size: '49077824'
+  playingStatus: 3
+  playedUpTo: 3256
+  starred: false
+  podcastUuid: 0d1f6c30-bb1e-0137-0dbf-0acc26574db2
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 1
+  isDeleted: true
+- uuid: 18459cda-1ad8-4d78-8646-0692df3caee6
+  url: 'https://traffic.megaphone.fm/WSJ4334842416.mp3'
+  published: '2019-10-17T23:25:41Z'
+  duration: 1464
+  fileType: audio/mp3
+  title: Ten Days That Shifted Power in Syria
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1464
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 65f16e6c-4967-4261-9721-7263f6ae721c
+  url: >-
+    https://media.blubrry.com/sitepen/media.sitepen.com/podcast/TalkScript_050.mp3
+  published: '2019-10-15T20:11:14Z'
+  duration: 2813
+  fileType: audio/mp3
+  title: 'Episode 50: Classical vs. Functional in TypeScript'
+  size: '45060169'
+  playingStatus: 2
+  playedUpTo: 2662
+  starred: false
+  podcastUuid: 20592310-4f61-0133-c35e-0d11918ab357
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: eb8889d1-e689-4542-87d2-aeea14f15614
+  url: 'https://traffic.megaphone.fm/WSJ6074706611.mp3'
+  published: '2019-10-18T20:06:15Z'
+  duration: 1289
+  fileType: audio/mp3
+  title: Rick Perry's Side of the Ukraine Story
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1289
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 62008e6e-350d-468d-9a55-906575261ac2
+  url: 'https://traffic.megaphone.fm/WSJ8525640832.mp3'
+  published: '2019-10-16T20:33:34Z'
+  duration: 1150
+  fileType: audio/mp3
+  title: How Campaigns Are Tracking Your Location
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1131
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 9e6067a9-2692-46c7-bbec-56bd0affaa7f
+  url: 'https://traffic.megaphone.fm/WSJ4088427421.mp3'
+  published: '2019-10-15T20:26:45Z'
+  duration: 1106
+  fileType: audio/mp3
+  title: The Airline CEO Trying to Change Amtrak
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1106
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: a90e26bc-2289-4533-b45e-e2fc831e8bd2
+  url: >-
+    https://chtbl.com/track/8E527/traffic.megaphone.fm/STU4704919282.mp3?updated=1570126346
+  published: '2019-10-04T08:00:00Z'
+  duration: 4478
+  fileType: audio/mpeg
+  title: >-
+    Microsoft's New & Future Products and Talking Tesla & Hackintosh w/ Quinn
+    from SnazzyLabs
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 923
+  starred: false
+  podcastUuid: 7d9a4610-9673-0137-4052-0acc26574db2
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 6
+  isDeleted: true
+- uuid: 0542e6d5-f527-4cb0-bbb4-e42455408436
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise314.mp3
+  published: '2019-10-02T18:00:00Z'
+  duration: 1799
+  fileType: audio/mp3
+  title: 'Get a Real Computer, Jerk'
+  size: '21770707'
+  playingStatus: 2
+  playedUpTo: 1449
+  starred: false
+  podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 746e01da-8aad-490e-bd12-e933aade040c
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise315.mp3
+  published: '2019-10-09T17:00:00Z'
+  duration: 1783
+  fileType: audio/mp3
+  title: 'Pop Quiz, Hot Shot!'
+  size: '21580636'
+  playingStatus: 3
+  playedUpTo: 1783
+  starred: false
+  podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: b05ac9cb-3b49-4c03-9570-a2f0ec03eeed
+  url: 'https://traffic.megaphone.fm/WSJ3226099740.mp3'
+  published: '2019-10-11T21:33:00Z'
+  duration: 1776
+  fileType: audio/mp3
+  title: The FBI Lost Our Son
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1776
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: ec953ce0-66e2-4868-8f18-181a3d956bd1
+  url: 'https://traffic.megaphone.fm/WSJ6952853725.mp3'
+  published: '2019-10-10T20:48:49Z'
+  duration: 1114
+  fileType: audio/mp3
+  title: An Investigation Into Sex Abuse and Fraud at USA Swimming
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1114
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: a43f3e83-de14-4c63-945a-3897bd442f64
+  url: 'https://traffic.megaphone.fm/GLT7976955472.mp3?updated=1570676164'
+  published: '2019-10-10T08:00:00Z'
+  duration: 2775
+  fileType: audio/mpeg
+  title: Beverley and Van
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2775
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 4
+  episodeNumber: 26
+  isDeleted: true
+- uuid: 428aca86-c654-4dba-98d2-a1a9abbc1f64
+  url: 'https://traffic.megaphone.fm/GLT8460482625.mp3'
+  published: '2018-10-04T10:30:00Z'
+  duration: 3777
+  fileType: audio/mp3
+  title: Rob
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1196
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 3
+  episodeNumber: 16
+  isDeleted: true
+- uuid: 5aea7c17-d7c4-4ecd-9e8b-61d61e08fc81
+  url: >-
+    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2019/10/20191004_hibt_theknot-105f55e2-e2b6-499e-b452-2e7421a4c3f8.mp3?awCollectionId=510313&awEpisodeId=767378987&orgId=1&d=3421&p=510313&story=767378987&t=podcast&e=767378987&size=54608441&ft=pod&f=510313
+  published: '2019-10-07T04:01:31Z'
+  duration: 3457
+  fileType: audio/mpeg
+  title: 'The Knot: Carley Roney & David Liu'
+  size: '54608441'
+  playingStatus: 2
+  playedUpTo: 1498
+  starred: false
+  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 974b1866-0c7c-4c62-b58d-9aaf0265ec0c
+  url: 'https://traffic.megaphone.fm/WSJ8938886237.mp3'
+  published: '2019-10-09T21:23:56Z'
+  duration: 1010
+  fileType: audio/mp3
+  title: The First Major Impeachment Clash
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1010
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: f3cbcbd1-45e4-4e9a-a2fb-06a21a5c7872
+  url: 'https://traffic.megaphone.fm/WSJ6550297133.mp3'
+  published: '2019-10-03T20:04:54Z'
+  duration: 1044
+  fileType: audio/mp3
+  title: Lunch With the Two M.B.A.s Who Are Changing Sports
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1044
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: b504ac38-4636-49ff-9b03-6324ee197d9b
+  url: 'https://traffic.megaphone.fm/WSJ5277451271.mp3?updated=1570565110'
+  published: '2019-10-08T20:01:42Z'
+  duration: 1075
+  fileType: audio/mpeg
+  title: The Tweet That Rocked the NBA in China
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1075
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 087fa521-fcb7-4bf9-8df7-c733d52855e2
+  url: 'https://traffic.megaphone.fm/WSJ8800231382.mp3'
+  published: '2019-10-04T21:24:53Z'
+  duration: 1323
+  fileType: audio/mp3
+  title: Facebook's New Currency Hits a Snag
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1323
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 979baacc-2738-41ca-84d2-7f53bef89b3b
+  url: 'https://traffic.megaphone.fm/WSJ4043143546.mp3'
+  published: '2019-10-07T20:57:08Z'
+  duration: 771
+  fileType: audio/mp3
+  title: Will the Supreme Court Redefine 'Sex'?
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 771
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
