@@ -5,14 +5,31 @@
   fileType: audio/mp3
   title: 'H.I. #135: Place Your Bets'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 3979
+  playingStatus: 3
+  playedUpTo: 5405
   starred: false
   podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
   episodeNumber: 135
+  isDeleted: true
+- uuid: c565e51c-7fb1-4fb8-80b3-798934f8b62d
+  url: >-
+    https://traffic.omny.fm/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/75a86d39-9e0e-4e9a-b948-aae301805fe6/802e5179-0311-40a2-b294-aaf600494284/audio.mp3?utm_source=Podcast&in_playlist=514362cf-31b4-4ed2-af40-aae301805ffd
+  published: '2019-10-30T04:00:00Z'
+  duration: 3823
+  fileType: audio/mpeg
+  title: Health Care with Rainn Wilson
+  size: '51128372'
+  playingStatus: 2
+  playedUpTo: 1806
+  starred: false
+  podcastUuid: 0d1f6c30-bb1e-0137-0dbf-0acc26574db2
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 3
   isDeleted: false
 - uuid: 3c372eea-f095-4250-b96d-2c86db889fb0
   url: 'http://traffic.libsyn.com/hellointernet/50.mp3'
@@ -1614,22 +1631,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 1323
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 979baacc-2738-41ca-84d2-7f53bef89b3b
-  url: 'https://traffic.megaphone.fm/WSJ4043143546.mp3'
-  published: '2019-10-07T20:57:08Z'
-  duration: 771
-  fileType: audio/mp3
-  title: Will the Supreme Court Redefine 'Sex'?
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 771
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
