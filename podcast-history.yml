@@ -1,3 +1,54 @@
+- uuid: 007804f1-5f6e-44c3-bc00-ea866f13ef96
+  url: >-
+    https://media.blubrry.com/sitepen/media.sitepen.com/podcast/TalkScript_051.mp3
+  published: '2019-12-06T21:58:56Z'
+  duration: 2618
+  fileType: audio/mp3
+  title: 'Episode 51: The Illusion That We Are Writing Javascript'
+  size: '41937988'
+  playingStatus: 3
+  playedUpTo: 2618
+  starred: false
+  podcastUuid: 20592310-4f61-0133-c35e-0d11918ab357
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 038e1aed-ae45-4c77-896a-8a8b6fbb27c0
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM8923076101.mp3?updated=1579641545
+  published: '2020-01-22T09:00:00Z'
+  duration: 2293
+  fileType: audio/mpeg
+  title: "The Rockstar Who Flies 500,000 Miles Per Year\_"
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1650
+  starred: false
+  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: c565e51c-7fb1-4fb8-80b3-798934f8b62d
+  url: >-
+    https://traffic.omny.fm/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/75a86d39-9e0e-4e9a-b948-aae301805fe6/802e5179-0311-40a2-b294-aaf600494284/audio.mp3?utm_source=Podcast&in_playlist=514362cf-31b4-4ed2-af40-aae301805ffd
+  published: '2019-10-30T04:00:00Z'
+  duration: 3823
+  fileType: audio/mpeg
+  title: Health Care with Rainn Wilson
+  size: '51128372'
+  playingStatus: 2
+  playedUpTo: 3064
+  starred: false
+  podcastUuid: 0d1f6c30-bb1e-0137-0dbf-0acc26574db2
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 3
+  isDeleted: false
 - uuid: c3ccac1a-a319-4ee9-ac4a-d44637f456f8
   url: 'http://traffic.libsyn.com/hellointernet/135.mp3'
   published: '2020-01-23T16:23:43Z'
@@ -14,23 +65,6 @@
   episodeSeason: 0
   episodeNumber: 135
   isDeleted: true
-- uuid: c565e51c-7fb1-4fb8-80b3-798934f8b62d
-  url: >-
-    https://traffic.omny.fm/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/75a86d39-9e0e-4e9a-b948-aae301805fe6/802e5179-0311-40a2-b294-aaf600494284/audio.mp3?utm_source=Podcast&in_playlist=514362cf-31b4-4ed2-af40-aae301805ffd
-  published: '2019-10-30T04:00:00Z'
-  duration: 3823
-  fileType: audio/mpeg
-  title: Health Care with Rainn Wilson
-  size: '51128372'
-  playingStatus: 2
-  playedUpTo: 1806
-  starred: false
-  podcastUuid: 0d1f6c30-bb1e-0137-0dbf-0acc26574db2
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 3
-  isDeleted: false
 - uuid: 3c372eea-f095-4250-b96d-2c86db889fb0
   url: 'http://traffic.libsyn.com/hellointernet/50.mp3'
   published: '2015-11-06T16:21:07Z'
@@ -1599,38 +1633,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 1044
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: b504ac38-4636-49ff-9b03-6324ee197d9b
-  url: 'https://traffic.megaphone.fm/WSJ5277451271.mp3?updated=1570565110'
-  published: '2019-10-08T20:01:42Z'
-  duration: 1075
-  fileType: audio/mpeg
-  title: The Tweet That Rocked the NBA in China
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1075
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 087fa521-fcb7-4bf9-8df7-c733d52855e2
-  url: 'https://traffic.megaphone.fm/WSJ8800231382.mp3'
-  published: '2019-10-04T21:24:53Z'
-  duration: 1323
-  fileType: audio/mp3
-  title: Facebook's New Currency Hits a Snag
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1323
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
