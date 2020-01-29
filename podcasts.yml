@@ -12,9 +12,9 @@
 
     A proud member of Radiotopia, from PRX. Learn more at radiotopia.fm.
   url: 'http://99percentinvisible.org'
-  lastEpisodePublished: '2020-01-22T00:54:36Z'
+  lastEpisodePublished: '2020-01-28T23:50:40Z'
   unplayed: true
-  lastEpisodeUuid: 64731bda-1aa4-49f3-a9d9-8b7fa54677e8
+  lastEpisodeUuid: 86bc9d0e-99ff-4896-84e9-211d109bf759
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: 0d1f6c30-bb1e-0137-0dbf-0acc26574db2
@@ -28,9 +28,9 @@
     Angela will break down an episode of The Office and give exclusive behind
     the scene stories that only two people who were there, can tell you.
   url: 'https://www.earwolf.com/show/office-ladies/'
-  lastEpisodePublished: '2020-01-22T05:00:00Z'
+  lastEpisodePublished: '2020-01-29T05:00:00Z'
   unplayed: true
-  lastEpisodeUuid: fc02879a-168f-45e9-8040-db2067561eac
+  lastEpisodeUuid: 1cd3eafc-8527-4e59-b706-3e5151c8a7ef
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: 0d34ed30-1edf-0131-6eae-723c91aeae46
@@ -127,9 +127,9 @@
     every week; visit a16z.com for more details and to sign up for our
     newsletters and other content as well!
   url: 'https://www.a16z.com'
-  lastEpisodePublished: '2020-01-27T03:45:00Z'
+  lastEpisodePublished: '2020-01-27T18:07:04Z'
   unplayed: true
-  lastEpisodeUuid: 73080530-233c-4777-80ab-e0020aa959be
+  lastEpisodeUuid: 77f2c82a-fd58-479e-b5b0-59f4e7fcd87f
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: 2d55c2a0-326b-0135-52f9-452518e2d253
@@ -218,9 +218,9 @@
     through Friday. Our shows are produced by the community (you) and can be on
     any topic that are of interest to hackers and hobbyists.
   url: 'http://hackerpublicradio.org/about.php'
-  lastEpisodePublished: '2020-01-27T00:00:00Z'
+  lastEpisodePublished: '2020-01-29T00:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 935798f1-570f-4c45-85e9-45c7f804edc7
+  lastEpisodeUuid: 37459b8d-dfc8-430e-936a-4e4d81bb52e7
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: 3f6543f0-4358-0133-bfa6-0d11918ab357
@@ -282,10 +282,10 @@
     Knutson.  The Journal is a co-production from Gimlet Media and The Wall
     Street Journal.
   url: 'https://www.wsj.com/podcasts/the-journal'
-  lastEpisodePublished: '2020-01-25T00:25:50Z'
-  unplayed: false
-  lastEpisodeUuid: 4c096553-39f1-4a7e-be2d-54fad2c799f6
-  lastEpisodePlayingStatus: 0
+  lastEpisodePublished: '2020-01-28T22:18:18Z'
+  unplayed: true
+  lastEpisodeUuid: 1caa5690-c937-4501-8b34-0bd40ae9c22d
+  lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
   episodesSortOrder: 3
@@ -303,7 +303,7 @@
   lastEpisodePublished: '2020-01-22T09:00:00Z'
   unplayed: false
   lastEpisodeUuid: 038e1aed-ae45-4c77-896a-8a8b6fbb27c0
-  lastEpisodePlayingStatus: 0
+  lastEpisodePlayingStatus: 2
   lastEpisodeArchived: false
 - uuid: 4eb5b260-c933-0134-10da-25324e2a541d
   episodesSortOrder: 3
@@ -315,9 +315,9 @@
     told by the best journalists in the world. Hosted by Michael Barbaro. Twenty
     minutes a day, five days a week, ready by 6 a.m.
   url: 'https://www.nytimes.com/the-daily'
-  lastEpisodePublished: '2020-01-27T10:55:30Z'
+  lastEpisodePublished: '2020-01-29T10:53:59Z'
   unplayed: true
-  lastEpisodeUuid: 45c7982e-641d-4a9f-ad2b-918afa4b66a0
+  lastEpisodeUuid: 11b796f6-be76-43ff-a447-4e4849997141
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: 6121f250-6ad8-0137-f267-1d245fc5f9cf
@@ -469,8 +469,8 @@
   lastEpisodePublished: '2020-01-23T16:23:43Z'
   unplayed: false
   lastEpisodeUuid: c3ccac1a-a319-4ee9-ac4a-d44637f456f8
-  lastEpisodePlayingStatus: 2
-  lastEpisodeArchived: false
+  lastEpisodePlayingStatus: 3
+  lastEpisodeArchived: true
 - uuid: 90923920-1ceb-0137-f265-1d245fc5f9cf
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -531,11 +531,11 @@
     episode, they get together to discuss their working lives. Hosted by CGP
     Grey and Myke Hurley.
   url: 'https://www.relay.fm/cortex'
-  lastEpisodePublished: '2019-12-31T13:00:00Z'
-  unplayed: false
-  lastEpisodeUuid: 3a5b1cb6-395e-4d50-925b-ebed7cb000b8
-  lastEpisodePlayingStatus: 3
-  lastEpisodeArchived: true
+  lastEpisodePublished: '2020-01-29T16:45:00Z'
+  unplayed: true
+  lastEpisodeUuid: d3dba2d7-4408-4720-bfd2-39c5678c3c2e
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
 - uuid: a0e8d040-339e-0137-f265-1d245fc5f9cf
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -545,9 +545,9 @@
     A podcast from the team at Heroku, exploring code, technology, tools, tips,
     and the life of the developer.
   url: 'https://www.heroku.com/podcasts/codeish'
-  lastEpisodePublished: '2020-01-21T00:00:00Z'
+  lastEpisodePublished: '2020-01-28T00:00:00Z'
   unplayed: true
-  lastEpisodeUuid: a9cb496f-aec5-454f-aebe-28acf65b1d5e
+  lastEpisodeUuid: 8271dab1-4503-48b9-840d-b0426d7ce664
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: a4085f60-5672-0134-ec37-0d50f522381b
@@ -561,10 +561,10 @@
     entrepreneurs and idealists—and the movements they built.
   url: 'http://www.npr.org/series/490248027/how-i-built-this'
   lastEpisodePublished: '2020-01-27T05:01:06Z'
-  unplayed: true
+  unplayed: false
   lastEpisodeUuid: 677084b6-8875-44c0-b6ca-446a02c4eff0
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  lastEpisodePlayingStatus: 0
+  lastEpisodeArchived: true
 - uuid: a5163bc0-08ab-0137-f265-1d245fc5f9cf
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -615,9 +615,9 @@
     Young innovators and leaders are building a better tomorrow. Allow me to
     introduce them to you...
   url: 'https://readyornotpod.wixsite.com/mysite'
-  lastEpisodePublished: '2019-12-02T17:00:00Z'
+  lastEpisodePublished: '2020-01-28T09:00:00Z'
   unplayed: true
-  lastEpisodeUuid: d2ad26f4-ba31-49f6-8ba5-86dd6c6fec1f
+  lastEpisodeUuid: e94b7858-bcc1-4157-b0a6-7d2b5e5b8101
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: c07ea620-6997-0135-902f-63f4b61a9224
