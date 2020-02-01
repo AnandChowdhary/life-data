@@ -1,3 +1,36 @@
+- uuid: d3dba2d7-4408-4720-bfd2-39c5678c3c2e
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_096.mp3
+  published: '2020-01-29T16:45:00Z'
+  duration: 8529
+  fileType: audio/mp3
+  title: 'Levels, Levels'
+  size: '137973412'
+  playingStatus: 2
+  playedUpTo: 2266
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 9402089f-111b-4b8f-af4f-d08c635af355
+  url: 'http://traffic.libsyn.com/hellointernet/61.mp3'
+  published: '2016-04-20T18:59:23Z'
+  duration: 6632
+  fileType: audio/mp3
+  title: 'H.I. #61: Tesla and King Tut'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 4869
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 007804f1-5f6e-44c3-bc00-ea866f13ef96
   url: >-
     https://media.blubrry.com/sitepen/media.sitepen.com/podcast/TalkScript_051.mp3
@@ -14,7 +47,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 038e1aed-ae45-4c77-896a-8a8b6fbb27c0
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM8923076101.mp3?updated=1579641545
@@ -1603,38 +1636,6 @@
   playedUpTo: 1498
   starred: false
   podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 974b1866-0c7c-4c62-b58d-9aaf0265ec0c
-  url: 'https://traffic.megaphone.fm/WSJ8938886237.mp3'
-  published: '2019-10-09T21:23:56Z'
-  duration: 1010
-  fileType: audio/mp3
-  title: The First Major Impeachment Clash
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1010
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: f3cbcbd1-45e4-4e9a-a2fb-06a21a5c7872
-  url: 'https://traffic.megaphone.fm/WSJ6550297133.mp3'
-  published: '2019-10-03T20:04:54Z'
-  duration: 1044
-  fileType: audio/mp3
-  title: Lunch With the Two M.B.A.s Who Are Changing Sports
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1044
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
