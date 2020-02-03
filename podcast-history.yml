@@ -1,3 +1,36 @@
+- uuid: 78b017ab-351c-4257-877c-aff3a43f4996
+  url: 'http://traffic.libsyn.com/hellointernet/HI77_v1_hello.mp3'
+  published: '2017-01-31T19:48:29Z'
+  duration: 6895
+  fileType: audio/mp3
+  title: 'H.I. #77: Woah, Dude'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 3103
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: ecc87988-18e7-4c05-b2c6-b6f43ae59ce2
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_279.mp3
+  published: '2020-01-29T22:00:00Z'
+  duration: 6500
+  fileType: audio/mp3
+  title: 'Like, Zero Bubbles'
+  size: '104160851'
+  playingStatus: 3
+  playedUpTo: 6500
+  starred: false
+  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: d3dba2d7-4408-4720-bfd2-39c5678c3c2e
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_096.mp3
@@ -6,15 +39,15 @@
   fileType: audio/mp3
   title: 'Levels, Levels'
   size: '137973412'
-  playingStatus: 2
-  playedUpTo: 2266
+  playingStatus: 3
+  playedUpTo: 8529
   starred: false
   podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 9402089f-111b-4b8f-af4f-d08c635af355
   url: 'http://traffic.libsyn.com/hellointernet/61.mp3'
   published: '2016-04-20T18:59:23Z'
@@ -1607,37 +1640,4 @@
   episodeType: full
   episodeSeason: 4
   episodeNumber: 26
-  isDeleted: true
-- uuid: 428aca86-c654-4dba-98d2-a1a9abbc1f64
-  url: 'https://traffic.megaphone.fm/GLT8460482625.mp3'
-  published: '2018-10-04T10:30:00Z'
-  duration: 3777
-  fileType: audio/mp3
-  title: Rob
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 1196
-  starred: false
-  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 3
-  episodeNumber: 16
-  isDeleted: true
-- uuid: 5aea7c17-d7c4-4ecd-9e8b-61d61e08fc81
-  url: >-
-    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2019/10/20191004_hibt_theknot-105f55e2-e2b6-499e-b452-2e7421a4c3f8.mp3?awCollectionId=510313&awEpisodeId=767378987&orgId=1&d=3421&p=510313&story=767378987&t=podcast&e=767378987&size=54608441&ft=pod&f=510313
-  published: '2019-10-07T04:01:31Z'
-  duration: 3457
-  fileType: audio/mpeg
-  title: 'The Knot: Carley Roney & David Liu'
-  size: '54608441'
-  playingStatus: 2
-  playedUpTo: 1498
-  starred: false
-  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
   isDeleted: true
