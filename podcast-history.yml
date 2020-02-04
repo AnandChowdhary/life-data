@@ -1,12 +1,12 @@
-- uuid: 78b017ab-351c-4257-877c-aff3a43f4996
-  url: 'http://traffic.libsyn.com/hellointernet/HI77_v1_hello.mp3'
-  published: '2017-01-31T19:48:29Z'
-  duration: 6895
+- uuid: 9402089f-111b-4b8f-af4f-d08c635af355
+  url: 'http://traffic.libsyn.com/hellointernet/61.mp3'
+  published: '2016-04-20T18:59:23Z'
+  duration: 6632
   fileType: audio/mp3
-  title: 'H.I. #77: Woah, Dude'
+  title: 'H.I. #61: Tesla and King Tut'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 3103
+  playingStatus: 3
+  playedUpTo: 6631
   starred: false
   podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   podcastTitle: ''
@@ -14,6 +14,38 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: false
+- uuid: a7d98e65-d209-4251-87ea-d9cc42d0f803
+  url: 'https://traffic.megaphone.fm/WSJ1184682133.mp3'
+  published: '2020-01-27T22:45:10Z'
+  duration: 1372
+  fileType: audio/mp3
+  title: Who Hacked Jeff Bezos?
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1372
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 78b017ab-351c-4257-877c-aff3a43f4996
+  url: 'http://traffic.libsyn.com/hellointernet/HI77_v1_hello.mp3'
+  published: '2017-01-31T19:48:29Z'
+  duration: 6895
+  fileType: audio/mp3
+  title: 'H.I. #77: Woah, Dude'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 6895
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: ecc87988-18e7-4c05-b2c6-b6f43ae59ce2
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_279.mp3
@@ -48,22 +80,6 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: true
-- uuid: 9402089f-111b-4b8f-af4f-d08c635af355
-  url: 'http://traffic.libsyn.com/hellointernet/61.mp3'
-  published: '2016-04-20T18:59:23Z'
-  duration: 6632
-  fileType: audio/mp3
-  title: 'H.I. #61: Tesla and King Tut'
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 4869
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: false
 - uuid: 007804f1-5f6e-44c3-bc00-ea866f13ef96
   url: >-
     https://media.blubrry.com/sitepen/media.sitepen.com/podcast/TalkScript_051.mp3
@@ -97,7 +113,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: c565e51c-7fb1-4fb8-80b3-798934f8b62d
   url: >-
     https://traffic.omny.fm/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/75a86d39-9e0e-4e9a-b948-aae301805fe6/802e5179-0311-40a2-b294-aaf600494284/audio.mp3?utm_source=Podcast&in_playlist=514362cf-31b4-4ed2-af40-aae301805ffd
@@ -1624,20 +1640,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: true
-- uuid: a43f3e83-de14-4c63-945a-3897bd442f64
-  url: 'https://traffic.megaphone.fm/GLT7976955472.mp3?updated=1570676164'
-  published: '2019-10-10T08:00:00Z'
-  duration: 2775
-  fileType: audio/mpeg
-  title: Beverley and Van
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 2775
-  starred: false
-  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 4
-  episodeNumber: 26
   isDeleted: true
