@@ -13,7 +13,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: a7d98e65-d209-4251-87ea-d9cc42d0f803
   url: 'https://traffic.megaphone.fm/WSJ1184682133.mp3'
   published: '2020-01-27T22:45:10Z'
