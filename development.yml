@@ -1,51 +1,51 @@
-start: '2020-01-30T08:00:00Z'
-end: '2020-02-06T07:59:59Z'
-total: 39781.487727
-totalText: 11 hrs 3 mins
-dailyAverage: 9945
-dailyAverageText: 2 hrs 45 mins
+start: '2020-01-31T08:00:00Z'
+end: '2020-02-07T07:59:59Z'
+total: 39889.339321
+totalText: 11 hrs 4 mins
+dailyAverage: 7978
+dailyAverageText: 2 hrs 12 mins
 days: 7
 languages:
   - digital: '8:01'
     hours: 8
     minutes: 1
     name: TypeScript
-    percent: 72.67
+    percent: 72.47
     text: 8 hrs 1 min
     total_seconds: 28909.050652
   - digital: '0:58'
     hours: 0
     minutes: 58
     name: JSON
-    percent: 8.86
+    percent: 8.84
     text: 58 mins
     total_seconds: 3526.372302
   - digital: '0:52'
     hours: 0
     minutes: 52
     name: Other
-    percent: 7.99
+    percent: 7.97
     text: 52 mins
     total_seconds: 3178.490401
-  - digital: '0:28'
+  - digital: '0:30'
     hours: 0
-    minutes: 28
+    minutes: 30
     name: Markdown
-    percent: 4.29
-    text: 28 mins
-    total_seconds: 1705.479995
+    percent: 4.55
+    text: 30 mins
+    total_seconds: 1813.331589
   - digital: '0:20'
     hours: 0
     minutes: 20
     name: JavaScript
-    percent: 3.1
+    percent: 3.09
     text: 20 mins
     total_seconds: 1233.750355
   - digital: '0:14'
     hours: 0
     minutes: 14
     name: HTML
-    percent: 2.21
+    percent: 2.2
     text: 14 mins
     total_seconds: 877.934261
   - digital: '0:03'
