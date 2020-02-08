@@ -1,3 +1,19 @@
+- uuid: 04d67c32-0ae2-4f00-bc30-f364d4b7779c
+  url: 'https://traffic.megaphone.fm/WSJ7689627143.mp3'
+  published: '2020-02-03T21:49:36Z'
+  duration: 988
+  fileType: audio/mp3
+  title: 'Democrats and Facebook: It''s Complicated'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 988
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 6e618b76-a021-45af-b37a-36d8542b8b4a
   url: 'https://traffic.megaphone.fm/WSJ9298595149.mp3'
   published: '2020-02-04T23:58:51Z'
@@ -1622,21 +1638,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 6
-  isDeleted: true
-- uuid: 0542e6d5-f527-4cb0-bbb4-e42455408436
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise314.mp3
-  published: '2019-10-02T18:00:00Z'
-  duration: 1799
-  fileType: audio/mp3
-  title: 'Get a Real Computer, Jerk'
-  size: '21770707'
-  playingStatus: 2
-  playedUpTo: 1449
-  starred: false
-  podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
   isDeleted: true
