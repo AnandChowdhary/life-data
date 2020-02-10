@@ -1,3 +1,115 @@
+- uuid: bfb6337a-e8f1-4e02-b14c-2dbd38f82f32
+  url: 'https://traffic.megaphone.fm/WSJ1547045798.mp3'
+  published: '2020-01-14T21:43:55Z'
+  duration: 1182
+  fileType: audio/mp3
+  title: Democrats' 2020 Fundraising Fights
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1182
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 887f371e-f9cb-4415-a366-29d5843e55c6
+  url: 'https://traffic.megaphone.fm/WSJ4351707800.mp3'
+  published: '2020-01-17T21:30:53Z'
+  duration: 903
+  fileType: audio/mp3
+  title: How the Grounded Boeing Jet Shook the Airline Industry
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 903
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 1a3e1c12-dee1-49c8-a534-0e5583e4e216
+  url: 'https://traffic.megaphone.fm/WSJ8143400490.mp3'
+  published: '2020-01-15T21:30:32Z'
+  duration: 1146
+  fileType: audio/mp3
+  title: How Airbnb Deals With Crime
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1146
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: dcd41e21-c3a0-4bd2-9584-396d49345718
+  url: 'https://traffic.megaphone.fm/WSJ6233766467.mp3'
+  published: '2020-01-13T21:39:57Z'
+  duration: 1102
+  fileType: audio/mp3
+  title: The Broken Business of Antibiotics
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1102
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: ba2e3a97-8941-44b2-8420-41d3b4d09088
+  url: 'https://traffic.megaphone.fm/WSJ4474323123.mp3'
+  published: '2020-02-07T22:34:54Z'
+  duration: 1156
+  fileType: audio/mp3
+  title: Inside China's Giant Quarantine
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1156
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: fe93683b-f9aa-4358-9bba-232fa1494b3c
+  url: 'https://traffic.megaphone.fm/WSJ4301259894.mp3'
+  published: '2020-01-22T20:50:13Z'
+  duration: 890
+  fileType: audio/mp3
+  title: Wall Street's Climate Gambit
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 890
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 7e060137-a88b-4a21-8936-e0bd03d74e0c
+  url: 'https://traffic.megaphone.fm/WSJ4982879217.mp3'
+  published: '2020-01-23T21:58:09Z'
+  duration: 1159
+  fileType: audio/mp3
+  title: The Tug of War Over Tesla
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1159
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 04d67c32-0ae2-4f00-bc30-f364d4b7779c
   url: 'https://traffic.megaphone.fm/WSJ7689627143.mp3'
   published: '2020-02-03T21:49:36Z'
@@ -1521,121 +1633,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: true
-- uuid: 7e45d24c-8a31-4799-a785-5ea4cd13f653
-  url: >-
-    https://traffic.omny.fm/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/75a86d39-9e0e-4e9a-b948-aae301805fe6/fedb8a2b-8596-48ec-bce7-aae8004dd738/audio.mp3?utm_source=Podcast&in_playlist=514362cf-31b4-4ed2-af40-aae301805ffd
-  published: '2019-10-16T04:00:00Z'
-  duration: 3256
-  fileType: audio/mpeg
-  title: The Pilot
-  size: '49077824'
-  playingStatus: 3
-  playedUpTo: 3256
-  starred: false
-  podcastUuid: 0d1f6c30-bb1e-0137-0dbf-0acc26574db2
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 1
-  isDeleted: true
-- uuid: 18459cda-1ad8-4d78-8646-0692df3caee6
-  url: 'https://traffic.megaphone.fm/WSJ4334842416.mp3'
-  published: '2019-10-17T23:25:41Z'
-  duration: 1464
-  fileType: audio/mp3
-  title: Ten Days That Shifted Power in Syria
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1464
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 65f16e6c-4967-4261-9721-7263f6ae721c
-  url: >-
-    https://media.blubrry.com/sitepen/media.sitepen.com/podcast/TalkScript_050.mp3
-  published: '2019-10-15T20:11:14Z'
-  duration: 2813
-  fileType: audio/mp3
-  title: 'Episode 50: Classical vs. Functional in TypeScript'
-  size: '45060169'
-  playingStatus: 2
-  playedUpTo: 2662
-  starred: false
-  podcastUuid: 20592310-4f61-0133-c35e-0d11918ab357
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: eb8889d1-e689-4542-87d2-aeea14f15614
-  url: 'https://traffic.megaphone.fm/WSJ6074706611.mp3'
-  published: '2019-10-18T20:06:15Z'
-  duration: 1289
-  fileType: audio/mp3
-  title: Rick Perry's Side of the Ukraine Story
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1289
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 62008e6e-350d-468d-9a55-906575261ac2
-  url: 'https://traffic.megaphone.fm/WSJ8525640832.mp3'
-  published: '2019-10-16T20:33:34Z'
-  duration: 1150
-  fileType: audio/mp3
-  title: How Campaigns Are Tracking Your Location
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 1131
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 9e6067a9-2692-46c7-bbec-56bd0affaa7f
-  url: 'https://traffic.megaphone.fm/WSJ4088427421.mp3'
-  published: '2019-10-15T20:26:45Z'
-  duration: 1106
-  fileType: audio/mp3
-  title: The Airline CEO Trying to Change Amtrak
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1106
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: a90e26bc-2289-4533-b45e-e2fc831e8bd2
-  url: >-
-    https://chtbl.com/track/8E527/traffic.megaphone.fm/STU4704919282.mp3?updated=1570126346
-  published: '2019-10-04T08:00:00Z'
-  duration: 4478
-  fileType: audio/mpeg
-  title: >-
-    Microsoft's New & Future Products and Talking Tesla & Hackintosh w/ Quinn
-    from SnazzyLabs
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 923
-  starred: false
-  podcastUuid: 7d9a4610-9673-0137-4052-0acc26574db2
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 6
   isDeleted: true
