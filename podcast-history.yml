@@ -1,3 +1,36 @@
+- uuid: 7c368487-41d4-4e10-860a-842453c11d54
+  url: 'https://traffic.megaphone.fm/WSJ2263880172.mp3'
+  published: '2020-02-10T22:49:29Z'
+  duration: 1145
+  fileType: audio/mpeg
+  title: The Mormon Church's $100 Billion Secret Fund
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 467
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: ddafb76c-21ec-4d36-9742-0f69294228cf
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise332.mp3
+  published: '2020-02-05T20:00:00Z'
+  duration: 1799
+  fileType: audio/mp3
+  title: One Hip Lies
+  size: '21772273'
+  playingStatus: 3
+  playedUpTo: 1799
+  starred: false
+  podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: bfb6337a-e8f1-4e02-b14c-2dbd38f82f32
   url: 'https://traffic.megaphone.fm/WSJ1547045798.mp3'
   published: '2020-01-14T21:43:55Z'
@@ -1596,39 +1629,6 @@
   playedUpTo: 3259
   starred: false
   podcastUuid: 8cb63a90-c70a-0136-7b94-27f978dac4db
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: f5ea8dfe-50fb-4e1c-851b-f6aae27869ab
-  url: >-
-    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2019/10/20191018_hibt_gimletpod-52b67d0e-495b-47ad-873d-adf63240e1bf.mp3?awCollectionId=510313&awEpisodeId=771391075&orgId=1&d=4909&p=510313&story=771391075&t=podcast&e=771391075&size=78362012&ft=pod&f=510313
-  published: '2019-10-21T04:01:01Z'
-  duration: 4944
-  fileType: audio/mpeg
-  title: 'Gimlet Media: Alex Blumberg and Matt Lieber'
-  size: '78362012'
-  playingStatus: 3
-  playedUpTo: 4944
-  starred: false
-  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: d75c8293-fa0b-433c-b51d-a67ce8e1cee4
-  url: 'https://traffic.megaphone.fm/WSJ2833034177.mp3'
-  published: '2019-10-21T21:41:44Z'
-  duration: 1227
-  fileType: audio/mp3
-  title: Zuckerberg Goes on the Offensive
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1227
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
