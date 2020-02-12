@@ -12,9 +12,9 @@
 
     A proud member of Radiotopia, from PRX. Learn more at radiotopia.fm.
   url: 'http://99percentinvisible.org'
-  lastEpisodePublished: '2020-02-05T00:17:46Z'
+  lastEpisodePublished: '2020-02-12T02:15:27Z'
   unplayed: true
-  lastEpisodeUuid: 1dc4bed0-152d-49d7-8423-56b44aa803dd
+  lastEpisodeUuid: 963133df-31d3-40f4-bb1a-ff1dabbabde5
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: 0d1f6c30-bb1e-0137-0dbf-0acc26574db2
@@ -28,9 +28,9 @@
     Angela will break down an episode of The Office and give exclusive behind
     the scene stories that only two people who were there, can tell you.
   url: 'https://www.earwolf.com/show/office-ladies/'
-  lastEpisodePublished: '2020-02-05T05:00:00Z'
+  lastEpisodePublished: '2020-02-12T05:00:00Z'
   unplayed: true
-  lastEpisodeUuid: ba03afe0-7197-499a-84fd-0dfbcd02bdc0
+  lastEpisodeUuid: 71745351-fcef-4f21-97a5-07a3934cc76b
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: 0d34ed30-1edf-0131-6eae-723c91aeae46
@@ -44,9 +44,9 @@
     as interviews and reviews. The show is presented by Jono Bacon, Jeremy
     Garcia, and Stuart Langridge.
   url: 'https://www.badvoltage.org'
-  lastEpisodePublished: '2020-01-24T12:53:37Z'
+  lastEpisodePublished: '2020-02-06T14:14:56Z'
   unplayed: true
-  lastEpisodeUuid: 176d8f4d-e14b-423c-b668-3967f1f21f89
+  lastEpisodeUuid: c3e8792e-d304-418f-96d9-73b86e801de7
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: 0e3b1080-a5d4-012e-56d0-00163e1b201c
@@ -58,9 +58,9 @@
     NPR's weekly current events quiz. Have a laugh and test your news knowledge
     while figuring out what's real and what we've made up.
   url: 'http://www.npr.org/programs/wait-wait-dont-tell-me/'
-  lastEpisodePublished: '2020-02-01T17:00:00Z'
+  lastEpisodePublished: '2020-02-08T17:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 430efdec-fc05-4a35-bb41-803560c0d68c
+  lastEpisodeUuid: fe2b897a-ee7b-44ef-9c5c-880712266eb2
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: 1c179450-6200-0136-4e65-69745d675bc7
@@ -127,9 +127,9 @@
     every week; visit a16z.com for more details and to sign up for our
     newsletters and other content as well!
   url: 'https://www.a16z.com'
-  lastEpisodePublished: '2020-02-04T02:00:58Z'
+  lastEpisodePublished: '2020-02-07T21:32:38Z'
   unplayed: true
-  lastEpisodeUuid: 36af590b-70be-4785-9a59-84409b04ebb4
+  lastEpisodeUuid: 8e4a91f5-f86a-4f30-9c64-406fda4338c4
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: 2d55c2a0-326b-0135-52f9-452518e2d253
@@ -203,9 +203,9 @@
     apps, the impact of apps on our culture, and cover the stories behind
     popular apps. Hosted by Federico Viticci and John Voorhees.
   url: 'https://appstories.net'
-  lastEpisodePublished: '2020-02-03T11:59:59Z'
+  lastEpisodePublished: '2020-02-10T11:59:58Z'
   unplayed: true
-  lastEpisodeUuid: 77a4c1c7-bf4f-4dcd-8d9c-ef490e1d6004
+  lastEpisodeUuid: 5edea113-6c40-4cd9-8671-7de5991e1ba5
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: 33de7f80-4061-012e-15b3-00163e1b201c
@@ -218,9 +218,9 @@
     through Friday. Our shows are produced by the community (you) and can be on
     any topic that are of interest to hackers and hobbyists.
   url: 'http://hackerpublicradio.org/about.php'
-  lastEpisodePublished: '2020-02-05T00:00:00Z'
+  lastEpisodePublished: '2020-02-12T00:00:00Z'
   unplayed: true
-  lastEpisodeUuid: aa25dc0b-7bad-4b48-9884-ea130c18693b
+  lastEpisodeUuid: f9b40c50-07bb-407b-a432-cdf12794bf89
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: 3f6543f0-4358-0133-bfa6-0d11918ab357
@@ -233,10 +233,10 @@
     development.
   url: 'https://developers.google.com/web/shows/http203/podcast/'
   lastEpisodePublished: '2020-01-22T00:00:00Z'
-  unplayed: true
+  unplayed: false
   lastEpisodeUuid: 8036b4b5-bc2b-436f-92ed-7d41679e6f22
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  lastEpisodePlayingStatus: 3
+  lastEpisodeArchived: true
 - uuid: 400dbcb0-a32e-0136-7b93-27f978dac4db
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -282,11 +282,11 @@
     Knutson.  The Journal is a co-production from Gimlet Media and The Wall
     Street Journal.
   url: 'https://www.wsj.com/podcasts/the-journal'
-  lastEpisodePublished: '2020-02-04T23:58:51Z'
+  lastEpisodePublished: '2020-02-11T22:05:00Z'
   unplayed: false
-  lastEpisodeUuid: 6e618b76-a021-45af-b37a-36d8542b8b4a
-  lastEpisodePlayingStatus: 0
-  lastEpisodeArchived: false
+  lastEpisodeUuid: e6131364-3580-42bb-ac1f-77782dafaace
+  lastEpisodePlayingStatus: 3
+  lastEpisodeArchived: true
 - uuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -315,9 +315,9 @@
     told by the best journalists in the world. Hosted by Michael Barbaro. Twenty
     minutes a day, five days a week, ready by 6 a.m.
   url: 'https://www.nytimes.com/the-daily'
-  lastEpisodePublished: '2020-02-05T10:55:43Z'
+  lastEpisodePublished: '2020-02-12T10:57:28Z'
   unplayed: true
-  lastEpisodeUuid: cb698c82-622b-4830-9397-08095d77bc8b
+  lastEpisodeUuid: f1c92929-c05e-4819-93e6-ffeb6f4396fe
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: 6121f250-6ad8-0137-f267-1d245fc5f9cf
@@ -379,13 +379,13 @@
   description: >-
     Step into iconic couples therapist Esther Perel's office and listen as real
     couples anonymously bare the raw, intimate, and profound details of their
-    story.  From infidelity, to sexlessness, to loss, it's a space for people to
+    story. From infidelity, to sexlessness, to loss, it's a space for people to
     be heard and understood. It's also a place for us to listen and feel
     empowered in our own relationships. So.. where should we begin?
   url: 'https://estherperel.com/podcast'
-  lastEpisodePublished: '2020-01-16T19:52:12Z'
+  lastEpisodePublished: '2019-12-05T10:00:00Z'
   unplayed: false
-  lastEpisodeUuid: 1bb95ef8-9553-42c8-a00d-db862591e94d
+  lastEpisodeUuid: 074ff27c-f7a5-4672-aa0e-cc714916b64b
   lastEpisodePlayingStatus: 0
   lastEpisodeArchived: true
 - uuid: 7d9a4610-9673-0137-4052-0acc26574db2
@@ -405,9 +405,9 @@
 
     Link to survey: https://bit.ly/2EcYbu4
   url: 'https://www.studio71.com/us/podcasts/'
-  lastEpisodePublished: '2020-01-24T08:30:00Z'
+  lastEpisodePublished: '2020-02-07T08:15:00Z'
   unplayed: false
-  lastEpisodeUuid: 803ea9c4-e86c-400b-aed8-859a7f16797b
+  lastEpisodeUuid: 08b8ae90-01f4-4f3f-b612-bdfe4cc76de3
   lastEpisodePlayingStatus: 0
   lastEpisodeArchived: false
 - uuid: 851d1840-476e-0137-f266-1d245fc5f9cf
@@ -545,9 +545,9 @@
     A podcast from the team at Heroku, exploring code, technology, tools, tips,
     and the life of the developer.
   url: 'https://www.heroku.com/podcasts/codeish'
-  lastEpisodePublished: '2020-02-04T00:00:00Z'
+  lastEpisodePublished: '2020-02-11T00:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 5c02fbcb-6d1f-4f36-84de-ad2e63e647e8
+  lastEpisodeUuid: 4e23e7d7-6a20-4fd6-b497-74ef18b1946c
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: a4085f60-5672-0134-ec37-0d50f522381b
@@ -560,11 +560,11 @@
     companies. How I Built This weaves a narrative journey about innovators,
     entrepreneurs and idealists—and the movements they built.
   url: 'http://www.npr.org/series/490248027/how-i-built-this'
-  lastEpisodePublished: '2020-02-03T05:01:45Z'
-  unplayed: true
-  lastEpisodeUuid: 4f580d8d-ba95-4d8c-b59f-c285be54d44f
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  lastEpisodePublished: '2020-02-10T05:01:09Z'
+  unplayed: false
+  lastEpisodeUuid: 9cebd0fc-0f87-457c-ae74-3f16e015b2bf
+  lastEpisodePlayingStatus: 0
+  lastEpisodeArchived: true
 - uuid: a5163bc0-08ab-0137-f265-1d245fc5f9cf
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -577,9 +577,9 @@
     personally and professionally as they try to turn their idea into something
     that will change the world.
   url: ''
-  lastEpisodePublished: '2020-02-03T03:00:00Z'
+  lastEpisodePublished: '2020-02-10T03:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 21224c20-3672-4d18-b1f2-802ae7b90ab0
+  lastEpisodeUuid: 3d592824-35fe-46e8-b633-4f0231ab035a
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: acf9fe50-ca90-0130-355c-723c91aeae46
@@ -589,11 +589,11 @@
   author: Relay FM
   description: "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always\_watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent."
   url: 'https://www.relay.fm/clockwise'
-  lastEpisodePublished: '2020-01-29T22:30:00Z'
-  unplayed: true
-  lastEpisodeUuid: d65ac50c-3499-471e-83ef-c603c67790bf
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  lastEpisodePublished: '2020-02-05T20:00:00Z'
+  unplayed: false
+  lastEpisodeUuid: ddafb76c-21ec-4d36-9742-0f69294228cf
+  lastEpisodePlayingStatus: 3
+  lastEpisodeArchived: true
 - uuid: ada28710-1123-0132-aad3-5f4c86fd3263
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -709,9 +709,9 @@
 
     http://bit.ly/paytokeepnewsfree
   url: 'https://www.newslaundry.com/subscription'
-  lastEpisodePublished: '2020-02-01T13:26:13Z'
+  lastEpisodePublished: '2020-02-08T14:16:37Z'
   unplayed: true
-  lastEpisodeUuid: 9674e6e9-4d1f-4daf-9784-4590d4c47afe
+  lastEpisodeUuid: c95d2096-b147-48a5-8981-6cd293544e67
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
 - uuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
@@ -725,11 +725,11 @@
     Connected provides a perspective that no other show can. Hosted by Federico
     Viticci, Myke Hurley, and Stephen Hackett.
   url: 'https://www.relay.fm/connected'
-  lastEpisodePublished: '2020-01-29T22:00:00Z'
-  unplayed: false
-  lastEpisodeUuid: ecc87988-18e7-4c05-b2c6-b6f43ae59ce2
-  lastEpisodePlayingStatus: 3
-  lastEpisodeArchived: true
+  lastEpisodePublished: '2020-02-05T21:30:00Z'
+  unplayed: true
+  lastEpisodeUuid: 189a68bf-7b68-4a28-ba3c-87f96ea4345e
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
 - uuid: eda33410-4f42-0132-cf00-5f4c86fd3263
   episodesSortOrder: 3
   autoStartFrom: 0
