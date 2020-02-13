@@ -1,3 +1,70 @@
+- uuid: 189a68bf-7b68-4a28-ba3c-87f96ea4345e
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_280b.mp3
+  published: '2020-02-05T21:30:00Z'
+  duration: 5451
+  fileType: audio/mp3
+  title: Peanut Butterpeanut Butterpeanut Butter
+  size: '87374509'
+  playingStatus: 2
+  playedUpTo: 1818
+  starred: false
+  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: b27e22c0-cbf0-46c1-a490-0a3d19a7896e
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise333.mp3
+  published: '2020-02-12T18:00:00Z'
+  duration: 1800
+  fileType: audio/mp3
+  title: Throwing the Spaghetti at the Consumer
+  size: '22991282'
+  playingStatus: 2
+  playedUpTo: 12
+  starred: false
+  podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 2a5af926-b617-4768-a634-6a8d75fcf09a
+  url: 'https://traffic.megaphone.fm/WSJ4333100297.mp3'
+  published: '2020-02-12T22:57:33Z'
+  duration: 1235
+  fileType: audio/mp3
+  title: A Spying Scandal Takes Down a CEO
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1235
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: cf512573-4d96-45c7-ad8d-9c69ca75d59e
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise329.mp3
+  published: '2020-01-15T18:00:00Z'
+  duration: 1771
+  fileType: audio/mp3
+  title: Forgetting as a Service
+  size: '21432289'
+  playingStatus: 2
+  playedUpTo: 1196
+  starred: false
+  podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: a94a9242-ab24-4d82-9034-d88e31bf65d0
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise330.mp3
@@ -6,15 +73,15 @@
   fileType: audio/mp3
   title: I Call That the Airplane Squirrel
   size: '13635114'
-  playingStatus: 2
-  playedUpTo: 458
+  playingStatus: 3
+  playedUpTo: 1682
   starred: false
   podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: d65ac50c-3499-471e-83ef-c603c67790bf
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise331.mp3
@@ -1563,69 +1630,4 @@
   episodeType: full
   episodeSeason: 3
   episodeNumber: 3
-  isDeleted: true
-- uuid: 311832bb-dbb7-4c39-8a92-94bf86e77be8
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM4215582041.mp3?updated=1572992063
-  published: '2019-11-06T09:00:00Z'
-  duration: 1981
-  fileType: audio/mpeg
-  title: Turning Travel Lemons Into Lemonade
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1981
-  starred: false
-  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: c4779b67-1e9c-4bd2-9e53-1fad31a95e28
-  url: 'https://traffic.megaphone.fm/WSJ6800055025.mp3?updated=1572643153'
-  published: '2019-11-01T20:48:27Z'
-  duration: 1393
-  fileType: audio/mpeg
-  title: When the Drug Cartel Takes Over
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1393
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: fa58eb63-a56c-4cb1-8ef1-bf4df4f780e5
-  url: 'https://traffic.megaphone.fm/WSJ9229153188.mp3'
-  published: '2019-11-04T21:26:11Z'
-  duration: 1123
-  fileType: audio/mp3
-  title: The Investor That Spent $1 Billion a Week
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1123
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 224f928a-1338-4d20-9690-764d3c66fed1
-  url: 'https://traffic.megaphone.fm/WSJ4291483508.mp3'
-  published: '2019-11-05T22:23:29Z'
-  duration: 1163
-  fileType: audio/mp3
-  title: Bitcoin Comes Untethered
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1163
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
   isDeleted: true
