@@ -1,1 +1,30 @@
-
+- isbn: 0385349947
+  isbn13: '9780385349949'
+  title: 'Lean In: Women, Work, and the Will to Lead'
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364250803l/16071764._SY160_.jpg
+  link: 'https://www.goodreads.com/book/show/16071764-lean-in'
+  publisher: Knopf
+  author: Sheryl Sandberg
+  rating: '5'
+  dateAdded: 'Thu Jul 26 05:07:53 -0700 2018'
+  url: 'https://www.goodreads.com/review/show/2470897676'
+- isbn: '1471138801'
+  isbn13: '9781471138805'
+  title: The Innovators
+  image_url: >-
+    https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  link: 'https://www.goodreads.com/book/show/25656530-the-innovators'
+  publisher: Simon & Schuster Ltd
+  author: Walter Isaacson
+  rating: '5'
+  dateAdded: 'Thu Jul 26 05:06:40 -0700 2018'
+  url: 'https://www.goodreads.com/review/show/2470896751'
+- title: The Shape of Design
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356713735l/13017981._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/13017981-the-shape-of-design'
+  author: Frank Chimero
+  rating: '4'
+  dateAdded: 'Sun Oct 27 09:24:25 -0700 2013'
+  url: 'https://www.goodreads.com/review/show/750558016'
