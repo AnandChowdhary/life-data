@@ -1,3 +1,19 @@
+- uuid: d98c837c-cb95-4544-8e7e-4c21d4a44882
+  url: 'https://traffic.megaphone.fm/WSJ5060580865.mp3'
+  published: '2020-02-14T22:58:49Z'
+  duration: 1165
+  fileType: audio/mp3
+  title: Bloomberg's Big Money Strategy
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 189a68bf-7b68-4a28-ba3c-87f96ea4345e
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_280b.mp3
@@ -14,7 +30,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: b27e22c0-cbf0-46c1-a490-0a3d19a7896e
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise333.mp3
@@ -1614,20 +1630,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: true
-- uuid: e83ee8c4-c95e-4dca-9915-e686b13d5e9c
-  url: 'https://traffic.megaphone.fm/GLT1543707323.mp3'
-  published: '2019-10-31T08:00:00Z'
-  duration: 2936
-  fileType: audio/mp3
-  title: The Other Woman
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 2936
-  starred: false
-  podcastUuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 3
-  episodeNumber: 3
   isDeleted: true
