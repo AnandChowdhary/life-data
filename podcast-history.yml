@@ -1,3 +1,20 @@
+- uuid: 35ed4d7f-b5a9-49f7-8703-d395cea48806
+  url: >-
+    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2020/02/20200214_hibt_eventbrite.mp3?awCollectionId=510313&awEpisodeId=806106473&orgId=1&d=3954&p=510313&story=806106473&t=podcast&e=806106473&size=63115869&ft=pod&f=510313
+  published: '2020-02-17T05:01:00Z'
+  duration: 3953
+  fileType: audio/mpeg
+  title: 'Eventbrite: Julia Hartz'
+  size: '63115869'
+  playingStatus: 3
+  playedUpTo: 3953
+  starred: false
+  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: a9aec7ff-b4c6-4273-8770-a5ccf16d29d7
   url: 'https://traffic.megaphone.fm/WSJ4703767131.mp3'
   published: '2020-02-13T22:12:54Z'
@@ -13,7 +30,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: d98c837c-cb95-4544-8e7e-4c21d4a44882
   url: 'https://traffic.megaphone.fm/WSJ5060580865.mp3'
   published: '2020-02-14T22:58:49Z'
@@ -1614,20 +1631,4 @@
   episodeType: full
   episodeSeason: 3
   episodeNumber: 5
-  isDeleted: true
-- uuid: 139f9f3d-5ba8-4cd9-a85d-0ab6180843b8
-  url: 'https://traffic.megaphone.fm/GLT6656802567.mp3?updated=1573095593'
-  published: '2019-11-07T09:00:00Z'
-  duration: 2975
-  fileType: audio/mpeg
-  title: Dr. Muller
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 2830
-  starred: false
-  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 4
-  episodeNumber: 28
   isDeleted: true
