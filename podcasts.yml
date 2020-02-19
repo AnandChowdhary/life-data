@@ -12,57 +12,12 @@
 
     A proud member of Radiotopia, from PRX. Learn more at radiotopia.fm.
   url: 'http://99percentinvisible.org'
-  lastEpisodePublished: '2020-02-12T02:15:27Z'
-  unplayed: true
-  lastEpisodeUuid: 963133df-31d3-40f4-bb1a-ff1dabbabde5
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
-- uuid: 0d1f6c30-bb1e-0137-0dbf-0acc26574db2
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Office Ladies
-  author: Earwolf & Jenna Fischer and Angela Kinsey
-  description: >-
-    The Office co-stars and best friends, Jenna Fischer and Angela Kinsey, are
-    doing the ultimate The Office re-watch podcast for you. Each week Jenna and
-    Angela will break down an episode of The Office and give exclusive behind
-    the scene stories that only two people who were there, can tell you.
-  url: 'https://www.earwolf.com/show/office-ladies/'
-  lastEpisodePublished: '2020-02-12T05:00:00Z'
-  unplayed: true
-  lastEpisodeUuid: 71745351-fcef-4f21-97a5-07a3934cc76b
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
-- uuid: 0d34ed30-1edf-0131-6eae-723c91aeae46
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Bad Voltage
-  author: Bad Voltage
-  description: >-
-    Every two weeks Bad Voltage delivers an amusing take on technology, Open
-    Source, politics, music, and anything else we think is interesting, as well
-    as interviews and reviews. The show is presented by Jono Bacon, Jeremy
-    Garcia, and Stuart Langridge.
-  url: 'https://www.badvoltage.org'
-  lastEpisodePublished: '2020-02-06T14:14:56Z'
-  unplayed: true
-  lastEpisodeUuid: c3e8792e-d304-418f-96d9-73b86e801de7
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
-- uuid: 0e3b1080-a5d4-012e-56d0-00163e1b201c
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Wait Wait... Don't Tell Me!
-  author: NPR
-  description: >-
-    NPR's weekly current events quiz. Have a laugh and test your news knowledge
-    while figuring out what's real and what we've made up.
-  url: 'http://www.npr.org/programs/wait-wait-dont-tell-me/'
-  lastEpisodePublished: '2020-02-08T17:00:00Z'
-  unplayed: true
-  lastEpisodeUuid: fe2b897a-ee7b-44ef-9c5c-880712266eb2
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  lastEpisodePublished: '2020-02-19T02:11:35Z'
+  unplayed: false
+  lastEpisodeUuid: fa5d7bea-8894-46a3-9de1-aaf918cec02e
+  lastEpisodePlayingStatus: 0
+  lastEpisodeArchived: true
+  autoSkipLast: 0
 - uuid: 1c179450-6200-0136-4e65-69745d675bc7
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -80,25 +35,7 @@
   lastEpisodeUuid: 83fd463e-5ca7-4fc9-803b-fea29fabae3f
   lastEpisodePlayingStatus: 3
   lastEpisodeArchived: true
-- uuid: 203b2db0-4af4-0136-fa7c-0fe84b59566d
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Medium Playback
-  author: Medium
-  description: >-
-    Hear some of the best stories on Medium, straight from the authors who wrote
-    them. On each episode of Medium's flagship podcast, we invite an author to
-    the studio to perform a recent story they wrote for Medium and then talk
-    with us about it. Hosted by journalist Manoush Zomorodi and writer Kara
-    Brown, Playback features insightful, first-person stories on timely topics
-    affecting the world today  — and then gives you the story behind the story
-    from the writer.
-  url: 'https://medium.com/s/playback'
-  lastEpisodePublished: '2018-11-14T16:45:00Z'
-  unplayed: false
-  lastEpisodeUuid: 49b38456-f0b7-4df8-81ab-9c1a53870815
-  lastEpisodePlayingStatus: 2
-  lastEpisodeArchived: true
+  autoSkipLast: 0
 - uuid: 20592310-4f61-0133-c35e-0d11918ab357
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -108,11 +45,12 @@
     The JavaScript devs at SitePen talk about web app development with
     JavaScript, TypeScript, React, WebVR and more!
   url: 'https://www.sitepen.com'
-  lastEpisodePublished: '2019-12-23T18:55:33Z'
-  unplayed: true
-  lastEpisodeUuid: 334b0b36-9941-4740-9dfd-9b0280a7a2b0
-  lastEpisodePlayingStatus: 1
+  lastEpisodePublished: '2020-02-18T18:21:58Z'
+  unplayed: false
+  lastEpisodeUuid: ee2fe3d9-be0b-4edb-882f-b4356bc0040f
+  lastEpisodePlayingStatus: 2
   lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: 20a7ca40-9128-0131-8b7f-723c91aeae46
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -127,102 +65,12 @@
     every week; visit a16z.com for more details and to sign up for our
     newsletters and other content as well!
   url: 'https://www.a16z.com'
-  lastEpisodePublished: '2020-02-07T21:32:38Z'
+  lastEpisodePublished: '2020-02-14T20:49:25Z'
   unplayed: true
-  lastEpisodeUuid: 8e4a91f5-f86a-4f30-9c64-406fda4338c4
+  lastEpisodeUuid: 6cc6018b-8bd9-4c18-ad3f-c5f47f7e8e8f
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
-- uuid: 2d55c2a0-326b-0135-52f9-452518e2d253
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: The Tip Off
-  author: The Tip Off
-  description: >-
-    Welcome to The Tip Off- the podcast where we take you behind the scenes of
-    some of the best investigative journalism from recent years. Each episode
-    we’ll be digging into an investigative scoop- hearing from the journalists
-    behind the work as they tell us about the leads, the dead-ends and of
-    course, the tip offs. There’ll be car chases, slammed doors, terrorist
-    cells, meetings in dimly lit bars and cafes, wrangling with despotic regimes
-    and much more. So if you’re curious about the fun, complicated detective
-    work that goes into doing great investigative journalism- then this is the
-    podcast for you.
-  url: 'https://play.acast.com/s/thetipoff'
-  lastEpisodePublished: '2019-10-10T02:01:00Z'
-  unplayed: true
-  lastEpisodeUuid: f81278ef-2942-4c95-acf5-c366cfd19f4e
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
-- uuid: 2f31dfb0-2249-0132-b5ae-5f4c86fd3263
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Serial
-  author: This American Life
-  description: >-
-    Serial is a podcast from the creators of This American Life, hosted by Sarah
-    Koenig. Serial unfolds one story - a true story - over the course of a whole
-    season. The show follows the plot and characters wherever they lead, through
-    many surprising twists and turns. Sarah won't know what happens at the end
-    of the story until she gets there, not long before you get there with her.
-    Each week she'll bring you the latest chapter, so it's important to listen
-    in, starting with Episode 1. New episodes are released on Thursday mornings.
-  url: 'https://serialpodcast.org'
-  lastEpisodePublished: '2018-11-15T10:30:00Z'
-  unplayed: true
-  lastEpisodeUuid: 87cfd64a-2f40-4a06-87c9-90473d542c8c
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
-- uuid: 2f853ba0-d698-0132-0364-059c869cc4eb
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Startup School Radio
-  author: Y Combinator
-  description: >-
-    Startup School Radio is a weekly broadcast where you'll hear  Aaron Harris,
-    a partner at Y Combinator, get stories and practical advice from founders
-    and investors. Learn how they got started, what went wrong, what surprised
-    them, and what happened as their companies grew.
-
-
-    Originally broadcast on Sirius XM's Business Radio powered by the Wharton
-    school on Sirius 111.
-  url: 'http://www.aaronkharris.com'
-  lastEpisodePublished: '2016-08-04T15:40:43Z'
-  unplayed: true
-  lastEpisodeUuid: c14da6e0-bc07-0134-10a8-25324e2a541d
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
-- uuid: 336d2d80-057f-0135-ec79-4114446340cb
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: AppStories
-  author: 'Federico Viticci, John Voorhees'
-  description: >-
-    AppStories is a weekly exploration of the world of apps by MacStories'
-    Federico Viticci and John Voorhees. Each week, they discuss the best new
-    apps, the impact of apps on our culture, and cover the stories behind
-    popular apps. Hosted by Federico Viticci and John Voorhees.
-  url: 'https://appstories.net'
-  lastEpisodePublished: '2020-02-10T11:59:58Z'
-  unplayed: true
-  lastEpisodeUuid: 5edea113-6c40-4cd9-8671-7de5991e1ba5
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
-- uuid: 33de7f80-4061-012e-15b3-00163e1b201c
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Hacker Public Radio
-  author: Hacker Public Radio
-  description: >-
-    Hacker Public Radio is an podcast that releases shows every weekday Monday
-    through Friday. Our shows are produced by the community (you) and can be on
-    any topic that are of interest to hackers and hobbyists.
-  url: 'http://hackerpublicradio.org/about.php'
-  lastEpisodePublished: '2020-02-12T00:00:00Z'
-  unplayed: true
-  lastEpisodeUuid: f9b40c50-07bb-407b-a432-cdf12794bf89
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: 3f6543f0-4358-0133-bfa6-0d11918ab357
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -237,40 +85,7 @@
   lastEpisodeUuid: 8036b4b5-bc2b-436f-92ed-7d41679e6f22
   lastEpisodePlayingStatus: 3
   lastEpisodeArchived: true
-- uuid: 400dbcb0-a32e-0136-7b93-27f978dac4db
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Without Fail
-  author: Gimlet
-  description: >-
-    Candid conversations with entrepreneurs, artists, athletes, visionaries of
-    all kinds—about their successes, and their failures, and what they learned
-    from both. Hosted by Alex Blumberg, from Gimlet Media.
-  url: 'https://www.gimletmedia.com/without-fail'
-  lastEpisodePublished: '2020-02-03T11:45:00Z'
-  unplayed: true
-  lastEpisodeUuid: 8e99d68c-b81d-49f7-a972-f985b857ecb8
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
-- uuid: 40e1c580-3a2e-0134-eba6-0d50f522381b
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: DN FM
-  author: Designer News
-  description: >-
-    DN FM features the latest stories in design and tech, brought to you by
-    Designer News. 
-
-
-    The show is a bi-weekly podcast by the community, for the community. Through
-    interviews, news and community segments, it aims to spark a meaningful
-    conversation on design.
-  url: 'http://designernews.co/podcast'
-  lastEpisodePublished: '2016-12-24T16:00:00Z'
-  unplayed: true
-  lastEpisodeUuid: ab108010-ac32-0134-106e-25324e2a541d
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -282,11 +97,12 @@
     Knutson.  The Journal is a co-production from Gimlet Media and The Wall
     Street Journal.
   url: 'https://www.wsj.com/podcasts/the-journal'
-  lastEpisodePublished: '2020-02-11T22:05:00Z'
+  lastEpisodePublished: '2020-02-18T23:12:29Z'
   unplayed: false
-  lastEpisodeUuid: e6131364-3580-42bb-ac1f-77782dafaace
-  lastEpisodePlayingStatus: 3
-  lastEpisodeArchived: true
+  lastEpisodeUuid: 4850cc01-577d-4795-8ac0-aa92b218958d
+  lastEpisodePlayingStatus: 0
+  lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -305,6 +121,7 @@
   lastEpisodeUuid: 038e1aed-ae45-4c77-896a-8a8b6fbb27c0
   lastEpisodePlayingStatus: 2
   lastEpisodeArchived: true
+  autoSkipLast: 0
 - uuid: 4eb5b260-c933-0134-10da-25324e2a541d
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -315,45 +132,12 @@
     told by the best journalists in the world. Hosted by Michael Barbaro. Twenty
     minutes a day, five days a week, ready by 6 a.m.
   url: 'https://www.nytimes.com/the-daily'
-  lastEpisodePublished: '2020-02-12T10:57:28Z'
+  lastEpisodePublished: '2020-02-19T10:52:35Z'
   unplayed: true
-  lastEpisodeUuid: f1c92929-c05e-4819-93e6-ffeb6f4396fe
+  lastEpisodeUuid: a0b1bd04-9c48-4995-80cd-2024d78c1cd8
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
-- uuid: 6121f250-6ad8-0137-f267-1d245fc5f9cf
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Extremities
-  author: Wendover Productions
-  description: |-
-    Why and how people live in earth's most isolated and extreme settlements. 
-
-    Season 2 starts in late September 2019.
-
-    A Wendover Productions podcast: http://WendoverProductions.com
-  url: wendoverproductions.com
-  lastEpisodePublished: '2020-01-01T17:47:25Z'
-  unplayed: true
-  lastEpisodeUuid: e80f88a3-3b28-44df-bdd5-cac26a66e542
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
-- uuid: 660c9e20-ad36-0135-9e5c-5bb073f92b78
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: The freeCodeCamp Podcast
-  author: freeCodeCamp
-  description: >-
-    The official podcast of the freeCodeCamp open source community.
-
-
-    Learn to code with free online courses, programming projects, and interview
-    preparation for developer jobs.
-  url: 'https://www.freecodecamp.org'
-  lastEpisodePublished: '2019-11-21T06:55:54Z'
-  unplayed: true
-  lastEpisodeUuid: c932b77d-18bb-4abb-916f-03fa1dc1194f
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: 77f1b350-5419-0134-ec2d-0d50f522381b
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -371,6 +155,7 @@
   lastEpisodeUuid: 325d5c8d-6c71-4229-a249-eeadd4200b39
   lastEpisodePlayingStatus: 3
   lastEpisodeArchived: true
+  autoSkipLast: 0
 - uuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -388,6 +173,7 @@
   lastEpisodeUuid: 074ff27c-f7a5-4672-aa0e-cc714916b64b
   lastEpisodePlayingStatus: 0
   lastEpisodeArchived: true
+  autoSkipLast: 0
 - uuid: 7d9a4610-9673-0137-4052-0acc26574db2
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -410,6 +196,7 @@
   lastEpisodeUuid: 08b8ae90-01f4-4f3f-b612-bdfe4cc76de3
   lastEpisodePlayingStatus: 0
   lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: 851d1840-476e-0137-f266-1d245fc5f9cf
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -430,21 +217,7 @@
   lastEpisodeUuid: fee34932-328a-491a-9841-a0e8c4fcb021
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
-- uuid: 886c3620-669c-012e-2acd-00163e1b201c
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Free as in Freedom
-  author: Free as in Freedom
-  description: >-
-    A bi-weekly discussion of legal, policy, and other issues in the open source
-    and software freedom community (including occasional interviews) from
-    Brooklyn, New York, USA.  Presented by Karen Sandler and Bradley M. Kuhn.
-  url: 'http://faif.us/cast/'
-  lastEpisodePublished: '2019-11-12T16:15:00Z'
-  unplayed: true
-  lastEpisodeUuid: fbe6da17-2bd3-4852-b0b8-ca1070f2ec70
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: 8cb63a90-c70a-0136-7b94-27f978dac4db
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -459,6 +232,7 @@
   lastEpisodeUuid: 70df7547-0e8a-4b2d-acb3-67e417ed62fe
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -471,41 +245,7 @@
   lastEpisodeUuid: c3ccac1a-a319-4ee9-ac4a-d44637f456f8
   lastEpisodePlayingStatus: 3
   lastEpisodeArchived: true
-- uuid: 90923920-1ceb-0137-f265-1d245fc5f9cf
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Character Count
-  author: '@TwitterBusiness'
-  description: >-
-    Effectively advertising on Twitter isn't always easy. On each episode, we’ll
-    feature a different brand who is creative, surprising, and effective with
-    their Twitter Ads campaigns. Listen and subscribe for world-class marketing
-    inspiration straight from the source — Twitter.
-  url: 'https://business.twitter.com/'
-  lastEpisodePublished: '2020-02-04T16:00:17Z'
-  unplayed: true
-  lastEpisodeUuid: 012f748f-18d6-4747-86a1-69c6989c9713
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
-- uuid: 992f59d0-2205-0137-f265-1d245fc5f9cf
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Building A Unicorn
-  author: Lawson Media
-  description: >-
-    90 per cent of startups fail, but what does it take to build a business that
-    succeeds? That defies all expectations? That could one-day become what
-    investors call a unicorn? Hosted by Kristofor Lawson this series dives into
-    the heart of entrepreneurship, bringing you in-depth interviews with some of
-    the world's greatest business minds. Everyone in this series is a founder,
-    there from the start when their idea was written on the back of a napkin and
-    are now at the helm of a global company.
-  url: 'http://buildingaunicorn.com'
-  lastEpisodePublished: '2020-01-30T11:20:56Z'
-  unplayed: true
-  lastEpisodeUuid: 56d59f91-9eae-4d26-b74f-d01c08c16586
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: 993d43c0-a347-0136-7b93-27f978dac4db
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -521,6 +261,7 @@
   lastEpisodeUuid: a08d1ac3-5ac9-4958-9bb4-369276c31b40
   lastEpisodePlayingStatus: 3
   lastEpisodeArchived: true
+  autoSkipLast: 0
 - uuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -536,20 +277,7 @@
   lastEpisodeUuid: d3dba2d7-4408-4720-bfd2-39c5678c3c2e
   lastEpisodePlayingStatus: 3
   lastEpisodeArchived: true
-- uuid: a0e8d040-339e-0137-f265-1d245fc5f9cf
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: 'Code[ish]'
-  author: Heroku
-  description: >-
-    A podcast from the team at Heroku, exploring code, technology, tools, tips,
-    and the life of the developer.
-  url: 'https://www.heroku.com/podcasts/codeish'
-  lastEpisodePublished: '2020-02-11T00:00:00Z'
-  unplayed: true
-  lastEpisodeUuid: 4e23e7d7-6a20-4fd6-b497-74ef18b1946c
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: a4085f60-5672-0134-ec37-0d50f522381b
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -560,11 +288,12 @@
     companies. How I Built This weaves a narrative journey about innovators,
     entrepreneurs and idealists—and the movements they built.
   url: 'http://www.npr.org/series/490248027/how-i-built-this'
-  lastEpisodePublished: '2020-02-10T05:01:09Z'
+  lastEpisodePublished: '2020-02-17T05:01:00Z'
   unplayed: false
-  lastEpisodeUuid: 9cebd0fc-0f87-457c-ae74-3f16e015b2bf
-  lastEpisodePlayingStatus: 0
+  lastEpisodeUuid: 35ed4d7f-b5a9-49f7-8703-d395cea48806
+  lastEpisodePlayingStatus: 3
   lastEpisodeArchived: true
+  autoSkipLast: 0
 - uuid: a5163bc0-08ab-0137-f265-1d245fc5f9cf
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -576,12 +305,13 @@
     Ryan Rutan talk candidly about the intense struggles Founders face both
     personally and professionally as they try to turn their idea into something
     that will change the world.
-  url: ''
-  lastEpisodePublished: '2020-02-10T03:00:00Z'
-  unplayed: true
-  lastEpisodeUuid: 3d592824-35fe-46e8-b633-4f0231ab035a
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  url: 'https://www.startups.com/community/startup-therapy'
+  lastEpisodePublished: '2020-02-17T03:00:00Z'
+  unplayed: false
+  lastEpisodeUuid: 072464e6-daec-475a-8e12-efcca72bfc65
+  lastEpisodePlayingStatus: 3
+  lastEpisodeArchived: true
+  autoSkipLast: 0
 - uuid: acf9fe50-ca90-0130-355c-723c91aeae46
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -589,37 +319,12 @@
   author: Relay FM
   description: "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always\_watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent."
   url: 'https://www.relay.fm/clockwise'
-  lastEpisodePublished: '2020-02-05T20:00:00Z'
+  lastEpisodePublished: '2020-02-12T18:00:00Z'
   unplayed: false
-  lastEpisodeUuid: ddafb76c-21ec-4d36-9742-0f69294228cf
-  lastEpisodePlayingStatus: 3
-  lastEpisodeArchived: true
-- uuid: ada28710-1123-0132-aad3-5f4c86fd3263
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: StartUp Podcast
-  author: Gimlet
-  description: A series about what it's really like to start a business.
-  url: 'https://www.gimletmedia.com/startup'
-  lastEpisodePublished: '2020-01-03T11:10:00Z'
-  unplayed: true
-  lastEpisodeUuid: e63c6d82-a908-48e0-8052-d7fcab17a9d5
-  lastEpisodePlayingStatus: 1
+  lastEpisodeUuid: b27e22c0-cbf0-46c1-a490-0a3d19a7896e
+  lastEpisodePlayingStatus: 2
   lastEpisodeArchived: false
-- uuid: b9461710-95c1-0136-7b92-27f978dac4db
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: ready or not
-  author: Sam Lesser
-  description: >-
-    Young innovators and leaders are building a better tomorrow. Allow me to
-    introduce them to you...
-  url: 'https://readyornotpod.wixsite.com/mysite'
-  lastEpisodePublished: '2020-01-28T09:00:00Z'
-  unplayed: true
-  lastEpisodeUuid: e94b7858-bcc1-4157-b0a6-7d2b5e5b8101
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: c07ea620-6997-0135-902f-63f4b61a9224
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -632,21 +337,7 @@
   lastEpisodeUuid: 63bc25be-6333-4ce9-8cb1-9b0a0c9d6e4c
   lastEpisodePlayingStatus: 3
   lastEpisodeArchived: true
-- uuid: d4cdada0-890a-0136-7b90-27f978dac4db
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Design Tomorrow
-  author: Christopher Butler
-  description: >-
-    Design Tomorrow is a podcast about design, technology, and being human with
-    a special emphasis on growing our awareness that what we do and think today
-    can create a better tomorrow.
-  url: 'http://www.designtomorrow.co'
-  lastEpisodePublished: '2019-09-09T08:00:09Z'
-  unplayed: true
-  lastEpisodeUuid: 22d8a037-bd01-41a2-8590-79bf6bb35583
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: d4dec560-f2f3-0136-324d-08b04944ede4
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -667,36 +358,8 @@
   unplayed: false
   lastEpisodeUuid: b8a9a646-706c-41c1-8c82-406f26f6da6d
   lastEpisodePlayingStatus: 0
-  lastEpisodeArchived: false
-- uuid: e836dc00-0191-0137-f265-1d245fc5f9cf
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Should This Exist?
-  author: WaitWhat
-  description: "It's the question of our times: How is technology impacting our humanity? \"Should This Exist?\" invites the creators of radical new technologies to set aside their business plan, and think through the human side: What is the invention’s greatest promise? And what could possibly go wrong? Show host Caterina Fake (Partner, Yes VC; Cofounder Flickr) is a celebrated tech pioneer and one of Silicon Valley’s most eloquent commentators on technology and the human condition. Joined by a roster of all-star expert guests who have a knack for looking around corners, Caterina drops listeners into the minds of today’s ingenious entrepreneurs and guides them through the journey of foreseeing what their technology might do to us, and for us.\_Should This Exist? is a WaitWhat original series in partnership with Quartz. "
-  url: 'https://art19.com/shows/should-this-exist'
-  lastEpisodePublished: '2019-07-30T02:00:00Z'
-  unplayed: true
-  lastEpisodeUuid: 564bc0f0-e6e9-403f-94a9-240463ea51aa
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
-- uuid: ead2fd60-a9a3-0136-7b93-27f978dac4db
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Wireframe
-  author: Adobe / Gimlet Creative
-  description: >-
-    Wireframe reveals the stories behind user experience design, for UX/UI
-    designers, graphic designers, and the design-curious. Hosted by Khoi Vinh,
-    principal designer at Adobe and one of Fast Company’s 100 Most Creative
-    People in Business, the podcast explores unexpected ways that user
-    experience design helps technology fit into our lives.
-  url: 'http://creative.gimletmedia.com/shows/wireframe/'
-  lastEpisodePublished: '2019-11-26T11:00:00Z'
-  unplayed: true
-  lastEpisodeUuid: 4944dbc4-0237-4eae-83bf-0a0d3779edf4
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  lastEpisodeArchived: true
+  autoSkipLast: 0
 - uuid: ec7954e0-4f9c-0130-e55a-723c91aeae46
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -709,11 +372,12 @@
 
     http://bit.ly/paytokeepnewsfree
   url: 'https://www.newslaundry.com/subscription'
-  lastEpisodePublished: '2020-02-08T14:16:37Z'
+  lastEpisodePublished: '2020-02-17T12:43:45Z'
   unplayed: true
-  lastEpisodeUuid: c95d2096-b147-48a5-8981-6cd293544e67
+  lastEpisodeUuid: cca2d6a8-b084-4137-87c1-877f203457b0
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -725,26 +389,12 @@
     Connected provides a perspective that no other show can. Hosted by Federico
     Viticci, Myke Hurley, and Stephen Hackett.
   url: 'https://www.relay.fm/connected'
-  lastEpisodePublished: '2020-02-05T21:30:00Z'
+  lastEpisodePublished: '2020-02-12T21:30:00Z'
   unplayed: true
-  lastEpisodeUuid: 189a68bf-7b68-4a28-ba3c-87f96ea4345e
+  lastEpisodeUuid: b6efee4e-fa9c-434b-b7dc-2011d0132432
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
-- uuid: eda33410-4f42-0132-cf00-5f4c86fd3263
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: Reply All
-  author: Gimlet
-  description: >-
-    "'A podcast about the internet' that is actually an unfailingly original
-    exploration of modern life and how to survive it." - The Guardian. Hosted by
-    PJ Vogt and Alex Goldman, from Gimlet.
-  url: 'http://gimletmedia.com/shows/reply-all'
-  lastEpisodePublished: '2020-01-30T11:00:00Z'
-  unplayed: true
-  lastEpisodeUuid: dfd5b7ee-84c9-45b8-8ef1-36faa044b24c
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: f6ffd000-c8fc-0133-2e8b-6dc413d6d41d
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -761,3 +411,4 @@
   lastEpisodeUuid: a6fdf602-d9ce-4702-a4d5-aeb3e2a416ba
   lastEpisodePlayingStatus: 0
   lastEpisodeArchived: false
+  autoSkipLast: 0
