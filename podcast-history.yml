@@ -1,3 +1,52 @@
+- uuid: 334b0b36-9941-4740-9dfd-9b0280a7a2b0
+  url: >-
+    https://media.blubrry.com/sitepen/media.sitepen.com/podcast/TalkScript_052.mp3
+  published: '2019-12-23T18:55:33Z'
+  duration: 2070
+  fileType: audio/mp3
+  title: 'Episode 52: Holiday Special'
+  size: '33170393'
+  playingStatus: 3
+  playedUpTo: 2070
+  starred: false
+  podcastUuid: 20592310-4f61-0133-c35e-0d11918ab357
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 6f602d48-3b9b-4b2a-ae0b-cdd69cfc557f
+  url: 'https://traffic.megaphone.fm/WSJ1409617541.mp3'
+  published: '2020-02-19T22:21:38Z'
+  duration: 968
+  fileType: audio/mp3
+  title: An Economic Superpower on Lockdown
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 968
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 4850cc01-577d-4795-8ac0-aa92b218958d
+  url: 'https://traffic.megaphone.fm/WSJ9392824042.mp3'
+  published: '2020-02-18T23:12:29Z'
+  duration: 1170
+  fileType: audio/mp3
+  title: How a Kardashian Producer Became a Saudi Deal Maker
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1170
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: ee2fe3d9-be0b-4edb-882f-b4356bc0040f
   url: >-
     https://media.blubrry.com/sitepen/media.sitepen.com/podcast/TalkScript_053.mp3
@@ -14,7 +63,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 072464e6-daec-475a-8e12-efcca72bfc65
   url: 'https://media.transistor.fm/ee25ab91.mp3'
   published: '2020-02-17T03:00:00Z'
@@ -1579,55 +1628,6 @@
   playedUpTo: 1934
   starred: false
   podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 2ada1aa5-af83-4bcd-8890-6f2685fa1cef
-  url: >-
-    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2019/11/20191108_hibt_evite-86099a32-80b6-4d1b-96c4-163754a7e9b6.mp3?awCollectionId=510313&awEpisodeId=777708195&orgId=1&d=3914&p=510313&story=777708195&t=podcast&e=777708195&size=62488907&ft=pod&f=510313
-  published: '2019-11-11T05:01:46Z'
-  duration: 3947
-  fileType: audio/mpeg
-  title: 'Evite: Selina Tobaccowala'
-  size: '62488907'
-  playingStatus: 3
-  playedUpTo: 3938
-  starred: false
-  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 3110567a-c07a-4262-b179-da1f26bf6018
-  url: 'https://traffic.megaphone.fm/WSJ3199256329.mp3'
-  published: '2019-11-08T21:38:56Z'
-  duration: 1001
-  fileType: audio/mp3
-  title: WhatsApp's Hack
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 937
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: bd811462-8d35-4520-b4da-13dfe7c47ecc
-  url: 'http://traffic.libsyn.com/unmade/unmade_episode36.mp3'
-  published: '2019-11-12T22:07:18Z'
-  duration: 2988
-  fileType: audio/mp3
-  title: '36: Confession Booth'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 2988
-  starred: false
-  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
