@@ -1,3 +1,19 @@
+- uuid: 95b426c8-6f93-438a-a5a9-31563240969a
+  url: 'https://traffic.megaphone.fm/WSJ2302519917.mp3'
+  published: '2020-02-20T22:29:15Z'
+  duration: 982
+  fileType: audio/mp3
+  title: 'The Boy Scouts'' Survival Plan: Bankruptcy'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 982
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 334b0b36-9941-4740-9dfd-9b0280a7a2b0
   url: >-
     https://media.blubrry.com/sitepen/media.sitepen.com/podcast/TalkScript_052.mp3
@@ -178,7 +194,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 2a5af926-b617-4768-a634-6a8d75fcf09a
   url: 'https://traffic.megaphone.fm/WSJ4333100297.mp3'
   published: '2020-02-12T22:57:33Z'
@@ -1611,23 +1627,6 @@
   playedUpTo: 1067
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 1a2068bf-1165-4279-96a2-99b0edb5b292
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM6396264845.mp3?updated=1573594833
-  published: '2019-11-13T09:00:00Z'
-  duration: 1934
-  fileType: audio/mpeg
-  title: Let’s Make a Travel Deal
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1934
-  starred: false
-  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
