@@ -1,30 +1,296 @@
-- isbn: 0385349947
-  isbn13: '9780385349949'
-  title: 'Lean In: Women, Work, and the Will to Lead'
+- isbn: 0553562835
+  isbn13: '9780553562835'
+  title: 'Sam Walton: Made In America'
   image_url: >-
-    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364250803l/16071764._SY160_.jpg
-  link: 'https://www.goodreads.com/book/show/16071764-lean-in'
-  publisher: Knopf
-  author: Sheryl Sandberg
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463939506l/10631._SY160_.jpg
+  link: 'https://www.goodreads.com/book/show/10631.Sam_Walton'
+  publisher: Bantam
+  author: Sam Walton
   rating: '5'
-  dateAdded: 'Thu Jul 26 05:07:53 -0700 2018'
-  url: 'https://www.goodreads.com/review/show/2470897676'
-- isbn: '1471138801'
-  isbn13: '9781471138805'
-  title: The Innovators
+  dateAdded: 'Sat Feb 22 01:17:01 -0800 2020'
+  readAt: 'Thu Jul 14 00:00:00 -0700 2016'
+  url: 'https://www.goodreads.com/review/show/3201465670'
+- isbn: 0553562835
+  isbn13: '9780553562835'
+  title: 'Sam Walton: Made In America'
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463939506l/10631._SY160_.jpg
+  link: 'https://www.goodreads.com/book/show/10631.Sam_Walton'
+  publisher: Bantam
+  author: Sam Walton
+  rating: '5'
+  dateAdded: 'Sat Feb 22 01:17:01 -0800 2020'
+  readAt: 'Thu Jul 14 00:00:00 -0700 2016'
+  url: 'https://www.goodreads.com/review/show/3201465670'
+- title: Think and Grow Rich
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463241782l/30186948._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/30186948-think-and-grow-rich'
+  author: Napoleon Hill
+  rating: '4'
+  dateAdded: 'Sat Feb 22 01:16:30 -0800 2020'
+  readAt: 'Sat Oct 01 00:00:00 -0700 2016'
+  url: 'https://www.goodreads.com/review/show/3201465375'
+- title: Think and Grow Rich
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463241782l/30186948._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/30186948-think-and-grow-rich'
+  author: Napoleon Hill
+  rating: '4'
+  dateAdded: 'Sat Feb 22 01:16:30 -0800 2020'
+  readAt: 'Sat Oct 01 00:00:00 -0700 2016'
+  url: 'https://www.goodreads.com/review/show/3201465375'
+- isbn13: '9780671723651'
+  title: How to Win Friends and Influence People
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SX98_.jpg
+  link: >-
+    https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People
+  publisher: Gallery Books
+  author: Dale Carnegie
+  rating: '3'
+  dateAdded: 'Sat Feb 22 01:16:06 -0800 2020'
+  readAt: 'Mon Oct 03 00:00:00 -0700 2016'
+  url: 'https://www.goodreads.com/review/show/3201465136'
+- isbn: '0465067107'
+  isbn13: '9780465067107'
+  title: The Design of Everyday Things
   image_url: >-
     https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
-  link: 'https://www.goodreads.com/book/show/25656530-the-innovators'
-  publisher: Simon & Schuster Ltd
-  author: Walter Isaacson
-  rating: '5'
-  dateAdded: 'Thu Jul 26 05:06:40 -0700 2018'
-  url: 'https://www.goodreads.com/review/show/2470896751'
-- title: The Shape of Design
-  image_url: >-
-    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356713735l/13017981._SX98_.jpg
-  link: 'https://www.goodreads.com/book/show/13017981-the-shape-of-design'
-  author: Frank Chimero
+  link: 'https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things'
+  publisher: Basic Books
+  author: Donald A. Norman
   rating: '4'
-  dateAdded: 'Sun Oct 27 09:24:25 -0700 2013'
-  url: 'https://www.goodreads.com/review/show/750558016'
+  dateAdded: 'Sat Feb 22 01:15:41 -0800 2020'
+  readAt: 'Mon Oct 03 00:00:00 -0700 2016'
+  url: 'https://www.goodreads.com/review/show/3201464875'
+- isbn13: '9780671723651'
+  title: How to Win Friends and Influence People
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SX98_.jpg
+  link: >-
+    https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People
+  publisher: Gallery Books
+  author: Dale Carnegie
+  rating: '3'
+  dateAdded: 'Sat Feb 22 01:16:06 -0800 2020'
+  readAt: 'Mon Oct 03 00:00:00 -0700 2016'
+  url: 'https://www.goodreads.com/review/show/3201465136'
+- isbn: '0465067107'
+  isbn13: '9780465067107'
+  title: The Design of Everyday Things
+  image_url: >-
+    https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  link: 'https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things'
+  publisher: Basic Books
+  author: Donald A. Norman
+  rating: '4'
+  dateAdded: 'Sat Feb 22 01:15:41 -0800 2020'
+  readAt: 'Mon Oct 03 00:00:00 -0700 2016'
+  url: 'https://www.goodreads.com/review/show/3201464875'
+- isbn: 0743269519
+  isbn13: '9780743269513'
+  title: 'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change'
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421842784l/36072._SX98_.jpg
+  link: >-
+    https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People
+  publisher: Free Press
+  author: Stephen R. Covey
+  rating: '3'
+  dateAdded: 'Sat Feb 22 01:15:02 -0800 2020'
+  readAt: 'Wed Oct 12 00:00:00 -0700 2016'
+  url: 'https://www.goodreads.com/review/show/3201464531'
+- isbn: 0743269519
+  isbn13: '9780743269513'
+  title: 'The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change'
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421842784l/36072._SX98_.jpg
+  link: >-
+    https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People
+  publisher: Free Press
+  author: Stephen R. Covey
+  rating: '3'
+  dateAdded: 'Sat Feb 22 01:15:02 -0800 2020'
+  readAt: 'Wed Oct 12 00:00:00 -0700 2016'
+  url: 'https://www.goodreads.com/review/show/3201464531'
+- isbn: 0393316041
+  isbn13: '9780393316049'
+  title: 'Surely You''re Joking, Mr. Feynman!: Adventures of a Curious Character'
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348445281l/5544._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_'
+  publisher: W. W. Norton & Company
+  author: Richard P. Feynman
+  rating: '4'
+  dateAdded: 'Sat Feb 22 01:14:20 -0800 2020'
+  readAt: 'Tue Nov 15 00:00:00 -0800 2016'
+  url: 'https://www.goodreads.com/review/show/3201464161'
+- isbn: 0393316041
+  isbn13: '9780393316049'
+  title: 'Surely You''re Joking, Mr. Feynman!: Adventures of a Curious Character'
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348445281l/5544._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_'
+  publisher: W. W. Norton & Company
+  author: Richard P. Feynman
+  rating: '4'
+  dateAdded: 'Sat Feb 22 01:14:20 -0800 2020'
+  readAt: 'Tue Nov 15 00:00:00 -0800 2016'
+  url: 'https://www.goodreads.com/review/show/3201464161'
+- title: '1984'
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348990566l/5470._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/5470.1984'
+  publisher: New American Library
+  author: George Orwell
+  rating: '5'
+  dateAdded: 'Sat Feb 22 01:13:18 -0800 2020'
+  readAt: 'Sun May 21 00:00:00 -0700 2017'
+  url: 'https://www.goodreads.com/review/show/3201463612'
+- title: '1984'
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348990566l/5470._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/5470.1984'
+  publisher: New American Library
+  author: George Orwell
+  rating: '5'
+  dateAdded: 'Sat Feb 22 01:13:18 -0800 2020'
+  readAt: 'Sun May 21 00:00:00 -0700 2017'
+  url: 'https://www.goodreads.com/review/show/3201463612'
+- isbn: 0525512179
+  isbn13: '9780525512172'
+  title: 21 Lessons for the 21st Century
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564577305l/38820046._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century'
+  publisher: Spiegel & Grau
+  author: Yuval Noah Harari
+  rating: '4'
+  dateAdded: 'Sat Feb 22 01:09:38 -0800 2020'
+  readAt: 'Mon Jan 07 00:00:00 -0800 2019'
+  url: 'https://www.goodreads.com/review/show/3201461671'
+- isbn: 0525512179
+  isbn13: '9780525512172'
+  title: 21 Lessons for the 21st Century
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564577305l/38820046._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century'
+  publisher: Spiegel & Grau
+  author: Yuval Noah Harari
+  rating: '4'
+  dateAdded: 'Sat Feb 22 01:09:38 -0800 2020'
+  readAt: 'Mon Jan 07 00:00:00 -0800 2019'
+  url: 'https://www.goodreads.com/review/show/3201461671'
+- isbn: '1849048088'
+  isbn13: '9781849048088'
+  title: 'Inglorious Empire: What the British Did to India'
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490075230l/34185892._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/34185892-inglorious-empire'
+  publisher: C Hurst & Co
+  author: Shashi Tharoor
+  rating: '3'
+  dateAdded: 'Sat Feb 22 01:10:13 -0800 2020'
+  readAt: 'Wed Feb 06 00:00:00 -0800 2019'
+  url: 'https://www.goodreads.com/review/show/3201461953'
+- isbn: '1849048088'
+  isbn13: '9781849048088'
+  title: 'Inglorious Empire: What the British Did to India'
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490075230l/34185892._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/34185892-inglorious-empire'
+  publisher: C Hurst & Co
+  author: Shashi Tharoor
+  rating: '3'
+  dateAdded: 'Sat Feb 22 01:10:13 -0800 2020'
+  readAt: 'Wed Feb 06 00:00:00 -0800 2019'
+  url: 'https://www.goodreads.com/review/show/3201461953'
+- isbn: '0751532711'
+  isbn13: '9780751532715'
+  title: 'Rich Dad, Poor Dad'
+  image_url: >-
+    https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  link: 'https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad'
+  publisher: Time Warner Books UK
+  author: Robert T. Kiyosaki
+  rating: '4'
+  dateAdded: 'Sat Feb 22 01:10:54 -0800 2020'
+  readAt: 'Mon Mar 25 00:00:00 -0700 2019'
+  url: 'https://www.goodreads.com/review/show/3201462310'
+- isbn: '0751532711'
+  isbn13: '9780751532715'
+  title: 'Rich Dad, Poor Dad'
+  image_url: >-
+    https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  link: 'https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad'
+  publisher: Time Warner Books UK
+  author: Robert T. Kiyosaki
+  rating: '4'
+  dateAdded: 'Sat Feb 22 01:10:54 -0800 2020'
+  readAt: 'Mon Mar 25 00:00:00 -0700 2019'
+  url: 'https://www.goodreads.com/review/show/3201462310'
+- isbn: 147670869X
+  isbn13: '9781476708690'
+  title: >-
+    The Innovators: How a Group of  Hackers, Geniuses and Geeks Created the
+    Digital Revolution
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410191571l/21856367._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/21856367-the-innovators'
+  publisher: Simon and Schuster
+  author: Walter Isaacson
+  rating: '4'
+  dateAdded: 'Sat Feb 22 01:12:51 -0800 2020'
+  readAt: 'Wed Nov 13 00:00:00 -0800 2019'
+  url: 'https://www.goodreads.com/review/show/3201463367'
+- isbn: 147670869X
+  isbn13: '9781476708690'
+  title: >-
+    The Innovators: How a Group of  Hackers, Geniuses and Geeks Created the
+    Digital Revolution
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410191571l/21856367._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/21856367-the-innovators'
+  publisher: Simon and Schuster
+  author: Walter Isaacson
+  rating: '4'
+  dateAdded: 'Sat Feb 22 01:12:51 -0800 2020'
+  readAt: 'Wed Nov 13 00:00:00 -0800 2019'
+  url: 'https://www.goodreads.com/review/show/3201463367'
+- isbn: 0316017922
+  isbn13: '9780316017923'
+  title: 'Outliers: The Story of Success'
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344266315l/3228917._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/3228917-outliers'
+  publisher: 'Little, Brown and Company'
+  author: Malcolm Gladwell
+  rating: '4'
+  dateAdded: 'Sat Feb 22 01:05:20 -0800 2020'
+  readAt: 'Fri Feb 21 00:00:00 -0800 2020'
+  url: 'https://www.goodreads.com/review/show/3201459373'
+- isbn: 0316017922
+  isbn13: '9780316017923'
+  title: 'Outliers: The Story of Success'
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344266315l/3228917._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/3228917-outliers'
+  publisher: 'Little, Brown and Company'
+  author: Malcolm Gladwell
+  rating: '4'
+  dateAdded: 'Sat Feb 22 01:05:20 -0800 2020'
+  readAt: 'Fri Feb 21 00:00:00 -0800 2020'
+  url: 'https://www.goodreads.com/review/show/3201459373'
+- isbn: 0316478520
+  isbn13: '9780316478526'
+  title: 'Talking to Strangers: What We Should Know about the People We Don''t Know'
+  image_url: >-
+    https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  link: 'https://www.goodreads.com/book/show/43848929-talking-to-strangers'
+  publisher: 'Little, Brown and Company'
+  author: Malcolm Gladwell
+  rating: '0'
+  dateAdded: 'Sat Feb 22 01:19:45 -0800 2020'
+  startedAt: 'Sat Feb 22 01:19:45 -0800 2020'
+  url: 'https://www.goodreads.com/review/show/3201467219'
