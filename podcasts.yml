@@ -1,22 +1,21 @@
-- uuid: 0cc43410-1d2f-012e-0175-00163e1b201c
+- uuid: 18909320-261f-0138-9fe3-0acc26574db2
   episodesSortOrder: 3
   autoStartFrom: 0
-  title: 99% Invisible
-  author: Roman Mars
+  title: New Scientist Weekly
+  author: New Scientist
   description: >-
-    Design is everywhere in our lives, perhaps most importantly in the places
-    where we've just stopped noticing. 99% Invisible is a weekly exploration of
-    the process and power of design and architecture. From award winning
-    producer Roman Mars. Learn more at 99percentinvisible.org.  
-
-
-    A proud member of Radiotopia, from PRX. Learn more at radiotopia.fm.
-  url: 'http://99percentinvisible.org'
-  lastEpisodePublished: '2020-02-19T02:11:35Z'
-  unplayed: false
-  lastEpisodeUuid: fa5d7bea-8894-46a3-9de1-aaf918cec02e
-  lastEpisodePlayingStatus: 0
-  lastEpisodeArchived: true
+    Keep up with the latest scientific developments and breakthroughs in this
+    weekly podcast from the team at New Scientist, the world’s most popular
+    weekly science and technology magazine. Each discussion centers around three
+    of the most fascinating stories to hit the headlines each week. From
+    technology, to space, health and the environment, we share all the
+    information you need to keep pace. Produced by Right Angles.
+  url: 'https://www.newscientist.com/'
+  lastEpisodePublished: '2020-02-21T01:00:00Z'
+  unplayed: true
+  lastEpisodeUuid: 52612d87-9f3c-4721-a708-bb084ffd3a5f
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 1c179450-6200-0136-4e65-69745d675bc7
   episodesSortOrder: 3
@@ -49,7 +48,7 @@
   unplayed: false
   lastEpisodeUuid: ee2fe3d9-be0b-4edb-882f-b4356bc0040f
   lastEpisodePlayingStatus: 2
-  lastEpisodeArchived: false
+  lastEpisodeArchived: true
   autoSkipLast: 0
 - uuid: 20a7ca40-9128-0131-8b7f-723c91aeae46
   episodesSortOrder: 3
@@ -65,9 +64,9 @@
     every week; visit a16z.com for more details and to sign up for our
     newsletters and other content as well!
   url: 'https://www.a16z.com'
-  lastEpisodePublished: '2020-02-14T20:49:25Z'
+  lastEpisodePublished: '2020-02-20T04:04:04Z'
   unplayed: true
-  lastEpisodeUuid: 6cc6018b-8bd9-4c18-ad3f-c5f47f7e8e8f
+  lastEpisodeUuid: b2ee8c8c-9e57-41b3-b570-181743bcdac6
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -94,13 +93,13 @@
   description: >-
     The most important stories, explained through the lens of business. A
     podcast about money, business and power. Hosted by Kate Linebaugh and Ryan
-    Knutson.  The Journal is a co-production from Gimlet Media and The Wall
+    Knutson. The Journal is a co-production from Gimlet Media and The Wall
     Street Journal.
   url: 'https://www.wsj.com/podcasts/the-journal'
-  lastEpisodePublished: '2020-02-18T23:12:29Z'
-  unplayed: false
-  lastEpisodeUuid: 4850cc01-577d-4795-8ac0-aa92b218958d
-  lastEpisodePlayingStatus: 0
+  lastEpisodePublished: '2020-02-21T23:07:36Z'
+  unplayed: true
+  lastEpisodeUuid: 3ad89081-5c7e-4506-a92b-4271d5c20818
+  lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
@@ -132,9 +131,9 @@
     told by the best journalists in the world. Hosted by Michael Barbaro. Twenty
     minutes a day, five days a week, ready by 6 a.m.
   url: 'https://www.nytimes.com/the-daily'
-  lastEpisodePublished: '2020-02-19T10:52:35Z'
+  lastEpisodePublished: '2020-02-21T10:55:00Z'
   unplayed: true
-  lastEpisodeUuid: a0b1bd04-9c48-4995-80cd-2024d78c1cd8
+  lastEpisodeUuid: 83295573-2fae-46f6-a1d5-8e756fba57a5
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -191,9 +190,9 @@
 
     Link to survey: https://bit.ly/2EcYbu4
   url: 'https://www.studio71.com/us/podcasts/'
-  lastEpisodePublished: '2020-02-07T08:15:00Z'
+  lastEpisodePublished: '2020-02-21T08:30:00Z'
   unplayed: false
-  lastEpisodeUuid: 08b8ae90-01f4-4f3f-b612-bdfe4cc76de3
+  lastEpisodeUuid: d7c7ad72-2212-4624-b251-d6ac6f3e7772
   lastEpisodePlayingStatus: 0
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -319,10 +318,10 @@
   author: Relay FM
   description: "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always\_watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent."
   url: 'https://www.relay.fm/clockwise'
-  lastEpisodePublished: '2020-02-12T18:00:00Z'
-  unplayed: false
-  lastEpisodeUuid: b27e22c0-cbf0-46c1-a490-0a3d19a7896e
-  lastEpisodePlayingStatus: 2
+  lastEpisodePublished: '2020-02-20T05:00:00Z'
+  unplayed: true
+  lastEpisodeUuid: 9543c0d3-a5c3-413f-86da-d7a5cb330a76
+  lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: c07ea620-6997-0135-902f-63f4b61a9224
@@ -332,11 +331,11 @@
   author: Tim Hein and Brady Haran
   description: Tim and Brady discuss ideas for podcasts that they will never make.
   url: 'https://www.unmade.fm/'
-  lastEpisodePublished: '2020-01-15T23:11:54Z'
-  unplayed: false
-  lastEpisodeUuid: 63bc25be-6333-4ce9-8cb1-9b0a0c9d6e4c
-  lastEpisodePlayingStatus: 3
-  lastEpisodeArchived: true
+  lastEpisodePublished: '2020-02-22T09:52:17Z'
+  unplayed: true
+  lastEpisodeUuid: 3e3907ac-2755-4830-9aad-a9a787bb6f36
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: d4dec560-f2f3-0136-324d-08b04944ede4
   episodesSortOrder: 3
@@ -389,10 +388,10 @@
     Connected provides a perspective that no other show can. Hosted by Federico
     Viticci, Myke Hurley, and Stephen Hackett.
   url: 'https://www.relay.fm/connected'
-  lastEpisodePublished: '2020-02-12T21:30:00Z'
-  unplayed: true
-  lastEpisodeUuid: b6efee4e-fa9c-434b-b7dc-2011d0132432
-  lastEpisodePlayingStatus: 1
+  lastEpisodePublished: '2020-02-19T22:00:00Z'
+  unplayed: false
+  lastEpisodeUuid: 4768b13a-eae8-492d-8b10-4af126321928
+  lastEpisodePlayingStatus: 2
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: f6ffd000-c8fc-0133-2e8b-6dc413d6d41d
