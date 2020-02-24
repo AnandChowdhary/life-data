@@ -1,3 +1,19 @@
+- uuid: 3ad89081-5c7e-4506-a92b-4271d5c20818
+  url: 'https://traffic.megaphone.fm/WSJ7078476137.mp3'
+  published: '2020-02-21T23:07:36Z'
+  duration: 1092
+  fileType: audio/mp3
+  title: 'Sold: Victoria''s Secret'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1092
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 3e3907ac-2755-4830-9aad-a9a787bb6f36
   url: 'http://traffic.libsyn.com/unmade/unmade_episode39.mp3'
   published: '2020-02-22T09:52:17Z'
@@ -5,15 +21,15 @@
   fileType: audio/mp3
   title: '39: Tools of the Trade'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 748
+  playingStatus: 3
+  playedUpTo: 4200
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 4768b13a-eae8-492d-8b10-4af126321928
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_282.mp3
@@ -1617,19 +1633,3 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: false
-- uuid: bfe5b048-d5ac-4173-93b7-b91216aa0e54
-  url: 'https://traffic.megaphone.fm/GLT2568029984.mp3'
-  published: '2019-10-15T10:00:00Z'
-  duration: 1332
-  fileType: audio/mp3
-  title: Faking Good Design
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 788
-  starred: false
-  podcastUuid: ead2fd60-a9a3-0136-7b93-27f978dac4db
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 2
-  episodeNumber: 5
-  isDeleted: true
