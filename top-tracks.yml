@@ -201,6 +201,46 @@ longTermTracks:
   - album:
       artists:
         - external_urls:
+            spotify: 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'
+          href: 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02'
+          id: 06HL4z0CvFAxyc27GXpf02
+          name: Taylor Swift
+          type: artist
+          uri: 'spotify:artist:06HL4z0CvFAxyc27GXpf02'
+      href: 'https://api.spotify.com/v1/albums/5LGsh3kexUfi3qkIIxb8vK'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/ab67616d0000b2734aa13f6de271d8403a82e4a8'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/ab67616d00001e024aa13f6de271d8403a82e4a8'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/ab67616d000048514aa13f6de271d8403a82e4a8'
+          width: 64
+      name: Only The Young (Featured in Miss Americana)
+      release_date: '2020-01-31'
+      release_date_precision: day
+      total_tracks: 1
+      type: album
+      uri: 'spotify:album:5LGsh3kexUfi3qkIIxb8vK'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'
+        href: 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02'
+        id: 06HL4z0CvFAxyc27GXpf02
+        name: Taylor Swift
+        type: artist
+        uri: 'spotify:artist:06HL4z0CvFAxyc27GXpf02'
+    explicit: false
+    href: 'https://api.spotify.com/v1/tracks/2slqvGLwzZZYsT4K4Y1GBC'
+    is_local: false
+    name: Only The Young - Featured in Miss Americana
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/ac5095162a4a50a06721230f750b36ed8cf2bf16?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
             spotify: 'https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'
           href: 'https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH'
           id: 6qqNVTkY8uBg9cP3Jd7DAH
@@ -318,46 +358,6 @@ longTermTracks:
     name: ocean eyes
     preview_url: >-
       https://p.scdn.co/mp3-preview/2213085e3d5611f116df5c3fa3e27086505977b3?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
-            spotify: 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'
-          href: 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02'
-          id: 06HL4z0CvFAxyc27GXpf02
-          name: Taylor Swift
-          type: artist
-          uri: 'spotify:artist:06HL4z0CvFAxyc27GXpf02'
-      href: 'https://api.spotify.com/v1/albums/5LGsh3kexUfi3qkIIxb8vK'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b2734aa13f6de271d8403a82e4a8'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e024aa13f6de271d8403a82e4a8'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/ab67616d000048514aa13f6de271d8403a82e4a8'
-          width: 64
-      name: Only The Young (Featured in Miss Americana)
-      release_date: '2020-01-31'
-      release_date_precision: day
-      total_tracks: 1
-      type: album
-      uri: 'spotify:album:5LGsh3kexUfi3qkIIxb8vK'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'
-        href: 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02'
-        id: 06HL4z0CvFAxyc27GXpf02
-        name: Taylor Swift
-        type: artist
-        uri: 'spotify:artist:06HL4z0CvFAxyc27GXpf02'
-    explicit: false
-    href: 'https://api.spotify.com/v1/tracks/2slqvGLwzZZYsT4K4Y1GBC'
-    is_local: false
-    name: Only The Young - Featured in Miss Americana
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/ac5095162a4a50a06721230f750b36ed8cf2bf16?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -1164,46 +1164,6 @@ mediumTermTracks:
   - album:
       artists:
         - external_urls:
-            spotify: 'https://open.spotify.com/artist/43G7qlx7v7OGJJrUTXIqLq'
-          href: 'https://api.spotify.com/v1/artists/43G7qlx7v7OGJJrUTXIqLq'
-          id: 43G7qlx7v7OGJJrUTXIqLq
-          name: Ivy Adara
-          type: artist
-          uri: 'spotify:artist:43G7qlx7v7OGJJrUTXIqLq'
-      href: 'https://api.spotify.com/v1/albums/6c2EnL7oby80NGrRlNiG4l'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b273fce203824212ee59526b6ac4'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e02fce203824212ee59526b6ac4'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/ab67616d00004851fce203824212ee59526b6ac4'
-          width: 64
-      name: Famous
-      release_date: '2017-11-17'
-      release_date_precision: day
-      total_tracks: 1
-      type: album
-      uri: 'spotify:album:6c2EnL7oby80NGrRlNiG4l'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/43G7qlx7v7OGJJrUTXIqLq'
-        href: 'https://api.spotify.com/v1/artists/43G7qlx7v7OGJJrUTXIqLq'
-        id: 43G7qlx7v7OGJJrUTXIqLq
-        name: Ivy Adara
-        type: artist
-        uri: 'spotify:artist:43G7qlx7v7OGJJrUTXIqLq'
-    explicit: false
-    href: 'https://api.spotify.com/v1/tracks/3zzDs7euxA9c5guPOt7A1B'
-    is_local: false
-    name: Famous
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/fda344302eeae8a7e028905477c1679c2e0592e1?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
             spotify: 'https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR'
           href: 'https://api.spotify.com/v1/artists/2wUjUUtkb5lvLKcGKsKqsR'
           id: 2wUjUUtkb5lvLKcGKsKqsR
@@ -1244,6 +1204,46 @@ mediumTermTracks:
   - album:
       artists:
         - external_urls:
+            spotify: 'https://open.spotify.com/artist/43G7qlx7v7OGJJrUTXIqLq'
+          href: 'https://api.spotify.com/v1/artists/43G7qlx7v7OGJJrUTXIqLq'
+          id: 43G7qlx7v7OGJJrUTXIqLq
+          name: Ivy Adara
+          type: artist
+          uri: 'spotify:artist:43G7qlx7v7OGJJrUTXIqLq'
+      href: 'https://api.spotify.com/v1/albums/6c2EnL7oby80NGrRlNiG4l'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/ab67616d0000b273fce203824212ee59526b6ac4'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/ab67616d00001e02fce203824212ee59526b6ac4'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/ab67616d00004851fce203824212ee59526b6ac4'
+          width: 64
+      name: Famous
+      release_date: '2017-11-17'
+      release_date_precision: day
+      total_tracks: 1
+      type: album
+      uri: 'spotify:album:6c2EnL7oby80NGrRlNiG4l'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/43G7qlx7v7OGJJrUTXIqLq'
+        href: 'https://api.spotify.com/v1/artists/43G7qlx7v7OGJJrUTXIqLq'
+        id: 43G7qlx7v7OGJJrUTXIqLq
+        name: Ivy Adara
+        type: artist
+        uri: 'spotify:artist:43G7qlx7v7OGJJrUTXIqLq'
+    explicit: false
+    href: 'https://api.spotify.com/v1/tracks/3zzDs7euxA9c5guPOt7A1B'
+    is_local: false
+    name: Famous
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/fda344302eeae8a7e028905477c1679c2e0592e1?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
             spotify: 'https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P'
           href: 'https://api.spotify.com/v1/artists/3KedxarmBCyFBevnqQHy3P'
           id: 3KedxarmBCyFBevnqQHy3P
@@ -1281,6 +1281,86 @@ mediumTermTracks:
     name: FIGURES
     preview_url: >-
       https://p.scdn.co/mp3-preview/8873195b4ee75e4630016a8d008289e3a2549170?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
+            spotify: 'https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90'
+          href: 'https://api.spotify.com/v1/artists/4fomCZiFUMX73KJ0YQ0V90'
+          id: 4fomCZiFUMX73KJ0YQ0V90
+          name: The Beautiful South
+          type: artist
+          uri: 'spotify:artist:4fomCZiFUMX73KJ0YQ0V90'
+      href: 'https://api.spotify.com/v1/albums/14CFxfus4QKYtVW8oQkbp2'
+      images:
+        - height: 635
+          url: 'https://i.scdn.co/image/f0b5cbc168f4362e2fd40c66d4f6d6f039ff54cb'
+          width: 640
+        - height: 297
+          url: 'https://i.scdn.co/image/57c465dbdbab5ddd9379b7c39d104209ea4c42af'
+          width: 300
+        - height: 63
+          url: 'https://i.scdn.co/image/f56d5e5d36da8d8e55ca341215bd81e979f60282'
+          width: 64
+      name: Blue Is The Colour
+      release_date: '1996-01-01'
+      release_date_precision: day
+      total_tracks: 12
+      type: album
+      uri: 'spotify:album:14CFxfus4QKYtVW8oQkbp2'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90'
+        href: 'https://api.spotify.com/v1/artists/4fomCZiFUMX73KJ0YQ0V90'
+        id: 4fomCZiFUMX73KJ0YQ0V90
+        name: The Beautiful South
+        type: artist
+        uri: 'spotify:artist:4fomCZiFUMX73KJ0YQ0V90'
+    explicit: true
+    href: 'https://api.spotify.com/v1/tracks/20abcpNIRjDmyFoAbFozil'
+    is_local: false
+    name: Don't Marry Her
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/d37c9cc5671652be6a9ebfe6477d43ff8d125f59?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
+            spotify: 'https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR'
+          href: 'https://api.spotify.com/v1/artists/2wUjUUtkb5lvLKcGKsKqsR'
+          id: 2wUjUUtkb5lvLKcGKsKqsR
+          name: Alessia Cara
+          type: artist
+          uri: 'spotify:artist:2wUjUUtkb5lvLKcGKsKqsR'
+      href: 'https://api.spotify.com/v1/albums/0LzVdypBGpn6dGuHqVGwwt'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/44b3a0db4d16aa6c909073469cd6c49363a6bb7d'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/b035646331800e94150e8e9958c7d289d712a548'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/c17dbc55936bcd9b38ff5329407faa48efed1afa'
+          width: 64
+      name: The Pains Of Growing
+      release_date: '2018-11-30'
+      release_date_precision: day
+      total_tracks: 15
+      type: album
+      uri: 'spotify:album:0LzVdypBGpn6dGuHqVGwwt'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR'
+        href: 'https://api.spotify.com/v1/artists/2wUjUUtkb5lvLKcGKsKqsR'
+        id: 2wUjUUtkb5lvLKcGKsKqsR
+        name: Alessia Cara
+        type: artist
+        uri: 'spotify:artist:2wUjUUtkb5lvLKcGKsKqsR'
+    explicit: false
+    href: 'https://api.spotify.com/v1/tracks/4WzhjxvLP95y7AMDy0Atwb'
+    is_local: false
+    name: Out Of Love
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/f76d97fcc9080a511c8fbeead74a1881574289bb?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -1364,46 +1444,6 @@ mediumTermTracks:
   - album:
       artists:
         - external_urls:
-            spotify: 'https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90'
-          href: 'https://api.spotify.com/v1/artists/4fomCZiFUMX73KJ0YQ0V90'
-          id: 4fomCZiFUMX73KJ0YQ0V90
-          name: The Beautiful South
-          type: artist
-          uri: 'spotify:artist:4fomCZiFUMX73KJ0YQ0V90'
-      href: 'https://api.spotify.com/v1/albums/14CFxfus4QKYtVW8oQkbp2'
-      images:
-        - height: 635
-          url: 'https://i.scdn.co/image/f0b5cbc168f4362e2fd40c66d4f6d6f039ff54cb'
-          width: 640
-        - height: 297
-          url: 'https://i.scdn.co/image/57c465dbdbab5ddd9379b7c39d104209ea4c42af'
-          width: 300
-        - height: 63
-          url: 'https://i.scdn.co/image/f56d5e5d36da8d8e55ca341215bd81e979f60282'
-          width: 64
-      name: Blue Is The Colour
-      release_date: '1996-01-01'
-      release_date_precision: day
-      total_tracks: 12
-      type: album
-      uri: 'spotify:album:14CFxfus4QKYtVW8oQkbp2'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90'
-        href: 'https://api.spotify.com/v1/artists/4fomCZiFUMX73KJ0YQ0V90'
-        id: 4fomCZiFUMX73KJ0YQ0V90
-        name: The Beautiful South
-        type: artist
-        uri: 'spotify:artist:4fomCZiFUMX73KJ0YQ0V90'
-    explicit: true
-    href: 'https://api.spotify.com/v1/tracks/20abcpNIRjDmyFoAbFozil'
-    is_local: false
-    name: Don't Marry Her
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/d37c9cc5671652be6a9ebfe6477d43ff8d125f59?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
             spotify: 'https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'
           href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
           id: 5JZ7CnR6gTvEMKX4g70Amv
@@ -1441,46 +1481,6 @@ mediumTermTracks:
     name: Don't Matter - Recorded at Spotify Studios NYC
     preview_url: >-
       https://p.scdn.co/mp3-preview/e692c13fe3833b04b72e47671e080a8187fcbf11?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
-            spotify: 'https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR'
-          href: 'https://api.spotify.com/v1/artists/2wUjUUtkb5lvLKcGKsKqsR'
-          id: 2wUjUUtkb5lvLKcGKsKqsR
-          name: Alessia Cara
-          type: artist
-          uri: 'spotify:artist:2wUjUUtkb5lvLKcGKsKqsR'
-      href: 'https://api.spotify.com/v1/albums/0LzVdypBGpn6dGuHqVGwwt'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/44b3a0db4d16aa6c909073469cd6c49363a6bb7d'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/b035646331800e94150e8e9958c7d289d712a548'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/c17dbc55936bcd9b38ff5329407faa48efed1afa'
-          width: 64
-      name: The Pains Of Growing
-      release_date: '2018-11-30'
-      release_date_precision: day
-      total_tracks: 15
-      type: album
-      uri: 'spotify:album:0LzVdypBGpn6dGuHqVGwwt'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR'
-        href: 'https://api.spotify.com/v1/artists/2wUjUUtkb5lvLKcGKsKqsR'
-        id: 2wUjUUtkb5lvLKcGKsKqsR
-        name: Alessia Cara
-        type: artist
-        uri: 'spotify:artist:2wUjUUtkb5lvLKcGKsKqsR'
-    explicit: false
-    href: 'https://api.spotify.com/v1/tracks/4WzhjxvLP95y7AMDy0Atwb'
-    is_local: false
-    name: Out Of Love
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/f76d97fcc9080a511c8fbeead74a1881574289bb?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -1847,43 +1847,43 @@ shortTermTracks:
   - album:
       artists:
         - external_urls:
-            spotify: 'https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym'
-          href: 'https://api.spotify.com/v1/artists/45dkTj5sMRSjrmBSBeiHym'
-          id: 45dkTj5sMRSjrmBSBeiHym
-          name: Tate McRae
+            spotify: 'https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx'
+          href: 'https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx'
+          id: 0C8ZW7ezQVs4URX5aX7Kqx
+          name: Selena Gomez
           type: artist
-          uri: 'spotify:artist:45dkTj5sMRSjrmBSBeiHym'
-      href: 'https://api.spotify.com/v1/albums/3FhPAdYjwW3aLRMvx8HbKz'
+          uri: 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'
+      href: 'https://api.spotify.com/v1/albums/3YPFaTR7WMi1Hd4NVKdCJx'
       images:
         - height: 640
-          url: 'https://i.scdn.co/image/a30d4e435d6dfbcf3c3d28e1e498fc7c2654b58d'
+          url: 'https://i.scdn.co/image/977888b6bdd3d19effd2e26ad5714f32257ecc78'
           width: 640
         - height: 300
-          url: 'https://i.scdn.co/image/755d5469bda79d88ae3a2e81ae212f82c8ac6ad0'
+          url: 'https://i.scdn.co/image/af9227d9f9a0da062616500d3c490409b7ce82c6'
           width: 300
         - height: 64
-          url: 'https://i.scdn.co/image/5dd4f3b8047b86d26f480a0f1ceb77945dc7583a'
+          url: 'https://i.scdn.co/image/9e9665086a76d832884538457c98170be3cdb205'
           width: 64
-      name: tear myself apart
-      release_date: '2019-08-28'
+      name: Rare
+      release_date: '2020-01-10'
       release_date_precision: day
-      total_tracks: 1
+      total_tracks: 13
       type: album
-      uri: 'spotify:album:3FhPAdYjwW3aLRMvx8HbKz'
+      uri: 'spotify:album:3YPFaTR7WMi1Hd4NVKdCJx'
     artists:
       - external_urls:
-          spotify: 'https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym'
-        href: 'https://api.spotify.com/v1/artists/45dkTj5sMRSjrmBSBeiHym'
-        id: 45dkTj5sMRSjrmBSBeiHym
-        name: Tate McRae
+          spotify: 'https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx'
+        href: 'https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx'
+        id: 0C8ZW7ezQVs4URX5aX7Kqx
+        name: Selena Gomez
         type: artist
-        uri: 'spotify:artist:45dkTj5sMRSjrmBSBeiHym'
+        uri: 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'
     explicit: false
-    href: 'https://api.spotify.com/v1/tracks/57m2Kve0xnAgYVAPxMLKHS'
+    href: 'https://api.spotify.com/v1/tracks/4l0Mvzj72xxOpRrp6h8nHi'
     is_local: false
-    name: tear myself apart
+    name: Lose You To Love Me
     preview_url: >-
-      https://p.scdn.co/mp3-preview/2a0424b9757ea015b14e923d8d0a443101ffb1e4?cid=b293a7a884f34d91ab03e19184a9041e
+      https://p.scdn.co/mp3-preview/132ff833af6aad7ceb8319e011122e22645338fa?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -1934,43 +1934,43 @@ shortTermTracks:
   - album:
       artists:
         - external_urls:
-            spotify: 'https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx'
-          href: 'https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx'
-          id: 0C8ZW7ezQVs4URX5aX7Kqx
-          name: Selena Gomez
+            spotify: 'https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym'
+          href: 'https://api.spotify.com/v1/artists/45dkTj5sMRSjrmBSBeiHym'
+          id: 45dkTj5sMRSjrmBSBeiHym
+          name: Tate McRae
           type: artist
-          uri: 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'
-      href: 'https://api.spotify.com/v1/albums/3YPFaTR7WMi1Hd4NVKdCJx'
+          uri: 'spotify:artist:45dkTj5sMRSjrmBSBeiHym'
+      href: 'https://api.spotify.com/v1/albums/3FhPAdYjwW3aLRMvx8HbKz'
       images:
         - height: 640
-          url: 'https://i.scdn.co/image/977888b6bdd3d19effd2e26ad5714f32257ecc78'
+          url: 'https://i.scdn.co/image/a30d4e435d6dfbcf3c3d28e1e498fc7c2654b58d'
           width: 640
         - height: 300
-          url: 'https://i.scdn.co/image/af9227d9f9a0da062616500d3c490409b7ce82c6'
+          url: 'https://i.scdn.co/image/755d5469bda79d88ae3a2e81ae212f82c8ac6ad0'
           width: 300
         - height: 64
-          url: 'https://i.scdn.co/image/9e9665086a76d832884538457c98170be3cdb205'
+          url: 'https://i.scdn.co/image/5dd4f3b8047b86d26f480a0f1ceb77945dc7583a'
           width: 64
-      name: Rare
-      release_date: '2020-01-10'
+      name: tear myself apart
+      release_date: '2019-08-28'
       release_date_precision: day
-      total_tracks: 13
+      total_tracks: 1
       type: album
-      uri: 'spotify:album:3YPFaTR7WMi1Hd4NVKdCJx'
+      uri: 'spotify:album:3FhPAdYjwW3aLRMvx8HbKz'
     artists:
       - external_urls:
-          spotify: 'https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx'
-        href: 'https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx'
-        id: 0C8ZW7ezQVs4URX5aX7Kqx
-        name: Selena Gomez
+          spotify: 'https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym'
+        href: 'https://api.spotify.com/v1/artists/45dkTj5sMRSjrmBSBeiHym'
+        id: 45dkTj5sMRSjrmBSBeiHym
+        name: Tate McRae
         type: artist
-        uri: 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'
+        uri: 'spotify:artist:45dkTj5sMRSjrmBSBeiHym'
     explicit: false
-    href: 'https://api.spotify.com/v1/tracks/4l0Mvzj72xxOpRrp6h8nHi'
+    href: 'https://api.spotify.com/v1/tracks/57m2Kve0xnAgYVAPxMLKHS'
     is_local: false
-    name: Lose You To Love Me
+    name: tear myself apart
     preview_url: >-
-      https://p.scdn.co/mp3-preview/132ff833af6aad7ceb8319e011122e22645338fa?cid=b293a7a884f34d91ab03e19184a9041e
+      https://p.scdn.co/mp3-preview/2a0424b9757ea015b14e923d8d0a443101ffb1e4?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -2054,46 +2054,6 @@ shortTermTracks:
   - album:
       artists:
         - external_urls:
-            spotify: 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'
-          href: 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR'
-          id: 66CXWjxzNUsdJxJ2JdwvnR
-          name: Ariana Grande
-          type: artist
-          uri: 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'
-      href: 'https://api.spotify.com/v1/albums/2fYhqwDWXjbpjaIJPEfKFw'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/38205ab1bdc4b37b68b3ace40989afb6c2c1faa9'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/3c951cba1147f2e08a50dfb6b7e3644ea4cbba05'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/e1485e7ea6a9cb1d5bdd96e86e9246188670bbc7'
-          width: 64
-      name: 'thank u, next'
-      release_date: '2019-02-08'
-      release_date_precision: day
-      total_tracks: 12
-      type: album
-      uri: 'spotify:album:2fYhqwDWXjbpjaIJPEfKFw'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'
-        href: 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR'
-        id: 66CXWjxzNUsdJxJ2JdwvnR
-        name: Ariana Grande
-        type: artist
-        uri: 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'
-    explicit: true
-    href: 'https://api.spotify.com/v1/tracks/1TEL6MlSSVLSdhOSddidlJ'
-    is_local: false
-    name: needy
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/20f1dfdffe5fb1dc5754a1b8dd4487ac91311338?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
             spotify: 'https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW'
           href: 'https://api.spotify.com/v1/artists/55fhWPvDiMpLnE4ZzNXZyW'
           id: 55fhWPvDiMpLnE4ZzNXZyW
@@ -2145,46 +2105,6 @@ shortTermTracks:
     name: Lately
     preview_url: >-
       https://p.scdn.co/mp3-preview/351d422587245e2dbc36e15931ff1b13568ac079?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
-            spotify: 'https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ'
-          href: 'https://api.spotify.com/v1/artists/4TrraAsitQKl821DQY42cZ'
-          id: 4TrraAsitQKl821DQY42cZ
-          name: Sigrid
-          type: artist
-          uri: 'spotify:artist:4TrraAsitQKl821DQY42cZ'
-      href: 'https://api.spotify.com/v1/albums/6lM1n2S9ywnvyKZpLeXVPP'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b273ef0d29efc80987efba1a343d'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e02ef0d29efc80987efba1a343d'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/ab67616d00004851ef0d29efc80987efba1a343d'
-          width: 64
-      name: Raw
-      release_date: '2018-07-11'
-      release_date_precision: day
-      total_tracks: 5
-      type: album
-      uri: 'spotify:album:6lM1n2S9ywnvyKZpLeXVPP'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ'
-        href: 'https://api.spotify.com/v1/artists/4TrraAsitQKl821DQY42cZ'
-        id: 4TrraAsitQKl821DQY42cZ
-        name: Sigrid
-        type: artist
-        uri: 'spotify:artist:4TrraAsitQKl821DQY42cZ'
-    explicit: false
-    href: 'https://api.spotify.com/v1/tracks/6dpaekNzHZDhwd9QDayrbB'
-    is_local: false
-    name: High Five
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/e646e9e085e8f917d8eb4b6a933e021c4b10705f?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -2265,53 +2185,6 @@ shortTermTracks:
     name: Maniac
     preview_url: >-
       https://p.scdn.co/mp3-preview/16df5abd911c7d38cb70670e4c3406858e05be3a?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
-            spotify: 'https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy'
-          href: 'https://api.spotify.com/v1/artists/5Rl15oVamLq7FbSb0NNBNy'
-          id: 5Rl15oVamLq7FbSb0NNBNy
-          name: 5 Seconds of Summer
-          type: artist
-          uri: 'spotify:artist:5Rl15oVamLq7FbSb0NNBNy'
-      href: 'https://api.spotify.com/v1/albums/2rSrRHcfwJXxni8HczqKAT'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b2734be7119afe5f4282eb8d24c7'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e024be7119afe5f4282eb8d24c7'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/ab67616d000048514be7119afe5f4282eb8d24c7'
-          width: 64
-      name: Lie To Me (feat. Julia Michaels)
-      release_date: '2018-12-21'
-      release_date_precision: day
-      total_tracks: 1
-      type: album
-      uri: 'spotify:album:2rSrRHcfwJXxni8HczqKAT'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy'
-        href: 'https://api.spotify.com/v1/artists/5Rl15oVamLq7FbSb0NNBNy'
-        id: 5Rl15oVamLq7FbSb0NNBNy
-        name: 5 Seconds of Summer
-        type: artist
-        uri: 'spotify:artist:5Rl15oVamLq7FbSb0NNBNy'
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m'
-        href: 'https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m'
-        id: 0ZED1XzwlLHW4ZaG4lOT6m
-        name: Julia Michaels
-        type: artist
-        uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
-    explicit: false
-    href: 'https://api.spotify.com/v1/tracks/6GzApXoBQiiAjak3tOQfV3'
-    is_local: false
-    name: Lie To Me (feat. Julia Michaels)
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/970c9137615e8ebb07510d1c7dfa51e28de11563?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -2435,6 +2308,46 @@ shortTermTracks:
   - album:
       artists:
         - external_urls:
+            spotify: 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'
+          href: 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR'
+          id: 66CXWjxzNUsdJxJ2JdwvnR
+          name: Ariana Grande
+          type: artist
+          uri: 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'
+      href: 'https://api.spotify.com/v1/albums/2fYhqwDWXjbpjaIJPEfKFw'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/38205ab1bdc4b37b68b3ace40989afb6c2c1faa9'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/3c951cba1147f2e08a50dfb6b7e3644ea4cbba05'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/e1485e7ea6a9cb1d5bdd96e86e9246188670bbc7'
+          width: 64
+      name: 'thank u, next'
+      release_date: '2019-02-08'
+      release_date_precision: day
+      total_tracks: 12
+      type: album
+      uri: 'spotify:album:2fYhqwDWXjbpjaIJPEfKFw'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'
+        href: 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR'
+        id: 66CXWjxzNUsdJxJ2JdwvnR
+        name: Ariana Grande
+        type: artist
+        uri: 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'
+    explicit: true
+    href: 'https://api.spotify.com/v1/tracks/1TEL6MlSSVLSdhOSddidlJ'
+    is_local: false
+    name: needy
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/20f1dfdffe5fb1dc5754a1b8dd4487ac91311338?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
             spotify: 'https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90'
           href: 'https://api.spotify.com/v1/artists/4fomCZiFUMX73KJ0YQ0V90'
           id: 4fomCZiFUMX73KJ0YQ0V90
@@ -2475,40 +2388,127 @@ shortTermTracks:
   - album:
       artists:
         - external_urls:
-            spotify: 'https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'
-          href: 'https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr'
-          id: 7n2wHs1TKAczGzO7Dd2rGr
-          name: Shawn Mendes
+            spotify: 'https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ'
+          href: 'https://api.spotify.com/v1/artists/4TrraAsitQKl821DQY42cZ'
+          id: 4TrraAsitQKl821DQY42cZ
+          name: Sigrid
           type: artist
-          uri: 'spotify:artist:7n2wHs1TKAczGzO7Dd2rGr'
-      href: 'https://api.spotify.com/v1/albums/2VP96XdMOKTXefI8Nui23s'
+          uri: 'spotify:artist:4TrraAsitQKl821DQY42cZ'
+      href: 'https://api.spotify.com/v1/albums/6lM1n2S9ywnvyKZpLeXVPP'
       images:
         - height: 640
-          url: 'https://i.scdn.co/image/93de84650354b3a8436a893332b436cf3bb000d0'
+          url: 'https://i.scdn.co/image/ab67616d0000b273ef0d29efc80987efba1a343d'
           width: 640
         - height: 300
-          url: 'https://i.scdn.co/image/4e75d4d2bc7fbd8d3b48c37f8c2ead1f36774e49'
+          url: 'https://i.scdn.co/image/ab67616d00001e02ef0d29efc80987efba1a343d'
           width: 300
         - height: 64
-          url: 'https://i.scdn.co/image/b68c52237ed6815023eb6e62ab93e380c04611a6'
+          url: 'https://i.scdn.co/image/ab67616d00004851ef0d29efc80987efba1a343d'
           width: 64
-      name: Shawn Mendes
-      release_date: '2018-05-25'
+      name: Raw
+      release_date: '2018-07-11'
       release_date_precision: day
-      total_tracks: 14
+      total_tracks: 5
       type: album
-      uri: 'spotify:album:2VP96XdMOKTXefI8Nui23s'
+      uri: 'spotify:album:6lM1n2S9ywnvyKZpLeXVPP'
     artists:
       - external_urls:
-          spotify: 'https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'
-        href: 'https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr'
-        id: 7n2wHs1TKAczGzO7Dd2rGr
-        name: Shawn Mendes
+          spotify: 'https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ'
+        href: 'https://api.spotify.com/v1/artists/4TrraAsitQKl821DQY42cZ'
+        id: 4TrraAsitQKl821DQY42cZ
+        name: Sigrid
         type: artist
-        uri: 'spotify:artist:7n2wHs1TKAczGzO7Dd2rGr'
+        uri: 'spotify:artist:4TrraAsitQKl821DQY42cZ'
     explicit: false
-    href: 'https://api.spotify.com/v1/tracks/2QZ7WLBE8h2y1Y5Fb8RYbH'
+    href: 'https://api.spotify.com/v1/tracks/6dpaekNzHZDhwd9QDayrbB'
     is_local: false
-    name: In My Blood
+    name: High Five
     preview_url: >-
-      https://p.scdn.co/mp3-preview/7d466be7812a7d75fb5b066c0facf8575d2ec187?cid=b293a7a884f34d91ab03e19184a9041e
+      https://p.scdn.co/mp3-preview/e646e9e085e8f917d8eb4b6a933e021c4b10705f?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
+            spotify: 'https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m'
+          href: 'https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m'
+          id: 0ZED1XzwlLHW4ZaG4lOT6m
+          name: Julia Michaels
+          type: artist
+          uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
+      href: 'https://api.spotify.com/v1/albums/1xJ7jIK1tT0aVoJw1fPE6r'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/f04729c764264a33914c179a01bee16695d0dc70'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/325ce545399b6a89da47cf6a92f826db4640ecc3'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/65938a4d85d268ab0add1bc4b68b24d401d41a19'
+          width: 64
+      name: Inner Monologue Part 1
+      release_date: '2019-01-24'
+      release_date_precision: day
+      total_tracks: 6
+      type: album
+      uri: 'spotify:album:1xJ7jIK1tT0aVoJw1fPE6r'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m'
+        href: 'https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m'
+        id: 0ZED1XzwlLHW4ZaG4lOT6m
+        name: Julia Michaels
+        type: artist
+        uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4'
+        href: 'https://api.spotify.com/v1/artists/1Hsdzj7Dlq2I7tHP7501T4'
+        id: 1Hsdzj7Dlq2I7tHP7501T4
+        name: Niall Horan
+        type: artist
+        uri: 'spotify:artist:1Hsdzj7Dlq2I7tHP7501T4'
+    explicit: false
+    href: 'https://api.spotify.com/v1/tracks/5WtfUKzXircvW8l5aaVZWT'
+    is_local: false
+    name: What A Time (feat. Niall Horan)
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/3d5ae252ad199f2baa64a1532def0bd4f0a39ce9?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
+            spotify: 'https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'
+          href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
+          id: 5JZ7CnR6gTvEMKX4g70Amv
+          name: Lauv
+          type: artist
+          uri: 'spotify:artist:5JZ7CnR6gTvEMKX4g70Amv'
+      href: 'https://api.spotify.com/v1/albums/26atyI9OPdSCDkNjsOEJBW'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/cf9073efe211bedef7a447fad6d50566f81287b5'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/53065458bdb14140242e5c0afee25647eed8e389'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/0da9d368b23ec5e17173b82969d3f7e4a7e89663'
+          width: 64
+      name: ~how i'm feeling~
+      release_date: '2020-01-16'
+      release_date_precision: day
+      total_tracks: 9
+      type: album
+      uri: 'spotify:album:26atyI9OPdSCDkNjsOEJBW'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'
+        href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
+        id: 5JZ7CnR6gTvEMKX4g70Amv
+        name: Lauv
+        type: artist
+        uri: 'spotify:artist:5JZ7CnR6gTvEMKX4g70Amv'
+    explicit: true
+    href: 'https://api.spotify.com/v1/tracks/7IE989Ftunp6k2LdMsFC5r'
+    is_local: false
+    name: Sims
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/6c4103a1d4ee6272c1f29f991a90d02c6bfe5275?cid=b293a7a884f34d91ab03e19184a9041e
