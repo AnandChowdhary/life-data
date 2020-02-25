@@ -1,3 +1,19 @@
+- uuid: 055824a1-13a2-4945-b1d2-6abbf3da16a4
+  url: 'https://traffic.megaphone.fm/WSJ9328922536.mp3'
+  published: '2020-02-24T22:49:23Z'
+  duration: 1242
+  fileType: audio/mp3
+  title: Baseball's Biggest Scandal in a Century
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 2
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 3ad89081-5c7e-4506-a92b-4271d5c20818
   url: 'https://traffic.megaphone.fm/WSJ7078476137.mp3'
   published: '2020-02-21T23:07:36Z'
@@ -1616,20 +1632,3 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: true
-- uuid: d9f2423e-11b4-4482-bbc3-d82ae00b5042
-  url: >-
-    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2019/11/20191126_hibt_otterbox.mp3?awCollectionId=510313&awEpisodeId=782770480&orgId=1&d=3894&p=510313&story=782770480&t=podcast&e=782770480&size=62164275&ft=pod&f=510313
-  published: '2019-12-02T05:01:28Z'
-  duration: 3894
-  fileType: audio/mpeg
-  title: 'Live Episode! OtterBox: Curt Richardson'
-  size: '62164275'
-  playingStatus: 2
-  playedUpTo: 0
-  starred: false
-  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: false
