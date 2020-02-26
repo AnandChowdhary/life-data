@@ -1,3 +1,53 @@
+- uuid: 9543c0d3-a5c3-413f-86da-d7a5cb330a76
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise334.mp3
+  published: '2020-02-20T05:00:00Z'
+  duration: 1768
+  fileType: audio/mp3
+  title: I Like That We Live in the Future
+  size: '14325869'
+  playingStatus: 3
+  playedUpTo: 1768
+  starred: false
+  podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 4768b13a-eae8-492d-8b10-4af126321928
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_282.mp3
+  published: '2020-02-19T22:00:00Z'
+  duration: 5653
+  fileType: audio/mp3
+  title: Three HomePods Too Late
+  size: '90604463'
+  playingStatus: 3
+  playedUpTo: 5653
+  starred: false
+  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 1d4e8e82-ddd6-4a45-a4c5-d7936762e47a
+  url: 'https://traffic.megaphone.fm/WSJ4070950152.mp3'
+  published: '2020-02-25T22:29:57Z'
+  duration: 1124
+  fileType: audio/mp3
+  title: How Big Pharma Lost Its Swagger
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1124
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 055824a1-13a2-4945-b1d2-6abbf3da16a4
   url: 'https://traffic.megaphone.fm/WSJ9328922536.mp3'
   published: '2020-02-24T22:49:23Z'
@@ -5,15 +55,15 @@
   fileType: audio/mp3
   title: Baseball's Biggest Scandal in a Century
   size: '0'
-  playingStatus: 2
-  playedUpTo: 2
+  playingStatus: 3
+  playedUpTo: 1242
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 3ad89081-5c7e-4506-a92b-4271d5c20818
   url: 'https://traffic.megaphone.fm/WSJ7078476137.mp3'
   published: '2020-02-21T23:07:36Z'
@@ -46,23 +96,6 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: true
-- uuid: 4768b13a-eae8-492d-8b10-4af126321928
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_282.mp3
-  published: '2020-02-19T22:00:00Z'
-  duration: 5653
-  fileType: audio/mp3
-  title: Three HomePods Too Late
-  size: '90604463'
-  playingStatus: 2
-  playedUpTo: 4187
-  starred: false
-  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: false
 - uuid: 95b426c8-6f93-438a-a5a9-31563240969a
   url: 'https://traffic.megaphone.fm/WSJ2302519917.mp3'
   published: '2020-02-20T22:29:15Z'
@@ -1594,39 +1627,6 @@
   playedUpTo: 2035
   starred: false
   podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 01cd2668-2ae9-428c-a06f-0ff79d5714f3
-  url: 'https://traffic.megaphone.fm/WSJ7580420677.mp3'
-  published: '2019-12-02T22:04:36Z'
-  duration: 1405
-  fileType: audio/mp3
-  title: Why TikTok's Under Investigation
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1405
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 752bce71-676b-40fc-8a20-23c06153d58e
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_093.mp3
-  published: '2019-11-26T13:00:00Z'
-  duration: 4999
-  fileType: audio/mp3
-  title: The Memory of Somebody Else
-  size: '80569273'
-  playingStatus: 3
-  playedUpTo: 4999
-  starred: false
-  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
