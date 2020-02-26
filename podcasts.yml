@@ -96,11 +96,11 @@
     Knutson. The Journal is a co-production from Gimlet Media and The Wall
     Street Journal.
   url: 'https://www.wsj.com/podcasts/the-journal'
-  lastEpisodePublished: '2020-02-21T23:07:36Z'
-  unplayed: true
-  lastEpisodeUuid: 3ad89081-5c7e-4506-a92b-4271d5c20818
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  lastEpisodePublished: '2020-02-25T22:29:57Z'
+  unplayed: false
+  lastEpisodeUuid: 1d4e8e82-ddd6-4a45-a4c5-d7936762e47a
+  lastEpisodePlayingStatus: 3
+  lastEpisodeArchived: true
   autoSkipLast: 0
 - uuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
   episodesSortOrder: 3
@@ -131,9 +131,9 @@
     told by the best journalists in the world. Hosted by Michael Barbaro. Twenty
     minutes a day, five days a week, ready by 6 a.m.
   url: 'https://www.nytimes.com/the-daily'
-  lastEpisodePublished: '2020-02-21T10:55:00Z'
+  lastEpisodePublished: '2020-02-26T10:47:55Z'
   unplayed: true
-  lastEpisodeUuid: 83295573-2fae-46f6-a1d5-8e756fba57a5
+  lastEpisodeUuid: 85bb4725-c26b-4058-ad99-3adb3a3d0aa9
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -287,11 +287,11 @@
     companies. How I Built This weaves a narrative journey about innovators,
     entrepreneurs and idealists—and the movements they built.
   url: 'http://www.npr.org/series/490248027/how-i-built-this'
-  lastEpisodePublished: '2020-02-17T05:01:00Z'
-  unplayed: false
-  lastEpisodeUuid: 35ed4d7f-b5a9-49f7-8703-d395cea48806
-  lastEpisodePlayingStatus: 3
-  lastEpisodeArchived: true
+  lastEpisodePublished: '2020-02-24T05:01:07Z'
+  unplayed: true
+  lastEpisodeUuid: 7ca0c51b-1194-4135-aa79-63ad1390e5c6
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: a5163bc0-08ab-0137-f265-1d245fc5f9cf
   episodesSortOrder: 3
@@ -305,11 +305,11 @@
     personally and professionally as they try to turn their idea into something
     that will change the world.
   url: 'https://www.startups.com/community/startup-therapy'
-  lastEpisodePublished: '2020-02-17T03:00:00Z'
-  unplayed: false
-  lastEpisodeUuid: 072464e6-daec-475a-8e12-efcca72bfc65
-  lastEpisodePlayingStatus: 3
-  lastEpisodeArchived: true
+  lastEpisodePublished: '2020-02-24T03:00:00Z'
+  unplayed: true
+  lastEpisodeUuid: b88951af-200d-493b-b842-57cd516a9569
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: acf9fe50-ca90-0130-355c-723c91aeae46
   episodesSortOrder: 3
@@ -319,10 +319,10 @@
   description: "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always\_watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent."
   url: 'https://www.relay.fm/clockwise'
   lastEpisodePublished: '2020-02-20T05:00:00Z'
-  unplayed: true
+  unplayed: false
   lastEpisodeUuid: 9543c0d3-a5c3-413f-86da-d7a5cb330a76
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  lastEpisodePlayingStatus: 3
+  lastEpisodeArchived: true
   autoSkipLast: 0
 - uuid: c07ea620-6997-0135-902f-63f4b61a9224
   episodesSortOrder: 3
@@ -332,10 +332,10 @@
   description: Tim and Brady discuss ideas for podcasts that they will never make.
   url: 'https://www.unmade.fm/'
   lastEpisodePublished: '2020-02-22T09:52:17Z'
-  unplayed: true
+  unplayed: false
   lastEpisodeUuid: 3e3907ac-2755-4830-9aad-a9a787bb6f36
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  lastEpisodePlayingStatus: 3
+  lastEpisodeArchived: true
   autoSkipLast: 0
 - uuid: d4dec560-f2f3-0136-324d-08b04944ede4
   episodesSortOrder: 3
@@ -371,9 +371,9 @@
 
     http://bit.ly/paytokeepnewsfree
   url: 'https://www.newslaundry.com/subscription'
-  lastEpisodePublished: '2020-02-17T12:43:45Z'
+  lastEpisodePublished: '2020-02-22T13:54:35Z'
   unplayed: true
-  lastEpisodeUuid: cca2d6a8-b084-4137-87c1-877f203457b0
+  lastEpisodeUuid: 7edf177d-06ab-4597-864f-3760eacf0230
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -391,8 +391,8 @@
   lastEpisodePublished: '2020-02-19T22:00:00Z'
   unplayed: false
   lastEpisodeUuid: 4768b13a-eae8-492d-8b10-4af126321928
-  lastEpisodePlayingStatus: 2
-  lastEpisodeArchived: false
+  lastEpisodePlayingStatus: 3
+  lastEpisodeArchived: true
   autoSkipLast: 0
 - uuid: f6ffd000-c8fc-0133-2e8b-6dc413d6d41d
   episodesSortOrder: 3
