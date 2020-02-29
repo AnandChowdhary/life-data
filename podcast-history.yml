@@ -1,3 +1,19 @@
+- uuid: fbbfa1ed-4129-4d2c-8ddb-39991503c804
+  url: 'http://traffic.libsyn.com/hellointernet/136FinalFinal.mp3'
+  published: '2020-02-28T10:13:27Z'
+  duration: 4914
+  fileType: audio/mp3
+  title: 'H.I. #136: Dog Bingo'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 3134
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 136
+  isDeleted: false
 - uuid: 8d6319c0-7e81-4442-a337-37716fe436e9
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_097.mp3
@@ -7,14 +23,14 @@
   title: The Share Square
   size: '112247665'
   playingStatus: 2
-  playedUpTo: 6756
+  playedUpTo: 5419
   starred: false
   podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 9543c0d3-a5c3-413f-86da-d7a5cb330a76
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise334.mp3
@@ -1610,23 +1626,6 @@
   playedUpTo: 990
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: c35e331f-46aa-4acc-a5d2-16f88074704d
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM5268173597.mp3?updated=1574803710
-  published: '2019-11-27T09:00:00Z'
-  duration: 2028
-  fileType: audio/mpeg
-  title: The Disney Hacks We Can’t Let Go
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 2028
-  starred: false
-  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
