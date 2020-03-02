@@ -101,13 +101,13 @@ longTermArtists:
     id: 1HY2Jd0NmPuamShAr6KMms
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/ea76c82c05174105751f850c8a1db426dd03aa78'
+        url: 'https://i.scdn.co/image/5c40cb9dc570181bd5ff5a1d1c773cc3436cae5c'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/a29a1516492aceeb0789f51aea4cfd2169dc1a0a'
+        url: 'https://i.scdn.co/image/4d70c25482e883129d3c9ff8cdc96bf715811a2f'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/b50b8bb23758337b8c8123636ec5a2c83c51febb'
+        url: 'https://i.scdn.co/image/f14b1450db12a06b9ba10f938de89a2bdfa909ec'
         width: 160
     name: Lady Gaga
     type: artist
@@ -178,39 +178,17 @@ longTermArtists:
     id: 74KM79TiuVKeVCqs8QtB0B
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/7d8ddc9a374fb2f822b21fee87e63944828115e8'
+        url: 'https://i.scdn.co/image/ab9dee9df3b5832b0885892cfdc62a6192f70e7b'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/fbd1afe92eb3524fa411a160ae45a04da5c36f26'
+        url: 'https://i.scdn.co/image/e3698d4621771bbcf106b67d16858474844de77d'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/de8c10bc728cc184df109ce75f446b7d56b03aa7'
+        url: 'https://i.scdn.co/image/8d32ec9adca369720544033d9e6f409599481cc3'
         width: 160
     name: Sabrina Carpenter
     type: artist
     uri: 'spotify:artist:74KM79TiuVKeVCqs8QtB0B'
-  - genres:
-      - canadian contemporary r&b
-      - canadian pop
-      - dance pop
-      - electropop
-      - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/2wUjUUtkb5lvLKcGKsKqsR'
-    id: 2wUjUUtkb5lvLKcGKsKqsR
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/56dcc0e8f919ea86b139b4ccd084439e10a8704e'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/53796b8f4368f79270fdb1603e1c1480b9605221'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/5a78b83b55840c20f4a70801e85bffcf482f00a3'
-        width: 160
-    name: Alessia Cara
-    type: artist
-    uri: 'spotify:artist:2wUjUUtkb5lvLKcGKsKqsR'
   - genres:
       - pop
       - post-teen pop
@@ -248,6 +226,28 @@ longTermArtists:
     name: Selena Gomez
     type: artist
     uri: 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'
+  - genres:
+      - canadian contemporary r&b
+      - canadian pop
+      - dance pop
+      - electropop
+      - pop
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/2wUjUUtkb5lvLKcGKsKqsR'
+    id: 2wUjUUtkb5lvLKcGKsKqsR
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/56dcc0e8f919ea86b139b4ccd084439e10a8704e'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/53796b8f4368f79270fdb1603e1c1480b9605221'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/5a78b83b55840c20f4a70801e85bffcf482f00a3'
+        width: 160
+    name: Alessia Cara
+    type: artist
+    uri: 'spotify:artist:2wUjUUtkb5lvLKcGKsKqsR'
   - genres:
       - celtic rock
       - neo mellow
@@ -412,24 +412,6 @@ mediumTermArtists:
     type: artist
     uri: 'spotify:artist:06HL4z0CvFAxyc27GXpf02'
   - genres:
-      - art pop
-      - pop
-    href: 'https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa'
-    id: 00FQb4jTyendYWaN8pK0wa
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/6e8dc460cfb6b89d7970302259febd0aa73b38c6'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/bcdee6b17410b5d27d40bc114757e38125b00c84'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/0c50e5ae217b7a86f9f5114dc5e0f1beb8e9185d'
-        width: 160
-    name: Lana Del Rey
-    type: artist
-    uri: 'spotify:artist:00FQb4jTyendYWaN8pK0wa'
-  - genres:
       - canadian pop
       - candy pop
       - dance pop
@@ -451,24 +433,23 @@ mediumTermArtists:
     type: artist
     uri: 'spotify:artist:0p4nmQO2msCgU4IF37Wi3j'
   - genres:
-      - dance pop
+      - art pop
       - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR'
-    id: 66CXWjxzNUsdJxJ2JdwvnR
+    href: 'https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa'
+    id: 00FQb4jTyendYWaN8pK0wa
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/b1dfbe843b0b9f54ab2e588f33e7637d2dab065a'
+        url: 'https://i.scdn.co/image/6e8dc460cfb6b89d7970302259febd0aa73b38c6'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/b189cb24f45db92780d1aa6c81aee69b8defa03a'
+        url: 'https://i.scdn.co/image/bcdee6b17410b5d27d40bc114757e38125b00c84'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/3c4516cf74d09cf93db7536ce8826df28fba4156'
+        url: 'https://i.scdn.co/image/0c50e5ae217b7a86f9f5114dc5e0f1beb8e9185d'
         width: 160
-    name: Ariana Grande
+    name: Lana Del Rey
     type: artist
-    uri: 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'
+    uri: 'spotify:artist:00FQb4jTyendYWaN8pK0wa'
   - genres:
       - electropop
       - pop
@@ -487,6 +468,25 @@ mediumTermArtists:
     name: Billie Eilish
     type: artist
     uri: 'spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH'
+  - genres:
+      - dance pop
+      - pop
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR'
+    id: 66CXWjxzNUsdJxJ2JdwvnR
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/b1dfbe843b0b9f54ab2e588f33e7637d2dab065a'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/b189cb24f45db92780d1aa6c81aee69b8defa03a'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/3c4516cf74d09cf93db7536ce8826df28fba4156'
+        width: 160
+    name: Ariana Grande
+    type: artist
+    uri: 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'
   - genres:
       - dance pop
       - pop
@@ -526,6 +526,26 @@ mediumTermArtists:
     type: artist
     uri: 'spotify:artist:4nDoRrQiYLoBzwC5BhVJzF'
   - genres:
+      - dance pop
+      - pop
+      - post-teen pop
+      - viral pop
+    href: 'https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B'
+    id: 74KM79TiuVKeVCqs8QtB0B
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/ab9dee9df3b5832b0885892cfdc62a6192f70e7b'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/e3698d4621771bbcf106b67d16858474844de77d'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/8d32ec9adca369720544033d9e6f409599481cc3'
+        width: 160
+    name: Sabrina Carpenter
+    type: artist
+    uri: 'spotify:artist:74KM79TiuVKeVCqs8QtB0B'
+  - genres:
       - pop
       - post-teen pop
     href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
@@ -543,26 +563,6 @@ mediumTermArtists:
     name: Lauv
     type: artist
     uri: 'spotify:artist:5JZ7CnR6gTvEMKX4g70Amv'
-  - genres:
-      - dance pop
-      - pop
-      - post-teen pop
-      - viral pop
-    href: 'https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B'
-    id: 74KM79TiuVKeVCqs8QtB0B
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/7d8ddc9a374fb2f822b21fee87e63944828115e8'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/fbd1afe92eb3524fa411a160ae45a04da5c36f26'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/de8c10bc728cc184df109ce75f446b7d56b03aa7'
-        width: 160
-    name: Sabrina Carpenter
-    type: artist
-    uri: 'spotify:artist:74KM79TiuVKeVCqs8QtB0B'
   - genres:
       - dance pop
       - electropop
@@ -583,48 +583,6 @@ mediumTermArtists:
     name: Sigrid
     type: artist
     uri: 'spotify:artist:4TrraAsitQKl821DQY42cZ'
-  - genres:
-      - canadian contemporary r&b
-      - canadian pop
-      - dance pop
-      - electropop
-      - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/2wUjUUtkb5lvLKcGKsKqsR'
-    id: 2wUjUUtkb5lvLKcGKsKqsR
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/56dcc0e8f919ea86b139b4ccd084439e10a8704e'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/53796b8f4368f79270fdb1603e1c1480b9605221'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/5a78b83b55840c20f4a70801e85bffcf482f00a3'
-        width: 160
-    name: Alessia Cara
-    type: artist
-    uri: 'spotify:artist:2wUjUUtkb5lvLKcGKsKqsR'
-  - genres:
-      - dance pop
-      - electropop
-      - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m'
-    id: 0ZED1XzwlLHW4ZaG4lOT6m
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/4a629c160228c0bd5295b064437b01a078aef157'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/c825f8efc145c7621637c474fe40c2864ed21ab8'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/8002d98c34d293433d75cd8bd4c1ade2ad754a95'
-        width: 160
-    name: Julia Michaels
-    type: artist
-    uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
   - genres:
       - dance pop
       - electropop
@@ -652,6 +610,48 @@ mediumTermArtists:
       - electropop
       - pop
       - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/0ZED1XzwlLHW4ZaG4lOT6m'
+    id: 0ZED1XzwlLHW4ZaG4lOT6m
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/4a629c160228c0bd5295b064437b01a078aef157'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/c825f8efc145c7621637c474fe40c2864ed21ab8'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/8002d98c34d293433d75cd8bd4c1ade2ad754a95'
+        width: 160
+    name: Julia Michaels
+    type: artist
+    uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
+  - genres:
+      - canadian contemporary r&b
+      - canadian pop
+      - dance pop
+      - electropop
+      - pop
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/2wUjUUtkb5lvLKcGKsKqsR'
+    id: 2wUjUUtkb5lvLKcGKsKqsR
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/56dcc0e8f919ea86b139b4ccd084439e10a8704e'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/53796b8f4368f79270fdb1603e1c1480b9605221'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/5a78b83b55840c20f4a70801e85bffcf482f00a3'
+        width: 160
+    name: Alessia Cara
+    type: artist
+    uri: 'spotify:artist:2wUjUUtkb5lvLKcGKsKqsR'
+  - genres:
+      - dance pop
+      - electropop
+      - pop
+      - post-teen pop
     href: 'https://api.spotify.com/v1/artists/1QRj3hoop9Mv5VvHQkwPEp'
     id: 1QRj3hoop9Mv5VvHQkwPEp
     images:
@@ -668,22 +668,25 @@ mediumTermArtists:
     type: artist
     uri: 'spotify:artist:1QRj3hoop9Mv5VvHQkwPEp'
   - genres:
-      - viral pop
-    href: 'https://api.spotify.com/v1/artists/39S7Y72G0tdDPy2INGFicV'
-    id: 39S7Y72G0tdDPy2INGFicV
+      - dance pop
+      - electropop
+      - pop
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/2kRfqPViCqYdSGhYSM9R0Q'
+    id: 2kRfqPViCqYdSGhYSM9R0Q
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/46df2fc6b4a59568d35d68fa2b957c44071f8f07'
+        url: 'https://i.scdn.co/image/683a30e4ea542dc4a6390ef5a5e4dff4f9dd92af'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/4b7f6d217b046aa129552d4f91227025f0ecc98c'
+        url: 'https://i.scdn.co/image/b203575be9575c1932c25825a452bd52b8718f02'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/ecd1d09bbfe37fcef870543b2af73d74680dd957'
+        url: 'https://i.scdn.co/image/50022f5a5e6d6577870d956e3b7b960bdfcd5c79'
         width: 160
-    name: Sara Farell
+    name: Madison Beer
     type: artist
-    uri: 'spotify:artist:39S7Y72G0tdDPy2INGFicV'
+    uri: 'spotify:artist:2kRfqPViCqYdSGhYSM9R0Q'
   - genres:
       - canadian pop
       - dance pop
@@ -706,26 +709,6 @@ mediumTermArtists:
     type: artist
     uri: 'spotify:artist:7n2wHs1TKAczGzO7Dd2rGr'
   - genres:
-      - dance pop
-      - electropop
-      - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/2kRfqPViCqYdSGhYSM9R0Q'
-    id: 2kRfqPViCqYdSGhYSM9R0Q
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/683a30e4ea542dc4a6390ef5a5e4dff4f9dd92af'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/b203575be9575c1932c25825a452bd52b8718f02'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/50022f5a5e6d6577870d956e3b7b960bdfcd5c79'
-        width: 160
-    name: Madison Beer
-    type: artist
-    uri: 'spotify:artist:2kRfqPViCqYdSGhYSM9R0Q'
-  - genres:
       - boy band
       - dance pop
       - pop
@@ -745,27 +728,6 @@ mediumTermArtists:
     name: 5 Seconds of Summer
     type: artist
     uri: 'spotify:artist:5Rl15oVamLq7FbSb0NNBNy'
-  - genres:
-      - electropop
-      - indie poptimism
-      - indietronica
-      - pop
-      - social media pop
-    href: 'https://api.spotify.com/v1/artists/5vBrKGOjN10BMwB0cJADj4'
-    id: 5vBrKGOjN10BMwB0cJADj4
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/cde291677b70ca5c89101763c8fbe8649938aee8'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/ba74673040bccd5ea77a89431da9d6d9d841ae3b'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/c256535dc724da4b6deb60bf3677c9474770e193'
-        width: 160
-    name: bülow
-    type: artist
-    uri: 'spotify:artist:5vBrKGOjN10BMwB0cJADj4'
   - genres:
       - australian pop
       - dance pop
@@ -788,26 +750,49 @@ mediumTermArtists:
     name: Troye Sivan
     type: artist
     uri: 'spotify:artist:3WGpXCj9YhhfX11TToZcXP'
-shortTermArtists:
   - genres:
       - dance pop
       - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR'
-    id: 66CXWjxzNUsdJxJ2JdwvnR
+    href: 'https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms'
+    id: 1HY2Jd0NmPuamShAr6KMms
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/b1dfbe843b0b9f54ab2e588f33e7637d2dab065a'
+        url: 'https://i.scdn.co/image/5c40cb9dc570181bd5ff5a1d1c773cc3436cae5c'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/b189cb24f45db92780d1aa6c81aee69b8defa03a'
+        url: 'https://i.scdn.co/image/4d70c25482e883129d3c9ff8cdc96bf715811a2f'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/3c4516cf74d09cf93db7536ce8826df28fba4156'
+        url: 'https://i.scdn.co/image/f14b1450db12a06b9ba10f938de89a2bdfa909ec'
         width: 160
-    name: Ariana Grande
+    name: Lady Gaga
     type: artist
-    uri: 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'
+    uri: 'spotify:artist:1HY2Jd0NmPuamShAr6KMms'
+  - genres:
+      - dance pop
+      - electropop
+      - metropopolis
+      - pop
+      - post-teen pop
+      - swedish electropop
+      - swedish pop
+      - swedish synthpop
+    href: 'https://api.spotify.com/v1/artists/4NHQUGzhtTLFvgF5SZesLK'
+    id: 4NHQUGzhtTLFvgF5SZesLK
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/d478a4f9c29d18d3a715426c04c9e742a0fa2efd'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/bd34a391246211c41c73f70754cb098d1877a0de'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/1082b97aee4f276b5dbf823281396c7603a61306'
+        width: 160
+    name: Tove Lo
+    type: artist
+    uri: 'spotify:artist:4NHQUGzhtTLFvgF5SZesLK'
+shortTermArtists:
   - genres:
       - dance pop
       - electropop
@@ -837,13 +822,13 @@ shortTermArtists:
     id: 74KM79TiuVKeVCqs8QtB0B
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/7d8ddc9a374fb2f822b21fee87e63944828115e8'
+        url: 'https://i.scdn.co/image/ab9dee9df3b5832b0885892cfdc62a6192f70e7b'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/fbd1afe92eb3524fa411a160ae45a04da5c36f26'
+        url: 'https://i.scdn.co/image/e3698d4621771bbcf106b67d16858474844de77d'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/de8c10bc728cc184df109ce75f446b7d56b03aa7'
+        url: 'https://i.scdn.co/image/8d32ec9adca369720544033d9e6f409599481cc3'
         width: 160
     name: Sabrina Carpenter
     type: artist
@@ -852,21 +837,76 @@ shortTermArtists:
       - dance pop
       - pop
       - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02'
-    id: 06HL4z0CvFAxyc27GXpf02
+    href: 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR'
+    id: 66CXWjxzNUsdJxJ2JdwvnR
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/62b33d12e2b9a033cf77585f6e3d4b2c6b3a63a1'
+        url: 'https://i.scdn.co/image/b1dfbe843b0b9f54ab2e588f33e7637d2dab065a'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/9ab124f3323d161f87fc9b7f8b82ab1717483b3a'
+        url: 'https://i.scdn.co/image/b189cb24f45db92780d1aa6c81aee69b8defa03a'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/d28b46cd7e1b7336d1688d462085535963a77311'
+        url: 'https://i.scdn.co/image/3c4516cf74d09cf93db7536ce8826df28fba4156'
         width: 160
-    name: Taylor Swift
+    name: Ariana Grande
     type: artist
-    uri: 'spotify:artist:06HL4z0CvFAxyc27GXpf02'
+    uri: 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'
+  - genres:
+      - electropop
+      - pop
+    href: 'https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH'
+    id: 6qqNVTkY8uBg9cP3Jd7DAH
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/2622edec99d68d1d141886be593c88cbe509f6d8'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/19589ec4cf860e7675fbeff0783ad71b2e7601a7'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/6c491c83e1f05d144fadf0097f5c9043bf54c8e6'
+        width: 160
+    name: Billie Eilish
+    type: artist
+    uri: 'spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH'
+  - genres:
+      - pop
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
+    id: 5JZ7CnR6gTvEMKX4g70Amv
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/d763de4ee1f230d55719b5fcccd76984fcc2d290'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/0bc167ec9a5f07b22a30e61a156d35397923a3ff'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/712454ec150afd9d3e788858e3c970e157f6e535'
+        width: 160
+    name: Lauv
+    type: artist
+    uri: 'spotify:artist:5JZ7CnR6gTvEMKX4g70Amv'
+  - genres:
+      - dance pop
+      - pop
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx'
+    id: 0C8ZW7ezQVs4URX5aX7Kqx
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/dc6dd5ccdccee8c947b41af13e3b60ce0a235708'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/640ac8d170be843477ac25a372344683d0449057'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/4741fad16d2ef0331bd139c7786c19233e6cfd79'
+        width: 160
+    name: Selena Gomez
+    type: artist
+    uri: 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'
   - genres:
       - canadian pop
       - candy pop
@@ -888,24 +928,6 @@ shortTermArtists:
     name: Avril Lavigne
     type: artist
     uri: 'spotify:artist:0p4nmQO2msCgU4IF37Wi3j'
-  - genres:
-      - electropop
-      - pop
-    href: 'https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH'
-    id: 6qqNVTkY8uBg9cP3Jd7DAH
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/2622edec99d68d1d141886be593c88cbe509f6d8'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/19589ec4cf860e7675fbeff0783ad71b2e7601a7'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/6c491c83e1f05d144fadf0097f5c9043bf54c8e6'
-        width: 160
-    name: Billie Eilish
-    type: artist
-    uri: 'spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH'
   - genres:
       - dance pop
       - pop
@@ -929,39 +951,21 @@ shortTermArtists:
       - dance pop
       - pop
       - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx'
-    id: 0C8ZW7ezQVs4URX5aX7Kqx
+    href: 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02'
+    id: 06HL4z0CvFAxyc27GXpf02
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/dc6dd5ccdccee8c947b41af13e3b60ce0a235708'
+        url: 'https://i.scdn.co/image/62b33d12e2b9a033cf77585f6e3d4b2c6b3a63a1'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/640ac8d170be843477ac25a372344683d0449057'
+        url: 'https://i.scdn.co/image/9ab124f3323d161f87fc9b7f8b82ab1717483b3a'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/4741fad16d2ef0331bd139c7786c19233e6cfd79'
+        url: 'https://i.scdn.co/image/d28b46cd7e1b7336d1688d462085535963a77311'
         width: 160
-    name: Selena Gomez
+    name: Taylor Swift
     type: artist
-    uri: 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'
-  - genres:
-      - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
-    id: 5JZ7CnR6gTvEMKX4g70Amv
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/d763de4ee1f230d55719b5fcccd76984fcc2d290'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/0bc167ec9a5f07b22a30e61a156d35397923a3ff'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/712454ec150afd9d3e788858e3c970e157f6e535'
-        width: 160
-    name: Lauv
-    type: artist
-    uri: 'spotify:artist:5JZ7CnR6gTvEMKX4g70Amv'
+    uri: 'spotify:artist:06HL4z0CvFAxyc27GXpf02'
   - genres:
       - acoustic pop
       - lilith
@@ -1026,27 +1030,24 @@ shortTermArtists:
     type: artist
     uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
   - genres:
-      - dance pop
-      - electropop
-      - etherpop
-      - indie poptimism
+      - canadian pop
       - pop
       - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2'
-    id: 26VFTg2z8YR0cCuwLzESi2
+    href: 'https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s'
+    id: 1uNFoZAHBGtllmzznpCI3s
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/1ccc88afcd13131dc35a1bd028922dbc748a55fb'
+        url: 'https://i.scdn.co/image/d745628f6659a715f0f69eed1508805849796e5e'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/8b56979f115e855301c33828bcad2c57280adbab'
+        url: 'https://i.scdn.co/image/5070bcb38e0fa03a21166a57cf93e4089effeec1'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/ac0a244c45f25b7d177bbe629c30565fe0768f14'
+        url: 'https://i.scdn.co/image/36235a9233a74be64a525f7998f0e94e78eb63e3'
         width: 160
-    name: Halsey
+    name: Justin Bieber
     type: artist
-    uri: 'spotify:artist:26VFTg2z8YR0cCuwLzESi2'
+    uri: 'spotify:artist:1uNFoZAHBGtllmzznpCI3s'
   - genres:
       - boy band
       - dance pop
@@ -1092,42 +1093,25 @@ shortTermArtists:
   - genres:
       - dance pop
       - electropop
+      - etherpop
+      - indie poptimism
       - pop
       - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/2kRfqPViCqYdSGhYSM9R0Q'
-    id: 2kRfqPViCqYdSGhYSM9R0Q
+    href: 'https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2'
+    id: 26VFTg2z8YR0cCuwLzESi2
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/683a30e4ea542dc4a6390ef5a5e4dff4f9dd92af'
+        url: 'https://i.scdn.co/image/1ccc88afcd13131dc35a1bd028922dbc748a55fb'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/b203575be9575c1932c25825a452bd52b8718f02'
+        url: 'https://i.scdn.co/image/8b56979f115e855301c33828bcad2c57280adbab'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/50022f5a5e6d6577870d956e3b7b960bdfcd5c79'
+        url: 'https://i.scdn.co/image/ac0a244c45f25b7d177bbe629c30565fe0768f14'
         width: 160
-    name: Madison Beer
+    name: Halsey
     type: artist
-    uri: 'spotify:artist:2kRfqPViCqYdSGhYSM9R0Q'
-  - genres:
-      - canadian pop
-      - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s'
-    id: 1uNFoZAHBGtllmzznpCI3s
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/d745628f6659a715f0f69eed1508805849796e5e'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/5070bcb38e0fa03a21166a57cf93e4089effeec1'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/36235a9233a74be64a525f7998f0e94e78eb63e3'
-        width: 160
-    name: Justin Bieber
-    type: artist
-    uri: 'spotify:artist:1uNFoZAHBGtllmzznpCI3s'
+    uri: 'spotify:artist:26VFTg2z8YR0cCuwLzESi2'
   - genres:
       - electro house
     href: 'https://api.spotify.com/v1/artists/7vk5e3vY1uw9plTHJAMwjN'
@@ -1167,22 +1151,40 @@ shortTermArtists:
     type: artist
     uri: 'spotify:artist:7n2wHs1TKAczGzO7Dd2rGr'
   - genres:
-      - australian alternative pop
-      - australian pop
+      - dance pop
+      - electropop
       - pop
       - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/5xkAtLTf309LAGZTbvULBn'
-    id: 5xkAtLTf309LAGZTbvULBn
+    href: 'https://api.spotify.com/v1/artists/2kRfqPViCqYdSGhYSM9R0Q'
+    id: 2kRfqPViCqYdSGhYSM9R0Q
     images:
       - height: 640
-        url: 'https://i.scdn.co/image/d40a05c7b208996978c08f1e193d0192a649086e'
+        url: 'https://i.scdn.co/image/683a30e4ea542dc4a6390ef5a5e4dff4f9dd92af'
         width: 640
       - height: 320
-        url: 'https://i.scdn.co/image/3602de4d4687a15db05525b3c3c12f7457c52bf6'
+        url: 'https://i.scdn.co/image/b203575be9575c1932c25825a452bd52b8718f02'
         width: 320
       - height: 160
-        url: 'https://i.scdn.co/image/d4ea21031732e495cf4fa90737dea3bf0586ed2b'
+        url: 'https://i.scdn.co/image/50022f5a5e6d6577870d956e3b7b960bdfcd5c79'
         width: 160
-    name: Ruel
+    name: Madison Beer
     type: artist
-    uri: 'spotify:artist:5xkAtLTf309LAGZTbvULBn'
+    uri: 'spotify:artist:2kRfqPViCqYdSGhYSM9R0Q'
+  - genres:
+      - pop
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/45dkTj5sMRSjrmBSBeiHym'
+    id: 45dkTj5sMRSjrmBSBeiHym
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/87f4ad0e75a7e33f6c6c320906abc6c8fdbb88ec'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/dbcb27b83140bf48955e234b83dc4385161f8af1'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/48035092a6307a28ed1bfab623297eae7327ed05'
+        width: 160
+    name: Tate McRae
+    type: artist
+    uri: 'spotify:artist:45dkTj5sMRSjrmBSBeiHym'
