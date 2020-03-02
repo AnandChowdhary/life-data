@@ -1,3 +1,51 @@
+- uuid: 9390e1de-57bd-4aef-ab77-ac1fe6d41219
+  url: 'https://traffic.megaphone.fm/GLT5882234605.mp3'
+  published: '2020-02-26T21:53:00Z'
+  duration: 2762
+  fileType: audio/mp3
+  title: 'Esther Perel''s New Show: How''s Work?'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2762
+  starred: false
+  podcastUuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 3
+  episodeNumber: 7
+  isDeleted: true
+- uuid: 06e9ed4a-5019-4e0f-a4a8-aaa0ae0f5f55
+  url: 'https://traffic.megaphone.fm/WSJ7232776143.mp3'
+  published: '2020-02-26T21:39:18Z'
+  duration: 909
+  fileType: audio/mp3
+  title: America Prepares for a Pandemic
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 909
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 9a4b4df4-4c65-420f-93a4-3375314f4b35
+  url: 'https://traffic.megaphone.fm/WSJ8283307863.mp3'
+  published: '2020-02-27T22:21:53Z'
+  duration: 1179
+  fileType: audio/mp3
+  title: Wells Fargo and the Fake-Account Fallout
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1179
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: b24ac2e3-db89-48b8-abb9-66d19e043733
   url: 'https://traffic.megaphone.fm/WSJ6194807910.mp3'
   published: '2020-02-28T21:37:57Z'
@@ -1577,55 +1625,6 @@
   playedUpTo: 1988
   starred: false
   podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: c01cd4c5-25de-42ec-90e9-a9b2501c1e02
-  url: >-
-    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2019/12/20191206_hibt_minted-b98b6027-296e-4afd-bdf1-156388685ccc.mp3?awCollectionId=510313&awEpisodeId=785607378&orgId=1&d=3162&p=510313&story=785607378&t=podcast&e=785607378&size=50476388&ft=pod&f=510313
-  published: '2019-12-09T05:01:10Z'
-  duration: 3190
-  fileType: audio/mpeg
-  title: 'Minted: Mariam Naficy'
-  size: '50476388'
-  playingStatus: 3
-  playedUpTo: 3190
-  starred: false
-  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 9bb6d4e7-6264-4be7-b115-6d6dbbc15b22
-  url: 'https://traffic.megaphone.fm/GLT1856562359.mp3?updated=1574312030'
-  published: '2019-11-21T09:00:00Z'
-  duration: 2705
-  fileType: audio/mpeg
-  title: Elyse
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 2705
-  starred: false
-  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 4
-  episodeNumber: 29
-  isDeleted: true
-- uuid: b2a50d6b-5f9e-413e-bd86-355e376e8e4f
-  url: 'http://traffic.libsyn.com/hellointernet/64.mp3'
-  published: '2016-05-26T16:57:59Z'
-  duration: 6130
-  fileType: audio/mp3
-  title: 'H.I. #64: The Quiz Show'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 6130
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
