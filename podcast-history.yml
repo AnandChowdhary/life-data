@@ -1,3 +1,69 @@
+- uuid: 5777d40e-f516-4eee-a39a-7985fb6c38c9
+  url: 'https://traffic.megaphone.fm/GLT4151139995.mp3'
+  published: '2019-11-14T09:00:00Z'
+  duration: 3192
+  fileType: audio/mp3
+  title: Mom and Monique
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 3192
+  starred: false
+  podcastUuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 3
+  episodeNumber: 5
+  isDeleted: false
+- uuid: ffcbd08f-a450-40fa-9e46-5b387c73aaca
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_278.mp3
+  published: '2020-01-22T21:30:00Z'
+  duration: 5559
+  fileType: audio/mp3
+  title: Honey for my Ears
+  size: '89095157'
+  playingStatus: 2
+  playedUpTo: 1634
+  starred: false
+  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 8d27539c-6898-4d9d-b70e-db307e78029e
+  url: >-
+    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2020/02/20200228_hibt_hibt_-_casey_neistat_-_final_podcast_mix-6e0c6cda-6182-49b9-911b-083ef1319cd5.mp3?awCollectionId=510313&awEpisodeId=810412631&orgId=1&d=5673&p=510313&story=810412631&t=podcast&e=810412631&size=90560481&ft=pod&f=510313
+  published: '2020-03-02T05:01:55Z'
+  duration: 5673
+  fileType: audio/mpeg
+  title: 'Video Artist: Casey Neistat'
+  size: '90560481'
+  playingStatus: 3
+  playedUpTo: 5673
+  starred: false
+  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: b5b7ada2-2d08-4acd-be51-b73812f2f2b1
+  url: 'https://traffic.megaphone.fm/WSJ5467832108.mp3'
+  published: '2020-03-02T22:30:26Z'
+  duration: 1310
+  fileType: audio/mpeg
+  title: The 'Mystery Man' Tells Us How He Helped Free Rod Blagojevich
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1310
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 9390e1de-57bd-4aef-ab77-ac1fe6d41219
   url: 'https://traffic.megaphone.fm/GLT5882234605.mp3'
   published: '2020-02-26T21:53:00Z'
@@ -1559,72 +1625,6 @@
   playedUpTo: 1113
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: d05ad6b6-215a-47d5-a1cf-574c948dc178
-  url: 'https://traffic.megaphone.fm/WSJ5997098330.mp3'
-  published: '2019-12-05T21:18:32Z'
-  duration: 1134
-  fileType: audio/mp3
-  title: The Central Question of Impeachment
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1134
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 3e250014-e649-4a50-a752-1f2a0080c0ec
-  url: 'https://traffic.megaphone.fm/WSJ7856208324.mp3'
-  published: '2019-12-06T21:44:19Z'
-  duration: 1083
-  fileType: audio/mp3
-  title: Why Tech Is Making Its Own Rules for Political Ads
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1083
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: f945e7e3-fc48-414b-b34d-a3f12c8bdbd6
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_094.mp3
-  published: '2019-12-10T12:00:00Z'
-  duration: 7395
-  fileType: audio/mp3
-  title: State of the Apps 2020
-  size: '119881544'
-  playingStatus: 3
-  playedUpTo: 7395
-  starred: false
-  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: acd7d5ca-6e54-42a1-be79-3ee8f8e88187
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM4206490730.mp3
-  published: '2019-12-04T09:00:00Z'
-  duration: 1988
-  fileType: audio/mp3
-  title: The Thing You Should Never Pack
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1988
-  starred: false
-  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
