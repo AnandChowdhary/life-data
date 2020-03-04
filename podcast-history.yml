@@ -1,3 +1,68 @@
+- uuid: 69cbc571-d4c0-4326-90cf-3bb4eaeae09c
+  url: 'https://traffic.megaphone.fm/GLT9032194393.mp3'
+  published: '2019-11-07T09:00:00Z'
+  duration: 2853
+  fileType: audio/mp3
+  title: A Romantic Revival
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 2770
+  starred: false
+  podcastUuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 3
+  episodeNumber: 4
+  isDeleted: false
+- uuid: 8cce3df3-73d1-49e7-a743-f906edb10869
+  url: 'https://traffic.megaphone.fm/GLT5692987216.mp3'
+  published: '2019-11-21T09:00:00Z'
+  duration: 3332
+  fileType: audio/mp3
+  title: Happily Divorced
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 3332
+  starred: false
+  podcastUuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 3
+  episodeNumber: 6
+  isDeleted: true
+- uuid: ffcbd08f-a450-40fa-9e46-5b387c73aaca
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_278.mp3
+  published: '2020-01-22T21:30:00Z'
+  duration: 5559
+  fileType: audio/mp3
+  title: Honey for my Ears
+  size: '89095157'
+  playingStatus: 2
+  playedUpTo: 3255
+  starred: false
+  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 39c38d33-d023-4f9d-806e-9391f8a10a97
+  url: 'https://traffic.megaphone.fm/WSJ1785790516.mp3'
+  published: '2020-03-03T23:15:46Z'
+  duration: 1086
+  fileType: audio/mpeg
+  title: How Washington State's Coronavirus Outbreak Unfolded
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1086
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 5777d40e-f516-4eee-a39a-7985fb6c38c9
   url: 'https://traffic.megaphone.fm/GLT4151139995.mp3'
   published: '2019-11-14T09:00:00Z'
@@ -13,24 +78,7 @@
   episodeType: full
   episodeSeason: 3
   episodeNumber: 5
-  isDeleted: false
-- uuid: ffcbd08f-a450-40fa-9e46-5b387c73aaca
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_278.mp3
-  published: '2020-01-22T21:30:00Z'
-  duration: 5559
-  fileType: audio/mp3
-  title: Honey for my Ears
-  size: '89095157'
-  playingStatus: 2
-  playedUpTo: 1634
-  starred: false
-  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 8d27539c-6898-4d9d-b70e-db307e78029e
   url: >-
     https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2020/02/20200228_hibt_hibt_-_casey_neistat_-_final_podcast_mix-6e0c6cda-6182-49b9-911b-083ef1319cd5.mp3?awCollectionId=510313&awEpisodeId=810412631&orgId=1&d=5673&p=510313&story=810412631&t=podcast&e=810412631&size=90560481&ft=pod&f=510313
@@ -1576,55 +1624,6 @@
   playedUpTo: 1889
   starred: false
   podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: df355bbc-3f42-4b1b-a474-d28ab837292d
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM4920116137.mp3
-  published: '2019-12-11T09:00:00Z'
-  duration: 1775
-  fileType: audio/mp3
-  title: Why Do We Go Crazy Boarding Planes?
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1775
-  starred: false
-  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: b091eecd-9199-41da-a4e6-1a1eb4d58eed
-  url: 'https://traffic.megaphone.fm/GLT8378710544.mp3?updated=1576124921'
-  published: '2019-12-12T09:00:00Z'
-  duration: 3290
-  fileType: audio/mpeg
-  title: The Marshes
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 3171
-  starred: false
-  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 4
-  episodeNumber: 30
-  isDeleted: true
-- uuid: 99c5c76b-44f8-4c6c-a91b-18ee47c3719f
-  url: 'https://traffic.megaphone.fm/WSJ7954690576.mp3'
-  published: '2019-11-19T22:09:15Z'
-  duration: 1113
-  fileType: audio/mp3
-  title: Taylor Swift Versus Big Machine
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1113
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
