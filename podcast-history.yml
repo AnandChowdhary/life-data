@@ -1,3 +1,137 @@
+- uuid: 82675fdb-6ca0-4a62-8e24-173b213d4a1d
+  url: >-
+    http://traffic.libsyn.com/hellointernet/Hello_Internet_Episode_One_Hundred.mp3
+  published: '2018-03-30T21:14:52Z'
+  duration: 5052
+  fileType: audio/mp3
+  title: Hello Internet Episode One Hundred
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 5052
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 100
+  isDeleted: false
+- uuid: 948b4f3f-059a-4951-9f77-28a6f2897774
+  url: 'http://traffic.libsyn.com/hellointernet/102.mp3'
+  published: '2018-05-24T16:14:25Z'
+  duration: 7072
+  fileType: audio/mp3
+  title: 'H.I. #102: Secret Cinema'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 7072
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 102
+  isDeleted: true
+- uuid: d3eb6225-c564-4278-b72c-9a9ee665f96b
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_284.mp3
+  published: '2020-03-04T22:15:00Z'
+  duration: 5166
+  fileType: audio/mp3
+  title: stevensmerch.com
+  size: '82805475'
+  playingStatus: 2
+  playedUpTo: 4
+  starred: false
+  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 52612d87-9f3c-4721-a708-bb084ffd3a5f
+  url: >-
+    https://www.buzzsprout.com/814035/2795887-4-lab-grown-meat-neanderthal-burials-and-space-tourism.mp3?blob_id=9576268
+  published: '2020-02-21T01:00:00Z'
+  duration: 1712
+  fileType: audio/mpeg
+  title: '#4: Lab-grown meat, Neanderthal burials, and space tourism'
+  size: '20624557'
+  playingStatus: 2
+  playedUpTo: 672
+  starred: false
+  podcastUuid: 18909320-261f-0138-9fe3-0acc26574db2
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 1
+  episodeNumber: 4
+  isDeleted: false
+- uuid: a5f139a0-2a71-41f1-b023-0212dc3f89e4
+  url: >-
+    https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/3698f4ac-bc66-4304-b7b4-e88008dd866c.mp3
+  published: '2020-03-05T10:50:19Z'
+  duration: 1839
+  fileType: audio/mp3
+  title: The Coronavirus Outbreak in Washington State
+  size: '27242161'
+  playingStatus: 3
+  playedUpTo: 1839
+  starred: false
+  podcastUuid: 4eb5b260-c933-0134-10da-25324e2a541d
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: ffcbd08f-a450-40fa-9e46-5b387c73aaca
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_278.mp3
+  published: '2020-01-22T21:30:00Z'
+  duration: 5559
+  fileType: audio/mp3
+  title: Honey for my Ears
+  size: '89095157'
+  playingStatus: 3
+  playedUpTo: 5559
+  starred: false
+  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 7b6a6d20-2a42-42ef-95c5-903705ddb437
+  url: >-
+    https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/d7c237ef-3375-4764-b12e-7fd51ae08ac1.mp3
+  published: '2020-03-04T10:51:51Z'
+  duration: 1593
+  fileType: audio/mp3
+  title: How Super Tuesday Unfolded
+  size: '24098272'
+  playingStatus: 3
+  playedUpTo: 1593
+  starred: false
+  podcastUuid: 4eb5b260-c933-0134-10da-25324e2a541d
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 7e6bacf8-938e-4bec-aeb4-4ff157bbabae
+  url: 'https://traffic.megaphone.fm/WSJ7761534296.mp3'
+  published: '2020-03-04T22:22:21Z'
+  duration: 952
+  fileType: audio/mp3
+  title: The Moderates' Super Tuesday Gamble
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 952
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 69cbc571-d4c0-4326-90cf-3bb4eaeae09c
   url: 'https://traffic.megaphone.fm/GLT9032194393.mp3'
   published: '2019-11-07T09:00:00Z'
@@ -5,15 +139,15 @@
   fileType: audio/mp3
   title: A Romantic Revival
   size: '0'
-  playingStatus: 2
-  playedUpTo: 2770
+  playingStatus: 3
+  playedUpTo: 2853
   starred: false
   podcastUuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
   podcastTitle: ''
   episodeType: full
   episodeSeason: 3
   episodeNumber: 4
-  isDeleted: false
+  isDeleted: true
 - uuid: 8cce3df3-73d1-49e7-a743-f906edb10869
   url: 'https://traffic.megaphone.fm/GLT5692987216.mp3'
   published: '2019-11-21T09:00:00Z'
@@ -30,23 +164,6 @@
   episodeSeason: 3
   episodeNumber: 6
   isDeleted: true
-- uuid: ffcbd08f-a450-40fa-9e46-5b387c73aaca
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_278.mp3
-  published: '2020-01-22T21:30:00Z'
-  duration: 5559
-  fileType: audio/mp3
-  title: Honey for my Ears
-  size: '89095157'
-  playingStatus: 2
-  playedUpTo: 3255
-  starred: false
-  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: false
 - uuid: 39c38d33-d023-4f9d-806e-9391f8a10a97
   url: 'https://traffic.megaphone.fm/WSJ1785790516.mp3'
   published: '2020-03-03T23:15:46Z'
@@ -1509,121 +1626,6 @@
   playedUpTo: 1753
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 83fd463e-5ca7-4fc9-803b-fea29fabae3f
-  url: >-
-    https://anchor.fm/s/3b926a4/podcast/play/9255816/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-24%2F40521686-44100-2-d8420ccc7321f.mp3
-  published: '2019-12-25T10:30:00Z'
-  duration: 306
-  fileType: audio/mp3
-  title: Christmas is cancelled
-  size: '12247166'
-  playingStatus: 3
-  playedUpTo: 306
-  starred: false
-  podcastUuid: 1c179450-6200-0136-4e65-69745d675bc7
-  podcastTitle: ''
-  episodeType: bonus
-  episodeSeason: 1
-  episodeNumber: 0
-  isDeleted: true
-- uuid: fdfecfdd-82cc-4d35-982d-676fa251091c
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM6252524237.mp3
-  published: '2019-12-25T09:00:00Z'
-  duration: 2074
-  fileType: audio/mp3
-  title: Always Look Fresh While On The Road
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 2074
-  starred: false
-  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 3480b489-94f6-4546-b481-42302bbbbabf
-  url: 'http://traffic.libsyn.com/unmade/unmade_episode37.mp3'
-  published: '2019-12-23T00:05:51Z'
-  duration: 2878
-  fileType: audio/mp3
-  title: '37: The Queen''s Podcast'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 2878
-  starred: false
-  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 163a1948-1028-4e51-8610-d7d632fb0450
-  url: 'http://traffic.libsyn.com/hellointernet/132.mp3'
-  published: '2019-12-23T22:39:57Z'
-  duration: 5508
-  fileType: audio/mp3
-  title: 'H.I. #132: Artisan Water'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 5517
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 132
-  isDeleted: true
-- uuid: 33047014-0067-408e-8ebb-2b441c097fcd
-  url: 'https://traffic.megaphone.fm/WSJ3260734149.mp3'
-  published: '2019-12-18T22:48:52Z'
-  duration: 1132
-  fileType: audio/mp3
-  title: The Senate Prepares for a Trial
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1132
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 325d5c8d-6c71-4229-a249-eeadd4200b39
-  url: 'https://traffic.megaphone.fm/GLT7180580619.mp3?updated=1576729343'
-  published: '2019-12-19T09:00:00Z'
-  duration: 3160
-  fileType: audio/mpeg
-  title: Marie-Claude
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 3160
-  starred: false
-  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 4
-  episodeNumber: 31
-  isDeleted: true
-- uuid: 0092d4ea-c06b-48ae-8174-f80b2f1c5036
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM9713725980.mp3
-  published: '2019-12-18T09:00:00Z'
-  duration: 1889
-  fileType: audio/mp3
-  title: Hack Your Way Into Business Class
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1889
-  starred: false
-  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
