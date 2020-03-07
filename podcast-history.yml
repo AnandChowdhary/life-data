@@ -5,15 +5,15 @@
   fileType: audio/mp3
   title: 'H.I. 94: Video of Meaninglessness'
   size: '0'
-  playingStatus: 0
-  playedUpTo: 0
+  playingStatus: 3
+  playedUpTo: 6843
   starred: false
   podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 82675fdb-6ca0-4a62-8e24-173b213d4a1d
   url: >-
     http://traffic.libsyn.com/hellointernet/Hello_Internet_Episode_One_Hundred.mp3
@@ -470,7 +470,7 @@
   podcastUuid: 20592310-4f61-0133-c35e-0d11918ab357
   podcastTitle: ''
   episodeType: full
-  episodeSeason: 0
+  episodeSeason: 1
   episodeNumber: 0
   isDeleted: true
 - uuid: 6f602d48-3b9b-4b2a-ae0b-cdd69cfc557f
@@ -519,7 +519,7 @@
   podcastUuid: 20592310-4f61-0133-c35e-0d11918ab357
   podcastTitle: ''
   episodeType: full
-  episodeSeason: 0
+  episodeSeason: 1
   episodeNumber: 0
   isDeleted: true
 - uuid: 072464e6-daec-475a-8e12-efcca72bfc65
@@ -1329,7 +1329,7 @@
   podcastUuid: 20592310-4f61-0133-c35e-0d11918ab357
   podcastTitle: ''
   episodeType: full
-  episodeSeason: 0
+  episodeSeason: 1
   episodeNumber: 0
   isDeleted: true
 - uuid: 038e1aed-ae45-4c77-896a-8a8b6fbb27c0
