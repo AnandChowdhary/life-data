@@ -1,3 +1,86 @@
+- uuid: 13b17f08-5da0-4681-8e35-9b4e79023607
+  url: >-
+    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2020/02/20200212_hibt_hibt_-_summit_2019___jetblue_final_podcast_mix.mp3?awCollectionId=510313&awEpisodeId=786502927&orgId=1&d=1021&p=510313&story=786502927&t=podcast&e=786502927&size=16312623&ft=pod&f=510313
+  published: '2020-02-13T05:01:59Z'
+  duration: 1021
+  fileType: audio/mpeg
+  title: 'Live From The HIBT Summit: David Neeleman of JetBlue Airways'
+  size: '16312623'
+  playingStatus: 3
+  playedUpTo: 1021
+  starred: false
+  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 71919154-699d-4a38-8eab-554b78c6bfe2
+  url: 'https://traffic.megaphone.fm/WSJ5792199215.mp3'
+  published: '2020-03-06T22:15:03Z'
+  duration: 1172
+  fileType: audio/mp3
+  title: Why So Few CEOs Are Women
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1172
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: d5fcee0a-cba2-4b00-9e58-7e483217af24
+  url: >-
+    https://media.blubrry.com/sitepen/media.sitepen.com/podcast/TalkScript_054.mp3
+  published: '2020-03-06T14:13:36Z'
+  duration: 3182
+  fileType: audio/mp3
+  title: 'Episode 54: Tools We Love'
+  size: '50966272'
+  playingStatus: 3
+  playedUpTo: 3182
+  starred: false
+  podcastUuid: 20592310-4f61-0133-c35e-0d11918ab357
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 1
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 068fe9e6-fb93-4c9e-880b-4f44d8dea632
+  url: >-
+    https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/d0258043-0e74-40df-922e-9c1275d5a443.mp3
+  published: '2020-03-06T10:50:24Z'
+  duration: 2029
+  fileType: audio/mp3
+  title: The Almost-Peace Deal
+  size: '31193547'
+  playingStatus: 3
+  playedUpTo: 2029
+  starred: false
+  podcastUuid: 4eb5b260-c933-0134-10da-25324e2a541d
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 5930c084-51b1-4cdb-9f74-b4bd8cb30cbb
+  url: 'https://traffic.megaphone.fm/WSJ6322737934.mp3?updated=1583451852'
+  published: '2020-03-05T23:02:28Z'
+  duration: 1179
+  fileType: audio/mpeg
+  title: Will Coronavirus Cause a Recession?
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1179
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 40a2b040-0726-4d8d-8379-f98d534ee338
   url: 'http://traffic.libsyn.com/hellointernet/HI94.mp3'
   published: '2017-12-22T17:02:44Z'
@@ -63,7 +146,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 52612d87-9f3c-4721-a708-bb084ffd3a5f
   url: >-
     https://www.buzzsprout.com/814035/2795887-4-lab-grown-meat-neanderthal-burials-and-space-tourism.mp3?blob_id=9576268
@@ -80,7 +163,7 @@
   episodeType: full
   episodeSeason: 1
   episodeNumber: 4
-  isDeleted: false
+  isDeleted: true
 - uuid: a5f139a0-2a71-41f1-b023-0212dc3f89e4
   url: >-
     https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/3698f4ac-bc66-4304-b7b4-e88008dd866c.mp3
@@ -1544,88 +1627,6 @@
   playedUpTo: 1788
   starred: false
   podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 8d7c85ae-7bf9-42a1-8e6b-e8d45b1574a6
-  url: 'http://traffic.libsyn.com/hellointernet/HI_91.mp3'
-  published: '2017-10-31T22:05:11Z'
-  duration: 7222
-  fileType: audio/mp3
-  title: 'H.I. #91: Last Man to Die?'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 7228
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 60eae5f5-65a1-4e59-a9ac-0d10aaea9b71
-  url: 'http://traffic.libsyn.com/hellointernet/HI92.mp3'
-  published: '2017-11-24T22:20:12Z'
-  duration: 6837
-  fileType: audio/mp3
-  title: 'H.I. #92: Grey Honeypot'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 6843
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 92
-  isDeleted: true
-- uuid: c041e325-43f6-45ce-9c54-4e870778dd8d
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_275.mp3
-  published: '2020-01-01T16:00:00Z'
-  duration: 5731
-  fileType: audio/mp3
-  title: The Rickies (Early 2020)
-  size: '91861061'
-  playingStatus: 3
-  playedUpTo: 5732
-  starred: false
-  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 0a8719e8-fddf-4798-b4fc-a12970d890d5
-  url: 'http://traffic.libsyn.com/hellointernet/HI134.mp3'
-  published: '2019-12-30T22:52:28Z'
-  duration: 4956
-  fileType: audio/mp3
-  title: 'H.I. 134: Boxing Day'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 4956
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 3a5b1cb6-395e-4d50-925b-ebed7cb000b8
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_095.mp3
-  published: '2019-12-31T13:00:00Z'
-  duration: 6148
-  fileType: audio/mp3
-  title: 2020 Yearly Themes
-  size: '99015197'
-  playingStatus: 3
-  playedUpTo: 6149
-  starred: false
-  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
