@@ -11,9 +11,9 @@
     technology, to space, health and the environment, we share all the
     information you need to keep pace. Produced by Right Angles.
   url: 'https://www.newscientist.com/'
-  lastEpisodePublished: '2020-02-28T01:00:00Z'
+  lastEpisodePublished: '2020-03-06T01:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 6e97f4c7-189b-4e19-a327-0584fe2b0f00
+  lastEpisodeUuid: fb59a251-5013-492e-9aa8-6c610b2f59d2
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -44,10 +44,10 @@
     The JavaScript devs at SitePen talk about web app development with
     JavaScript, TypeScript, React, WebVR and more!
   url: 'https://www.sitepen.com'
-  lastEpisodePublished: '2020-02-18T18:21:58Z'
+  lastEpisodePublished: '2020-03-06T14:13:36Z'
   unplayed: false
-  lastEpisodeUuid: ee2fe3d9-be0b-4edb-882f-b4356bc0040f
-  lastEpisodePlayingStatus: 2
+  lastEpisodeUuid: d5fcee0a-cba2-4b00-9e58-7e483217af24
+  lastEpisodePlayingStatus: 3
   lastEpisodeArchived: true
   autoSkipLast: 0
 - uuid: 20a7ca40-9128-0131-8b7f-723c91aeae46
@@ -64,9 +64,9 @@
     every week; visit a16z.com for more details and to sign up for our
     newsletters and other content as well!
   url: 'https://www.a16z.com'
-  lastEpisodePublished: '2020-02-28T19:57:25Z'
+  lastEpisodePublished: '2020-03-06T10:00:00Z'
   unplayed: true
-  lastEpisodeUuid: d82d4d72-0a13-46de-a2a7-0a94808ac665
+  lastEpisodeUuid: b5e6992b-5927-47a4-8625-a2d908038570
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -96,9 +96,9 @@
     Knutson. The Journal is a co-production from Gimlet Media and The Wall
     Street Journal.
   url: 'https://www.wsj.com/podcasts/the-journal'
-  lastEpisodePublished: '2020-03-03T23:15:46Z'
+  lastEpisodePublished: '2020-03-10T21:30:36Z'
   unplayed: false
-  lastEpisodeUuid: 39c38d33-d023-4f9d-806e-9391f8a10a97
+  lastEpisodeUuid: 13bb1a48-d678-42bf-8d14-f6a6bfa6d174
   lastEpisodePlayingStatus: 3
   lastEpisodeArchived: true
   autoSkipLast: 0
@@ -131,9 +131,9 @@
     told by the best journalists in the world. Hosted by Michael Barbaro. Twenty
     minutes a day, five days a week, ready by 6 a.m.
   url: 'https://www.nytimes.com/the-daily'
-  lastEpisodePublished: '2020-03-04T10:51:51Z'
+  lastEpisodePublished: '2020-03-11T09:56:08Z'
   unplayed: true
-  lastEpisodeUuid: 7b6a6d20-2a42-42ef-95c5-903705ddb437
+  lastEpisodeUuid: 92119c2a-888f-4cd7-baa3-814949f16383
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -173,29 +173,6 @@
   lastEpisodePlayingStatus: 3
   lastEpisodeArchived: true
   autoSkipLast: 0
-- uuid: 7d9a4610-9673-0137-4052-0acc26574db2
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: 'Waveform: The MKBHD Podcast'
-  author: Studio71
-  description: >-
-    A tech podcast for the gadget lovers and tech heads among us from the mind
-    of Marques Brownlee, better known as MKBHD. MKBHD has made a name for
-    himself on YouTube reviewing everything from the newest smartphones to
-    cameras to electric cars. Pulling from over 10 years of experience covering
-    the tech industry, MKBHD will keep you informed and entertained as he takes
-    a deep dive into the latest and greatest in tech and what deserves your hard
-    earned cash. New episodes every other week.
-
-
-    Link to survey: https://bit.ly/2EcYbu4
-  url: 'https://www.studio71.com/us/podcasts/'
-  lastEpisodePublished: '2020-02-21T08:30:00Z'
-  unplayed: false
-  lastEpisodeUuid: d7c7ad72-2212-4624-b251-d6ac6f3e7772
-  lastEpisodePlayingStatus: 0
-  lastEpisodeArchived: false
-  autoSkipLast: 0
 - uuid: 851d1840-476e-0137-f266-1d245fc5f9cf
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -227,9 +204,9 @@
     Haran, maker of the Numberphile series on YouTube.
   url: 'https://www.numberphile.com/podcast/'
   lastEpisodePublished: '2019-12-13T10:02:45Z'
-  unplayed: true
+  unplayed: false
   lastEpisodeUuid: 70df7547-0e8a-4b2d-acb3-67e417ed62fe
-  lastEpisodePlayingStatus: 1
+  lastEpisodePlayingStatus: 3
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
@@ -287,10 +264,10 @@
     companies. How I Built This weaves a narrative journey about innovators,
     entrepreneurs and idealists—and the movements they built.
   url: 'http://www.npr.org/series/490248027/how-i-built-this'
-  lastEpisodePublished: '2020-03-02T05:01:55Z'
+  lastEpisodePublished: '2020-03-09T04:01:41Z'
   unplayed: false
-  lastEpisodeUuid: 8d27539c-6898-4d9d-b70e-db307e78029e
-  lastEpisodePlayingStatus: 3
+  lastEpisodeUuid: 03749bb7-aa31-4c77-8d64-7c699bde24d5
+  lastEpisodePlayingStatus: 0
   lastEpisodeArchived: true
   autoSkipLast: 0
 - uuid: a5163bc0-08ab-0137-f265-1d245fc5f9cf
@@ -305,9 +282,9 @@
     personally and professionally as they try to turn their idea into something
     that will change the world.
   url: 'https://www.startups.com/community/startup-therapy'
-  lastEpisodePublished: '2020-03-02T03:00:00Z'
+  lastEpisodePublished: '2020-03-09T03:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 8c923736-65da-4171-9deb-d4a9c3a0ad70
+  lastEpisodeUuid: 5e9b678a-4f6c-443a-a819-b380e9b333d9
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -318,9 +295,9 @@
   author: Relay FM
   description: "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always\_watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent."
   url: 'https://www.relay.fm/clockwise'
-  lastEpisodePublished: '2020-02-26T18:30:00Z'
+  lastEpisodePublished: '2020-03-05T05:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 2d825e16-ca32-436b-a6bc-3b787bfe0b88
+  lastEpisodeUuid: f5a3a5dd-7e65-4d03-965b-c06f87d26958
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -371,9 +348,9 @@
 
     http://bit.ly/paytokeepnewsfree
   url: 'https://www.newslaundry.com/subscription'
-  lastEpisodePublished: '2020-02-29T09:53:01Z'
+  lastEpisodePublished: '2020-03-07T15:14:32Z'
   unplayed: true
-  lastEpisodeUuid: 8a58f9cb-7169-4d53-b693-647fae426085
+  lastEpisodeUuid: 691804ef-acf3-41a6-aab1-eb2d124f965e
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -388,11 +365,11 @@
     Connected provides a perspective that no other show can. Hosted by Federico
     Viticci, Myke Hurley, and Stephen Hackett.
   url: 'https://www.relay.fm/connected'
-  lastEpisodePublished: '2020-02-26T19:15:00Z'
-  unplayed: true
-  lastEpisodeUuid: df6df546-8830-4584-8e67-fe7a6857d0d2
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  lastEpisodePublished: '2020-03-04T22:15:00Z'
+  unplayed: false
+  lastEpisodeUuid: d3eb6225-c564-4278-b72c-9a9ee665f96b
+  lastEpisodePlayingStatus: 2
+  lastEpisodeArchived: true
   autoSkipLast: 0
 - uuid: f6ffd000-c8fc-0133-2e8b-6dc413d6d41d
   episodesSortOrder: 3
