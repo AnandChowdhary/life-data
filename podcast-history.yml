@@ -1,3 +1,35 @@
+- uuid: 70df7547-0e8a-4b2d-acb3-67e417ed62fe
+  url: 'http://traffic.libsyn.com/numberphile/numberphile_holly_krieger.mp3'
+  published: '2019-12-13T10:02:45Z'
+  duration: 2400
+  fileType: audio/mp3
+  title: Champaign Mathematician - with Holly Krieger
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2400
+  starred: false
+  podcastUuid: 8cb63a90-c70a-0136-7b94-27f978dac4db
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 13bb1a48-d678-42bf-8d14-f6a6bfa6d174
+  url: 'https://traffic.megaphone.fm/WSJ8573279313.mp3'
+  published: '2020-03-10T21:30:36Z'
+  duration: 1004
+  fileType: audio/mp3
+  title: Why the Markets Tanked on Monday
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1004
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 13b17f08-5da0-4681-8e35-9b4e79023607
   url: >-
     https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2020/02/20200212_hibt_hibt_-_summit_2019___jetblue_final_podcast_mix.mp3?awCollectionId=510313&awEpisodeId=786502927&orgId=1&d=1021&p=510313&story=786502927&t=podcast&e=786502927&size=16312623&ft=pod&f=510313
@@ -1591,40 +1623,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 2170
-  starred: false
-  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 27760ce9-4470-4d20-9d18-3d0b78a421f1
-  url: >-
-    https://chtbl.com/track/8E527/traffic.megaphone.fm/STU3332183984.mp3?updated=1577424149
-  published: '2019-12-27T08:30:00Z'
-  duration: 5770
-  fileType: audio/mpeg
-  title: Behind the Scenes of the 2019 MKBHD Awards
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 5770
-  starred: false
-  podcastUuid: 7d9a4610-9673-0137-4052-0acc26574db2
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 12
-  isDeleted: true
-- uuid: 59836301-d616-4521-ab3b-e422995c2fe8
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM6796498821.mp3
-  published: '2020-01-08T09:00:00Z'
-  duration: 1788
-  fileType: audio/mp3
-  title: Where To Go In 2020
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1788
   starred: false
   podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
   podcastTitle: ''
