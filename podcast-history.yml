@@ -1,3 +1,36 @@
+- uuid: 5dcf4fc6-409b-403a-8a1e-85b7555868ad
+  url: >-
+    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2020/03/20200311_hibt_hibt_-_summit_2019___stacys_pita_chips__-_final_podcast_mix.mp3?awCollectionId=510313&awEpisodeId=814562893&orgId=1&d=746&p=510313&story=814562893&t=podcast&e=814562893&size=11911188&ft=pod&f=510313
+  published: '2020-03-12T04:01:05Z'
+  duration: 746
+  fileType: audio/mpeg
+  title: 'Live From The HIBT Summit: Stacy Madison of Stacy''s Pita Chips'
+  size: '11911188'
+  playingStatus: 3
+  playedUpTo: 746
+  starred: false
+  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: e19520fb-d1e2-42c9-b6ee-7cdf0208781a
+  url: 'https://traffic.megaphone.fm/WSJ5883772997.mp3'
+  published: '2020-03-11T20:52:56Z'
+  duration: 1122
+  fileType: audio/mp3
+  title: Scandal Engulfs One of America's Biggest Unions
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1122
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 70df7547-0e8a-4b2d-acb3-67e417ed62fe
   url: 'http://traffic.libsyn.com/numberphile/numberphile_holly_krieger.mp3'
   published: '2019-12-13T10:02:45Z'
@@ -13,7 +46,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 13bb1a48-d678-42bf-8d14-f6a6bfa6d174
   url: 'https://traffic.megaphone.fm/WSJ8573279313.mp3'
   published: '2020-03-10T21:30:36Z'
@@ -1596,37 +1629,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 11
-  isDeleted: true
-- uuid: 9046f08f-6e56-46e4-b5c8-217a6f07d12a
-  url: 'http://traffic.libsyn.com/hellointernet/The_Rise_of_Skywalker.mp3'
-  published: '2019-12-25T09:38:28Z'
-  duration: 6951
-  fileType: audio/mp3
-  title: The Rise of Skywalker
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 6951
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 1ba4a1d1-dd9b-4424-8222-b7c83454a4fc
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM4598725188.mp3
-  published: '2020-01-01T09:00:00Z'
-  duration: 2170
-  fileType: audio/mp3
-  title: This Woman is Everyone’s Dream Travel Companion
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 2170
-  starred: false
-  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
   isDeleted: true
