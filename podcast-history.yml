@@ -1,3 +1,68 @@
+- uuid: d47d536e-8427-4f88-be76-dec6739c285a
+  url: 'https://traffic.megaphone.fm/GLT1662327000.mp3'
+  published: '2020-02-25T10:00:00Z'
+  duration: 1485
+  fileType: audio/mpeg
+  title: 'Episode 1: Meet the Quinneys (Season 2)'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1411
+  starred: false
+  podcastUuid: d21b9df0-00aa-0137-324e-08b04944ede4
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 2
+  episodeNumber: 1
+  isDeleted: false
+- uuid: 538ffac6-d1bb-46db-93e5-7bb72b878d83
+  url: 'https://traffic.megaphone.fm/GLT3318005977.mp3?updated=1549132499'
+  published: '2019-02-04T08:00:00Z'
+  duration: 1893
+  fileType: audio/mpeg
+  title: The Private Eye | S1 Ep1
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1795
+  starred: false
+  podcastUuid: d21b9df0-00aa-0137-324e-08b04944ede4
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 1
+  episodeNumber: 1
+  isDeleted: false
+- uuid: d861b564-ac52-4d01-b801-2bcd2dc9b002
+  url: 'https://traffic.megaphone.fm/WSJ4286267157.mp3'
+  published: '2020-03-12T22:05:24Z'
+  duration: 1112
+  fileType: audio/mp3
+  title: The Day Coronavirus Became a Pandemic
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1112
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: dddc6f32-8ed6-4803-90a6-fcbb013204cd
+  url: >-
+    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2020/01/20200128_hibt_hibt_-_summit_2019___slack_final_podcast_mix.mp3?awCollectionId=510313&awEpisodeId=786502527&orgId=1&d=973&p=510313&story=786502527&t=podcast&e=786502527&size=15548679&ft=pod&f=510313
+  published: '2020-01-30T05:01:49Z'
+  duration: 974
+  fileType: audio/mpeg
+  title: 'Live From The HIBT Summit: Stewart Butterfield'
+  size: '15548679'
+  playingStatus: 3
+  playedUpTo: 974
+  starred: false
+  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 5dcf4fc6-409b-403a-8a1e-85b7555868ad
   url: >-
     https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2020/03/20200311_hibt_hibt_-_summit_2019___stacys_pita_chips__-_final_podcast_mix.mp3?awCollectionId=510313&awEpisodeId=814562893&orgId=1&d=746&p=510313&story=814562893&t=podcast&e=814562893&size=11911188&ft=pod&f=510313
@@ -1562,71 +1627,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: true
-- uuid: 63bc25be-6333-4ce9-8cb1-9b0a0c9d6e4c
-  url: 'http://traffic.libsyn.com/unmade/unmade_episode38.mp3'
-  published: '2020-01-15T23:11:54Z'
-  duration: 3099
-  fileType: audio/mp3
-  title: '38: The Jack Ruby Episode'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 3099
-  starred: false
-  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 2d5ce89f-24d7-43eb-81b6-975c7b39cad2
-  url: 'http://traffic.libsyn.com/hellointernet/66.mp3'
-  published: '2016-07-18T23:19:02Z'
-  duration: 7012
-  fileType: audio/mp3
-  title: 'H.I. #66: A Classic Episode'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 7012
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 5b75f6b7-fdbc-4134-9404-f5378b8b290f
-  url: 'http://traffic.libsyn.com/hellointernet/47.mp3'
-  published: '2015-09-22T08:24:26Z'
-  duration: 0
-  fileType: ''
-  title: 'H.I. #47: Charismatic Megafauna'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 7610
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: ''
-  episodeType: ''
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: f70fbe41-a9a8-4585-aacf-c93ef3e88c7e
-  url: >-
-    https://chtbl.com/track/8E527/traffic.megaphone.fm/STU9336471345.mp3?updated=1576204769
-  published: '2019-12-13T08:15:00Z'
-  duration: 4900
-  fileType: audio/mpeg
-  title: >-
-    Talking Tech w/ Shark Tank's Kevin O'Leary, Portless iPhone Rumors, & Our
-    Holiday Gift Guide
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 4900
-  starred: false
-  podcastUuid: 7d9a4610-9673-0137-4052-0acc26574db2
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 11
   isDeleted: true
