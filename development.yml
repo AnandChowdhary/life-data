@@ -1,74 +1,74 @@
-start: '2020-03-06T23:00:00Z'
-end: '2020-03-13T22:59:59Z'
-total: 40753.049669
-totalText: 11 hrs 19 mins
-dailyAverage: 8151
-dailyAverageText: 2 hrs 15 mins
+start: '2020-03-07T23:00:00Z'
+end: '2020-03-14T22:59:59Z'
+total: 21797.944458
+totalText: 6 hrs 3 mins
+dailyAverage: 5449
+dailyAverageText: 1 hr 30 mins
 days: 7
 languages:
-  - digital: '8:14'
-    hours: 8
-    minutes: 14
+  - digital: '3:23'
+    hours: 3
+    minutes: 23
     name: TypeScript
-    percent: 72.82
-    text: 8 hrs 14 mins
-    total_seconds: 29678.284733
+    percent: 55.92
+    text: 3 hrs 23 mins
+    total_seconds: 12189.848584
   - digital: '1:19'
     hours: 1
     minutes: 19
     name: JSON
-    percent: 11.76
+    percent: 21.82
     text: 1 hr 19 mins
-    total_seconds: 4792.492178
-  - digital: '0:45'
+    total_seconds: 4755.929169
+  - digital: '0:37'
     hours: 0
-    minutes: 45
+    minutes: 37
     name: Markdown
-    percent: 6.65
-    text: 45 mins
-    total_seconds: 2710.087401
-  - digital: '0:32'
+    percent: 10.33
+    text: 37 mins
+    total_seconds: 2251.607011
+  - digital: '0:28'
     hours: 0
-    minutes: 32
+    minutes: 28
     name: Other
-    percent: 4.8
-    text: 32 mins
-    total_seconds: 1956.09672
-  - digital: '0:10'
-    hours: 0
-    minutes: 10
-    name: Text
-    percent: 1.5
-    text: 10 mins
-    total_seconds: 611.567961
+    percent: 7.72
+    text: 28 mins
+    total_seconds: 1683.713254
   - digital: '0:08'
     hours: 0
     minutes: 8
-    name: SQL
-    percent: 1.31
+    name: Text
+    percent: 2.3
     text: 8 mins
-    total_seconds: 533.610858
+    total_seconds: 500.444597
   - digital: '0:05'
     hours: 0
     minutes: 5
     name: JavaScript
-    percent: 0.86
+    percent: 1.45
     text: 5 mins
-    total_seconds: 349.645974
+    total_seconds: 315.095716
   - digital: '0:01'
     hours: 0
     minutes: 1
     name: YAML
-    percent: 0.28
+    percent: 0.41
     text: 1 min
-    total_seconds: 112.855072
+    total_seconds: 88.435122
   - digital: '0:00'
     hours: 0
     minutes: 0
     name: TOML
-    percent: 0.01
+    percent: 0.02
     text: 0 secs
     total_seconds: 5.189891
+  - digital: '0:00'
+    hours: 0
+    minutes: 0
+    name: SQL
+    percent: 0.02
+    text: 0 secs
+    total_seconds: 4.462233
   - digital: '0:00'
     hours: 0
     minutes: 0
