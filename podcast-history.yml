@@ -29,7 +29,7 @@
   episodeType: full
   episodeSeason: 1
   episodeNumber: 1
-  isDeleted: false
+  isDeleted: true
 - uuid: d861b564-ac52-4d01-b801-2bcd2dc9b002
   url: 'https://traffic.megaphone.fm/WSJ4286267157.mp3'
   published: '2020-03-12T22:05:24Z'
