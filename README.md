@@ -6,19 +6,23 @@ This repo contains data about my life. It's primarily powered by [Services](http
 
 | File | Description |
 | ---- | ----------- |
-| [top-artists.yml](./top-artists.yml) | List of top artists from Spotify |
-| [development.yml](./development.yml) | Programming data from Wakatime |
-| [location.json](./location.json) | Location data from OwnTracks |
-| [podcasts.yml](./podcasts.yml) | List of podcasts from Pocket Casts |
-| [podcast-history.yml](./podcast-history.yml) | Listening history from Pocket Casts |
-| [emails.yml](./emails.yml) | Emails summary from Gmail |
-| [instagram-highlights.json](./instagram-highlights.json) | Story highlights from Instagram |
+| [active-energy.yml](./active-energy.yml) | Active energy from [Yoga](https://github.com/AnandChowdhary/yoga) |
+| [basal-energy.yml](./basal-energy.yml) | Basal energy from [Yoga](https://github.com/AnandChowdhary/yoga) |
+| [books.yml](./books.yml) | Books read from [Goodreads](https://github.com/AnandChowdhary/services/blob/master/api/goodreads.ts) ([profile](https://goodreads.com/anandchowdhary)) |
+| [development.yml](./development.yml) | Development hours from [Wakatime](https://github.com/AnandChowdhary/services/blob/master/api/wakatime.ts) ([profile](https://wakatime.com/@anandchowdhary)) |
+| [distance.yml](./distance.yml) | Distance walked from [Yoga](https://github.com/AnandChowdhary/yoga) |
+| [emails.yml](./emails.yml) | Emails summary from [Gmail](https://github.com/AnandChowdhary/services/blob/master/api/gmail.ts) |
+| [flights-climbed.yml](./flights-climbed.yml) | Flights climbed from [Yoga](https://github.com/AnandChowdhary/yoga) |
 | [heart-rate.yml](./heart-rate.yml) | Heart rate from [Yoga](https://github.com/AnandChowdhary/yoga) |
-| [step-count.yml](./step-count.yml) | Step count from Yoga |
-| [flights-climbed.yml](./flights-climbed.yml) | Flights climbed from Yoga |
-| [distance.yml](./distance.yml) | Distance walking/running from Yoga |
-| [active-energy.yml](./active-energy.yml) | Active energy burnt from Yoga |
-| [basal-energy.yml](./basal-energy.yml) | Basal energy burnt from Yoga |
+| [instagram-highlights.json](./instagram-highlights.json) | Story highlights from [Instagram](https://github.com/AnandChowdhary/services/blob/master/api/instagram-highlights.ts) ([profile](https://www.instagram.com/anandchowdhary/)) |
+| [location.json](./location.json) | Location data from [OwnTracks](https://github.com/AnandChowdhary/services/blob/master/api/owntracks.ts) |
+| [podcast-history.yml](./podcast-history.yml) | Listening history from [Pocket Casts](https://github.com/AnandChowdhary/services/blob/master/api/pocket-casts.ts) |
+| [podcasts.yml](./podcasts.yml) | Podcasts list from [Pocket Casts](https://github.com/AnandChowdhary/services/blob/master/api/pocket-casts.ts) |
+| [sleep.yml](./sleep.yml) | Sleep hours from [Yoga](https://github.com/AnandChowdhary/yoga) |
+| [step-count.yml](./step-count.yml) | Step count from [Yoga](https://github.com/AnandChowdhary/yoga) |
+| [top-artists.yml](./top-artists.yml) | Top artists from [Spotify](https://github.com/AnandChowdhary/services/blob/master/api/spotify.ts) ([profile](https://open.spotify.com/user/12149514725)) |
+| [top-tracks.yml](./top-tracks.yml) | Top tracks from [Spotify](https://github.com/AnandChowdhary/services/blob/master/api/spotify.ts) ([profile](https://open.spotify.com/user/12149514725)) |
+| [wallet.md](./wallet.md) | Wallet contents (self-reported) |
 
 ## 📄 License
 
