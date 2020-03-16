@@ -1,58 +1,65 @@
-start: '2020-03-07T23:00:00Z'
-end: '2020-03-14T22:59:59Z'
-total: 21797.944458
-totalText: 6 hrs 3 mins
-dailyAverage: 5449
-dailyAverageText: 1 hr 30 mins
+start: '2020-03-08T23:00:00Z'
+end: '2020-03-15T22:59:59Z'
+total: 24842.03954
+totalText: 6 hrs 54 mins
+dailyAverage: 6211
+dailyAverageText: 1 hr 43 mins
 days: 7
 languages:
-  - digital: '3:23'
+  - digital: '3:19'
     hours: 3
-    minutes: 23
-    name: TypeScript
-    percent: 55.92
-    text: 3 hrs 23 mins
-    total_seconds: 12189.848584
-  - digital: '1:19'
-    hours: 1
     minutes: 19
+    name: TypeScript
+    percent: 48.31
+    text: 3 hrs 19 mins
+    total_seconds: 11999.980458
+  - digital: '1:16'
+    hours: 1
+    minutes: 16
     name: JSON
-    percent: 21.82
-    text: 1 hr 19 mins
-    total_seconds: 4755.929169
-  - digital: '0:37'
-    hours: 0
-    minutes: 37
+    percent: 18.46
+    text: 1 hr 16 mins
+    total_seconds: 4586.960085
+  - digital: '1:11'
+    hours: 1
+    minutes: 11
     name: Markdown
-    percent: 10.33
-    text: 37 mins
-    total_seconds: 2251.607011
-  - digital: '0:28'
+    percent: 17.23
+    text: 1 hr 11 mins
+    total_seconds: 4280.829659
+  - digital: '0:31'
     hours: 0
-    minutes: 28
+    minutes: 31
+    name: Vue.js
+    percent: 7.59
+    text: 31 mins
+    total_seconds: 1886.479161
+  - digital: '0:19'
+    hours: 0
+    minutes: 19
     name: Other
-    percent: 7.72
-    text: 28 mins
-    total_seconds: 1683.713254
+    percent: 4.73
+    text: 19 mins
+    total_seconds: 1174.972928
   - digital: '0:08'
     hours: 0
     minutes: 8
     name: Text
-    percent: 2.3
+    percent: 2.01
     text: 8 mins
     total_seconds: 500.444597
   - digital: '0:05'
     hours: 0
     minutes: 5
     name: JavaScript
-    percent: 1.45
+    percent: 1.25
     text: 5 mins
-    total_seconds: 315.095716
+    total_seconds: 311.066525
   - digital: '0:01'
     hours: 0
     minutes: 1
     name: YAML
-    percent: 0.41
+    percent: 0.36
     text: 1 min
     total_seconds: 88.435122
   - digital: '0:00'
