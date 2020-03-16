@@ -1,3 +1,36 @@
+- uuid: a22b287a-1189-43a2-b8ee-864fb8e4be8e
+  url: >-
+    https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/87b0e08f-3425-453a-b844-8dc894a3bd63.mp3
+  published: '2020-03-13T09:55:50Z'
+  duration: 1841
+  fileType: audio/mp3
+  title: Learning to Live With the Coronavirus
+  size: '28033776'
+  playingStatus: 2
+  playedUpTo: 1587
+  starred: false
+  podcastUuid: 4eb5b260-c933-0134-10da-25324e2a541d
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 3f7a4b31-b27d-44bc-97be-92b55fb46880
+  url: 'https://traffic.megaphone.fm/WSJ5504583070.mp3'
+  published: '2020-03-13T21:21:56Z'
+  duration: 1043
+  fileType: audio/mp3
+  title: The Oil Price War That Stoked the Market Freefall
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1043
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: d47d536e-8427-4f88-be76-dec6739c285a
   url: 'https://traffic.megaphone.fm/GLT1662327000.mp3'
   published: '2020-02-25T10:00:00Z'
@@ -6,7 +39,7 @@
   title: 'Episode 1: Meet the Quinneys (Season 2)'
   size: '0'
   playingStatus: 2
-  playedUpTo: 1411
+  playedUpTo: 1485
   starred: false
   podcastUuid: d21b9df0-00aa-0137-324e-08b04944ede4
   podcastTitle: ''
@@ -1588,39 +1621,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 9481
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: faec9b23-f947-408c-9e8b-a8b31ed87745
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM2181649796.mp3
-  published: '2020-01-15T09:00:00Z'
-  duration: 1835
-  fileType: audio/mp3
-  title: Take Insta-Perfect Vacation Photos
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1835
-  starred: false
-  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: f7bf390b-00b3-49e6-93ec-6a0e1e05c60d
-  url: 'http://traffic.libsyn.com/hellointernet/80.mp3'
-  published: '2017-03-28T22:20:22Z'
-  duration: 6312
-  fileType: audio/mp3
-  title: 'H.I #80: Operation Twinkle Toes'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 6311
   starred: false
   podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   podcastTitle: ''
