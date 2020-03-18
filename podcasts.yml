@@ -11,9 +11,9 @@
     technology, to space, health and the environment, we share all the
     information you need to keep pace. Produced by Right Angles.
   url: 'https://www.newscientist.com/'
-  lastEpisodePublished: '2020-03-06T01:00:00Z'
+  lastEpisodePublished: '2020-03-13T01:00:00Z'
   unplayed: true
-  lastEpisodeUuid: fb59a251-5013-492e-9aa8-6c610b2f59d2
+  lastEpisodeUuid: 9904cef1-3595-4747-9d8e-1919717112aa
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -64,9 +64,9 @@
     every week; visit a16z.com for more details and to sign up for our
     newsletters and other content as well!
   url: 'https://www.a16z.com'
-  lastEpisodePublished: '2020-03-06T10:00:00Z'
+  lastEpisodePublished: '2020-03-17T18:37:24Z'
   unplayed: true
-  lastEpisodeUuid: b5e6992b-5927-47a4-8625-a2d908038570
+  lastEpisodeUuid: 34ca7c65-8ac7-4319-b3f9-0c185e2f88ed
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -79,11 +79,11 @@
     Surma and Jake talk about whatever's going on in the world of web
     development.
   url: 'https://developers.google.com/web/shows/http203/podcast/'
-  lastEpisodePublished: '2020-01-22T00:00:00Z'
-  unplayed: false
-  lastEpisodeUuid: 8036b4b5-bc2b-436f-92ed-7d41679e6f22
-  lastEpisodePlayingStatus: 3
-  lastEpisodeArchived: true
+  lastEpisodePublished: '2020-03-18T00:00:00Z'
+  unplayed: true
+  lastEpisodeUuid: 3646fa33-e388-4b59-a38e-8a0a020e22e9
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   episodesSortOrder: 3
@@ -96,11 +96,11 @@
     Knutson. The Journal is a co-production from Gimlet Media and The Wall
     Street Journal.
   url: 'https://www.wsj.com/podcasts/the-journal'
-  lastEpisodePublished: '2020-03-10T21:30:36Z'
+  lastEpisodePublished: '2020-03-17T20:41:33Z'
   unplayed: false
-  lastEpisodeUuid: 13bb1a48-d678-42bf-8d14-f6a6bfa6d174
-  lastEpisodePlayingStatus: 3
-  lastEpisodeArchived: true
+  lastEpisodeUuid: 71765636-8c2b-4bea-a034-e5e8c56935f2
+  lastEpisodePlayingStatus: 0
+  lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
   episodesSortOrder: 3
@@ -115,11 +115,11 @@
     Ellwood quiz the world’s most experienced globetrotters for their
     tried-and-true travel hacks.
   url: 'https://www.bloomberg.com/travel-genius'
-  lastEpisodePublished: '2020-01-22T09:00:00Z'
-  unplayed: false
-  lastEpisodeUuid: 038e1aed-ae45-4c77-896a-8a8b6fbb27c0
-  lastEpisodePlayingStatus: 2
-  lastEpisodeArchived: true
+  lastEpisodePublished: '2020-03-18T13:49:29Z'
+  unplayed: true
+  lastEpisodeUuid: c8f56c04-0e1b-4ace-8dea-f1ab66ed849f
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 4eb5b260-c933-0134-10da-25324e2a541d
   episodesSortOrder: 3
@@ -131,9 +131,9 @@
     told by the best journalists in the world. Hosted by Michael Barbaro. Twenty
     minutes a day, five days a week, ready by 6 a.m.
   url: 'https://www.nytimes.com/the-daily'
-  lastEpisodePublished: '2020-03-11T09:56:08Z'
+  lastEpisodePublished: '2020-03-18T09:52:39Z'
   unplayed: true
-  lastEpisodeUuid: 92119c2a-888f-4cd7-baa3-814949f16383
+  lastEpisodeUuid: 0cd203e2-cb26-4f8b-bf94-fb15aeca65bc
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -194,6 +194,24 @@
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
+- uuid: 8b549490-46c7-0138-9767-0acc26574db2
+  episodesSortOrder: 3
+  autoStartFrom: 0
+  title: The CSS Podcast
+  author: Google
+  description: >-
+    Cascading Style Sheets (CSS) is the web’s core styling language. For web
+    developers, It’s one of the quickest technologies to get started with, but
+    one of the hardest to master. Follow Una Kravets and Adam Argyle, Developer
+    Advocates from Google, who gleefully breakdown complex aspects of CSS into
+    digestible episodes covering everything from accessibility to z-index.
+  url: 'https://thecsspodcast.libsyn.com'
+  lastEpisodePublished: '2020-03-18T14:00:52Z'
+  unplayed: true
+  lastEpisodeUuid: 54b5d54b-34d0-4f60-a097-b24fdbc4be30
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: 8cb63a90-c70a-0136-7b94-27f978dac4db
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -207,7 +225,7 @@
   unplayed: false
   lastEpisodeUuid: 70df7547-0e8a-4b2d-acb3-67e417ed62fe
   lastEpisodePlayingStatus: 3
-  lastEpisodeArchived: false
+  lastEpisodeArchived: true
   autoSkipLast: 0
 - uuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   episodesSortOrder: 3
@@ -248,11 +266,11 @@
     episode, they get together to discuss their working lives. Hosted by CGP
     Grey and Myke Hurley.
   url: 'https://www.relay.fm/cortex'
-  lastEpisodePublished: '2020-02-26T20:00:00Z'
-  unplayed: false
-  lastEpisodeUuid: 8d6319c0-7e81-4442-a337-37716fe436e9
-  lastEpisodePlayingStatus: 2
-  lastEpisodeArchived: true
+  lastEpisodePublished: '2020-03-17T12:15:00Z'
+  unplayed: true
+  lastEpisodeUuid: b393a998-17fa-442e-b634-a1b7fc239eb7
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: a4085f60-5672-0134-ec37-0d50f522381b
   episodesSortOrder: 3
@@ -264,11 +282,11 @@
     companies. How I Built This weaves a narrative journey about innovators,
     entrepreneurs and idealists—and the movements they built.
   url: 'http://www.npr.org/series/490248027/how-i-built-this'
-  lastEpisodePublished: '2020-03-09T04:01:41Z'
-  unplayed: false
-  lastEpisodeUuid: 03749bb7-aa31-4c77-8d64-7c699bde24d5
-  lastEpisodePlayingStatus: 0
-  lastEpisodeArchived: true
+  lastEpisodePublished: '2020-03-16T04:01:32Z'
+  unplayed: true
+  lastEpisodeUuid: 0f71e8a7-c3dc-437a-b4a5-cb3546f5a593
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: a5163bc0-08ab-0137-f265-1d245fc5f9cf
   episodesSortOrder: 3
@@ -282,9 +300,9 @@
     personally and professionally as they try to turn their idea into something
     that will change the world.
   url: 'https://www.startups.com/community/startup-therapy'
-  lastEpisodePublished: '2020-03-09T03:00:00Z'
+  lastEpisodePublished: '2020-03-16T03:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 5e9b678a-4f6c-443a-a819-b380e9b333d9
+  lastEpisodeUuid: bdd5d826-b847-41e0-a57e-9772450c3321
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -295,9 +313,9 @@
   author: Relay FM
   description: "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always\_watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent."
   url: 'https://www.relay.fm/clockwise'
-  lastEpisodePublished: '2020-03-05T05:00:00Z'
+  lastEpisodePublished: '2020-03-11T17:00:00Z'
   unplayed: true
-  lastEpisodeUuid: f5a3a5dd-7e65-4d03-965b-c06f87d26958
+  lastEpisodeUuid: fa655511-0aca-43a5-81ec-42b035be8da2
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -348,9 +366,9 @@
 
     http://bit.ly/paytokeepnewsfree
   url: 'https://www.newslaundry.com/subscription'
-  lastEpisodePublished: '2020-03-07T15:14:32Z'
+  lastEpisodePublished: '2020-03-14T17:20:04Z'
   unplayed: true
-  lastEpisodeUuid: 691804ef-acf3-41a6-aab1-eb2d124f965e
+  lastEpisodeUuid: db170c90-1cc7-447d-90c9-ecd8441456c6
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -365,11 +383,11 @@
     Connected provides a perspective that no other show can. Hosted by Federico
     Viticci, Myke Hurley, and Stephen Hackett.
   url: 'https://www.relay.fm/connected'
-  lastEpisodePublished: '2020-03-04T22:15:00Z'
-  unplayed: false
-  lastEpisodeUuid: d3eb6225-c564-4278-b72c-9a9ee665f96b
-  lastEpisodePlayingStatus: 2
-  lastEpisodeArchived: true
+  lastEpisodePublished: '2020-03-11T20:15:00Z'
+  unplayed: true
+  lastEpisodeUuid: cacbf13b-bbc5-4ac4-b476-fadba12b4676
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: f6ffd000-c8fc-0133-2e8b-6dc413d6d41d
   episodesSortOrder: 3
