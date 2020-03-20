@@ -1,3 +1,53 @@
+- uuid: b393a998-17fa-442e-b634-a1b7fc239eb7
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_098.mp3
+  published: '2020-03-17T12:15:00Z'
+  duration: 7037
+  fileType: audio/mp3
+  title: A Stable Stack of Bricks
+  size: '113332010'
+  playingStatus: 2
+  playedUpTo: 4861
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 0fcf56dc-72c2-4b63-8853-50b4d7092535
+  url: >-
+    https://traffic.libsyn.com/secure/thecsspodcast/TCP_CSS_Podcast__Episode_001_v2.0.mp3?dest-id=1891556
+  published: '2020-03-12T19:00:00Z'
+  duration: 724
+  fileType: audio/mpeg
+  title: Box Model
+  size: '21697434'
+  playingStatus: 3
+  playedUpTo: 724
+  starred: false
+  podcastUuid: 8b549490-46c7-0138-9767-0acc26574db2
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 1
+  episodeNumber: 1
+  isDeleted: true
+- uuid: 1778e8df-f24f-43c6-a7fd-f2e94588b998
+  url: 'https://traffic.megaphone.fm/GLT6355250712.mp3'
+  published: '2020-03-18T16:53:00Z'
+  duration: 941
+  fileType: audio/mp3
+  title: Heavyweight Checks In
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 941
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: a22b287a-1189-43a2-b8ee-864fb8e4be8e
   url: >-
     https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/87b0e08f-3425-453a-b844-8dc894a3bd63.mp3
@@ -1576,55 +1626,5 @@
   podcastTitle: ''
   episodeType: full
   episodeSeason: 1
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 038e1aed-ae45-4c77-896a-8a8b6fbb27c0
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM8923076101.mp3?updated=1579641545
-  published: '2020-01-22T09:00:00Z'
-  duration: 2293
-  fileType: audio/mpeg
-  title: "The Rockstar Who Flies 500,000 Miles Per Year\_"
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 1650
-  starred: false
-  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: c565e51c-7fb1-4fb8-80b3-798934f8b62d
-  url: >-
-    https://traffic.omny.fm/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/75a86d39-9e0e-4e9a-b948-aae301805fe6/802e5179-0311-40a2-b294-aaf600494284/audio.mp3?utm_source=Podcast&in_playlist=514362cf-31b4-4ed2-af40-aae301805ffd
-  published: '2019-10-30T04:00:00Z'
-  duration: 3823
-  fileType: audio/mpeg
-  title: Health Care with Rainn Wilson
-  size: '51128908'
-  playingStatus: 2
-  playedUpTo: 3064
-  starred: false
-  podcastUuid: 0d1f6c30-bb1e-0137-0dbf-0acc26574db2
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 3
-  isDeleted: true
-- uuid: 3c372eea-f095-4250-b96d-2c86db889fb0
-  url: 'http://traffic.libsyn.com/hellointernet/50.mp3'
-  published: '2015-11-06T16:21:07Z'
-  duration: 9482
-  fileType: audio/mp3
-  title: 'H.I. #50: Queen of Spades'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 9481
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
   episodeNumber: 0
   isDeleted: true
