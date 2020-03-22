@@ -1,88 +1,88 @@
-start: '2020-03-13T23:00:00Z'
-end: '2020-03-20T22:59:59Z'
-total: 48128.028228
-totalText: 13 hrs 22 mins
-dailyAverage: 8021
-dailyAverageText: 2 hrs 13 mins
+start: '2020-03-14T23:00:00Z'
+end: '2020-03-21T22:59:59Z'
+total: 51617.070072
+totalText: 14 hrs 20 mins
+dailyAverage: 7374
+dailyAverageText: 2 hrs 2 mins
 days: 7
 languages:
-  - digital: '5:33'
-    hours: 5
-    minutes: 33
+  - digital: '6:03'
+    hours: 6
+    minutes: 3
     name: TypeScript
-    percent: 41.54
-    text: 5 hrs 33 mins
-    total_seconds: 19994.133657
-  - digital: '2:16'
+    percent: 42.26
+    text: 6 hrs 3 mins
+    total_seconds: 21813.644325
+  - digital: '2:22'
     hours: 2
-    minutes: 16
-    name: Markdown
-    percent: 16.96
-    text: 2 hrs 16 mins
-    total_seconds: 8162.712389
-  - digital: '2:11'
-    hours: 2
-    minutes: 11
+    minutes: 22
     name: JSON
-    percent: 16.45
-    text: 2 hrs 11 mins
-    total_seconds: 7916.107541
+    percent: 16.6
+    text: 2 hrs 22 mins
+    total_seconds: 8567.585689
+  - digital: '2:18'
+    hours: 2
+    minutes: 18
+    name: Markdown
+    percent: 16.13
+    text: 2 hrs 18 mins
+    total_seconds: 8324.056763
   - digital: '1:38'
     hours: 1
     minutes: 38
     name: JavaScript
-    percent: 12.25
+    percent: 11.43
     text: 1 hr 38 mins
-    total_seconds: 5896.786546
+    total_seconds: 5898.434689
   - digital: '0:31'
     hours: 0
     minutes: 31
     name: Vue.js
-    percent: 3.92
+    percent: 3.65
     text: 31 mins
     total_seconds: 1886.479161
+  - digital: '0:24'
+    hours: 0
+    minutes: 24
+    name: SCSS
+    percent: 2.79
+    text: 24 mins
+    total_seconds: 1442.366069
   - digital: '0:22'
     hours: 0
     minutes: 22
     name: HTML
-    percent: 2.86
+    percent: 2.67
     text: 22 mins
     total_seconds: 1376.1975
   - digital: '0:21'
     hours: 0
     minutes: 21
     name: YAML
-    percent: 2.7
+    percent: 2.52
     text: 21 mins
     total_seconds: 1301.05166
-  - digital: '0:10'
-    hours: 0
-    minutes: 10
-    name: SCSS
-    percent: 1.35
-    text: 10 mins
-    total_seconds: 649.503268
   - digital: '0:09'
     hours: 0
     minutes: 9
     name: Git Config
-    percent: 1.23
+    percent: 1.14
     text: 9 mins
     total_seconds: 590.433789
   - digital: '0:03'
     hours: 0
     minutes: 3
+    name: Other
+    percent: 0.44
+    text: 3 mins
+    total_seconds: 227.493666
+  - digital: '0:03'
+    hours: 0
+    minutes: 3
     name: TOML
-    percent: 0.38
+    percent: 0.35
     text: 3 mins
     total_seconds: 182.072429
-  - digital: '0:02'
-    hours: 0
-    minutes: 2
-    name: Other
-    percent: 0.34
-    text: 2 mins
-    total_seconds: 165.295956
   - digital: '0:00'
     hours: 0
     minutes: 0
