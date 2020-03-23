@@ -1,3 +1,19 @@
+- uuid: 4e4b694d-073b-41d1-b676-23fb321db76b
+  url: 'http://traffic.libsyn.com/unmade/unmade_episode40.mp3'
+  published: '2020-03-20T15:34:58Z'
+  duration: 1974
+  fileType: audio/mp3
+  title: '40: A Half-Baked Episode'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1945
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: b393a998-17fa-442e-b634-a1b7fc239eb7
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_098.mp3
@@ -852,12 +868,12 @@
   isDeleted: true
 - uuid: 35ed4d7f-b5a9-49f7-8703-d395cea48806
   url: >-
-    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2020/02/20200214_hibt_eventbrite.mp3?awCollectionId=510313&awEpisodeId=806106473&orgId=1&d=3954&p=510313&story=806106473&t=podcast&e=806106473&size=63115869&ft=pod&f=510313
+    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2020/02/20200214_hibt_eventbrite-8eecfc37-01bc-4c26-9d6f-32ddac438b68.mp3?awCollectionId=510313&awEpisodeId=806106473&orgId=1&d=3954&p=510313&story=806106473&t=podcast&e=806106473&size=63116075&ft=pod&f=510313
   published: '2020-02-17T05:01:00Z'
   duration: 3953
   fileType: audio/mpeg
   title: 'Eventbrite: Julia Hartz'
-  size: '63115869'
+  size: '63116075'
   playingStatus: 3
   playedUpTo: 3953
   starred: false
@@ -1609,22 +1625,5 @@
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 007804f1-5f6e-44c3-bc00-ea866f13ef96
-  url: >-
-    https://media.blubrry.com/sitepen/media.sitepen.com/podcast/TalkScript_051.mp3
-  published: '2019-12-06T21:58:56Z'
-  duration: 2618
-  fileType: audio/mp3
-  title: 'Episode 51: The Illusion That We Are Writing Javascript'
-  size: '41937988'
-  playingStatus: 3
-  playedUpTo: 2618
-  starred: false
-  podcastUuid: 20592310-4f61-0133-c35e-0d11918ab357
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 1
   episodeNumber: 0
   isDeleted: true
