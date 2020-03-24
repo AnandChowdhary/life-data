@@ -1,3 +1,37 @@
+- uuid: a22b287a-1189-43a2-b8ee-864fb8e4be8e
+  url: >-
+    https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/87b0e08f-3425-453a-b844-8dc894a3bd63.mp3
+  published: '2020-03-13T09:55:50Z'
+  duration: 1841
+  fileType: audio/mp3
+  title: Learning to Live With the Coronavirus
+  size: '28033776'
+  playingStatus: 3
+  playedUpTo: 1841
+  starred: false
+  podcastUuid: 4eb5b260-c933-0134-10da-25324e2a541d
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: b393a998-17fa-442e-b634-a1b7fc239eb7
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_098.mp3
+  published: '2020-03-17T12:15:00Z'
+  duration: 7037
+  fileType: audio/mp3
+  title: A Stable Stack of Bricks
+  size: '113332010'
+  playingStatus: 3
+  playedUpTo: 7037
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 4e4b694d-073b-41d1-b676-23fb321db76b
   url: 'http://traffic.libsyn.com/unmade/unmade_episode40.mp3'
   published: '2020-03-20T15:34:58Z'
@@ -13,24 +47,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
-- uuid: b393a998-17fa-442e-b634-a1b7fc239eb7
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_098.mp3
-  published: '2020-03-17T12:15:00Z'
-  duration: 7037
-  fileType: audio/mp3
-  title: A Stable Stack of Bricks
-  size: '113332010'
-  playingStatus: 2
-  playedUpTo: 4861
-  starred: false
-  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 0fcf56dc-72c2-4b63-8853-50b4d7092535
   url: >-
     https://traffic.libsyn.com/secure/thecsspodcast/TCP_CSS_Podcast__Episode_001_v2.0.mp3?dest-id=1891556
@@ -64,23 +81,6 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: true
-- uuid: a22b287a-1189-43a2-b8ee-864fb8e4be8e
-  url: >-
-    https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/87b0e08f-3425-453a-b844-8dc894a3bd63.mp3
-  published: '2020-03-13T09:55:50Z'
-  duration: 1841
-  fileType: audio/mp3
-  title: Learning to Live With the Coronavirus
-  size: '28033776'
-  playingStatus: 2
-  playedUpTo: 1701
-  starred: false
-  podcastUuid: 4eb5b260-c933-0134-10da-25324e2a541d
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: false
 - uuid: 3f7a4b31-b27d-44bc-97be-92b55fb46880
   url: 'https://traffic.megaphone.fm/WSJ5504583070.mp3'
   published: '2020-03-13T21:21:56Z'
