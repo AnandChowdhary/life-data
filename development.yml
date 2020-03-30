@@ -1,102 +1,81 @@
-start: '2020-03-21T23:00:00Z'
-end: '2020-03-28T22:59:59Z'
-total: 84672.401218
-totalText: 23 hrs 31 mins
-dailyAverage: 12096
-dailyAverageText: 3 hrs 21 mins
+start: '2020-03-22T23:00:00Z'
+end: '2020-03-29T21:59:59Z'
+total: 72482.187026
+totalText: 20 hrs 8 mins
+dailyAverage: 10355
+dailyAverageText: 2 hrs 52 mins
 days: 7
 languages:
-  - digital: '13:56'
-    hours: 13
-    minutes: 56
+  - digital: '10:12'
+    hours: 10
+    minutes: 12
     name: TypeScript
-    percent: 59.28
-    text: 13 hrs 56 mins
-    total_seconds: 50192.657231
-  - digital: '1:56'
-    hours: 1
-    minutes: 56
+    percent: 50.67
+    text: 10 hrs 12 mins
+    total_seconds: 36727.015203
+  - digital: '2:41'
+    hours: 2
+    minutes: 41
     name: JavaScript
-    percent: 8.26
-    text: 1 hr 56 mins
-    total_seconds: 6994.066193
-  - digital: '1:48'
+    percent: 13.39
+    text: 2 hrs 41 mins
+    total_seconds: 9707.638671
+  - digital: '1:46'
     hours: 1
-    minutes: 48
-    name: JSON
-    percent: 7.71
-    text: 1 hr 48 mins
-    total_seconds: 6531.892965
-  - digital: '1:48'
-    hours: 1
-    minutes: 48
+    minutes: 46
     name: Markdown
-    percent: 7.71
-    text: 1 hr 48 mins
-    total_seconds: 6524.930996
-  - digital: '1:03'
+    percent: 8.83
+    text: 1 hr 46 mins
+    total_seconds: 6399.163962
+  - digital: '1:44'
     hours: 1
-    minutes: 3
+    minutes: 44
+    name: JSON
+    percent: 8.67
+    text: 1 hr 44 mins
+    total_seconds: 6282.330951
+  - digital: '1:10'
+    hours: 1
+    minutes: 10
     name: YAML
-    percent: 4.52
-    text: 1 hr 3 mins
-    total_seconds: 3827.148374
+    percent: 5.87
+    text: 1 hr 10 mins
+    total_seconds: 4252.705598
   - digital: '1:02'
     hours: 1
     minutes: 2
     name: HTML
-    percent: 4.42
+    percent: 5.16
     text: 1 hr 2 mins
     total_seconds: 3742.431483
-  - digital: '0:44'
+  - digital: '0:55'
     hours: 0
-    minutes: 44
+    minutes: 55
     name: SCSS
-    percent: 3.19
-    text: 44 mins
-    total_seconds: 2699.601696
-  - digital: '0:35'
+    percent: 4.55
+    text: 55 mins
+    total_seconds: 3300.674924
+  - digital: '0:29'
     hours: 0
-    minutes: 35
+    minutes: 29
     name: Other
-    percent: 2.54
-    text: 35 mins
-    total_seconds: 2154.724017
-  - digital: '0:19'
+    percent: 2.45
+    text: 29 mins
+    total_seconds: 1772.444215
+  - digital: '0:04'
     hours: 0
-    minutes: 19
-    name: Groovy
-    percent: 1.4
-    text: 19 mins
-    total_seconds: 1182.797838
-  - digital: '0:08'
-    hours: 0
-    minutes: 8
+    minutes: 4
     name: Git Config
-    percent: 0.59
-    text: 8 mins
-    total_seconds: 499.286745
-  - digital: '0:02'
-    hours: 0
-    minutes: 2
-    name: TOML
-    percent: 0.19
-    text: 2 mins
-    total_seconds: 163.68236
-  - digital: '0:01'
-    hours: 0
-    minutes: 1
-    name: Properties
-    percent: 0.09
-    text: 1 min
-    total_seconds: 72.489026
+    percent: 0.33
+    text: 4 mins
+    total_seconds: 240.908813
   - digital: '0:00'
     hours: 0
     minutes: 0
-    name: Python
-    percent: 0.07
+    name: TOML
+    percent: 0.04
     text: 0 secs
-    total_seconds: 56.165981
+    total_seconds: 26.346893
   - digital: '0:00'
     hours: 0
     minutes: 0
