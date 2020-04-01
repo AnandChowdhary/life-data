@@ -1017,7 +1017,7 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: 8036b4b5-bc2b-436f-92ed-7d41679e6f22
-  url: 'http://feedproxy.google.com/~r/Http203Podcast/~5/8H074du4NDc/episode-27.m4a'
+  url: 'http://feedproxy.google.com/~r/Http203Podcast/~5/du90Mu_yd7c/episode-27.m4a'
   published: '2020-01-22T00:00:00Z'
   duration: 3626
   fileType: audio/x-m4a
@@ -1030,7 +1030,7 @@
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
-  episodeNumber: 0
+  episodeNumber: 38
   isDeleted: true
 - uuid: 3bdc5b7a-f93b-44f2-86cd-540761fff9ab
   url: 'https://traffic.megaphone.fm/WSJ4785444395.mp3'
