@@ -1,3 +1,19 @@
+- uuid: 74655dfe-5a3d-4900-9f58-42aa5e172b55
+  url: 'http://traffic.libsyn.com/unmade/unmade_episode41.mp3'
+  published: '2020-03-29T16:03:26Z'
+  duration: 3405
+  fileType: audio/mp3
+  title: '41: The Birthday Podcast'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 2161
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: a22b287a-1189-43a2-b8ee-864fb8e4be8e
   url: >-
     https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/87b0e08f-3425-453a-b844-8dc894a3bd63.mp3
@@ -1605,23 +1621,6 @@
   playedUpTo: 6500
   starred: false
   podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: d3dba2d7-4408-4720-bfd2-39c5678c3c2e
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_096.mp3
-  published: '2020-01-29T16:45:00Z'
-  duration: 8529
-  fileType: audio/mp3
-  title: 'Levels, Levels'
-  size: '137973412'
-  playingStatus: 3
-  playedUpTo: 8529
-  starred: false
-  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
