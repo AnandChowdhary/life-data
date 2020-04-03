@@ -1,3 +1,19 @@
+- uuid: 5ddaa9bd-363c-4cba-b98a-bdc5d54a671e
+  url: 'https://traffic.megaphone.fm/GLT6777511308.mp3'
+  published: '2017-09-28T17:36:00Z'
+  duration: 1668
+  fileType: audio/mp3
+  title: Milt
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1214
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 2
+  episodeNumber: 9
+  isDeleted: false
 - uuid: 74655dfe-5a3d-4900-9f58-42aa5e172b55
   url: 'http://traffic.libsyn.com/unmade/unmade_episode41.mp3'
   published: '2020-03-29T16:03:26Z'
@@ -5,15 +21,15 @@
   fileType: audio/mp3
   title: '41: The Birthday Podcast'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 2161
+  playingStatus: 3
+  playedUpTo: 3405
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: a22b287a-1189-43a2-b8ee-864fb8e4be8e
   url: >-
     https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/87b0e08f-3425-453a-b844-8dc894a3bd63.mp3
@@ -1604,23 +1620,6 @@
   playedUpTo: 6895
   starred: false
   podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: ecc87988-18e7-4c05-b2c6-b6f43ae59ce2
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_279.mp3
-  published: '2020-01-29T22:00:00Z'
-  duration: 6500
-  fileType: audio/mp3
-  title: 'Like, Zero Bubbles'
-  size: '104160851'
-  playingStatus: 3
-  playedUpTo: 6500
-  starred: false
-  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
