@@ -1,79 +1,79 @@
-start: '2020-03-26T23:00:00Z'
-end: '2020-04-02T21:59:59Z'
-total: 76168.580018
-totalText: 21 hrs 9 mins
-dailyAverage: 12695
-dailyAverageText: 3 hrs 31 mins
+start: '2020-03-27T23:00:00Z'
+end: '2020-04-03T21:59:59Z'
+total: 87241.795972
+totalText: 24 hrs 14 mins
+dailyAverage: 14540
+dailyAverageText: 4 hrs 2 mins
 days: 7
 languages:
-  - digital: '8:46'
-    hours: 8
-    minutes: 46
+  - digital: '11:51'
+    hours: 11
+    minutes: 51
     name: TypeScript
-    percent: 41.48
-    text: 8 hrs 46 mins
-    total_seconds: 31594.264477
-  - digital: '3:30'
+    percent: 48.96
+    text: 11 hrs 51 mins
+    total_seconds: 42709.78127
+  - digital: '3:31'
     hours: 3
-    minutes: 30
+    minutes: 31
     name: Other
-    percent: 16.62
-    text: 3 hrs 30 mins
-    total_seconds: 12656.841938
+    percent: 14.52
+    text: 3 hrs 31 mins
+    total_seconds: 12671.085988
   - digital: '3:23'
     hours: 3
     minutes: 23
     name: JavaScript
-    percent: 16.05
+    percent: 14.02
     text: 3 hrs 23 mins
     total_seconds: 12228.791743
-  - digital: '1:44'
+  - digital: '1:43'
     hours: 1
-    minutes: 44
+    minutes: 43
     name: JSON
-    percent: 8.22
-    text: 1 hr 44 mins
-    total_seconds: 6260.032713
+    percent: 7.11
+    text: 1 hr 43 mins
+    total_seconds: 6201.917153
   - digital: '1:10'
     hours: 1
     minutes: 10
     name: YAML
-    percent: 5.55
+    percent: 4.84
     text: 1 hr 10 mins
     total_seconds: 4224.357335
   - digital: '1:06'
     hours: 1
     minutes: 6
     name: Markdown
-    percent: 5.26
+    percent: 4.6
     text: 1 hr 6 mins
-    total_seconds: 4009.926206
+    total_seconds: 4011.496877
   - digital: '0:46'
     hours: 0
     minutes: 46
     name: HTML
-    percent: 3.67
+    percent: 3.2
     text: 46 mins
     total_seconds: 2793.249879
   - digital: '0:28'
     hours: 0
     minutes: 28
     name: SCSS
-    percent: 2.27
+    percent: 1.98
     text: 28 mins
     total_seconds: 1726.252332
   - digital: '0:08'
     hours: 0
     minutes: 8
     name: Git Config
-    percent: 0.66
+    percent: 0.58
     text: 8 mins
     total_seconds: 503.296757
   - digital: '0:02'
     hours: 0
     minutes: 2
     name: SQL
-    percent: 0.19
+    percent: 0.16
     text: 2 mins
     total_seconds: 142.957509
   - digital: '0:00'
