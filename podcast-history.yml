@@ -1,3 +1,20 @@
+- uuid: 38234099-77ee-4de1-9139-97efe1f1a5b1
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_099.mp3
+  published: '2020-03-30T12:00:00Z'
+  duration: 6264
+  fileType: audio/mp3
+  title: Epi5ode Out of Time
+  size: '100527918'
+  playingStatus: 2
+  playedUpTo: 922
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 5ddaa9bd-363c-4cba-b98a-bdc5d54a671e
   url: 'https://traffic.megaphone.fm/GLT6777511308.mp3'
   published: '2017-09-28T17:36:00Z'
@@ -6,7 +23,7 @@
   title: Milt
   size: '0'
   playingStatus: 2
-  playedUpTo: 1214
+  playedUpTo: 1243
   starred: false
   podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
   podcastTitle: ''
@@ -1604,22 +1621,6 @@
   playedUpTo: 1372
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 78b017ab-351c-4257-877c-aff3a43f4996
-  url: 'http://traffic.libsyn.com/hellointernet/HI77_v1_hello.mp3'
-  published: '2017-01-31T19:48:29Z'
-  duration: 6895
-  fileType: audio/mp3
-  title: 'H.I. #77: Woah, Dude'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 6895
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
