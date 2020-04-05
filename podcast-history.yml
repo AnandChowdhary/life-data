@@ -7,7 +7,7 @@
   title: Epi5ode Out of Time
   size: '100527918'
   playingStatus: 2
-  playedUpTo: 922
+  playedUpTo: 5710
   starred: false
   podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
   podcastTitle: ''
@@ -15,6 +15,22 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: false
+- uuid: d1f8d1df-14bd-4e5a-85d6-f566dc620dea
+  url: 'https://traffic.megaphone.fm/GLT4467613138.mp3'
+  published: '2020-03-28T00:10:59Z'
+  duration: 1398
+  fileType: audio/mp3
+  title: Heavyweight Check In 2
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1398
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 5ddaa9bd-363c-4cba-b98a-bdc5d54a671e
   url: 'https://traffic.megaphone.fm/GLT6777511308.mp3'
   published: '2017-09-28T17:36:00Z'
@@ -30,7 +46,7 @@
   episodeType: full
   episodeSeason: 2
   episodeNumber: 9
-  isDeleted: false
+  isDeleted: true
 - uuid: 74655dfe-5a3d-4900-9f58-42aa5e172b55
   url: 'http://traffic.libsyn.com/unmade/unmade_episode41.mp3'
   published: '2020-03-29T16:03:26Z'
@@ -1605,22 +1621,6 @@
   playedUpTo: 6631
   starred: false
   podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: a7d98e65-d209-4251-87ea-d9cc42d0f803
-  url: 'https://traffic.megaphone.fm/WSJ1184682133.mp3'
-  published: '2020-01-27T22:45:10Z'
-  duration: 1372
-  fileType: audio/mp3
-  title: Who Hacked Jeff Bezos?
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1372
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
