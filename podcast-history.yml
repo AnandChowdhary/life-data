@@ -591,12 +591,12 @@
   isDeleted: true
 - uuid: 8d27539c-6898-4d9d-b70e-db307e78029e
   url: >-
-    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2020/02/20200228_hibt_hibt_-_casey_neistat_-_final_podcast_mix-6e0c6cda-6182-49b9-911b-083ef1319cd5.mp3?awCollectionId=510313&awEpisodeId=810412631&orgId=1&d=5673&p=510313&story=810412631&t=podcast&e=810412631&size=90560481&ft=pod&f=510313
+    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2020/02/20200228_hibt_hibt_-_casey_neistat_-_final_podcast_mix-6e0c6cda-6182-49b9-911b-083ef1319cd5-9210df36-2a4b-4320-8e45-600419b0c32b.mp3?awCollectionId=510313&awEpisodeId=810412631&orgId=1&d=5673&p=510313&story=810412631&t=podcast&e=810412631&size=90560513&ft=pod&f=510313
   published: '2020-03-02T05:01:55Z'
   duration: 5673
   fileType: audio/mpeg
   title: 'Video Artist: Casey Neistat'
-  size: '90560481'
+  size: '90560513'
   playingStatus: 3
   playedUpTo: 5673
   starred: false
