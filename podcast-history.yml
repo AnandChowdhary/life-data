@@ -1,3 +1,20 @@
+- uuid: 224d9221-9330-4719-9ada-3d36cf255393
+  url: >-
+    https://traffic.libsyn.com/secure/thecsspodcast/TCP_CSS_Podcast__Episode_003_v2.0_FINAL.mp3?dest-id=1891556
+  published: '2020-03-24T23:00:39Z'
+  duration: 777
+  fileType: audio/mpeg
+  title: Specificity
+  size: '22979524'
+  playingStatus: 3
+  playedUpTo: 777
+  starred: false
+  podcastUuid: 8b549490-46c7-0138-9767-0acc26574db2
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 1
+  episodeNumber: 3
+  isDeleted: true
 - uuid: aa28332f-561f-4900-8a7b-7c32fce71110
   url: 'http://traffic.libsyn.com/unmade/unmade_episode42.mp3'
   published: '2020-04-08T12:56:45Z'
@@ -5,15 +22,15 @@
   fileType: audio/mp3
   title: '42: Jammin'' with Tim'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 2957
+  playingStatus: 3
+  playedUpTo: 3269
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 81d464bb-c236-4165-9695-c0e3e83ab053
   url: >-
     https://anchor.fm/s/ee89d20/podcast/play/7418357/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-23%2F30445763-48000-2-56eeafa371334.mp3
@@ -1604,22 +1621,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 1159
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 04d67c32-0ae2-4f00-bc30-f364d4b7779c
-  url: 'https://traffic.megaphone.fm/WSJ7689627143.mp3'
-  published: '2020-02-03T21:49:36Z'
-  duration: 988
-  fileType: audio/mp3
-  title: 'Democrats and Facebook: It''s Complicated'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 988
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
