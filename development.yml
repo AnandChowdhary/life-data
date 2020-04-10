@@ -1,86 +1,86 @@
-start: '2020-04-01T22:00:00Z'
-end: '2020-04-08T21:59:59Z'
-total: 119819.102558
-totalText: 33 hrs 16 mins
-dailyAverage: 17117
-dailyAverageText: 4 hrs 45 mins
+start: '2020-04-02T22:00:00Z'
+end: '2020-04-09T21:59:59Z'
+total: 105832.957007
+totalText: 29 hrs 23 mins
+dailyAverage: 15119
+dailyAverageText: 4 hrs 11 mins
 days: 7
 languages:
-  - digital: '16:41'
-    hours: 16
-    minutes: 41
-    name: TypeScript
-    percent: 50.14
-    text: 16 hrs 41 mins
-    total_seconds: 60082.487961
-  - digital: '5:34'
-    hours: 5
+  - digital: '15:34'
+    hours: 15
     minutes: 34
-    name: Other
-    percent: 16.74
-    text: 5 hrs 34 mins
-    total_seconds: 20060.497306
-  - digital: '2:57'
+    name: TypeScript
+    percent: 52.96
+    text: 15 hrs 34 mins
+    total_seconds: 56047.78162
+  - digital: '2:53'
     hours: 2
-    minutes: 57
-    name: JSON
-    percent: 8.89
-    text: 2 hrs 57 mins
-    total_seconds: 10654.142817
-  - digital: '2:42'
-    hours: 2
-    minutes: 42
+    minutes: 53
     name: JavaScript
-    percent: 8.13
-    text: 2 hrs 42 mins
-    total_seconds: 9743.890203
-  - digital: '2:23'
+    percent: 9.83
+    text: 2 hrs 53 mins
+    total_seconds: 10404.487854
+  - digital: '2:40'
     hours: 2
-    minutes: 23
+    minutes: 40
     name: Markdown
-    percent: 7.16
-    text: 2 hrs 23 mins
-    total_seconds: 8584.819482
+    percent: 9.12
+    text: 2 hrs 40 mins
+    total_seconds: 9650.536453
+  - digital: '2:40'
+    hours: 2
+    minutes: 40
+    name: JSON
+    percent: 9.09
+    text: 2 hrs 40 mins
+    total_seconds: 9618.306438
+  - digital: '2:37'
+    hours: 2
+    minutes: 37
+    name: Other
+    percent: 8.95
+    text: 2 hrs 37 mins
+    total_seconds: 9476.111357
   - digital: '1:09'
     hours: 1
     minutes: 9
     name: CSS
-    percent: 3.47
+    percent: 3.92
     text: 1 hr 9 mins
     total_seconds: 4152.102622
   - digital: '0:49'
     hours: 0
     minutes: 49
     name: Vue.js
-    percent: 2.46
+    percent: 2.79
     text: 49 mins
     total_seconds: 2948.506368
-  - digital: '0:44'
+  - digital: '0:43'
     hours: 0
-    minutes: 44
+    minutes: 43
     name: YAML
-    percent: 2.23
-    text: 44 mins
-    total_seconds: 2672.45547
+    percent: 2.47
+    text: 43 mins
+    total_seconds: 2614.923966
   - digital: '0:06'
     hours: 0
     minutes: 6
     name: Git Config
-    percent: 0.31
+    percent: 0.35
     text: 6 mins
     total_seconds: 374.866008
   - digital: '0:06'
     hours: 0
     minutes: 6
     name: HTML
-    percent: 0.3
+    percent: 0.34
     text: 6 mins
     total_seconds: 362.389156
   - digital: '0:02'
     hours: 0
     minutes: 2
     name: Docker
-    percent: 0.12
+    percent: 0.14
     text: 2 mins
     total_seconds: 142.966952
   - digital: '0:00'
