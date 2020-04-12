@@ -1,3 +1,35 @@
+- uuid: 5d362a59-e309-47a6-8887-df47f66fec22
+  url: 'https://traffic.megaphone.fm/WSJ9055926217.mp3'
+  published: '2020-04-10T19:53:36Z'
+  duration: 967
+  fileType: audio/mp3
+  title: The World Has Too Much Oil
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 967
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 97d0dd8a-2f1b-4419-8f37-ba51b8c60b9d
+  url: 'http://traffic.libsyn.com/hellointernet/123.mp3'
+  published: '2019-04-30T20:04:17Z'
+  duration: 5072
+  fileType: audio/mp3
+  title: 'H.I. #123: Pop Quiz'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 5072
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 123
+  isDeleted: true
 - uuid: 224d9221-9330-4719-9ada-3d36cf255393
   url: >-
     https://traffic.libsyn.com/secure/thecsspodcast/TCP_CSS_Podcast__Episode_003_v2.0_FINAL.mp3?dest-id=1891556
@@ -1589,38 +1621,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 1156
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: fe93683b-f9aa-4358-9bba-232fa1494b3c
-  url: 'https://traffic.megaphone.fm/WSJ4301259894.mp3'
-  published: '2020-01-22T20:50:13Z'
-  duration: 890
-  fileType: audio/mp3
-  title: Wall Street's Climate Gambit
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 890
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 7e060137-a88b-4a21-8936-e0bd03d74e0c
-  url: 'https://traffic.megaphone.fm/WSJ4982879217.mp3'
-  published: '2020-01-23T21:58:09Z'
-  duration: 1159
-  fileType: audio/mp3
-  title: The Tug of War Over Tesla
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1159
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
