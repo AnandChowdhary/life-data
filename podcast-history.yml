@@ -1,3 +1,35 @@
+- uuid: 277bac18-016e-487c-8de4-aa17f6f789f0
+  url: 'http://traffic.libsyn.com/hellointernet/ARecentHelloInternet.mp3'
+  published: '2018-07-20T20:16:26Z'
+  duration: 5183
+  fileType: audio/mp3
+  title: A Recent Hello Internet
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1730
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 105
+  isDeleted: false
+- uuid: 74246d91-6440-4d82-947d-abec248414ca
+  url: 'https://traffic.megaphone.fm/WSJ8066099095.mp3'
+  published: '2020-04-09T19:21:29Z'
+  duration: 862
+  fileType: audio/mp3
+  title: What Happens When 10% of Workers File for Unemployment
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 862
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 5d362a59-e309-47a6-8887-df47f66fec22
   url: 'https://traffic.megaphone.fm/WSJ9055926217.mp3'
   published: '2020-04-10T19:53:36Z'
@@ -13,7 +45,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 97d0dd8a-2f1b-4419-8f37-ba51b8c60b9d
   url: 'http://traffic.libsyn.com/hellointernet/123.mp3'
   published: '2019-04-30T20:04:17Z'
@@ -1589,38 +1621,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 1146
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: dcd41e21-c3a0-4bd2-9584-396d49345718
-  url: 'https://traffic.megaphone.fm/WSJ6233766467.mp3'
-  published: '2020-01-13T21:39:57Z'
-  duration: 1102
-  fileType: audio/mp3
-  title: The Broken Business of Antibiotics
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1102
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: ba2e3a97-8941-44b2-8420-41d3b4d09088
-  url: 'https://traffic.megaphone.fm/WSJ4474323123.mp3'
-  published: '2020-02-07T22:34:54Z'
-  duration: 1156
-  fileType: audio/mp3
-  title: Inside China's Giant Quarantine
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1156
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
