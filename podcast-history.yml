@@ -1,3 +1,19 @@
+- uuid: e9291e04-51e1-47be-a1c3-b155e3406e49
+  url: 'https://traffic.megaphone.fm/GLT2058967403.mp3'
+  published: '2020-04-13T08:00:00Z'
+  duration: 1857
+  fileType: audio/mp3
+  title: Heavyweight Check In 3
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1270
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 277bac18-016e-487c-8de4-aa17f6f789f0
   url: 'http://traffic.libsyn.com/hellointernet/ARecentHelloInternet.mp3'
   published: '2018-07-20T20:16:26Z'
@@ -13,7 +29,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 105
-  isDeleted: false
+  isDeleted: true
 - uuid: 74246d91-6440-4d82-947d-abec248414ca
   url: 'https://traffic.megaphone.fm/WSJ8066099095.mp3'
   published: '2020-04-09T19:21:29Z'
@@ -1605,22 +1621,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 903
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 1a3e1c12-dee1-49c8-a534-0e5583e4e216
-  url: 'https://traffic.megaphone.fm/WSJ8143400490.mp3'
-  published: '2020-01-15T21:30:32Z'
-  duration: 1146
-  fileType: audio/mp3
-  title: How Airbnb Deals With Crime
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1146
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
