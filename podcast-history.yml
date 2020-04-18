@@ -1,3 +1,19 @@
+- uuid: 83e27bc9-41d6-4914-b633-5111bf0de13c
+  url: 'https://chtbl.com/track/43774/traffic.megaphone.fm/SONY2640404658.mp3'
+  published: '2020-03-19T14:33:54Z'
+  duration: 4293
+  fileType: audio/mp3
+  title: Fumbling for Normalcy
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 297
+  starred: false
+  podcastUuid: f2fb8c50-4b98-0138-977e-0acc26574db2
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 1
+  episodeNumber: 1
+  isDeleted: false
 - uuid: 7cc4372a-c951-4df6-a19f-343b85b20db4
   url: 'http://traffic.libsyn.com/unmade/unmade_quiz.mp3'
   published: '2020-04-16T11:03:48Z'
@@ -5,15 +21,15 @@
   fileType: audio/mp3
   title: 'Special: The Inaugural Bean Dish Quiz'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 2338
+  playingStatus: 3
+  playedUpTo: 4058
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: e9291e04-51e1-47be-a1c3-b155e3406e49
   url: 'https://traffic.megaphone.fm/GLT2058967403.mp3'
   published: '2020-04-13T08:00:00Z'
@@ -1607,22 +1623,6 @@
   playedUpTo: 1799
   starred: false
   podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: bfb6337a-e8f1-4e02-b14c-2dbd38f82f32
-  url: 'https://traffic.megaphone.fm/WSJ1547045798.mp3'
-  published: '2020-01-14T21:43:55Z'
-  duration: 1182
-  fileType: audio/mp3
-  title: Democrats' 2020 Fundraising Fights
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1182
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
