@@ -1,3 +1,19 @@
+- uuid: 6bb02576-3ad1-4a90-be18-25a547ae87a4
+  url: 'http://traffic.libsyn.com/hellointernet/104.mp3'
+  published: '2018-06-29T20:00:12Z'
+  duration: 7382
+  fileType: audio/mp3
+  title: 'H.I. #104: Fruitbooting'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 3662
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 104
+  isDeleted: false
 - uuid: 83e27bc9-41d6-4914-b633-5111bf0de13c
   url: 'https://chtbl.com/track/43774/traffic.megaphone.fm/SONY2640404658.mp3'
   published: '2020-03-19T14:33:54Z'
@@ -1606,23 +1622,6 @@
   playedUpTo: 1145
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: ddafb76c-21ec-4d36-9742-0f69294228cf
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise332.mp3
-  published: '2020-02-05T20:00:00Z'
-  duration: 1799
-  fileType: audio/mp3
-  title: One Hip Lies
-  size: '21772273'
-  playingStatus: 3
-  playedUpTo: 1799
-  starred: false
-  podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
