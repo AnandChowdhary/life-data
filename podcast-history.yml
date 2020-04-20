@@ -1,18 +1,18 @@
-- uuid: 6bb02576-3ad1-4a90-be18-25a547ae87a4
-  url: 'http://traffic.libsyn.com/hellointernet/104.mp3'
-  published: '2018-06-29T20:00:12Z'
-  duration: 7382
+- uuid: 73d64514-dcae-4708-9866-722c97451fe5
+  url: 'https://chtbl.com/track/43774/traffic.megaphone.fm/SONY3791595296.mp3'
+  published: '2020-03-26T04:00:00Z'
+  duration: 5479
   fileType: audio/mp3
-  title: 'H.I. #104: Fruitbooting'
+  title: End of FOMO
   size: '0'
   playingStatus: 2
-  playedUpTo: 3662
+  playedUpTo: 3134
   starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastUuid: f2fb8c50-4b98-0138-977e-0acc26574db2
   podcastTitle: ''
   episodeType: full
-  episodeSeason: 0
-  episodeNumber: 104
+  episodeSeason: 1
+  episodeNumber: 2
   isDeleted: false
 - uuid: 83e27bc9-41d6-4914-b633-5111bf0de13c
   url: 'https://chtbl.com/track/43774/traffic.megaphone.fm/SONY2640404658.mp3'
@@ -21,15 +21,47 @@
   fileType: audio/mp3
   title: Fumbling for Normalcy
   size: '0'
-  playingStatus: 2
-  playedUpTo: 297
+  playingStatus: 3
+  playedUpTo: 4293
   starred: false
   podcastUuid: f2fb8c50-4b98-0138-977e-0acc26574db2
   podcastTitle: ''
   episodeType: full
   episodeSeason: 1
   episodeNumber: 1
-  isDeleted: false
+  isDeleted: true
+- uuid: e9291e04-51e1-47be-a1c3-b155e3406e49
+  url: 'https://traffic.megaphone.fm/GLT2058967403.mp3'
+  published: '2020-04-13T08:00:00Z'
+  duration: 1857
+  fileType: audio/mp3
+  title: Heavyweight Check In 3
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1827
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 6bb02576-3ad1-4a90-be18-25a547ae87a4
+  url: 'http://traffic.libsyn.com/hellointernet/104.mp3'
+  published: '2018-06-29T20:00:12Z'
+  duration: 7382
+  fileType: audio/mp3
+  title: 'H.I. #104: Fruitbooting'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 7382
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 104
+  isDeleted: true
 - uuid: 7cc4372a-c951-4df6-a19f-343b85b20db4
   url: 'http://traffic.libsyn.com/unmade/unmade_quiz.mp3'
   published: '2020-04-16T11:03:48Z'
@@ -46,22 +78,6 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: true
-- uuid: e9291e04-51e1-47be-a1c3-b155e3406e49
-  url: 'https://traffic.megaphone.fm/GLT2058967403.mp3'
-  published: '2020-04-13T08:00:00Z'
-  duration: 1857
-  fileType: audio/mp3
-  title: Heavyweight Check In 3
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 1270
-  starred: false
-  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: false
 - uuid: 277bac18-016e-487c-8de4-aa17f6f789f0
   url: 'http://traffic.libsyn.com/hellointernet/ARecentHelloInternet.mp3'
   published: '2018-07-20T20:16:26Z'
@@ -1604,22 +1620,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 1153
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 7c368487-41d4-4e10-860a-842453c11d54
-  url: 'https://traffic.megaphone.fm/WSJ2263880172.mp3'
-  published: '2020-02-10T22:49:29Z'
-  duration: 1145
-  fileType: audio/mpeg
-  title: The Mormon Church's $100 Billion Secret Fund
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1145
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
