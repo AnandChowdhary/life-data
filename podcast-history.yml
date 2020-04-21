@@ -1,3 +1,19 @@
+- uuid: 2040bfe9-ef8c-42cf-8abc-6ca5ba4d09e7
+  url: 'http://traffic.libsyn.com/hellointernet/HI115.mp3'
+  published: '2018-12-23T20:39:48Z'
+  duration: 6683
+  fileType: audio/mp3
+  title: 'HI #115: Pink Flamingo'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1991
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 73d64514-dcae-4708-9866-722c97451fe5
   url: 'https://chtbl.com/track/43774/traffic.megaphone.fm/SONY3791595296.mp3'
   published: '2020-03-26T04:00:00Z'
@@ -5,15 +21,15 @@
   fileType: audio/mp3
   title: End of FOMO
   size: '0'
-  playingStatus: 2
-  playedUpTo: 3134
+  playingStatus: 3
+  playedUpTo: 5479
   starred: false
   podcastUuid: f2fb8c50-4b98-0138-977e-0acc26574db2
   podcastTitle: ''
   episodeType: full
   episodeSeason: 1
   episodeNumber: 2
-  isDeleted: false
+  isDeleted: true
 - uuid: 83e27bc9-41d6-4914-b633-5111bf0de13c
   url: 'https://chtbl.com/track/43774/traffic.megaphone.fm/SONY2640404658.mp3'
   published: '2020-03-19T14:33:54Z'
@@ -1604,22 +1620,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 1772
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 1caa5690-c937-4501-8b34-0bd40ae9c22d
-  url: 'https://traffic.megaphone.fm/WSJ2665636748.mp3'
-  published: '2020-01-28T22:18:18Z'
-  duration: 1153
-  fileType: audio/mp3
-  title: The Last Train Out of Wuhan
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1153
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
