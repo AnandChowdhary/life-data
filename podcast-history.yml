@@ -1,3 +1,20 @@
+- uuid: d021b634-a446-4db0-9047-de661988118f
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_100.mp3
+  published: '2020-04-21T11:15:00Z'
+  duration: 6957
+  fileType: audio/mp3
+  title: Quarantime
+  size: '112585063'
+  playingStatus: 2
+  playedUpTo: 1449
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 2040bfe9-ef8c-42cf-8abc-6ca5ba4d09e7
   url: 'http://traffic.libsyn.com/hellointernet/HI115.mp3'
   published: '2018-12-23T20:39:48Z'
@@ -5,15 +22,15 @@
   fileType: audio/mp3
   title: 'HI #115: Pink Flamingo'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 5973
+  playingStatus: 3
+  playedUpTo: 6683
   starred: false
   podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 73d64514-dcae-4708-9866-722c97451fe5
   url: 'https://chtbl.com/track/43774/traffic.megaphone.fm/SONY3791595296.mp3'
   published: '2020-03-26T04:00:00Z'
@@ -32,7 +49,7 @@
   isDeleted: true
 - uuid: 83e27bc9-41d6-4914-b633-5111bf0de13c
   url: 'https://chtbl.com/track/43774/traffic.megaphone.fm/SONY2640404658.mp3'
-  published: '2020-03-19T14:33:54Z'
+  published: '2020-03-19T14:33:00Z'
   duration: 4293
   fileType: audio/mp3
   title: Fumbling for Normalcy
@@ -1604,22 +1621,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 1119
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 4c096553-39f1-4a7e-be2d-54fad2c799f6
-  url: 'https://traffic.megaphone.fm/WSJ5436245435.mp3'
-  published: '2020-01-25T00:25:50Z'
-  duration: 1772
-  fileType: audio/mp3
-  title: Vale Ignored Warnings. Then Its Dam Killed Hundreds.
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1772
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
