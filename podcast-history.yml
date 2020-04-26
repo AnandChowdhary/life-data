@@ -5,15 +5,15 @@
   fileType: audio/mp3
   title: 'Special: One-Sided Podcast'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 3491
+  playingStatus: 3
+  playedUpTo: 3997
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: d021b634-a446-4db0-9047-de661988118f
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_100.mp3
