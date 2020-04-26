@@ -1,65 +1,65 @@
-start: '2020-04-17T22:00:00Z'
-end: '2020-04-24T21:59:59Z'
-total: 111641.178242
-totalText: 31 hrs
-dailyAverage: 15949
-dailyAverageText: 4 hrs 25 mins
+start: '2020-04-18T22:00:00Z'
+end: '2020-04-25T21:59:59Z'
+total: 110712.666022
+totalText: 30 hrs 45 mins
+dailyAverage: 18452
+dailyAverageText: 5 hrs 7 mins
 days: 7
 languages:
   - digital: '12:48'
     hours: 12
     minutes: 48
     name: Vue.js
-    percent: 41.28
+    percent: 41.63
     text: 12 hrs 48 mins
     total_seconds: 46086.707201
-  - digital: '7:18'
+  - digital: '7:08'
     hours: 7
-    minutes: 18
+    minutes: 8
     name: TypeScript
-    percent: 23.57
-    text: 7 hrs 18 mins
-    total_seconds: 26313.30799
+    percent: 23.24
+    text: 7 hrs 8 mins
+    total_seconds: 25730.732675
   - digital: '3:29'
     hours: 3
     minutes: 29
     name: Other
-    percent: 11.26
+    percent: 11.36
     text: 3 hrs 29 mins
     total_seconds: 12575.600329
   - digital: '2:42'
     hours: 2
     minutes: 42
     name: HTML
-    percent: 8.72
+    percent: 8.79
     text: 2 hrs 42 mins
     total_seconds: 9733.923291
   - digital: '1:47'
     hours: 1
     minutes: 47
     name: SCSS
-    percent: 5.8
+    percent: 5.85
     text: 1 hr 47 mins
     total_seconds: 6479.118222
   - digital: '1:14'
     hours: 1
     minutes: 14
     name: CSS
-    percent: 3.99
+    percent: 4.03
     text: 1 hr 14 mins
     total_seconds: 4457.096155
-  - digital: '0:51'
+  - digital: '0:46'
     hours: 0
-    minutes: 51
+    minutes: 46
     name: JSON
-    percent: 2.78
-    text: 51 mins
-    total_seconds: 3106.900277
+    percent: 2.49
+    text: 46 mins
+    total_seconds: 2760.963372
   - digital: '0:28'
     hours: 0
     minutes: 28
     name: JavaScript
-    percent: 1.53
+    percent: 1.55
     text: 28 mins
     total_seconds: 1711.26204
   - digital: '0:10'
@@ -87,7 +87,7 @@ languages:
     hours: 0
     minutes: 1
     name: Git Config
-    percent: 0.05
+    percent: 0.06
     text: 1 min
     total_seconds: 61.376666
   - digital: '0:00'
