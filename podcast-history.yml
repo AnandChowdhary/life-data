@@ -1,3 +1,20 @@
+- uuid: d021b634-a446-4db0-9047-de661988118f
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_100.mp3
+  published: '2020-04-21T11:15:00Z'
+  duration: 6957
+  fileType: audio/mp3
+  title: Quarantime
+  size: '112585063'
+  playingStatus: 2
+  playedUpTo: 3482
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 9efa898c-308b-4278-98f0-b4ca8067fc9d
   url: 'http://traffic.libsyn.com/unmade/unmade_onesided.mp3'
   published: '2020-04-23T12:06:58Z'
@@ -14,23 +31,6 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: true
-- uuid: d021b634-a446-4db0-9047-de661988118f
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_100.mp3
-  published: '2020-04-21T11:15:00Z'
-  duration: 6957
-  fileType: audio/mp3
-  title: Quarantime
-  size: '112585063'
-  playingStatus: 2
-  playedUpTo: 2686
-  starred: false
-  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: false
 - uuid: 2040bfe9-ef8c-42cf-8abc-6ca5ba4d09e7
   url: 'http://traffic.libsyn.com/hellointernet/HI115.mp3'
   published: '2018-12-23T20:39:48Z'
