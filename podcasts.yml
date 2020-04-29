@@ -9,9 +9,9 @@
     Atwood, Woz, Martha Stewart, and Leon Panetta. Every episode will make you a
     little more remarkable.
   url: 'https://guykawasaki.com/remarkable-people/'
-  lastEpisodePublished: '2020-04-22T13:30:01Z'
+  lastEpisodePublished: '2020-04-29T13:30:01Z'
   unplayed: true
-  lastEpisodeUuid: b80426bf-4438-4803-a687-3f3c755eff85
+  lastEpisodeUuid: 6be6bdf0-d629-4671-a709-eb64a44d6547
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -28,9 +28,9 @@
     technology, to space, health and the environment, we share all the
     information you need to keep pace. Produced by Right Angles.
   url: 'https://www.newscientist.com/'
-  lastEpisodePublished: '2020-04-17T01:00:00Z'
+  lastEpisodePublished: '2020-04-24T01:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 96df46a8-ecfa-4d8a-b7c0-45d065ab9c7e
+  lastEpisodeUuid: 5f0a7551-f6c5-40e4-97fa-77dbd2d191e9
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -81,9 +81,9 @@
     every week; visit a16z.com for more details and to sign up for our
     newsletters and other content as well!
   url: 'https://www.a16z.com'
-  lastEpisodePublished: '2020-04-21T07:57:49Z'
+  lastEpisodePublished: '2020-04-26T16:55:22Z'
   unplayed: true
-  lastEpisodeUuid: 2ae504d2-c4f4-45ed-b82e-b23f3fb3e2c5
+  lastEpisodeUuid: f2ab2ef9-19f1-467d-94d0-fa90066b7055
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -113,10 +113,10 @@
     Knutson. The Journal is a co-production from Gimlet Media and The Wall
     Street Journal.
   url: 'https://www.wsj.com/podcasts/the-journal'
-  lastEpisodePublished: '2020-04-21T21:49:43Z'
-  unplayed: false
-  lastEpisodeUuid: a7c34076-a66f-4694-bf61-3f15a429703b
-  lastEpisodePlayingStatus: 0
+  lastEpisodePublished: '2020-04-28T21:15:34Z'
+  unplayed: true
+  lastEpisodeUuid: a274d064-3f15-432e-b86f-227a2cb6d2f4
+  lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
@@ -148,9 +148,9 @@
     told by the best journalists in the world. Hosted by Michael Barbaro. Twenty
     minutes a day, five days a week, ready by 6 a.m.
   url: 'https://www.nytimes.com/the-daily'
-  lastEpisodePublished: '2020-04-22T09:53:08Z'
+  lastEpisodePublished: '2020-04-29T09:54:49Z'
   unplayed: true
-  lastEpisodeUuid: ff8331c7-4218-4899-828f-3aa54140c4d6
+  lastEpisodeUuid: 433548ca-6ccd-4961-a8ac-2bb20a1f6aec
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -166,11 +166,11 @@
     trips, thorny reunions, and difficult conversations as he backpedals his way
     into the past like a therapist with a time machine. From Gimlet Media.
   url: 'https://gimletmedia.com/show/heavyweight/'
-  lastEpisodePublished: '2020-04-13T08:00:00Z'
-  unplayed: false
-  lastEpisodeUuid: e9291e04-51e1-47be-a1c3-b155e3406e49
-  lastEpisodePlayingStatus: 3
-  lastEpisodeArchived: true
+  lastEpisodePublished: '2020-04-27T08:00:00Z'
+  unplayed: true
+  lastEpisodeUuid: 3aea5f7a-cdc4-4c1d-83c8-358a063e7188
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
   episodesSortOrder: 3
@@ -223,9 +223,9 @@
     Advocates from Google, who gleefully breakdown complex aspects of CSS into
     digestible episodes covering everything from accessibility to z-index.
   url: 'https://thecsspodcast.libsyn.com'
-  lastEpisodePublished: '2020-04-15T16:08:29Z'
+  lastEpisodePublished: '2020-04-22T21:03:39Z'
   unplayed: true
-  lastEpisodeUuid: 04366188-27bf-4a2e-be0d-d504ffc46fd0
+  lastEpisodeUuid: 39bebfd9-db7e-4754-a52a-bd2892bd67a6
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -284,9 +284,9 @@
     Grey and Myke Hurley.
   url: 'https://www.relay.fm/cortex'
   lastEpisodePublished: '2020-04-21T11:15:00Z'
-  unplayed: true
+  unplayed: false
   lastEpisodeUuid: d021b634-a446-4db0-9047-de661988118f
-  lastEpisodePlayingStatus: 1
+  lastEpisodePlayingStatus: 3
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: a4085f60-5672-0134-ec37-0d50f522381b
@@ -299,10 +299,10 @@
     companies. How I Built This weaves a narrative journey about innovators,
     entrepreneurs and idealists—and the movements they built.
   url: 'http://www.npr.org/series/490248027/how-i-built-this'
-  lastEpisodePublished: '2020-04-20T04:01:41Z'
-  unplayed: true
-  lastEpisodeUuid: 0357f9c3-7be3-4f17-b20e-4cc1f32d0c9d
-  lastEpisodePlayingStatus: 1
+  lastEpisodePublished: '2020-04-27T11:46:38Z'
+  unplayed: false
+  lastEpisodeUuid: baffcd20-6a6e-4752-a779-01df2e5e8775
+  lastEpisodePlayingStatus: 0
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: a5163bc0-08ab-0137-f265-1d245fc5f9cf
@@ -317,9 +317,9 @@
     personally and professionally as they try to turn their idea into something
     that will change the world.
   url: 'https://www.startups.com/community/startup-therapy'
-  lastEpisodePublished: '2020-04-20T09:00:00Z'
+  lastEpisodePublished: '2020-04-27T10:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 0464570c-b179-4e11-8f4e-85dc7706da1f
+  lastEpisodeUuid: 1dbcb6db-18da-4f99-8d2c-1da77e8bdf5c
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -330,9 +330,9 @@
   author: Relay FM
   description: "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always\_watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent."
   url: 'https://www.relay.fm/clockwise'
-  lastEpisodePublished: '2020-04-15T19:00:00Z'
+  lastEpisodePublished: '2020-04-22T17:30:00Z'
   unplayed: true
-  lastEpisodeUuid: a41bf4c7-ff35-4fdf-9e5e-2fb1b11633be
+  lastEpisodeUuid: 5c1f0525-e4e8-4121-99e8-bbf196493f28
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -343,9 +343,9 @@
   author: Tim Hein and Brady Haran
   description: Tim and Brady discuss ideas for podcasts that they will never make.
   url: 'https://www.unmade.fm/'
-  lastEpisodePublished: '2020-04-16T11:03:48Z'
+  lastEpisodePublished: '2020-04-23T12:06:58Z'
   unplayed: false
-  lastEpisodeUuid: 7cc4372a-c951-4df6-a19f-343b85b20db4
+  lastEpisodeUuid: 9efa898c-308b-4278-98f0-b4ca8067fc9d
   lastEpisodePlayingStatus: 3
   lastEpisodeArchived: true
   autoSkipLast: 0
@@ -383,9 +383,9 @@
 
     http://bit.ly/paytokeepnewsfree
   url: 'https://www.newslaundry.com/subscription'
-  lastEpisodePublished: '2020-04-18T13:07:29Z'
+  lastEpisodePublished: '2020-04-25T13:16:20Z'
   unplayed: true
-  lastEpisodeUuid: 900b3ecd-b4b3-4e51-a3db-74970fd1d8c4
+  lastEpisodeUuid: 53763e57-a4ca-4d29-b844-b2e6c70ef28e
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -400,9 +400,9 @@
     Connected provides a perspective that no other show can. Hosted by Federico
     Viticci, Myke Hurley, and Stephen Hackett.
   url: 'https://www.relay.fm/connected'
-  lastEpisodePublished: '2020-04-15T21:45:00Z'
+  lastEpisodePublished: '2020-04-22T21:15:00Z'
   unplayed: true
-  lastEpisodeUuid: 2ccc6f41-e727-4a41-96f3-db565b4aafda
+  lastEpisodeUuid: 01d25c98-06d3-4bfb-9405-3b7e9434d3d6
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -444,9 +444,9 @@
     Gross Revenue” is calculated by the (cost per thousand) rate times the total
     impressions delivered.
   url: ''
-  lastEpisodePublished: '2020-04-20T04:00:00Z'
+  lastEpisodePublished: '2020-04-27T04:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 791a2b33-9971-437c-9e9f-180d2bd460c6
+  lastEpisodeUuid: d952c087-a46a-42de-b857-aa7cd22b2a4c
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -478,9 +478,9 @@
     podcast is a weekly opportunity to spend some time thinking about those
     people...and then to remember that, actually, those people are all of us.
   url: 'http://covidsucks.libsyn.com/website'
-  lastEpisodePublished: '2020-04-17T16:14:15Z'
+  lastEpisodePublished: '2020-04-24T16:40:23Z'
   unplayed: true
-  lastEpisodeUuid: 90a78099-ebb8-459d-af74-260789a247f8
+  lastEpisodeUuid: bdc3be42-c612-4318-983a-ae6d85aa6e6a
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
