@@ -14,7 +14,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 9efa898c-308b-4278-98f0-b4ca8067fc9d
   url: 'http://traffic.libsyn.com/unmade/unmade_onesided.mp3'
   published: '2020-04-23T12:06:58Z'
