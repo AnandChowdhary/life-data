@@ -1,3 +1,20 @@
+- uuid: e145b5e3-437b-486e-88cc-f1b8cb91cc1d
+  url: >-
+    https://traffic.libsyn.com/secure/thecsspodcast/TCP_CSS_Podcast_Episode_008_v1.0.mp3?dest-id=1891556
+  published: '2020-04-29T17:00:00Z'
+  duration: 1542
+  fileType: audio/mpeg
+  title: Sizing Units
+  size: '28992912'
+  playingStatus: 3
+  playedUpTo: 1543
+  starred: false
+  podcastUuid: 8b549490-46c7-0138-9767-0acc26574db2
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 1
+  episodeNumber: 8
+  isDeleted: true
 - uuid: 6aabb8a3-bb38-49eb-a47a-a8b65edaa207
   url: 'http://traffic.libsyn.com/unmade/unmade_episode43.mp3'
   published: '2020-05-01T09:03:19Z'
@@ -5,15 +22,15 @@
   fileType: audio/mp3
   title: '43: Tim''s 2000th Follower'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 795
+  playingStatus: 3
+  playedUpTo: 2376
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: d021b634-a446-4db0-9047-de661988118f
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_100.mp3
@@ -1605,22 +1622,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 1187
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 40fda707-6932-4d61-aea8-ba846bf3a62b
-  url: 'https://traffic.megaphone.fm/WSJ7523132141.mp3'
-  published: '2020-01-08T23:01:10Z'
-  duration: 921
-  fileType: audio/mp3
-  title: The Calculus Behind Iran's Missile Strikes
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 921
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
