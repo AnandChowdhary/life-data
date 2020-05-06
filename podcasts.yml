@@ -9,9 +9,9 @@
     Atwood, Woz, Martha Stewart, and Leon Panetta. Every episode will make you a
     little more remarkable.
   url: 'https://guykawasaki.com/remarkable-people/'
-  lastEpisodePublished: '2020-04-29T13:30:01Z'
+  lastEpisodePublished: '2020-05-06T13:30:07Z'
   unplayed: true
-  lastEpisodeUuid: 6be6bdf0-d629-4671-a709-eb64a44d6547
+  lastEpisodeUuid: 6f156bd4-8713-4cac-8199-003440a6112a
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -28,9 +28,9 @@
     technology, to space, health and the environment, we share all the
     information you need to keep pace. Produced by Right Angles.
   url: 'https://www.newscientist.com/'
-  lastEpisodePublished: '2020-04-24T01:00:00Z'
+  lastEpisodePublished: '2020-05-01T01:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 5f0a7551-f6c5-40e4-97fa-77dbd2d191e9
+  lastEpisodeUuid: 606987f2-3f91-471a-b160-3329ff11fafa
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -81,9 +81,9 @@
     every week; visit a16z.com for more details and to sign up for our
     newsletters and other content as well!
   url: 'https://www.a16z.com'
-  lastEpisodePublished: '2020-04-26T16:55:22Z'
+  lastEpisodePublished: '2020-05-02T01:18:58Z'
   unplayed: true
-  lastEpisodeUuid: f2ab2ef9-19f1-467d-94d0-fa90066b7055
+  lastEpisodeUuid: 43607e11-9061-4c80-a0b0-0b8749ea8a6a
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -96,9 +96,9 @@
     Surma and Jake talk about whatever's going on in the world of web
     development.
   url: 'https://developers.google.com/web/shows/http203/podcast/'
-  lastEpisodePublished: '2020-04-15T16:30:20Z'
+  lastEpisodePublished: '2020-04-30T17:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 8b8dd45d-7e90-416c-af3f-d2cb36a80f6c
+  lastEpisodeUuid: a010e320-d9d7-4220-8251-5be179d07dee
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -113,10 +113,10 @@
     Knutson. The Journal is a co-production from Gimlet Media and The Wall
     Street Journal.
   url: 'https://www.wsj.com/podcasts/the-journal'
-  lastEpisodePublished: '2020-04-28T21:15:34Z'
-  unplayed: true
-  lastEpisodeUuid: a274d064-3f15-432e-b86f-227a2cb6d2f4
-  lastEpisodePlayingStatus: 1
+  lastEpisodePublished: '2020-05-05T19:22:15Z'
+  unplayed: false
+  lastEpisodeUuid: ba3ca063-fc4a-4f9b-8c38-f548611a348e
+  lastEpisodePlayingStatus: 0
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
@@ -148,9 +148,9 @@
     told by the best journalists in the world. Hosted by Michael Barbaro. Twenty
     minutes a day, five days a week, ready by 6 a.m.
   url: 'https://www.nytimes.com/the-daily'
-  lastEpisodePublished: '2020-04-29T09:54:49Z'
+  lastEpisodePublished: '2020-05-06T09:49:22Z'
   unplayed: true
-  lastEpisodeUuid: 433548ca-6ccd-4961-a8ac-2bb20a1f6aec
+  lastEpisodeUuid: 32df9cd5-5fe9-4288-8273-9c8a98e4f7f9
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -223,9 +223,9 @@
     Advocates from Google, who gleefully breakdown complex aspects of CSS into
     digestible episodes covering everything from accessibility to z-index.
   url: 'https://thecsspodcast.libsyn.com'
-  lastEpisodePublished: '2020-04-22T21:03:39Z'
+  lastEpisodePublished: '2020-05-06T17:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 39bebfd9-db7e-4754-a52a-bd2892bd67a6
+  lastEpisodeUuid: c833f9bb-b4b6-4e26-b04b-c218678fc78a
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -287,7 +287,7 @@
   unplayed: false
   lastEpisodeUuid: d021b634-a446-4db0-9047-de661988118f
   lastEpisodePlayingStatus: 3
-  lastEpisodeArchived: false
+  lastEpisodeArchived: true
   autoSkipLast: 0
 - uuid: a4085f60-5672-0134-ec37-0d50f522381b
   episodesSortOrder: 3
@@ -299,10 +299,10 @@
     companies. How I Built This weaves a narrative journey about innovators,
     entrepreneurs and idealists—and the movements they built.
   url: 'http://www.npr.org/series/490248027/how-i-built-this'
-  lastEpisodePublished: '2020-04-27T11:46:38Z'
-  unplayed: false
-  lastEpisodeUuid: baffcd20-6a6e-4752-a779-01df2e5e8775
-  lastEpisodePlayingStatus: 0
+  lastEpisodePublished: '2020-05-04T04:01:43Z'
+  unplayed: true
+  lastEpisodeUuid: db3c7200-1f00-4c4c-a4d4-284759c855e4
+  lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: a5163bc0-08ab-0137-f265-1d245fc5f9cf
@@ -317,9 +317,9 @@
     personally and professionally as they try to turn their idea into something
     that will change the world.
   url: 'https://www.startups.com/community/startup-therapy'
-  lastEpisodePublished: '2020-04-27T10:00:00Z'
+  lastEpisodePublished: '2020-05-04T10:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 1dbcb6db-18da-4f99-8d2c-1da77e8bdf5c
+  lastEpisodeUuid: c00924c4-5a83-48ef-9310-f1f24cf4d365
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -330,9 +330,9 @@
   author: Relay FM
   description: "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always\_watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent."
   url: 'https://www.relay.fm/clockwise'
-  lastEpisodePublished: '2020-04-22T17:30:00Z'
+  lastEpisodePublished: '2020-04-30T02:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 5c1f0525-e4e8-4121-99e8-bbf196493f28
+  lastEpisodeUuid: f97f0e6c-155b-4d9b-8f55-4c5395cb232c
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -343,11 +343,11 @@
   author: Tim Hein and Brady Haran
   description: Tim and Brady discuss ideas for podcasts that they will never make.
   url: 'https://www.unmade.fm/'
-  lastEpisodePublished: '2020-04-23T12:06:58Z'
-  unplayed: false
-  lastEpisodeUuid: 9efa898c-308b-4278-98f0-b4ca8067fc9d
-  lastEpisodePlayingStatus: 3
-  lastEpisodeArchived: true
+  lastEpisodePublished: '2020-05-05T09:21:43Z'
+  unplayed: true
+  lastEpisodeUuid: 380fb4d3-2338-47b7-903a-1075d5fa2a4e
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: d4dec560-f2f3-0136-324d-08b04944ede4
   episodesSortOrder: 3
@@ -383,9 +383,9 @@
 
     http://bit.ly/paytokeepnewsfree
   url: 'https://www.newslaundry.com/subscription'
-  lastEpisodePublished: '2020-04-25T13:16:20Z'
+  lastEpisodePublished: '2020-05-02T13:38:06Z'
   unplayed: true
-  lastEpisodeUuid: 53763e57-a4ca-4d29-b844-b2e6c70ef28e
+  lastEpisodeUuid: f94dd659-4bba-4fab-ae31-613421020e0e
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -400,9 +400,9 @@
     Connected provides a perspective that no other show can. Hosted by Federico
     Viticci, Myke Hurley, and Stephen Hackett.
   url: 'https://www.relay.fm/connected'
-  lastEpisodePublished: '2020-04-22T21:15:00Z'
+  lastEpisodePublished: '2020-04-29T22:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 01d25c98-06d3-4bfb-9405-3b7e9434d3d6
+  lastEpisodeUuid: 84012eb7-f48c-437f-a124-d1b266a30042
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -444,9 +444,9 @@
     Gross Revenue” is calculated by the (cost per thousand) rate times the total
     impressions delivered.
   url: ''
-  lastEpisodePublished: '2020-04-27T04:00:00Z'
+  lastEpisodePublished: '2020-05-04T04:00:00Z'
   unplayed: true
-  lastEpisodeUuid: d952c087-a46a-42de-b857-aa7cd22b2a4c
+  lastEpisodeUuid: f0ff5914-3354-4fc0-bc0b-fed25e920a12
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -461,9 +461,9 @@
     police shootings caught on video, or visiting a town ravaged by the opioid
     epidemic, Embedded takes you where the news is happening.
   url: 'https://www.npr.org/series/469833353/embedded'
-  lastEpisodePublished: '2020-04-18T23:04:49Z'
+  lastEpisodePublished: '2020-05-03T02:28:15Z'
   unplayed: true
-  lastEpisodeUuid: 4c69cdc8-990f-4bfd-8f41-913bb33aad22
+  lastEpisodeUuid: be9c5a40-9855-45e7-b789-132c4886db60
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
