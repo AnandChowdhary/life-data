@@ -1,3 +1,19 @@
+- uuid: 380fb4d3-2338-47b7-903a-1075d5fa2a4e
+  url: 'http://traffic.libsyn.com/unmade/special_tommyball_audiobook.mp3'
+  published: '2020-05-05T09:21:43Z'
+  duration: 1527
+  fileType: audio/mp3
+  title: 'Special: Tommyball Audiobook'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 724
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 5fedde1f-f032-4a95-8e02-31fb99aef937
   url: 'http://traffic.libsyn.com/hellointernet/Two_Turtle_Doves.mp3'
   published: '2018-12-26T11:45:59Z'
@@ -5,15 +21,15 @@
   fileType: audio/mp3
   title: Two Turtle Doves
   size: '0'
-  playingStatus: 2
-  playedUpTo: 915
+  playingStatus: 3
+  playedUpTo: 1205
   starred: false
   podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 10c1679d-4a11-428b-bf71-4aaf612e8640
   url: 'http://traffic.libsyn.com/hellointernet/A_Partridge_in_a_Pear_Tree.mp3'
   published: '2018-12-25T09:13:22Z'
@@ -1606,22 +1622,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 1412
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: ec33712a-d618-4564-977f-b057c1186c1f
-  url: 'https://traffic.megaphone.fm/WSJ2883645185.mp3'
-  published: '2019-12-09T22:36:38Z'
-  duration: 1184
-  fileType: audio/mp3
-  title: The Botched Bet to Buy Monsanto
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1184
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
