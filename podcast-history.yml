@@ -1,3 +1,19 @@
+- uuid: f25fa36e-913a-4c5f-97fb-5691d2c5ba77
+  url: 'http://traffic.libsyn.com/hellointernet/Six_Geese_A-laying.mp3'
+  published: '2018-12-30T13:41:58Z'
+  duration: 841
+  fileType: audio/mp3
+  title: Six Geese A-laying
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 841
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: ''
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: f05a1b32-2d50-4538-bdff-f779bdd9a564
   url: 'http://traffic.libsyn.com/hellointernet/Five_Gold_Rings.mp3'
   published: '2018-12-29T14:14:54Z'
@@ -5,15 +21,15 @@
   fileType: audio/mp3
   title: Five Gold Rings
   size: '0'
-  playingStatus: 2
-  playedUpTo: 690
+  playingStatus: 3
+  playedUpTo: 791
   starred: false
   podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   podcastTitle: ''
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 87c37ad4-e245-4373-b0c1-1c5ae556f31b
   url: 'http://traffic.libsyn.com/hellointernet/Four_Calling_Birds.mp3'
   published: '2018-12-28T14:58:02Z'
@@ -1606,22 +1622,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 1209
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: ''
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: f57addbb-0ff7-4d09-b252-f13d7d36a35a
-  url: 'https://traffic.megaphone.fm/WSJ3967839977.mp3'
-  published: '2019-11-14T21:30:47Z'
-  duration: 1307
-  fileType: audio/mp3
-  title: A Controversial Fix for High Drug Prices
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1307
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: ''
