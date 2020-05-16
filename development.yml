@@ -1,71 +1,71 @@
-start: '2020-05-07T18:30:00Z'
-end: '2020-05-14T18:29:59Z'
-total: 54720.668141
-totalText: 15 hrs 12 mins
-dailyAverage: 7817
-dailyAverageText: 2 hrs 10 mins
+start: '2020-05-08T18:30:00Z'
+end: '2020-05-15T18:29:59Z'
+total: 38630.98542
+totalText: 10 hrs 43 mins
+dailyAverage: 5519
+dailyAverageText: 1 hr 31 mins
 days: 7
 languages:
-  - digital: '9:30'
-    hours: 9
-    minutes: 30
+  - digital: '7:45'
+    hours: 7
+    minutes: 45
     name: TypeScript
-    percent: 62.58
-    text: 9 hrs 30 mins
-    total_seconds: 34243.777834
-  - digital: '2:20'
-    hours: 2
-    minutes: 20
-    name: JSON
-    percent: 15.43
-    text: 2 hrs 20 mins
-    total_seconds: 8440.740254
-  - digital: '1:46'
+    percent: 72.34
+    text: 7 hrs 45 mins
+    total_seconds: 27945.176425
+  - digital: '1:20'
     hours: 1
-    minutes: 46
+    minutes: 20
     name: Other
-    percent: 11.65
-    text: 1 hr 46 mins
-    total_seconds: 6373.327996
-  - digital: '0:52'
+    percent: 12.55
+    text: 1 hr 20 mins
+    total_seconds: 4847.385303
+  - digital: '0:58'
     hours: 0
-    minutes: 52
+    minutes: 58
     name: Markdown
-    percent: 5.74
-    text: 52 mins
-    total_seconds: 3138.870429
-  - digital: '0:23'
+    percent: 9.16
+    text: 58 mins
+    total_seconds: 3539.922005
+  - digital: '0:19'
     hours: 0
-    minutes: 23
+    minutes: 19
     name: YAML
-    percent: 2.56
-    text: 23 mins
-    total_seconds: 1399.465678
-  - digital: '0:08'
+    percent: 3.03
+    text: 19 mins
+    total_seconds: 1170.809312
+  - digital: '0:09'
     hours: 0
-    minutes: 8
-    name: JavaScript
-    percent: 0.93
-    text: 8 mins
-    total_seconds: 509.562776
+    minutes: 9
+    name: JSON
+    percent: 1.41
+    text: 9 mins
+    total_seconds: 542.804287
   - digital: '0:06'
     hours: 0
     minutes: 6
-    name: HTML
-    percent: 0.68
+    name: JavaScript
+    percent: 1.07
     text: 6 mins
-    total_seconds: 372.572741
-  - digital: '0:03'
+    total_seconds: 411.481012
+  - digital: '0:02'
     hours: 0
-    minutes: 3
+    minutes: 2
     name: Git Config
-    percent: 0.42
-    text: 3 mins
-    total_seconds: 229.816223
+    percent: 0.33
+    text: 2 mins
+    total_seconds: 128.547568
+  - digital: '0:00'
+    hours: 0
+    minutes: 0
+    name: HTML
+    percent: 0.08
+    text: 0 secs
+    total_seconds: 32.325298
   - digital: '0:00'
     hours: 0
     minutes: 0
     name: Text
-    percent: 0.02
+    percent: 0.03
     text: 0 secs
     total_seconds: 12.53421
