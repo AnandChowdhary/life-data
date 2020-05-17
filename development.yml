@@ -1,8 +1,8 @@
-start: '2020-05-08T18:30:00Z'
-end: '2020-05-15T18:29:59Z'
-total: 38630.98542
-totalText: 10 hrs 43 mins
-dailyAverage: 5519
+start: '2020-05-09T18:30:00Z'
+end: '2020-05-16T18:29:59Z'
+total: 38329.867995
+totalText: 10 hrs 38 mins
+dailyAverage: 5476
 dailyAverageText: 1 hr 31 mins
 days: 7
 languages:
@@ -10,35 +10,35 @@ languages:
     hours: 7
     minutes: 45
     name: TypeScript
-    percent: 72.34
+    percent: 72.89
     text: 7 hrs 45 mins
-    total_seconds: 27945.176425
-  - digital: '1:20'
+    total_seconds: 27938.509387
+  - digital: '1:15'
     hours: 1
-    minutes: 20
+    minutes: 15
     name: Other
-    percent: 12.55
-    text: 1 hr 20 mins
-    total_seconds: 4847.385303
-  - digital: '0:58'
+    percent: 11.82
+    text: 1 hr 15 mins
+    total_seconds: 4529.14286
+  - digital: '0:59'
     hours: 0
-    minutes: 58
+    minutes: 59
     name: Markdown
-    percent: 9.16
-    text: 58 mins
-    total_seconds: 3539.922005
+    percent: 9.3
+    text: 59 mins
+    total_seconds: 3563.714061
   - digital: '0:19'
     hours: 0
     minutes: 19
     name: YAML
-    percent: 3.03
+    percent: 3.05
     text: 19 mins
     total_seconds: 1170.809312
   - digital: '0:09'
     hours: 0
     minutes: 9
     name: JSON
-    percent: 1.41
+    percent: 1.42
     text: 9 mins
     total_seconds: 542.804287
   - digital: '0:06'
@@ -52,7 +52,7 @@ languages:
     hours: 0
     minutes: 2
     name: Git Config
-    percent: 0.33
+    percent: 0.34
     text: 2 mins
     total_seconds: 128.547568
   - digital: '0:00'
