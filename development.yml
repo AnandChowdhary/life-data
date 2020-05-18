@@ -1,18 +1,18 @@
-start: '2020-05-09T18:30:00Z'
-end: '2020-05-16T18:29:59Z'
-total: 38329.867995
+start: '2020-05-10T18:30:00Z'
+end: '2020-05-17T18:29:59Z'
+total: 38310.537461
 totalText: 10 hrs 38 mins
-dailyAverage: 5476
-dailyAverageText: 1 hr 31 mins
+dailyAverage: 6385
+dailyAverageText: 1 hr 46 mins
 days: 7
 languages:
   - digital: '7:45'
     hours: 7
     minutes: 45
     name: TypeScript
-    percent: 72.89
+    percent: 72.88
     text: 7 hrs 45 mins
-    total_seconds: 27938.509387
+    total_seconds: 27919.178853
   - digital: '1:15'
     hours: 1
     minutes: 15
@@ -31,7 +31,7 @@ languages:
     hours: 0
     minutes: 19
     name: YAML
-    percent: 3.05
+    percent: 3.06
     text: 19 mins
     total_seconds: 1170.809312
   - digital: '0:09'
