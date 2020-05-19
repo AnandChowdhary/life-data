@@ -1,60 +1,60 @@
-start: '2020-05-10T18:30:00Z'
-end: '2020-05-17T18:29:59Z'
-total: 38310.537461
-totalText: 10 hrs 38 mins
-dailyAverage: 6385
-dailyAverageText: 1 hr 46 mins
+start: '2020-05-11T18:30:00Z'
+end: '2020-05-18T18:29:59Z'
+total: 42613.829703
+totalText: 11 hrs 50 mins
+dailyAverage: 7102
+dailyAverageText: 1 hr 58 mins
 days: 7
 languages:
-  - digital: '7:45'
-    hours: 7
-    minutes: 45
+  - digital: '8:29'
+    hours: 8
+    minutes: 29
     name: TypeScript
-    percent: 72.88
-    text: 7 hrs 45 mins
-    total_seconds: 27919.178853
+    percent: 71.72
+    text: 8 hrs 29 mins
+    total_seconds: 30563.284125
   - digital: '1:15'
     hours: 1
     minutes: 15
     name: Other
-    percent: 11.82
+    percent: 10.63
     text: 1 hr 15 mins
-    total_seconds: 4529.14286
+    total_seconds: 4528.87836
   - digital: '0:59'
     hours: 0
     minutes: 59
     name: Markdown
-    percent: 9.3
+    percent: 8.4
     text: 59 mins
-    total_seconds: 3563.714061
-  - digital: '0:19'
+    total_seconds: 3581.64953
+  - digital: '0:25'
     hours: 0
-    minutes: 19
-    name: YAML
-    percent: 3.06
-    text: 19 mins
-    total_seconds: 1170.809312
-  - digital: '0:09'
-    hours: 0
-    minutes: 9
+    minutes: 25
     name: JSON
-    percent: 1.42
-    text: 9 mins
-    total_seconds: 542.804287
-  - digital: '0:06'
+    percent: 3.65
+    text: 25 mins
+    total_seconds: 1553.687031
+  - digital: '0:23'
     hours: 0
-    minutes: 6
-    name: JavaScript
-    percent: 1.07
-    text: 6 mins
-    total_seconds: 411.481012
-  - digital: '0:02'
+    minutes: 23
+    name: YAML
+    percent: 3.27
+    text: 23 mins
+    total_seconds: 1392.279602
+  - digital: '0:08'
     hours: 0
-    minutes: 2
+    minutes: 8
     name: Git Config
-    percent: 0.34
-    text: 2 mins
-    total_seconds: 128.547568
+    percent: 1.23
+    text: 8 mins
+    total_seconds: 522.361572
+  - digital: '0:07'
+    hours: 0
+    minutes: 7
+    name: JavaScript
+    percent: 1
+    text: 7 mins
+    total_seconds: 426.829975
   - digital: '0:00'
     hours: 0
     minutes: 0
