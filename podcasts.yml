@@ -9,9 +9,9 @@
     Atwood, Woz, Martha Stewart, and Leon Panetta. Every episode will make you a
     little more remarkable.
   url: 'https://guykawasaki.com/remarkable-people/'
-  lastEpisodePublished: '2020-05-27T13:30:23Z'
+  lastEpisodePublished: '2020-06-03T13:30:02Z'
   unplayed: true
-  lastEpisodeUuid: 776fb191-7577-4ac0-be1a-7dfbb3e87366
+  lastEpisodeUuid: 1b0938ff-268a-4eb3-9fa8-8b04d9211d2d
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -28,9 +28,9 @@
     technology, to space, health and the environment, we share all the
     information you need to keep pace. Produced by Right Angles.
   url: 'https://www.newscientist.com/'
-  lastEpisodePublished: '2020-05-22T01:00:00Z'
+  lastEpisodePublished: '2020-05-29T01:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 2f029c4a-7d44-4749-9cdc-8fb474a2b75b
+  lastEpisodeUuid: c718243d-c9a0-4ca6-b0a6-1c74c506a34d
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -81,9 +81,9 @@
     every week; visit a16z.com for more details and to sign up for our
     newsletters and other content as well!
   url: 'https://www.a16z.com'
-  lastEpisodePublished: '2020-05-26T16:53:37Z'
+  lastEpisodePublished: '2020-05-29T13:00:02Z'
   unplayed: true
-  lastEpisodeUuid: 5d3940b9-01ee-4c16-abbb-e2638ae94ff9
+  lastEpisodeUuid: ea6ee6d0-e220-4376-b4e1-1a0b7d52f2af
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -113,10 +113,10 @@
     Knutson. The Journal is a co-production from Gimlet Media and The Wall
     Street Journal.
   url: 'https://www.wsj.com/podcasts/the-journal'
-  lastEpisodePublished: '2020-05-26T20:47:08Z'
-  unplayed: true
-  lastEpisodeUuid: 39ce3bb9-0760-4dbe-9835-90ec7c2c21cf
-  lastEpisodePlayingStatus: 1
+  lastEpisodePublished: '2020-06-02T22:07:38Z'
+  unplayed: false
+  lastEpisodeUuid: 61e71025-05df-444e-9ef6-36e72fabd3bb
+  lastEpisodePlayingStatus: 0
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
@@ -133,9 +133,9 @@
     tried-and-true travel hacks.
   url: 'https://www.bloomberg.com/travel-genius'
   lastEpisodePublished: '2020-05-13T08:00:00Z'
-  unplayed: true
+  unplayed: false
   lastEpisodeUuid: 6b712ef8-c060-4ad3-bcc1-408a711f9a91
-  lastEpisodePlayingStatus: 1
+  lastEpisodePlayingStatus: 0
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 4eb5b260-c933-0134-10da-25324e2a541d
@@ -148,9 +148,9 @@
     told by the best journalists in the world. Hosted by Michael Barbaro. Twenty
     minutes a day, five days a week, ready by 6 a.m.
   url: 'https://www.nytimes.com/the-daily'
-  lastEpisodePublished: '2020-05-27T09:54:03Z'
+  lastEpisodePublished: '2020-06-03T09:51:38Z'
   unplayed: true
-  lastEpisodeUuid: a6e4a8a8-23b2-49c1-b59d-d38d30422335
+  lastEpisodeUuid: 6fb8db8b-4e0c-42fd-b004-8315899d6ddd
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -167,9 +167,9 @@
     into the past like a therapist with a time machine. From Gimlet Media.
   url: 'https://gimletmedia.com/show/heavyweight/'
   lastEpisodePublished: '2020-05-21T21:14:00Z'
-  unplayed: true
+  unplayed: false
   lastEpisodeUuid: 885a4e29-250b-4242-8368-0ff1d1bf5640
-  lastEpisodePlayingStatus: 1
+  lastEpisodePlayingStatus: 0
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
@@ -185,9 +185,9 @@
     empowered in our own relationships. So.. where should we begin?
   url: 'https://estherperel.com/podcast'
   lastEpisodePublished: '2020-05-14T18:55:32Z'
-  unplayed: true
+  unplayed: false
   lastEpisodeUuid: 1e22f75c-7692-4eae-b005-05f3edcfbd43
-  lastEpisodePlayingStatus: 1
+  lastEpisodePlayingStatus: 0
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 851d1840-476e-0137-f266-1d245fc5f9cf
@@ -196,16 +196,14 @@
   title: Wisdom From The Top
   author: Built-It Productions
   description: >-
-    From Guy Raz comes a chance to slide your chair into boardrooms, C-suites,
-    and the quarters of top brass. Wisdom From the Top brings listeners into
-    conversations with the leaders helming today’s most powerful corporations
-    and organizations, offering direct access to the secrets, mistakes, regrets,
-    and wins that define modern leadership. For more, go to
-    LuminaryPodcasts.com.
+    From Guy Raz, Wisdom From The Top brings listeners into conversations with
+    leaders helming today’s most powerful corporations and organizations,
+    offering direct access to the secrets, mistakes, regrets, and wins that
+    define modern leadership. For more, go to LuminaryPodcasts.com.
   url: ''
-  lastEpisodePublished: '2019-11-20T14:00:00Z'
+  lastEpisodePublished: '2020-05-29T20:44:14Z'
   unplayed: true
-  lastEpisodeUuid: fee34932-328a-491a-9841-a0e8c4fcb021
+  lastEpisodeUuid: 81a611d2-e723-4349-a575-61058d688aae
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -222,9 +220,9 @@
     digestible episodes covering everything from accessibility to z-index.
   url: 'https://thecsspodcast.libsyn.com'
   lastEpisodePublished: '2020-05-27T17:00:00Z'
-  unplayed: true
+  unplayed: false
   lastEpisodeUuid: e2b3954a-480f-4248-96ec-1d5f240ffc62
-  lastEpisodePlayingStatus: 1
+  lastEpisodePlayingStatus: 3
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 8cb63a90-c70a-0136-7b94-27f978dac4db
@@ -287,6 +285,27 @@
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
+- uuid: a2d05490-e823-0135-c25e-7d73a919276a
+  episodesSortOrder: 3
+  autoStartFrom: 0
+  title: The Anthropocene Reviewed
+  author: WNYC Studios and Complexly
+  description: >-
+    The Anthropocene is the current geological age, in which human activity has
+    profoundly shaped the planet and its biodiversity. On The Anthropocene
+    Reviewed, #1 New York Times bestselling author John Green (The Fault in Our
+    Stars, Turtles All the Way Down) reviews different facets of the
+    human-centered planet on a five-star scale. WNYC Studios is a
+    listener-supported producer of other leading podcasts including On the
+    Media, Snap Judgment, Death, Sex & Money, Nancy and Here’s the Thing with
+    Alec Baldwin. © WNYC Studios
+  url: 'https://www.wnycstudios.org/podcasts/anthropocene-reviewed'
+  lastEpisodePublished: '2020-05-28T16:00:00Z'
+  unplayed: true
+  lastEpisodeUuid: c70c84fe-325b-4766-a6e2-70cf5df1c111
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: a4085f60-5672-0134-ec37-0d50f522381b
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -297,9 +316,9 @@
     companies. How I Built This weaves a narrative journey about innovators,
     entrepreneurs and idealists—and the movements they built.
   url: 'http://www.npr.org/series/490248027/how-i-built-this'
-  lastEpisodePublished: '2020-05-25T04:01:48Z'
+  lastEpisodePublished: '2020-06-01T04:01:58Z'
   unplayed: true
-  lastEpisodeUuid: cdf5b87c-14f5-4f65-ba23-a664f8f80a4a
+  lastEpisodeUuid: 616e3302-29ce-4772-a18c-2af7ee4b786a
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -315,9 +334,9 @@
     personally and professionally as they try to turn their idea into something
     that will change the world.
   url: 'https://www.startups.com/community/startup-therapy'
-  lastEpisodePublished: '2020-05-25T09:00:00Z'
+  lastEpisodePublished: '2020-06-01T09:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 261a4529-6b6e-4788-b5d0-4223bceaeace
+  lastEpisodeUuid: 89c16d88-a8c1-4ded-ad37-ee3a8101ea09
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -328,9 +347,9 @@
   author: Relay FM
   description: "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always\_watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent."
   url: 'https://www.relay.fm/clockwise'
-  lastEpisodePublished: '2020-05-20T17:00:00Z'
+  lastEpisodePublished: '2020-05-28T01:30:00Z'
   unplayed: true
-  lastEpisodeUuid: c0e3dc35-3ff3-46af-9a35-0ca11884c55a
+  lastEpisodeUuid: 7d3906f0-8f27-4f79-ad26-dbb4e9eb6b5c
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -341,9 +360,9 @@
   author: Tim Hein and Brady Haran
   description: Tim and Brady discuss ideas for podcasts that they will never make.
   url: 'https://www.unmade.fm/'
-  lastEpisodePublished: '2020-05-23T13:50:04Z'
+  lastEpisodePublished: '2020-05-29T12:34:00Z'
   unplayed: true
-  lastEpisodeUuid: d4fbd451-e91d-4152-b8bc-246a11c25943
+  lastEpisodeUuid: 038319f7-b37e-4fb7-9f2e-c7ca430ae541
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -380,9 +399,9 @@
     http://bit.ly/paytokeepnewsfree See acast.com/privacy for privacy and
     opt-out information.
   url: 'https://www.newslaundry.com/subscription'
-  lastEpisodePublished: '2020-05-23T13:30:00Z'
+  lastEpisodePublished: '2020-05-30T14:30:21Z'
   unplayed: true
-  lastEpisodeUuid: 37e7dcdd-e884-4fc2-8f4d-77d76cc33eda
+  lastEpisodeUuid: afbfe0f0-0242-4d2b-84be-6305bf48afcf
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -397,9 +416,9 @@
     Connected provides a perspective that no other show can. Hosted by Federico
     Viticci, Myke Hurley, and Stephen Hackett.
   url: 'https://www.relay.fm/connected'
-  lastEpisodePublished: '2020-05-20T21:00:00Z'
+  lastEpisodePublished: '2020-05-27T20:15:00Z'
   unplayed: true
-  lastEpisodeUuid: c1040513-127c-4809-9a14-3ec40492666c
+  lastEpisodeUuid: 658a83d1-ed17-40ec-9bf2-37362baea3df
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -441,9 +460,9 @@
     Gross Revenue” is calculated by the (cost per thousand) rate times the total
     impressions delivered.
   url: ''
-  lastEpisodePublished: '2020-05-21T04:00:00Z'
+  lastEpisodePublished: '2020-05-28T04:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 17c6e3f6-0838-4204-81fb-be433328dd27
+  lastEpisodeUuid: a0940ad4-31be-4d4a-a95c-1318b8766c7e
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -475,9 +494,9 @@
     podcast is a weekly opportunity to spend some time thinking about those
     people...and then to remember that, actually, those people are all of us.
   url: 'http://covidsucks.libsyn.com/website'
-  lastEpisodePublished: '2020-05-09T13:59:20Z'
+  lastEpisodePublished: '2020-05-27T19:10:29Z'
   unplayed: true
-  lastEpisodeUuid: 1c40616b-5883-4a4a-866f-1d4070019d5c
+  lastEpisodeUuid: e3c678d4-c783-4ee9-817f-211216bae66c
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
