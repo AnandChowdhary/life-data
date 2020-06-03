@@ -1,3 +1,134 @@
+- uuid: e2b3954a-480f-4248-96ec-1d5f240ffc62
+  url: >-
+    https://traffic.libsyn.com/secure/thecsspodcast/TCP_CSS_Podcast__Episode_012_v3.0.mp3?dest-id=1891556
+  published: '2020-05-27T17:00:00Z'
+  duration: 1219
+  fileType: audio/mpeg
+  title: Logical Properties
+  size: '23825912'
+  playingStatus: 3
+  playedUpTo: 1220
+  starred: false
+  podcastUuid: 8b549490-46c7-0138-9767-0acc26574db2
+  podcastTitle: The CSS Podcast
+  episodeType: full
+  episodeSeason: 1
+  episodeNumber: 12
+  isDeleted: false
+- uuid: 038319f7-b37e-4fb7-9f2e-c7ca430ae541
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode46.mp3'
+  published: '2020-05-29T12:34:00Z'
+  duration: 3589
+  fileType: audio/mp3
+  title: '46: Muppet Head'
+  size: '0'
+  playingStatus: 0
+  playedUpTo: 0
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 2596f9e1-b333-4d93-a783-8481c30a98b7
+  url: 'https://traffic.libsyn.com/secure/numberphile/numberphile_parker_quiz.mp3'
+  published: '2020-05-21T16:59:08Z'
+  duration: 3334
+  fileType: audio/mp3
+  title: The Parker Quiz - with Matt Parker
+  size: '0'
+  playingStatus: 0
+  playedUpTo: 0
+  starred: false
+  podcastUuid: 8cb63a90-c70a-0136-7b94-27f978dac4db
+  podcastTitle: The Numberphile Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: d4fbd451-e91d-4152-b8bc-246a11c25943
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode45.mp3'
+  published: '2020-05-23T13:50:04Z'
+  duration: 2801
+  fileType: audio/mp3
+  title: '45: Dead Genius'
+  size: '0'
+  playingStatus: 0
+  playedUpTo: 0
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 34aec56e-ab78-42a8-a5bc-5eb16831ea09
+  url: 'https://traffic.libsyn.com/secure/unmade/special_letters_of_complaint.mp3'
+  published: '2020-05-19T13:28:50Z'
+  duration: 1415
+  fileType: audio/mp3
+  title: 'Special: I Am Writing To Complain'
+  size: '0'
+  playingStatus: 0
+  playedUpTo: 0
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 558da860-8927-4b1f-9925-6089243ca55c
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/cortex/Cortex_102.mp3
+  published: '2020-05-25T11:00:00Z'
+  duration: 5857
+  fileType: audio/mp3
+  title: Lockdown Productivity
+  size: '94340519'
+  playingStatus: 0
+  playedUpTo: 0
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: Cortex
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 448dac06-34dc-4282-9261-0c29e5fa6fb1
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_101.mp3
+  published: '2020-05-11T13:15:00Z'
+  duration: 6637
+  fileType: audio/mp3
+  title: Productivity 101
+  size: '106718761'
+  playingStatus: 0
+  playedUpTo: 0
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: Cortex
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 5ad6f853-c9a0-41a2-bfb6-06dd4ade673b
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode44.mp3'
+  published: '2020-05-12T22:36:10Z'
+  duration: 3829
+  fileType: audio/mp3
+  title: '44: Professional Complainers'
+  size: '0'
+  playingStatus: 0
+  playedUpTo: 0
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: f25fa36e-913a-4c5f-97fb-5691d2c5ba77
   url: 'http://traffic.libsyn.com/hellointernet/Six_Geese_A-laying.mp3'
   published: '2018-12-30T13:41:58Z'
@@ -1495,136 +1626,6 @@
   starred: false
   podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
   podcastTitle: Clockwise
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: a94a9242-ab24-4d82-9034-d88e31bf65d0
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise330.mp3
-  published: '2020-01-23T00:15:00Z'
-  duration: 1682
-  fileType: audio/mp3
-  title: I Call That the Airplane Squirrel
-  size: '13635114'
-  playingStatus: 3
-  playedUpTo: 1682
-  starred: false
-  podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
-  podcastTitle: Clockwise
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: d65ac50c-3499-471e-83ef-c603c67790bf
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise331.mp3
-  published: '2020-01-29T22:30:00Z'
-  duration: 1690
-  fileType: audio/mp3
-  title: Ambulatory Meat Sack
-  size: '13697780'
-  playingStatus: 3
-  playedUpTo: 1690
-  starred: false
-  podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
-  podcastTitle: Clockwise
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 8036b4b5-bc2b-436f-92ed-7d41679e6f22
-  url: 'http://feedproxy.google.com/~r/Http203Podcast/~5/du90Mu_yd7c/episode-27.m4a'
-  published: '2020-01-22T00:00:00Z'
-  duration: 3626
-  fileType: audio/x-m4a
-  title: 'Observables, board games, and ''Artechulate'''
-  size: '34218105'
-  playingStatus: 3
-  playedUpTo: 3626
-  starred: false
-  podcastUuid: 3f6543f0-4358-0133-bfa6-0d11918ab357
-  podcastTitle: HTTP 203
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 38
-  isDeleted: true
-- uuid: 3bdc5b7a-f93b-44f2-86cd-540761fff9ab
-  url: 'https://traffic.megaphone.fm/WSJ4785444395.mp3'
-  published: '2020-02-06T22:30:15Z'
-  duration: 1162
-  fileType: audio/mpeg
-  title: When Your American Dream Gets Too Crowded
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1162
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 5efd73b1-1ec4-407a-b0f7-f6d622e10f25
-  url: 'https://traffic.megaphone.fm/WSJ1316104145.mp3'
-  published: '2020-01-31T21:39:52Z'
-  duration: 986
-  fileType: audio/mp3
-  title: The Long-Lost Super Bowl
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 986
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 0c0c0f8b-445b-4af3-8a73-cb17f2805841
-  url: 'https://traffic.megaphone.fm/WSJ3219698256.mp3'
-  published: '2019-11-27T22:38:46Z'
-  duration: 1239
-  fileType: audio/mp3
-  title: The End of the Film Industry's Paramount Decrees
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1239
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 49b67b9f-1c58-478a-a9af-631e28516e0a
-  url: 'https://traffic.megaphone.fm/WSJ7095897097.mp3'
-  published: '2019-11-22T22:07:28Z'
-  duration: 1437
-  fileType: audio/mp3
-  title: 'The $340,000 Robocall Scam'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1437
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 0678f59b-559a-4b32-8cdf-e84da94d2e89
-  url: 'https://traffic.megaphone.fm/WSJ3038638516.mp3'
-  published: '2019-11-20T22:08:37Z'
-  duration: 1209
-  fileType: audio/mp3
-  title: Has Fracking Fueled Its Own Undoing?
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1209
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
