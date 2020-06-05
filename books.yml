@@ -1,62 +1,16 @@
-- isbn: '1508243247'
-  isbn13: '9781508243243'
-  fullTitle: 'Principles: Life and Work'
-  title: Principles
+- isbn: 0751529818
+  isbn13: '9780751529814'
+  fullTitle: Tuesdays with Morrie
+  title: Tuesdays with Morrie
   image_url: >-
-    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503365703l/34536488._SX98_.jpg
-  link: 'https://www.goodreads.com/book/show/34536488-principles'
-  publisher: Simon  Schuster Audio
-  author: Ray Dalio
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423763749l/6900._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie'
+  publisher: Warner
+  author: Mitch Albom
   rating: '0'
-  dateAdded: 'Sun May 03 08:55:06 -0700 2020'
-  url: 'https://www.goodreads.com/review/show/3315943611'
-- isbn: 0316219266
-  isbn13: '9780316219266'
-  fullTitle: 'The Everything Store: Jeff Bezos and the Age of Amazon'
-  title: The Everything Store
-  image_url: >-
-    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365394361l/17660462._SX98_.jpg
-  link: 'https://www.goodreads.com/book/show/17660462-the-everything-store'
-  publisher: 'Little, Brown and Company'
-  author: Brad Stone
-  rating: '0'
-  dateAdded: 'Sun May 03 08:55:03 -0700 2020'
-  url: 'https://www.goodreads.com/review/show/3315943523'
-- fullTitle: How Google Works
-  title: How Google Works
-  image_url: >-
-    https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
-  link: 'https://www.goodreads.com/book/show/23158207-how-google-works'
-  author: Eric Schmidt
-  rating: '0'
-  dateAdded: 'Sun May 03 08:55:01 -0700 2020'
-  url: 'https://www.goodreads.com/review/show/3315943457'
-- isbn: '1501135910'
-  isbn13: '9781501135910'
-  fullTitle: 'Shoe Dog: A Memoir by the Creator of NIKE'
-  title: Shoe Dog
-  image_url: >-
-    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457284880l/27220736._SX98_.jpg
-  link: 'https://www.goodreads.com/book/show/27220736-shoe-dog'
-  publisher: Scribner
-  author: Phil Knight
-  rating: '0'
-  dateAdded: 'Sun May 03 08:54:58 -0700 2020'
-  url: 'https://www.goodreads.com/review/show/3315943380'
-- isbn: 0399592091
-  isbn13: '9780399592096'
-  fullTitle: >-
-    The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt
-    Disney Company
-  title: The Ride of a Lifetime
-  image_url: >-
-    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556036622l/44525305._SX98_.jpg
-  link: 'https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime'
-  publisher: Random House
-  author: Robert Iger
-  rating: '0'
-  dateAdded: 'Sun May 03 08:54:42 -0700 2020'
-  url: 'https://www.goodreads.com/review/show/3315942937'
+  dateAdded: 'Tue Jun 02 12:15:15 -0700 2020'
+  startedAt: 'Tue Jun 02 12:15:15 -0700 2020'
+  url: 'https://www.goodreads.com/review/show/3370760460'
 - isbn: 0062652508
   isbn13: '9780062652508'
   fullTitle: Hit Refresh
