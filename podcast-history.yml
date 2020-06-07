@@ -1,3 +1,19 @@
+- uuid: 65ad78ea-6807-40ad-92e6-624bca07ba3e
+  url: 'https://traffic.megaphone.fm/WSJ2909875204.mp3'
+  published: '2020-05-29T23:13:08Z'
+  duration: 1117
+  fileType: audio/mp3
+  title: Trump and Twitter's Showdown
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1117
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 558da860-8927-4b1f-9925-6089243ca55c
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/cortex/Cortex_102.mp3
@@ -6,15 +22,15 @@
   fileType: audio/mp3
   title: Lockdown Productivity
   size: '94340519'
-  playingStatus: 2
-  playedUpTo: 3596
+  playingStatus: 3
+  playedUpTo: 5858
   starred: false
   podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
   podcastTitle: Cortex
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: e2b3954a-480f-4248-96ec-1d5f240ffc62
   url: >-
     https://traffic.libsyn.com/secure/thecsspodcast/TCP_CSS_Podcast__Episode_012_v3.0.mp3?dest-id=1891556
@@ -1609,23 +1625,6 @@
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: cf512573-4d96-45c7-ad8d-9c69ca75d59e
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise329.mp3
-  published: '2020-01-15T18:00:00Z'
-  duration: 1771
-  fileType: audio/mp3
-  title: Forgetting as a Service
-  size: '21432289'
-  playingStatus: 2
-  playedUpTo: 1196
-  starred: false
-  podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
-  podcastTitle: Clockwise
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
