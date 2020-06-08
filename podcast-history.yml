@@ -1,3 +1,19 @@
+- uuid: 9ffd9bfe-8db9-47cf-b417-d25cf5afa38f
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode47.mp3'
+  published: '2020-06-05T10:16:45Z'
+  duration: 3437
+  fileType: audio/mp3
+  title: '47: Mispronunciation'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 3437
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 65ad78ea-6807-40ad-92e6-624bca07ba3e
   url: 'https://traffic.megaphone.fm/WSJ2909875204.mp3'
   published: '2020-05-29T23:13:08Z'
@@ -13,7 +29,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 558da860-8927-4b1f-9925-6089243ca55c
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/cortex/Cortex_102.mp3
@@ -1609,22 +1625,6 @@
   starred: false
   podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
   podcastTitle: Clockwise
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 2a5af926-b617-4768-a634-6a8d75fcf09a
-  url: 'https://traffic.megaphone.fm/WSJ4333100297.mp3'
-  published: '2020-02-12T22:57:33Z'
-  duration: 1235
-  fileType: audio/mp3
-  title: A Spying Scandal Takes Down a CEO
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1235
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
