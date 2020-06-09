@@ -1,3 +1,20 @@
+- uuid: 7bd7d5e7-d58c-456c-8fca-68b4fd75a0d4
+  url: >-
+    https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/a9408611-22bb-43c1-8824-08f4ae0792a6.mp3
+  published: '2020-06-08T09:54:23Z'
+  duration: 1662
+  fileType: audio/mp3
+  title: Why Are Police Attacking Protestors?
+  size: '25638034'
+  playingStatus: 2
+  playedUpTo: 311
+  starred: false
+  podcastUuid: 4eb5b260-c933-0134-10da-25324e2a541d
+  podcastTitle: The Daily
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 9ffd9bfe-8db9-47cf-b417-d25cf5afa38f
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode47.mp3'
   published: '2020-06-05T10:16:45Z'
@@ -1608,23 +1625,6 @@
   starred: false
   podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
   podcastTitle: Connected
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: b27e22c0-cbf0-46c1-a490-0a3d19a7896e
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise333.mp3
-  published: '2020-02-12T18:00:00Z'
-  duration: 1800
-  fileType: audio/mp3
-  title: Throwing the Spaghetti at the Consumer
-  size: '22991282'
-  playingStatus: 2
-  playedUpTo: 12
-  starred: false
-  podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
-  podcastTitle: Clockwise
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
