@@ -1,65 +1,72 @@
-start: '2020-06-01T18:30:00Z'
-end: '2020-06-08T18:29:59Z'
-total: 40260.021178
-totalText: 11 hrs 11 mins
-dailyAverage: 8052
-dailyAverageText: 2 hrs 14 mins
+start: '2020-06-02T18:30:00Z'
+end: '2020-06-09T18:29:59Z'
+total: 40555.73974
+totalText: 11 hrs 15 mins
+dailyAverage: 8111
+dailyAverageText: 2 hrs 15 mins
 days: 7
 languages:
-  - digital: '4:58'
+  - digital: '4:50'
     hours: 4
-    minutes: 58
+    minutes: 50
     name: TypeScript
-    percent: 44.46
-    text: 4 hrs 58 mins
-    total_seconds: 17901.044171
+    percent: 42.98
+    text: 4 hrs 50 mins
+    total_seconds: 17432.750062
   - digital: '2:06'
     hours: 2
     minutes: 6
     name: TeX
-    percent: 18.87
+    percent: 18.74
     text: 2 hrs 6 mins
     total_seconds: 7598.532919
-  - digital: '1:39'
+  - digital: '1:44'
     hours: 1
-    minutes: 39
+    minutes: 44
     name: Vue.js
-    percent: 14.78
-    text: 1 hr 39 mins
-    total_seconds: 5950.062453
+    percent: 15.47
+    text: 1 hr 44 mins
+    total_seconds: 6274.774306
   - digital: '0:49'
     hours: 0
     minutes: 49
     name: BibTeX
-    percent: 7.44
+    percent: 7.38
     text: 49 mins
     total_seconds: 2994.094491
   - digital: '0:38'
     hours: 0
     minutes: 38
     name: Other
-    percent: 5.76
+    percent: 5.64
     text: 38 mins
-    total_seconds: 2319.432323
+    total_seconds: 2287.939382
   - digital: '0:28'
     hours: 0
     minutes: 28
     name: Markdown
-    percent: 4.28
+    percent: 4.25
     text: 28 mins
     total_seconds: 1724.941946
   - digital: '0:19'
     hours: 0
     minutes: 19
     name: YAML
-    percent: 2.88
+    percent: 2.86
     text: 19 mins
     total_seconds: 1158.789707
+  - digital: '0:07'
+    hours: 0
+    minutes: 7
+    name: JavaScript
+    percent: 1.16
+    text: 7 mins
+    total_seconds: 472.192732
   - digital: '0:05'
     hours: 0
     minutes: 5
     name: Perl
-    percent: 0.83
+    percent: 0.82
     text: 5 mins
     total_seconds: 333.51224
   - digital: '0:01'
@@ -83,10 +90,3 @@ languages:
     percent: 0.19
     text: 1 min
     total_seconds: 76.387683
-  - digital: '0:00'
-    hours: 0
-    minutes: 0
-    name: JavaScript
-    percent: 0
-    text: 0 secs
-    total_seconds: 1.398973
