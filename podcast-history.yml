@@ -1,3 +1,19 @@
+- uuid: 18f97404-885e-493a-bb58-dc90f3af76cf
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode48.mp3'
+  published: '2020-06-10T16:04:57Z'
+  duration: 3556
+  fileType: audio/mp3
+  title: '48: Exceedingly Fortunate'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1857
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 7bd7d5e7-d58c-456c-8fca-68b4fd75a0d4
   url: >-
     https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/a9408611-22bb-43c1-8824-08f4ae0792a6.mp3
@@ -1608,23 +1624,6 @@
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 189a68bf-7b68-4a28-ba3c-87f96ea4345e
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_280b.mp3
-  published: '2020-02-05T21:30:00Z'
-  duration: 5451
-  fileType: audio/mp3
-  title: Peanut Butterpeanut Butterpeanut Butter
-  size: '87374509'
-  playingStatus: 2
-  playedUpTo: 4742
-  starred: false
-  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
-  podcastTitle: Connected
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
