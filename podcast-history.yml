@@ -1,3 +1,19 @@
+- uuid: 948b4f3f-059a-4951-9f77-28a6f2897774
+  url: 'http://traffic.libsyn.com/hellointernet/102.mp3'
+  published: '2018-05-24T16:14:25Z'
+  duration: 7072
+  fileType: audio/mp3
+  title: 'H.I. #102: Secret Cinema'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 4056
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: Hello Internet
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 102
+  isDeleted: false
 - uuid: 18f97404-885e-493a-bb58-dc90f3af76cf
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode48.mp3'
   published: '2020-06-10T16:04:57Z'
@@ -5,15 +21,15 @@
   fileType: audio/mp3
   title: '48: Exceedingly Fortunate'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 1857
+  playingStatus: 3
+  playedUpTo: 3556
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: The Unmade Podcast
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 7bd7d5e7-d58c-456c-8fca-68b4fd75a0d4
   url: >-
     https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/a9408611-22bb-43c1-8824-08f4ae0792a6.mp3
@@ -30,7 +46,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 9ffd9bfe-8db9-47cf-b417-d25cf5afa38f
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode47.mp3'
   published: '2020-06-05T10:16:45Z'
@@ -1055,22 +1071,6 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 100
-  isDeleted: true
-- uuid: 948b4f3f-059a-4951-9f77-28a6f2897774
-  url: 'http://traffic.libsyn.com/hellointernet/102.mp3'
-  published: '2018-05-24T16:14:25Z'
-  duration: 7072
-  fileType: audio/mp3
-  title: 'H.I. #102: Secret Cinema'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 7072
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: Hello Internet
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 102
   isDeleted: true
 - uuid: d3eb6225-c564-4278-b72c-9a9ee665f96b
   url: >-
