@@ -1,3 +1,19 @@
+- uuid: bfb6e123-d557-436e-a270-ed05eb78da99
+  url: 'http://traffic.libsyn.com/hellointernet/103.mp3'
+  published: '2018-05-31T21:39:55Z'
+  duration: 6205
+  fileType: audio/mp3
+  title: 'H.I. 103: Don''t Read the Comments'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 242
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: Hello Internet
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 948b4f3f-059a-4951-9f77-28a6f2897774
   url: 'http://traffic.libsyn.com/hellointernet/102.mp3'
   published: '2018-05-24T16:14:25Z'
@@ -5,15 +21,15 @@
   fileType: audio/mp3
   title: 'H.I. #102: Secret Cinema'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 5853
+  playingStatus: 3
+  playedUpTo: 7072
   starred: false
   podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   podcastTitle: Hello Internet
   episodeType: full
   episodeSeason: 0
   episodeNumber: 102
-  isDeleted: false
+  isDeleted: true
 - uuid: 18f97404-885e-493a-bb58-dc90f3af76cf
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode48.mp3'
   published: '2020-06-10T16:04:57Z'
@@ -1087,7 +1103,7 @@
   podcastTitle: Connected
   episodeType: full
   episodeSeason: 0
-  episodeNumber: 0
+  episodeNumber: 284
   isDeleted: true
 - uuid: 52612d87-9f3c-4721-a708-bb084ffd3a5f
   url: >-
@@ -1138,7 +1154,7 @@
   podcastTitle: Connected
   episodeType: full
   episodeSeason: 0
-  episodeNumber: 0
+  episodeNumber: 278
   isDeleted: true
 - uuid: 7b6a6d20-2a42-42ef-95c5-903705ddb437
   url: >-
@@ -1399,7 +1415,7 @@
   podcastTitle: Connected
   episodeType: full
   episodeSeason: 0
-  episodeNumber: 0
+  episodeNumber: 282
   isDeleted: true
 - uuid: 1d4e8e82-ddd6-4a45-a4c5-d7936762e47a
   url: 'https://traffic.megaphone.fm/WSJ4070950152.mp3'
@@ -1605,22 +1621,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 1248
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: d98c837c-cb95-4544-8e7e-4c21d4a44882
-  url: 'https://traffic.megaphone.fm/WSJ5060580865.mp3'
-  published: '2020-02-14T22:58:49Z'
-  duration: 1165
-  fileType: audio/mp3
-  title: Bloomberg's Big Money Strategy
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1165
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: The Journal.
