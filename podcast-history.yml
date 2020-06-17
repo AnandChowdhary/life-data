@@ -1,3 +1,19 @@
+- uuid: 80ec60a2-e083-4583-a59b-4e7576ea3eed
+  url: 'http://traffic.libsyn.com/hellointernet/HI98.mp3'
+  published: '2018-02-28T18:00:04Z'
+  duration: 4611
+  fileType: audio/mp3
+  title: 'H.I. #98: The Dogfather'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1254
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: Hello Internet
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 98
+  isDeleted: false
 - uuid: bfb6e123-d557-436e-a270-ed05eb78da99
   url: 'http://traffic.libsyn.com/hellointernet/103.mp3'
   published: '2018-05-31T21:39:55Z'
@@ -1608,22 +1624,6 @@
   starred: false
   podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
   podcastTitle: How I Built This with Guy Raz
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: a9aec7ff-b4c6-4273-8770-a5ccf16d29d7
-  url: 'https://traffic.megaphone.fm/WSJ4703767131.mp3'
-  published: '2020-02-13T22:12:54Z'
-  duration: 1248
-  fileType: audio/mp3
-  title: Nike's Vaporfly Is 'Magic.' But Is It Fair?
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1248
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
