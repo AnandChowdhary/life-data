@@ -6,7 +6,7 @@
   title: 'H.I. #98: The Dogfather'
   size: '0'
   playingStatus: 2
-  playedUpTo: 1254
+  playedUpTo: 3024
   starred: false
   podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   podcastTitle: Hello Internet
@@ -1414,7 +1414,7 @@
   podcastTitle: Clockwise
   episodeType: full
   episodeSeason: 0
-  episodeNumber: 0
+  episodeNumber: 334
   isDeleted: true
 - uuid: 4768b13a-eae8-492d-8b10-4af126321928
   url: >-
