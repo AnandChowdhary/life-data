@@ -1,3 +1,20 @@
+- uuid: 115ebd7f-3785-4b39-b749-7b6b134649c3
+  url: >-
+    https://www.buzzsprout.com/1097978/4078679-david-cramer-creator-of-sentry.mp3?blob_id=15667355
+  published: '2020-06-07T22:00:00Z'
+  duration: 4526
+  fileType: audio/mpeg
+  title: 'David Cramer, creator of Sentry'
+  size: '54339091'
+  playingStatus: 2
+  playedUpTo: 2671
+  starred: false
+  podcastUuid: 232007c0-88dd-0138-ee41-0acc26574db2
+  podcastTitle: The Sourcegraph Podcast
+  episodeType: full
+  episodeSeason: 1
+  episodeNumber: 1
+  isDeleted: false
 - uuid: 80ec60a2-e083-4583-a59b-4e7576ea3eed
   url: 'http://traffic.libsyn.com/hellointernet/HI98.mp3'
   published: '2018-02-28T18:00:04Z'
@@ -1610,21 +1627,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 135
-  isDeleted: true
-- uuid: 35ed4d7f-b5a9-49f7-8703-d395cea48806
-  url: >-
-    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2020/02/20200214_hibt_eventbrite-8eecfc37-01bc-4c26-9d6f-32ddac438b68.mp3?awCollectionId=510313&awEpisodeId=806106473&orgId=1&d=3954&p=510313&story=806106473&t=podcast&e=806106473&size=63116075&ft=pod&f=510313
-  published: '2020-02-17T05:01:00Z'
-  duration: 3953
-  fileType: audio/mpeg
-  title: 'Eventbrite: Julia Hartz'
-  size: '63116075'
-  playingStatus: 3
-  playedUpTo: 3953
-  starred: false
-  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-  podcastTitle: How I Built This with Guy Raz
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
   isDeleted: true
