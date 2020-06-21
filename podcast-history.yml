@@ -7,14 +7,14 @@
   title: 'David Cramer, creator of Sentry'
   size: '54339091'
   playingStatus: 2
-  playedUpTo: 2671
+  playedUpTo: 4503
   starred: false
   podcastUuid: 232007c0-88dd-0138-ee41-0acc26574db2
   podcastTitle: The Sourcegraph Podcast
   episodeType: full
   episodeSeason: 1
   episodeNumber: 1
-  isDeleted: false
+  isDeleted: true
 - uuid: 80ec60a2-e083-4583-a59b-4e7576ea3eed
   url: 'http://traffic.libsyn.com/hellointernet/HI98.mp3'
   published: '2018-02-28T18:00:04Z'
@@ -30,7 +30,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 98
-  isDeleted: false
+  isDeleted: true
 - uuid: bfb6e123-d557-436e-a270-ed05eb78da99
   url: 'http://traffic.libsyn.com/hellointernet/103.mp3'
   published: '2018-05-31T21:39:55Z'
