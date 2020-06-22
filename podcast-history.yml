@@ -1,7 +1,23 @@
+- uuid: 362df279-9bf4-4fe7-8538-009b1c537263
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode49.mp3'
+  published: '2020-06-19T23:13:44Z'
+  duration: 4267
+  fileType: audio/mp3
+  title: '49: Something Borrowed, Something Blue'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 470
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 115ebd7f-3785-4b39-b749-7b6b134649c3
   url: >-
     https://www.buzzsprout.com/1097978/4078679-david-cramer-creator-of-sentry.mp3?blob_id=15667355
-  published: '2020-06-07T22:00:00Z'
+  published: '2020-06-15T15:00:00Z'
   duration: 4526
   fileType: audio/mpeg
   title: 'David Cramer, creator of Sentry'
@@ -1611,20 +1627,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 47
-  isDeleted: true
-- uuid: c3ccac1a-a319-4ee9-ac4a-d44637f456f8
-  url: 'http://traffic.libsyn.com/hellointernet/135.mp3'
-  published: '2020-01-23T16:23:43Z'
-  duration: 5397
-  fileType: audio/mp3
-  title: 'H.I. #135: Place Your Bets'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 5405
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: Hello Internet
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 135
   isDeleted: true
