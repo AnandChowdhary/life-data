@@ -1,5 +1,5 @@
-start: '2020-06-15T18:30:00Z'
-end: '2020-06-22T18:29:59Z'
+start: '2020-06-16T18:30:00Z'
+end: '2020-06-23T18:29:59Z'
 total: 5285.124294
 totalText: 1 hr 28 mins
 dailyAverage: 1762
@@ -55,10 +55,3 @@ languages:
     percent: 0.14
     text: 0 secs
     total_seconds: 7.485939
-  - digital: '0:00'
-    hours: 0
-    minutes: 0
-    name: CSV
-    percent: 0
-    text: 0 secs
-    total_seconds: 0
