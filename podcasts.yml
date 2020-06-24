@@ -1,3 +1,23 @@
+- uuid: 045f3aa0-aa6a-0136-7b93-27f978dac4db
+  episodesSortOrder: 3
+  autoStartFrom: 0
+  title: The Argument
+  author: The New York Times Opinion
+  description: >-
+    The other side is dangerously wrong. They think you are too. But for
+    democracy to work, we need to hear each other out. Each week New York Times
+    Opinion columnists Frank Bruni, Ross Douthat and Michelle Goldberg explain
+    the arguments from across the political spectrum. Their candid debates help
+    you form your own opinion of the latest news, and learn how the other half
+    thinks. Find the best ways to persuade in the modern search for common
+    ground.
+  url: 'https://www.nytimes.com/theargument'
+  lastEpisodePublished: '2020-06-18T04:00:00Z'
+  unplayed: true
+  lastEpisodeUuid: 195d4389-1286-4bc1-a60c-cf83c2360740
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
+  autoSkipLast: 0
 - uuid: 15d3b4d0-cf39-0137-1e1a-0acc26574db2
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -9,9 +29,9 @@
     Atwood, Woz, Martha Stewart, and Leon Panetta. Every episode will make you a
     little more remarkable.
   url: 'https://guykawasaki.com/remarkable-people/'
-  lastEpisodePublished: '2020-06-17T13:30:16Z'
+  lastEpisodePublished: '2020-06-24T13:30:02Z'
   unplayed: true
-  lastEpisodeUuid: ea03d4be-d680-41c9-a7fc-2b30e9962194
+  lastEpisodeUuid: 298f8c13-f12a-45a0-bffe-8d23f2b6821e
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -28,9 +48,9 @@
     technology, to space, health and the environment, we share all the
     information you need to keep pace. Produced by Right Angles.
   url: 'https://www.newscientist.com/'
-  lastEpisodePublished: '2020-06-12T01:00:00Z'
+  lastEpisodePublished: '2020-06-19T01:00:00Z'
   unplayed: true
-  lastEpisodeUuid: a5ddfe84-4c70-4b5c-94b1-2e42eff9cc45
+  lastEpisodeUuid: ee903557-a77e-4b04-8d93-cdf79e8e3c5b
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -81,9 +101,9 @@
     every week; visit a16z.com for more details and to sign up for our
     newsletters and other content as well!
   url: 'https://www.a16z.com'
-  lastEpisodePublished: '2020-06-17T15:00:24Z'
+  lastEpisodePublished: '2020-06-24T00:42:20Z'
   unplayed: true
-  lastEpisodeUuid: 0d1ceae1-1949-4b33-b90c-91d03ef0d895
+  lastEpisodeUuid: 03905674-677d-4c93-99ec-a6041f3e8d20
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -106,9 +126,9 @@
     passionate about leveling up your own productivity or perhaps an aspiring
     dev tool creator yourself, this podcast is for you.
   url: ''
-  lastEpisodePublished: '2020-06-07T22:00:00Z'
+  lastEpisodePublished: '2020-06-22T15:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 115ebd7f-3785-4b39-b749-7b6b134649c3
+  lastEpisodeUuid: 6da0516d-0412-4417-a5f7-d519de953a58
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -138,10 +158,10 @@
     Knutson. The Journal is a co-production from Gimlet Media and The Wall
     Street Journal.
   url: 'https://www.wsj.com/podcasts/the-journal'
-  lastEpisodePublished: '2020-06-16T20:38:22Z'
-  unplayed: true
-  lastEpisodeUuid: 492a2b0a-40e0-4235-bf2b-a97f8adf2731
-  lastEpisodePlayingStatus: 1
+  lastEpisodePublished: '2020-06-23T20:00:00Z'
+  unplayed: false
+  lastEpisodeUuid: 1a4e67f4-df5e-4f06-a355-5574373a936f
+  lastEpisodePlayingStatus: 0
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
@@ -173,9 +193,9 @@
     told by the best journalists in the world. Hosted by Michael Barbaro. Twenty
     minutes a day, five days a week, ready by 6 a.m.
   url: 'https://www.nytimes.com/the-daily'
-  lastEpisodePublished: '2020-06-17T09:55:44Z'
+  lastEpisodePublished: '2020-06-24T09:54:13Z'
   unplayed: true
-  lastEpisodeUuid: 626c3231-2ad5-4065-a490-2f573c908e93
+  lastEpisodeUuid: 1c5a862a-12b7-4a10-bc9b-282a1470da37
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -191,10 +211,10 @@
     trips, thorny reunions, and difficult conversations as he backpedals his way
     into the past like a therapist with a time machine. From Gimlet Media.
   url: 'https://gimletmedia.com/show/heavyweight/'
-  lastEpisodePublished: '2020-06-04T16:26:00Z'
-  unplayed: false
-  lastEpisodeUuid: 059627b8-9a8a-480f-9fcf-376a19f67a51
-  lastEpisodePlayingStatus: 0
+  lastEpisodePublished: '2020-06-18T08:00:00Z'
+  unplayed: true
+  lastEpisodeUuid: f4283b44-0b36-42df-9f9b-bc48b610b35c
+  lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
@@ -203,17 +223,19 @@
   title: Where Should We Begin? with Esther Perel
   author: Esther Perel Global Media & Gimlet
   description: >-
-    Step into iconic couples therapist Esther Perel's office and listen as real
-    couples anonymously bare the raw, intimate, and profound details of their
-    story. From infidelity, to sexlessness, to loss, it's a space for people to
-    be heard and understood. It's also a place for us to listen and feel
-    empowered in our own relationships. So.. where should we begin?
+    Listen to the incomparable therapist Esther Perel counsel real couples as
+    they reveal the most intimate, personal, and complicated details of the
+    conflicts that have brought them to her door. This season, she takes on open
+    marriage, racism inside an extended family, coming out in a religious home,
+    and chronic infidelity, among other delicate dynamics. Esther creates a
+    space for us to hear our own lives and struggles articulated in the stories
+    of others. So....where should we begin?
   url: 'https://estherperel.com/podcast'
-  lastEpisodePublished: '2020-05-14T18:55:32Z'
+  lastEpisodePublished: '2020-06-18T16:00:00Z'
   unplayed: false
-  lastEpisodeUuid: 1e22f75c-7692-4eae-b005-05f3edcfbd43
+  lastEpisodeUuid: 46f9cf4c-8357-4d76-976b-452daebc6dd6
   lastEpisodePlayingStatus: 0
-  lastEpisodeArchived: false
+  lastEpisodeArchived: true
   autoSkipLast: 0
 - uuid: 851d1840-476e-0137-f266-1d245fc5f9cf
   episodesSortOrder: 3
@@ -244,11 +266,11 @@
     Advocates from Google, who gleefully breakdown complex aspects of CSS into
     digestible episodes covering everything from accessibility to z-index.
   url: 'https://thecsspodcast.libsyn.com'
-  lastEpisodePublished: '2020-05-27T17:00:00Z'
-  unplayed: false
-  lastEpisodeUuid: e2b3954a-480f-4248-96ec-1d5f240ffc62
-  lastEpisodePlayingStatus: 3
-  lastEpisodeArchived: true
+  lastEpisodePublished: '2020-06-17T17:00:00Z'
+  unplayed: true
+  lastEpisodeUuid: 63566e1d-3f02-40d1-937e-626d34c8deec
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 8cb63a90-c70a-0136-7b94-27f978dac4db
   episodesSortOrder: 3
@@ -341,10 +363,10 @@
     companies. How I Built This weaves a narrative journey about innovators,
     entrepreneurs and idealists—and the movements they built.
   url: 'http://www.npr.org/series/490248027/how-i-built-this'
-  lastEpisodePublished: '2020-06-15T04:01:12Z'
-  unplayed: false
-  lastEpisodeUuid: a411ca14-e7ae-4081-a072-4f05fb06f317
-  lastEpisodePlayingStatus: 0
+  lastEpisodePublished: '2020-06-22T04:01:34Z'
+  unplayed: true
+  lastEpisodeUuid: 4a968f24-b682-45d8-87c2-eb88f1fd808a
+  lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: a5163bc0-08ab-0137-f265-1d245fc5f9cf
@@ -359,9 +381,9 @@
     personally and professionally as they try to turn their idea into something
     that will change the world.
   url: 'https://www.startups.com/community/startup-therapy'
-  lastEpisodePublished: '2020-06-15T09:00:00Z'
+  lastEpisodePublished: '2020-06-22T09:00:00Z'
   unplayed: true
-  lastEpisodeUuid: b9927cbc-f003-41a9-955d-97a8ce99feed
+  lastEpisodeUuid: f453d315-957e-43fe-bb2b-13df7e431e3d
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -372,9 +394,9 @@
   author: Relay FM
   description: "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always\_watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent."
   url: 'https://www.relay.fm/clockwise'
-  lastEpisodePublished: '2020-06-11T00:45:00Z'
+  lastEpisodePublished: '2020-06-24T17:00:00Z'
   unplayed: true
-  lastEpisodeUuid: e66f4c86-b103-491d-9a64-0a37106c2e4b
+  lastEpisodeUuid: dbfca664-dec2-47aa-a0ec-28983e313408
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -385,9 +407,9 @@
   author: Tim Hein and Brady Haran
   description: Tim and Brady discuss ideas for podcasts that they will never make.
   url: 'https://www.unmade.fm/'
-  lastEpisodePublished: '2020-06-10T16:04:57Z'
+  lastEpisodePublished: '2020-06-19T23:13:44Z'
   unplayed: false
-  lastEpisodeUuid: 18f97404-885e-493a-bb58-dc90f3af76cf
+  lastEpisodeUuid: 362df279-9bf4-4fe7-8538-009b1c537263
   lastEpisodePlayingStatus: 3
   lastEpisodeArchived: true
   autoSkipLast: 0
@@ -424,9 +446,9 @@
     http://bit.ly/paytokeepnewsfree See acast.com/privacy for privacy and
     opt-out information.
   url: 'https://www.newslaundry.com/subscription'
-  lastEpisodePublished: '2020-06-13T14:25:00Z'
+  lastEpisodePublished: '2020-06-20T13:30:37Z'
   unplayed: true
-  lastEpisodeUuid: eb2213a1-6b64-40b0-86d1-85dfaace5de3
+  lastEpisodeUuid: 827307ba-28a3-4cf4-9392-029953bcb13f
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -441,9 +463,9 @@
     Connected provides a perspective that no other show can. Hosted by Federico
     Viticci, Myke Hurley, and Stephen Hackett.
   url: 'https://www.relay.fm/connected'
-  lastEpisodePublished: '2020-06-10T22:45:00Z'
+  lastEpisodePublished: '2020-06-17T23:30:00Z'
   unplayed: true
-  lastEpisodeUuid: f86d4d1d-60d4-4f28-87bc-d96f0b2c9962
+  lastEpisodeUuid: 5b147662-a2fc-4303-9a7d-6a2339dfa8c0
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
