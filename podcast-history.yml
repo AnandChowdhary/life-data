@@ -1,3 +1,20 @@
+- uuid: 1a238e5f-c733-4a13-8169-e4a049a48764
+  url: >-
+    https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/48fe4553-d4ba-4b1c-9a8f-d55e7b7814d7.mp3
+  published: '2020-06-25T04:00:00Z'
+  duration: 2593
+  fileType: audio/mp3
+  title: Place Your Bets on Biden’s V.P.
+  size: '40657815'
+  playingStatus: 2
+  playedUpTo: 1484
+  starred: false
+  podcastUuid: 045f3aa0-aa6a-0136-7b93-27f978dac4db
+  podcastTitle: The Argument
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 636f0f95-9309-4bf8-8bc2-eb2701e92a55
   url: 'http://traffic.libsyn.com/hellointernet/119.mp3'
   published: '2019-02-28T22:14:18Z'
@@ -6,7 +23,7 @@
   title: 'H.I. #119: Hit The Holler Horn'
   size: '0'
   playingStatus: 2
-  playedUpTo: 908
+  playedUpTo: 3316
   starred: false
   podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   podcastTitle: Hello Internet
@@ -14,6 +31,23 @@
   episodeSeason: 0
   episodeNumber: 119
   isDeleted: false
+- uuid: 5b147662-a2fc-4303-9a7d-6a2339dfa8c0
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/connected/Connected_299.mp3
+  published: '2020-06-17T23:30:00Z'
+  duration: 5950
+  fileType: audio/mp3
+  title: The Rickies (Summer 2020)
+  size: '191021545'
+  playingStatus: 3
+  playedUpTo: 5950
+  starred: false
+  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
+  podcastTitle: Connected
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 299
+  isDeleted: true
 - uuid: 362df279-9bf4-4fe7-8538-009b1c537263
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode49.mp3'
   published: '2020-06-19T23:13:44Z'
@@ -1593,38 +1627,5 @@
   podcastTitle: The Journal.
   episodeType: full
   episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 4850cc01-577d-4795-8ac0-aa92b218958d
-  url: 'https://traffic.megaphone.fm/WSJ9392824042.mp3'
-  published: '2020-02-18T23:12:29Z'
-  duration: 1170
-  fileType: audio/mp3
-  title: How a Kardashian Producer Became a Saudi Deal Maker
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1170
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: ee2fe3d9-be0b-4edb-882f-b4356bc0040f
-  url: >-
-    https://media.blubrry.com/sitepen/media.sitepen.com/podcast/TalkScript_053.mp3
-  published: '2020-02-18T18:21:58Z'
-  duration: 3205
-  fileType: audio/mp3
-  title: 'Episode 53: Single Point of Failure'
-  size: '51341318'
-  playingStatus: 2
-  playedUpTo: 3105
-  starred: false
-  podcastUuid: 20592310-4f61-0133-c35e-0d11918ab357
-  podcastTitle: TalkScript
-  episodeType: full
-  episodeSeason: 1
   episodeNumber: 0
   isDeleted: true
