@@ -1,3 +1,37 @@
+- uuid: f74d1b25-25d1-4c75-869c-1c0b63be6e1b
+  url: >-
+    https://traffic.libsyn.com/secure/thecsspodcast/TCP_CSS_Podcast_Episode_014_v1.0.mp3?dest-id=1891556
+  published: '2020-06-24T17:00:00Z'
+  duration: 1208
+  fileType: audio/mpeg
+  title: Pseudo Elements
+  size: '23626316'
+  playingStatus: 2
+  playedUpTo: 1038
+  starred: false
+  podcastUuid: 8b549490-46c7-0138-9767-0acc26574db2
+  podcastTitle: The CSS Podcast
+  episodeType: full
+  episodeSeason: 1
+  episodeNumber: 14
+  isDeleted: false
+- uuid: eb29a6d8-0aa3-4c59-ba00-09718899b97e
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM1261519580.mp3
+  published: '2020-06-25T12:00:00Z'
+  duration: 213
+  fileType: audio/mp3
+  title: Introducing Foundering
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 213
+  starred: false
+  podcastUuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
+  podcastTitle: Travel Genius
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 1a238e5f-c733-4a13-8169-e4a049a48764
   url: >-
     https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/48fe4553-d4ba-4b1c-9a8f-d55e7b7814d7.mp3
@@ -6,15 +40,15 @@
   fileType: audio/mp3
   title: Place Your Bets on Biden’s V.P.
   size: '40657815'
-  playingStatus: 2
-  playedUpTo: 1484
+  playingStatus: 3
+  playedUpTo: 2593
   starred: false
   podcastUuid: 045f3aa0-aa6a-0136-7b93-27f978dac4db
   podcastTitle: The Argument
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 636f0f95-9309-4bf8-8bc2-eb2701e92a55
   url: 'http://traffic.libsyn.com/hellointernet/119.mp3'
   published: '2019-02-28T22:14:18Z'
@@ -1589,39 +1623,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 982
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 334b0b36-9941-4740-9dfd-9b0280a7a2b0
-  url: >-
-    https://media.blubrry.com/sitepen/media.sitepen.com/podcast/TalkScript_052.mp3
-  published: '2019-12-23T18:55:33Z'
-  duration: 2070
-  fileType: audio/mp3
-  title: 'Episode 52: Holiday Special'
-  size: '33170393'
-  playingStatus: 3
-  playedUpTo: 2070
-  starred: false
-  podcastUuid: 20592310-4f61-0133-c35e-0d11918ab357
-  podcastTitle: TalkScript
-  episodeType: full
-  episodeSeason: 1
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 6f602d48-3b9b-4b2a-ae0b-cdd69cfc557f
-  url: 'https://traffic.megaphone.fm/WSJ1409617541.mp3'
-  published: '2020-02-19T22:21:38Z'
-  duration: 968
-  fileType: audio/mp3
-  title: An Economic Superpower on Lockdown
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 968
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: The Journal.
