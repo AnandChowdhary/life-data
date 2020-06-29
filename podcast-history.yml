@@ -1,3 +1,19 @@
+- uuid: 636f0f95-9309-4bf8-8bc2-eb2701e92a55
+  url: 'http://traffic.libsyn.com/hellointernet/119.mp3'
+  published: '2019-02-28T22:14:18Z'
+  duration: 5476
+  fileType: audio/mp3
+  title: 'H.I. #119: Hit The Holler Horn'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 3473
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: Hello Internet
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 119
+  isDeleted: false
 - uuid: f74d1b25-25d1-4c75-869c-1c0b63be6e1b
   url: >-
     https://traffic.libsyn.com/secure/thecsspodcast/TCP_CSS_Podcast_Episode_014_v1.0.mp3?dest-id=1891556
@@ -49,22 +65,6 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: true
-- uuid: 636f0f95-9309-4bf8-8bc2-eb2701e92a55
-  url: 'http://traffic.libsyn.com/hellointernet/119.mp3'
-  published: '2019-02-28T22:14:18Z'
-  duration: 5476
-  fileType: audio/mp3
-  title: 'H.I. #119: Hit The Holler Horn'
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 3316
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: Hello Internet
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 119
-  isDeleted: false
 - uuid: 5b147662-a2fc-4303-9a7d-6a2339dfa8c0
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/connected/Connected_299.mp3
@@ -100,12 +100,12 @@
   isDeleted: true
 - uuid: 115ebd7f-3785-4b39-b749-7b6b134649c3
   url: >-
-    https://www.buzzsprout.com/1097978/4078679-david-cramer-creator-of-sentry.mp3?blob_id=15667355
+    https://www.buzzsprout.com/1097978/4078679-david-cramer-cto-and-founder-of-sentry.mp3?blob_id=16990295
   published: '2020-06-15T15:00:00Z'
   duration: 4526
   fileType: audio/mpeg
-  title: 'David Cramer, creator of Sentry'
-  size: '54339091'
+  title: 'David Cramer, CTO and founder of Sentry'
+  size: '54339121'
   playingStatus: 2
   playedUpTo: 4503
   starred: false
