@@ -1,3 +1,20 @@
+- uuid: 2b4dbf87-0305-4d9e-921c-d23c300a0991
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/cortex/Cortex_103.mp3
+  published: '2020-06-29T11:15:00Z'
+  duration: 6254
+  fileType: audio/mp3
+  title: A New Widgety World
+  size: '101063353'
+  playingStatus: 2
+  playedUpTo: 5527
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: Cortex
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 103
+  isDeleted: false
 - uuid: 636f0f95-9309-4bf8-8bc2-eb2701e92a55
   url: 'http://traffic.libsyn.com/hellointernet/119.mp3'
   published: '2019-02-28T22:14:18Z'
@@ -6,7 +23,7 @@
   title: 'H.I. #119: Hit The Holler Horn'
   size: '0'
   playingStatus: 2
-  playedUpTo: 3473
+  playedUpTo: 3650
   starred: false
   podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   podcastTitle: Hello Internet
@@ -30,7 +47,7 @@
   episodeType: full
   episodeSeason: 1
   episodeNumber: 14
-  isDeleted: false
+  isDeleted: true
 - uuid: eb29a6d8-0aa3-4c59-ba00-09718899b97e
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/BLM1261519580.mp3
@@ -1610,22 +1627,6 @@
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: The Unmade Podcast
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 95b426c8-6f93-438a-a5a9-31563240969a
-  url: 'https://traffic.megaphone.fm/WSJ2302519917.mp3'
-  published: '2020-02-20T22:29:15Z'
-  duration: 982
-  fileType: audio/mp3
-  title: 'The Boy Scouts'' Survival Plan: Bankruptcy'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 982
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
