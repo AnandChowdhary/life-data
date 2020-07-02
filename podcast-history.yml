@@ -1,3 +1,19 @@
+- uuid: dabf038c-9f2a-4a00-b5c7-093e971ff0b0
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode50.mp3'
+  published: '2020-06-26T14:37:24Z'
+  duration: 3829
+  fileType: audio/mp3
+  title: '50: The Torment of Tim'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1343
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 2b4dbf87-0305-4d9e-921c-d23c300a0991
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/cortex/Cortex_103.mp3
@@ -7,7 +23,7 @@
   title: A New Widgety World
   size: '101063353'
   playingStatus: 2
-  playedUpTo: 5527
+  playedUpTo: 4504
   starred: false
   podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
   podcastTitle: Cortex
@@ -1611,22 +1627,6 @@
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 3e3907ac-2755-4830-9aad-a9a787bb6f36
-  url: 'http://traffic.libsyn.com/unmade/unmade_episode39.mp3'
-  published: '2020-02-22T09:52:17Z'
-  duration: 4200
-  fileType: audio/mp3
-  title: '39: Tools of the Trade'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 4200
-  starred: false
-  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-  podcastTitle: The Unmade Podcast
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
