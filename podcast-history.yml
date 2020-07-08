@@ -1,3 +1,19 @@
+- uuid: b2a7407a-4f9f-4608-917d-582db90e1b00
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_special_Brilli_Timilli.mp3'
+  published: '2020-06-30T13:52:29Z'
+  duration: 2922
+  fileType: audio/mp3
+  title: 'Special: Brilli Timilli'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1306
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: c4a7a53a-2e68-4b14-aa9e-232e950b80f9
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode51.mp3'
   published: '2020-07-04T13:08:25Z'
@@ -1608,22 +1624,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 1124
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 055824a1-13a2-4945-b1d2-6abbf3da16a4
-  url: 'https://traffic.megaphone.fm/WSJ9328922536.mp3'
-  published: '2020-02-24T22:49:23Z'
-  duration: 1242
-  fileType: audio/mp3
-  title: Baseball's Biggest Scandal in a Century
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1242
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: The Journal.
