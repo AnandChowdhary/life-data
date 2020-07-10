@@ -1,3 +1,51 @@
+- uuid: d56fe611-13e3-4e6c-b175-40b1e86190b2
+  url: 'https://traffic.megaphone.fm/WSJ4777837657.mp3?updated=1593116289'
+  published: '2020-06-25T20:09:30Z'
+  duration: 1020
+  fileType: audio/mpeg
+  title: Wirecard's Missing $2 Billion
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1020
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 1a4e67f4-df5e-4f06-a355-5574373a936f
+  url: 'https://traffic.megaphone.fm/WSJ4546221191.mp3'
+  published: '2020-06-23T20:00:00Z'
+  duration: 1109
+  fileType: audio/mp3
+  title: How New York's Coronavirus Response Made the Pandemic Worse
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1109
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: dabf038c-9f2a-4a00-b5c7-093e971ff0b0
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode50.mp3'
+  published: '2020-06-26T14:37:24Z'
+  duration: 3829
+  fileType: audio/mp3
+  title: '50: The Torment of Tim'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 3829
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: b2a7407a-4f9f-4608-917d-582db90e1b00
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_special_Brilli_Timilli.mp3'
   published: '2020-06-30T13:52:29Z'
@@ -5,15 +53,15 @@
   fileType: audio/mp3
   title: 'Special: Brilli Timilli'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 2682
+  playingStatus: 3
+  playedUpTo: 2922
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: The Unmade Podcast
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: c4a7a53a-2e68-4b14-aa9e-232e950b80f9
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode51.mp3'
   published: '2020-07-04T13:08:25Z'
@@ -63,22 +111,6 @@
   episodeSeason: 0
   episodeNumber: 119
   isDeleted: true
-- uuid: dabf038c-9f2a-4a00-b5c7-093e971ff0b0
-  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode50.mp3'
-  published: '2020-06-26T14:37:24Z'
-  duration: 3829
-  fileType: audio/mp3
-  title: '50: The Torment of Tim'
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 1680
-  starred: false
-  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-  podcastTitle: The Unmade Podcast
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: false
 - uuid: f74d1b25-25d1-4c75-869c-1c0b63be6e1b
   url: >-
     https://traffic.libsyn.com/secure/thecsspodcast/TCP_CSS_Podcast_Episode_014_v1.0.mp3?dest-id=1891556
@@ -1597,37 +1629,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 334
-  isDeleted: true
-- uuid: 4768b13a-eae8-492d-8b10-4af126321928
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_282.mp3
-  published: '2020-02-19T22:00:00Z'
-  duration: 5653
-  fileType: audio/mp3
-  title: Three HomePods Too Late
-  size: '90604463'
-  playingStatus: 3
-  playedUpTo: 5653
-  starred: false
-  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
-  podcastTitle: Connected
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 282
-  isDeleted: true
-- uuid: 1d4e8e82-ddd6-4a45-a4c5-d7936762e47a
-  url: 'https://traffic.megaphone.fm/WSJ4070950152.mp3'
-  published: '2020-02-25T22:29:57Z'
-  duration: 1124
-  fileType: audio/mp3
-  title: How Big Pharma Lost Its Swagger
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1124
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
   isDeleted: true
