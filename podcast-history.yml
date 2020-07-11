@@ -1,3 +1,19 @@
+- uuid: e2513bfc-0eca-437f-9d41-0df10c5f8a08
+  url: 'https://traffic.megaphone.fm/WSJ5743574482.mp3'
+  published: '2020-07-09T21:30:53Z'
+  duration: 893
+  fileType: audio/mp3
+  title: The Supreme Court Decides on Trump's Financial Records
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 835
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: d56fe611-13e3-4e6c-b175-40b1e86190b2
   url: 'https://traffic.megaphone.fm/WSJ4777837657.mp3?updated=1593116289'
   published: '2020-06-25T20:09:30Z'
@@ -13,7 +29,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 1a4e67f4-df5e-4f06-a355-5574373a936f
   url: 'https://traffic.megaphone.fm/WSJ4546221191.mp3'
   published: '2020-06-23T20:00:00Z'
@@ -1612,21 +1628,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 97
-  isDeleted: true
-- uuid: 9543c0d3-a5c3-413f-86da-d7a5cb330a76
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise334.mp3
-  published: '2020-02-20T05:00:00Z'
-  duration: 1768
-  fileType: audio/mp3
-  title: I Like That We Live in the Future
-  size: '14325869'
-  playingStatus: 3
-  playedUpTo: 1768
-  starred: false
-  podcastUuid: acf9fe50-ca90-0130-355c-723c91aeae46
-  podcastTitle: Clockwise
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 334
   isDeleted: true
