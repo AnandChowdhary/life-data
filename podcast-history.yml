@@ -5,15 +5,15 @@
   fileType: audio/mp3
   title: '52: Muses and Mountains'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 622
+  playingStatus: 3
+  playedUpTo: 2971
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: The Unmade Podcast
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: e2513bfc-0eca-437f-9d41-0df10c5f8a08
   url: 'https://traffic.megaphone.fm/WSJ5743574482.mp3'
   published: '2020-07-09T21:30:53Z'
@@ -29,7 +29,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: d56fe611-13e3-4e6c-b175-40b1e86190b2
   url: 'https://traffic.megaphone.fm/WSJ4777837657.mp3?updated=1593116289'
   published: '2020-06-25T20:09:30Z'
