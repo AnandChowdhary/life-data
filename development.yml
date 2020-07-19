@@ -1,74 +1,74 @@
-start: '2020-07-10T18:30:00Z'
-end: '2020-07-17T18:29:59Z'
-total: 101963.717697
-totalText: 28 hrs 19 mins
-dailyAverage: 14566
-dailyAverageText: 4 hrs 2 mins
+start: '2020-07-11T18:30:00Z'
+end: '2020-07-18T18:29:59Z'
+total: 102707.115741
+totalText: 28 hrs 31 mins
+dailyAverage: 14672
+dailyAverageText: 4 hrs 4 mins
 days: 7
 languages:
-  - digital: '19:02'
+  - digital: '19:03'
     hours: 19
-    minutes: 2
+    minutes: 3
     name: Other
-    percent: 60.21
-    text: 19 hrs 2 mins
-    total_seconds: 68546.661689
-  - digital: '4:28'
+    percent: 59.88
+    text: 19 hrs 3 mins
+    total_seconds: 68615.974058
+  - digital: '4:34'
     hours: 4
-    minutes: 28
+    minutes: 34
     name: JavaScript
-    percent: 14.17
-    text: 4 hrs 28 mins
-    total_seconds: 16130.645554
-  - digital: '3:39'
-    hours: 3
-    minutes: 39
+    percent: 14.37
+    text: 4 hrs 34 mins
+    total_seconds: 16469.708805
+  - digital: '4:03'
+    hours: 4
+    minutes: 3
     name: Svelte
-    percent: 11.56
-    text: 3 hrs 39 mins
-    total_seconds: 13155.581721
+    percent: 12.75
+    text: 4 hrs 3 mins
+    total_seconds: 14608.021179
   - digital: '1:19'
     hours: 1
     minutes: 19
     name: Markdown
-    percent: 4.2
+    percent: 4.18
     text: 1 hr 19 mins
     total_seconds: 4785.740785
-  - digital: '1:06'
+  - digital: '1:00'
     hours: 1
-    minutes: 6
+    minutes: 0
     name: JSON
-    percent: 3.48
-    text: 1 hr 6 mins
-    total_seconds: 3962.840369
+    percent: 3.16
+    text: 1 hr
+    total_seconds: 3625.313224
   - digital: '0:44'
     hours: 0
     minutes: 44
     name: TypeScript
-    percent: 2.35
+    percent: 2.34
     text: 44 mins
     total_seconds: 2676.064009
   - digital: '0:37'
     hours: 0
     minutes: 37
     name: SCSS
-    percent: 1.97
+    percent: 1.96
     text: 37 mins
-    total_seconds: 2240.938776
-  - digital: '0:21'
+    total_seconds: 2242.800759
+  - digital: '0:10'
     hours: 0
-    minutes: 21
+    minutes: 10
     name: YAML
-    percent: 1.15
-    text: 21 mins
-    total_seconds: 1304.064086
-  - digital: '0:07'
+    percent: 0.53
+    text: 10 mins
+    total_seconds: 603.836694
+  - digital: '0:05'
     hours: 0
-    minutes: 7
+    minutes: 5
     name: XML
-    percent: 0.38
-    text: 7 mins
-    total_seconds: 427.609636
+    percent: 0.31
+    text: 5 mins
+    total_seconds: 358.014122
   - digital: '0:03'
     hours: 0
     minutes: 3
@@ -87,9 +87,9 @@ languages:
     hours: 0
     minutes: 2
     name: Text
-    percent: 0.12
+    percent: 0.11
     text: 2 mins
-    total_seconds: 132.787227
+    total_seconds: 120.858261
   - digital: '0:01'
     hours: 0
     minutes: 1
