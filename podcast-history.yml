@@ -1,3 +1,19 @@
+- uuid: 383b9309-6a4b-4b08-8247-c3f792ca4724
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode53.mp3'
+  published: '2020-07-20T12:57:04Z'
+  duration: 3657
+  fileType: audio/mp3
+  title: '53: Weird and Grumpy'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 680
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 636f0f95-9309-4bf8-8bc2-eb2701e92a55
   url: 'http://traffic.libsyn.com/hellointernet/119.mp3'
   published: '2019-02-28T22:14:18Z'
@@ -5,15 +21,15 @@
   fileType: audio/mp3
   title: 'H.I. #119: Hit The Holler Horn'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 4680
+  playingStatus: 3
+  playedUpTo: 5476
   starred: false
   podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   podcastTitle: Hello Internet
   episodeType: full
   episodeSeason: 0
   episodeNumber: 119
-  isDeleted: false
+  isDeleted: true
 - uuid: cea3d5ab-e64c-4f91-97a7-fd11ef32308f
   url: 'http://traffic.libsyn.com/hellointernet/117.mp3'
   published: '2019-01-30T21:17:42Z'
@@ -1605,22 +1621,6 @@
   size: '0'
   playingStatus: 3
   playedUpTo: 1179
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: b24ac2e3-db89-48b8-abb9-66d19e043733
-  url: 'https://traffic.megaphone.fm/WSJ6194807910.mp3'
-  published: '2020-02-28T21:37:57Z'
-  duration: 1187
-  fileType: audio/mp3
-  title: What Bernie Sanders's Socialism Means
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1187
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: The Journal.
