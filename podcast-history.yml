@@ -5,15 +5,15 @@
   fileType: audio/mp3
   title: '53: Weird and Grumpy'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 680
+  playingStatus: 3
+  playedUpTo: 3657
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: The Unmade Podcast
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 636f0f95-9309-4bf8-8bc2-eb2701e92a55
   url: 'http://traffic.libsyn.com/hellointernet/119.mp3'
   published: '2019-02-28T22:14:18Z'
@@ -1012,7 +1012,7 @@
   fileType: audio/mp3
   title: Milt
   size: '0'
-  playingStatus: 2
+  playingStatus: 3
   playedUpTo: 1243
   starred: false
   podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
