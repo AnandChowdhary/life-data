@@ -1,3 +1,19 @@
+- uuid: 70695680-07d8-464a-ac2d-3647d290d622
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode54.mp3'
+  published: '2020-07-25T22:06:37Z'
+  duration: 3788
+  fileType: audio/mp3
+  title: '54: The Best Photo I Ever Took'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 2688
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: ce310826-c730-416e-a075-cd8ba7cd7aab
   url: 'https://traffic.libsyn.com/secure/numberphile/numberphile_simon_pampena.mp3'
   published: '2020-07-01T15:38:43Z'
@@ -5,15 +21,15 @@
   fileType: audio/mp3
   title: The Numeracy Ambassador - with Simon Pampena
   size: '0'
-  playingStatus: 2
-  playedUpTo: 2668
+  playingStatus: 3
+  playedUpTo: 3614
   starred: false
   podcastUuid: 8cb63a90-c70a-0136-7b94-27f978dac4db
   podcastTitle: The Numberphile Podcast
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 242e2392-129e-4953-958a-ae14a7253748
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/cortex/Cortex_104.mp3
@@ -1612,20 +1628,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: true
-- uuid: 9390e1de-57bd-4aef-ab77-ac1fe6d41219
-  url: 'https://traffic.megaphone.fm/GLT5882234605.mp3'
-  published: '2020-02-26T21:53:00Z'
-  duration: 2762
-  fileType: audio/mp3
-  title: 'Esther Perel''s New Show: How''s Work?'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 2762
-  starred: false
-  podcastUuid: 7be8e0e0-1e33-0135-52f8-452518e2d253
-  podcastTitle: Where Should We Begin? with Esther Perel
-  episodeType: full
-  episodeSeason: 3
-  episodeNumber: 7
   isDeleted: true
