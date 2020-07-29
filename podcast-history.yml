@@ -1,3 +1,36 @@
+- uuid: 45461223-d671-44f6-9db3-37c3cbd5be0c
+  url: 'https://traffic.libsyn.com/secure/numberphile/numberphile_katie_steckles.mp3'
+  published: '2020-07-23T19:33:39Z'
+  duration: 3589
+  fileType: audio/mp3
+  title: The Third Cornet - with Katie Steckles
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1065
+  starred: false
+  podcastUuid: 8cb63a90-c70a-0136-7b94-27f978dac4db
+  podcastTitle: The Numberphile Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: c6b4752b-9436-4fec-bc60-384cee99b3bf
+  url: >-
+    https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/4566cf65-1f9b-486e-b57a-9117ce0c2059.mp3
+  published: '2020-07-09T04:00:00Z'
+  duration: 2159
+  fileType: audio/mp3
+  title: Is Trump's Fate Sealed?
+  size: '34074122'
+  playingStatus: 3
+  playedUpTo: 2159
+  starred: false
+  podcastUuid: 045f3aa0-aa6a-0136-7b93-27f978dac4db
+  podcastTitle: The Argument
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 70695680-07d8-464a-ac2d-3647d290d622
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode54.mp3'
   published: '2020-07-25T22:06:37Z'
@@ -5,15 +38,15 @@
   fileType: audio/mp3
   title: '54: The Best Photo I Ever Took'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 3530
+  playingStatus: 3
+  playedUpTo: 3788
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: The Unmade Podcast
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: ce310826-c730-416e-a075-cd8ba7cd7aab
   url: 'https://traffic.libsyn.com/secure/numberphile/numberphile_simon_pampena.mp3'
   published: '2020-07-01T15:38:43Z'
@@ -1595,37 +1628,4 @@
   episodeType: full
   episodeSeason: 3
   episodeNumber: 5
-  isDeleted: true
-- uuid: 8d27539c-6898-4d9d-b70e-db307e78029e
-  url: >-
-    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2020/02/20200228_hibt_hibt_-_casey_neistat_-_final_podcast_mix-6e0c6cda-6182-49b9-911b-083ef1319cd5-9210df36-2a4b-4320-8e45-600419b0c32b.mp3?awCollectionId=510313&awEpisodeId=810412631&orgId=1&d=5673&p=510313&story=810412631&t=podcast&e=810412631&size=90560513&ft=pod&f=510313
-  published: '2020-03-02T05:01:00Z'
-  duration: 5673
-  fileType: audio/mpeg
-  title: 'Video Artist: Casey Neistat'
-  size: '90560513'
-  playingStatus: 3
-  playedUpTo: 5673
-  starred: false
-  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-  podcastTitle: How I Built This with Guy Raz
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: b5b7ada2-2d08-4acd-be51-b73812f2f2b1
-  url: 'https://traffic.megaphone.fm/WSJ5467832108.mp3'
-  published: '2020-03-02T22:30:26Z'
-  duration: 1310
-  fileType: audio/mpeg
-  title: The 'Mystery Man' Tells Us How He Helped Free Rod Blagojevich
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1310
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
   isDeleted: true
