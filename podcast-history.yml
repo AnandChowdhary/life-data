@@ -1,3 +1,19 @@
+- uuid: a63f058b-cddf-455a-b634-ccd1f0f42c00
+  url: 'https://traffic.megaphone.fm/WSJ2931876249.mp3'
+  published: '2020-07-27T20:35:06Z'
+  duration: 1249
+  fileType: audio/mp3
+  title: School's Coming Back. What Will It Look Like?
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 735
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 6b9a8b80-0549-4673-9b99-b316aac6d112
   url: 'https://traffic.megaphone.fm/WSJ5530690707.mp3?updated=1595370303'
   published: '2020-07-21T21:49:13Z'
@@ -13,7 +29,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 45461223-d671-44f6-9db3-37c3cbd5be0c
   url: 'https://traffic.libsyn.com/secure/numberphile/numberphile_katie_steckles.mp3'
   published: '2020-07-23T19:33:39Z'
@@ -1612,20 +1628,4 @@
   episodeType: full
   episodeSeason: 3
   episodeNumber: 6
-  isDeleted: true
-- uuid: 39c38d33-d023-4f9d-806e-9391f8a10a97
-  url: 'https://traffic.megaphone.fm/WSJ1785790516.mp3'
-  published: '2020-03-03T23:15:46Z'
-  duration: 1086
-  fileType: audio/mpeg
-  title: How Washington State's Coronavirus Outbreak Unfolded
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1086
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
   isDeleted: true
