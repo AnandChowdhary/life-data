@@ -1,19 +1,3 @@
-- uuid: 0a8719e8-fddf-4798-b4fc-a12970d890d5
-  url: 'http://traffic.libsyn.com/hellointernet/HI134.mp3'
-  published: '2019-12-30T22:52:28Z'
-  duration: 4956
-  fileType: audio/mp3
-  title: 'H.I. 134: Boxing Day'
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 3288
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: Hello Internet
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: false
 - uuid: 74a83ab2-4af9-4bee-ad40-9dec33359e30
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW4294325872.mp3
@@ -23,7 +7,7 @@
   title: 'Episode 0: When Scientology Declares You Fair Game'
   size: '0'
   playingStatus: 2
-  playedUpTo: 3197
+  playedUpTo: 3268
   starred: false
   podcastUuid: f68a8fc0-a9ae-0138-e692-0acc26574db2
   podcastTitle: 'Scientology: Fair Game'
@@ -31,6 +15,22 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: false
+- uuid: 0a8719e8-fddf-4798-b4fc-a12970d890d5
+  url: 'http://traffic.libsyn.com/hellointernet/HI134.mp3'
+  published: '2019-12-30T22:52:28Z'
+  duration: 4956
+  fileType: audio/mp3
+  title: 'H.I. 134: Boxing Day'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 4956
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: Hello Internet
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: a63f058b-cddf-455a-b634-ccd1f0f42c00
   url: 'https://traffic.megaphone.fm/WSJ2931876249.mp3'
   published: '2020-07-27T20:35:06Z'
