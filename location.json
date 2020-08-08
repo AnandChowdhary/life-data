@@ -1,7 +1,8 @@
 {
-  "city": "New Delhi",
-  "county": "Hauz Khas Tehsil",
-  "suburb": "Yusuf Sarai",
-  "state": "Delhi",
+  "city": "Fatehpur Chandela",
+  "village": "Ankhir",
+  "county": "Faridabad",
+  "state_district": "Faridabad",
+  "state": "Haryana",
   "country": "India"
 }
