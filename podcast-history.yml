@@ -1,3 +1,19 @@
+- uuid: fc7d66b5-161d-465d-864c-1d04f18a5f94
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode_55.mp3'
+  published: '2020-08-05T17:13:41Z'
+  duration: 3928
+  fileType: audio/mp3
+  title: '55: Dangerous Game'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 3685
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 74a83ab2-4af9-4bee-ad40-9dec33359e30
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW4294325872.mp3
@@ -1610,22 +1626,6 @@
   starred: false
   podcastUuid: 4eb5b260-c933-0134-10da-25324e2a541d
   podcastTitle: The Daily
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 7e6bacf8-938e-4bec-aeb4-4ff157bbabae
-  url: 'https://traffic.megaphone.fm/WSJ7761534296.mp3'
-  published: '2020-03-04T22:22:21Z'
-  duration: 952
-  fileType: audio/mp3
-  title: The Moderates' Super Tuesday Gamble
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 952
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
