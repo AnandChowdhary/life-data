@@ -1,19 +1,102 @@
-- uuid: fc7d66b5-161d-465d-864c-1d04f18a5f94
-  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode_55.mp3'
-  published: '2020-08-05T17:13:41Z'
-  duration: 3928
-  fileType: audio/mp3
-  title: '55: Dangerous Game'
-  size: '0'
+- uuid: 4b2fae96-9c7e-455b-b40f-dd3c3b603bf9
+  url: >-
+    https://www.buzzsprout.com/1097978/4354517-evan-culver-of-segment.mp3?blob_id=17435234
+  published: '2020-07-05T23:00:00Z'
+  duration: 3684
+  fileType: audio/mpeg
+  title: Evan Culver of Segment
+  size: '44231909'
   playingStatus: 2
-  playedUpTo: 3685
+  playedUpTo: 3649
   starred: false
-  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-  podcastTitle: The Unmade Podcast
+  podcastUuid: 232007c0-88dd-0138-ee41-0acc26574db2
+  podcastTitle: The Sourcegraph Podcast
+  episodeType: full
+  episodeSeason: 1
+  episodeNumber: 4
+  isDeleted: false
+- uuid: d6976ef7-3dec-484d-90a8-d881db56feed
+  url: >-
+    https://www.buzzsprout.com/1097978/4261673-charity-majors-cto-and-founder-of-honeycomb.mp3?blob_id=16990280
+  published: '2020-06-29T00:00:00Z'
+  duration: 4239
+  fileType: audio/mpeg
+  title: 'Charity Majors, CTO and founder of Honeycomb'
+  size: '50884967'
+  playingStatus: 3
+  playedUpTo: 4239
+  starred: false
+  podcastUuid: 232007c0-88dd-0138-ee41-0acc26574db2
+  podcastTitle: The Sourcegraph Podcast
+  episodeType: full
+  episodeSeason: 1
+  episodeNumber: 3
+  isDeleted: true
+- uuid: 6da0516d-0412-4417-a5f7-d519de953a58
+  url: >-
+    https://www.buzzsprout.com/1097978/3849032-ryan-djurovich-of-xero-and-cloudlfare.mp3?blob_id=16990256
+  published: '2020-06-22T15:00:00Z'
+  duration: 5724
+  fileType: audio/mpeg
+  title: Ryan Djurovich of Xero and Cloudlfare
+  size: '68705369'
+  playingStatus: 3
+  playedUpTo: 5724
+  starred: false
+  podcastUuid: 232007c0-88dd-0138-ee41-0acc26574db2
+  podcastTitle: The Sourcegraph Podcast
+  episodeType: full
+  episodeSeason: 1
+  episodeNumber: 2
+  isDeleted: true
+- uuid: fca88c81-f465-4c59-93a2-dfd843105b44
+  url: 'https://traffic.megaphone.fm/WSJ6662360428.mp3'
+  published: '2020-07-22T20:35:37Z'
+  duration: 1136
+  fileType: audio/mp3
+  title: From Boom to Bust in America's Largest Oil Field
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1136
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
+- uuid: c39f71f4-6185-453c-bd38-93d661c814b5
+  url: 'https://traffic.megaphone.fm/WSJ4226971585.mp3'
+  published: '2020-07-24T20:42:08Z'
+  duration: 1029
+  fileType: audio/mp3
+  title: The Inside Story of Europe's Historic Bailout
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1029
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: a63f058b-cddf-455a-b634-ccd1f0f42c00
+  url: 'https://traffic.megaphone.fm/WSJ2931876249.mp3'
+  published: '2020-07-27T20:35:06Z'
+  duration: 1249
+  fileType: audio/mp3
+  title: School's Coming Back. What Will It Look Like?
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1249
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 74a83ab2-4af9-4bee-ad40-9dec33359e30
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/chtbl.com/track/5899E/traffic.megaphone.fm/HSW4294325872.mp3
@@ -22,15 +105,31 @@
   fileType: audio/mp3
   title: 'Episode 0: When Scientology Declares You Fair Game'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 3268
+  playingStatus: 3
+  playedUpTo: 3966
   starred: false
   podcastUuid: f68a8fc0-a9ae-0138-e692-0acc26574db2
   podcastTitle: 'Scientology: Fair Game'
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
+- uuid: fc7d66b5-161d-465d-864c-1d04f18a5f94
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode_55.mp3'
+  published: '2020-08-05T17:13:41Z'
+  duration: 3928
+  fileType: audio/mp3
+  title: '55: Dangerous Game'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 3928
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 0a8719e8-fddf-4798-b4fc-a12970d890d5
   url: 'http://traffic.libsyn.com/hellointernet/HI134.mp3'
   published: '2019-12-30T22:52:28Z'
@@ -47,22 +146,6 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: true
-- uuid: a63f058b-cddf-455a-b634-ccd1f0f42c00
-  url: 'https://traffic.megaphone.fm/WSJ2931876249.mp3'
-  published: '2020-07-27T20:35:06Z'
-  duration: 1249
-  fileType: audio/mp3
-  title: School's Coming Back. What Will It Look Like?
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 735
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: false
 - uuid: 6b9a8b80-0549-4673-9b99-b316aac6d112
   url: 'https://traffic.megaphone.fm/WSJ5530690707.mp3?updated=1595370303'
   published: '2020-07-21T21:49:13Z'
@@ -1544,89 +1627,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 100
-  isDeleted: true
-- uuid: d3eb6225-c564-4278-b72c-9a9ee665f96b
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_284.mp3
-  published: '2020-03-04T22:15:00Z'
-  duration: 5166
-  fileType: audio/mp3
-  title: stevensmerch.com
-  size: '82805475'
-  playingStatus: 2
-  playedUpTo: 4
-  starred: false
-  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
-  podcastTitle: Connected
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 284
-  isDeleted: true
-- uuid: 52612d87-9f3c-4721-a708-bb084ffd3a5f
-  url: >-
-    https://www.buzzsprout.com/814035/2795887-4-lab-grown-meat-neanderthal-burials-and-space-tourism.mp3?blob_id=9576268
-  published: '2020-02-21T01:00:00Z'
-  duration: 1712
-  fileType: audio/mpeg
-  title: '#4: Lab-grown meat, Neanderthal burials, and space tourism'
-  size: '20624557'
-  playingStatus: 2
-  playedUpTo: 672
-  starred: false
-  podcastUuid: 18909320-261f-0138-9fe3-0acc26574db2
-  podcastTitle: New Scientist Weekly
-  episodeType: full
-  episodeSeason: 1
-  episodeNumber: 4
-  isDeleted: true
-- uuid: a5f139a0-2a71-41f1-b023-0212dc3f89e4
-  url: >-
-    https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/3698f4ac-bc66-4304-b7b4-e88008dd866c.mp3
-  published: '2020-03-05T10:50:19Z'
-  duration: 1839
-  fileType: audio/mp3
-  title: The Coronavirus Outbreak in Washington State
-  size: '27242161'
-  playingStatus: 3
-  playedUpTo: 1839
-  starred: false
-  podcastUuid: 4eb5b260-c933-0134-10da-25324e2a541d
-  podcastTitle: The Daily
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: ffcbd08f-a450-40fa-9e46-5b387c73aaca
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_278.mp3
-  published: '2020-01-22T21:30:00Z'
-  duration: 5559
-  fileType: audio/mp3
-  title: Honey for my Ears
-  size: '89095157'
-  playingStatus: 3
-  playedUpTo: 5559
-  starred: false
-  podcastUuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
-  podcastTitle: Connected
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 278
-  isDeleted: true
-- uuid: 7b6a6d20-2a42-42ef-95c5-903705ddb437
-  url: >-
-    https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/d7c237ef-3375-4764-b12e-7fd51ae08ac1.mp3
-  published: '2020-03-04T10:51:51Z'
-  duration: 1593
-  fileType: audio/mp3
-  title: How Super Tuesday Unfolded
-  size: '24098272'
-  playingStatus: 3
-  playedUpTo: 1593
-  starred: false
-  podcastUuid: 4eb5b260-c933-0134-10da-25324e2a541d
-  podcastTitle: The Daily
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
   isDeleted: true
