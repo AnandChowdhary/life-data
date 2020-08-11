@@ -1,3 +1,19 @@
+- uuid: d8103d31-6b1b-4dcb-8161-587c6bfbbd5e
+  url: 'https://traffic.megaphone.fm/GLT3339052587.mp3?updated=1541018583'
+  published: '2018-11-01T08:00:00Z'
+  duration: 2632
+  fileType: audio/mpeg
+  title: Joey
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 894
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: Heavyweight
+  episodeType: full
+  episodeSeason: 3
+  episodeNumber: 19
+  isDeleted: false
 - uuid: 4b2fae96-9c7e-455b-b40f-dd3c3b603bf9
   url: >-
     https://www.buzzsprout.com/1097978/4354517-evan-culver-of-segment.mp3?blob_id=17435234
@@ -1610,21 +1626,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: true
-- uuid: 82675fdb-6ca0-4a62-8e24-173b213d4a1d
-  url: >-
-    http://traffic.libsyn.com/hellointernet/Hello_Internet_Episode_One_Hundred.mp3
-  published: '2018-03-30T21:14:52Z'
-  duration: 5052
-  fileType: audio/mp3
-  title: Hello Internet Episode One Hundred
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 5052
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: Hello Internet
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 100
   isDeleted: true
