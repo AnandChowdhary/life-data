@@ -1,3 +1,19 @@
+- uuid: 66e3b1c3-fdc1-463b-a2cb-aa4c4c198830
+  url: 'http://traffic.libsyn.com/hellointernet/101.mp3'
+  published: '2018-04-26T13:08:08Z'
+  duration: 6791
+  fileType: audio/mp3
+  title: ‍      ‍
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1681
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: Hello Internet
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 101
+  isDeleted: false
 - uuid: d8103d31-6b1b-4dcb-8161-587c6bfbbd5e
   url: 'https://traffic.megaphone.fm/GLT3339052587.mp3?updated=1541018583'
   published: '2018-11-01T08:00:00Z'
@@ -1607,22 +1623,6 @@
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 40a2b040-0726-4d8d-8379-f98d534ee338
-  url: 'http://traffic.libsyn.com/hellointernet/HI94.mp3'
-  published: '2017-12-22T17:02:44Z'
-  duration: 6843
-  fileType: audio/mp3
-  title: 'H.I. 94: Video of Meaninglessness'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 6843
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: Hello Internet
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
