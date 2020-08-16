@@ -13,7 +13,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 66e3b1c3-fdc1-463b-a2cb-aa4c4c198830
   url: 'http://traffic.libsyn.com/hellointernet/101.mp3'
   published: '2018-04-26T13:08:08Z'
