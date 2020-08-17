@@ -151,7 +151,6 @@ longTermArtists:
     uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
   - genres:
       - pop
-      - post-teen pop
     href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
     id: 5JZ7CnR6gTvEMKX4g70Amv
     images:
@@ -188,7 +187,6 @@ longTermArtists:
     uri: 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'
   - genres:
       - modern rock
-      - pop
       - rock
     href: 'https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q'
     id: 53XhwfbYqKCa1cC15pYq2q
@@ -294,6 +292,31 @@ longTermArtists:
     uri: 'spotify:artist:3AQRLZ9PuTAozP28Skbq8V'
   - genres:
       - dance pop
+      - edm
+      - electropop
+      - pop
+      - post-teen pop
+      - scandipop
+      - swedish electropop
+      - swedish pop
+      - tropical house
+    href: 'https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg'
+    id: 1Xylc3o4UrD53lo9CvFvVg
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/a1f0668e410c1b495b2d63da7bf13e800ea81fb4'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/c0e89f90cb880bfa675ad804367192686611aa86'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/33e4a6396d2ed401f02402ce9740598c3aa3417f'
+        width: 160
+    name: Zara Larsson
+    type: artist
+    uri: 'spotify:artist:1Xylc3o4UrD53lo9CvFvVg'
+  - genres:
+      - dance pop
       - pop
       - uk pop
     href: 'https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we'
@@ -328,31 +351,6 @@ longTermArtists:
     name: Sara Farell
     type: artist
     uri: 'spotify:artist:39S7Y72G0tdDPy2INGFicV'
-  - genres:
-      - dance pop
-      - edm
-      - electropop
-      - pop
-      - post-teen pop
-      - scandipop
-      - swedish electropop
-      - swedish pop
-      - tropical house
-    href: 'https://api.spotify.com/v1/artists/1Xylc3o4UrD53lo9CvFvVg'
-    id: 1Xylc3o4UrD53lo9CvFvVg
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/a1f0668e410c1b495b2d63da7bf13e800ea81fb4'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/c0e89f90cb880bfa675ad804367192686611aa86'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/33e4a6396d2ed401f02402ce9740598c3aa3417f'
-        width: 160
-    name: Zara Larsson
-    type: artist
-    uri: 'spotify:artist:1Xylc3o4UrD53lo9CvFvVg'
   - genres:
       - dance pop
       - electropop
@@ -415,7 +413,6 @@ mediumTermArtists:
     uri: 'spotify:artist:06HL4z0CvFAxyc27GXpf02'
   - genres:
       - pop
-      - post-teen pop
     href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
     id: 5JZ7CnR6gTvEMKX4g70Amv
     images:
@@ -451,6 +448,24 @@ mediumTermArtists:
     type: artist
     uri: 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'
   - genres:
+      - electropop
+      - pop
+    href: 'https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH'
+    id: 6qqNVTkY8uBg9cP3Jd7DAH
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/022d340319cc6c57ed953075f4c7a2d3346669af'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/dc74e8e210274fd6107a795db2455c1e03730667'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/8b4f4f05ac06bddc99f97fe7795d5b44eaf27a25'
+        width: 160
+    name: Billie Eilish
+    type: artist
+    uri: 'spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH'
+  - genres:
       - canadian pop
       - candy pop
       - dance pop
@@ -471,24 +486,6 @@ mediumTermArtists:
     name: Avril Lavigne
     type: artist
     uri: 'spotify:artist:0p4nmQO2msCgU4IF37Wi3j'
-  - genres:
-      - electropop
-      - pop
-    href: 'https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH'
-    id: 6qqNVTkY8uBg9cP3Jd7DAH
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/022d340319cc6c57ed953075f4c7a2d3346669af'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/dc74e8e210274fd6107a795db2455c1e03730667'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/8b4f4f05ac06bddc99f97fe7795d5b44eaf27a25'
-        width: 160
-    name: Billie Eilish
-    type: artist
-    uri: 'spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH'
   - genres:
       - dance pop
       - pop
@@ -775,6 +772,7 @@ mediumTermArtists:
   - genres:
       - dance pop
       - electropop
+      - indie cafe pop
       - indie poptimism
       - pop
       - post-teen pop
@@ -835,7 +833,6 @@ shortTermArtists:
     uri: 'spotify:artist:0p4nmQO2msCgU4IF37Wi3j'
   - genres:
       - pop
-      - post-teen pop
     href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
     id: 5JZ7CnR6gTvEMKX4g70Amv
     images:
@@ -894,76 +891,3 @@ shortTermArtists:
     name: Zara Larsson
     type: artist
     uri: 'spotify:artist:1Xylc3o4UrD53lo9CvFvVg'
-  - genres:
-      - dance pop
-      - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR'
-    id: 66CXWjxzNUsdJxJ2JdwvnR
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/b1dfbe843b0b9f54ab2e588f33e7637d2dab065a'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/b189cb24f45db92780d1aa6c81aee69b8defa03a'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/3c4516cf74d09cf93db7536ce8826df28fba4156'
-        width: 160
-    name: Ariana Grande
-    type: artist
-    uri: 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'
-  - genres: []
-    href: 'https://api.spotify.com/v1/artists/43G7qlx7v7OGJJrUTXIqLq'
-    id: 43G7qlx7v7OGJJrUTXIqLq
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/00bc4e9f55a866689818fa27078bef9eb8aeb4c4'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/6f59d3c7237d760f13eb406cec74326f89482ff5'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/5fb3ec0ad4195555b4f4f0369de0eb386d21d34c'
-        width: 160
-    name: Ivy Adara
-    type: artist
-    uri: 'spotify:artist:43G7qlx7v7OGJJrUTXIqLq'
-  - genres:
-      - dance pop
-      - pop
-      - uk pop
-    href: 'https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we'
-    id: 6M2wZ9GZgrQXHCFfjv46we
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/330f9806621bc0fe67f5c06f2f1f8df53d011b4e'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/1d452370e002660986515bacbcaf28a9aea68d2e'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/44893ea0065579ff145176eab721794b7714640c'
-        width: 160
-    name: Dua Lipa
-    type: artist
-    uri: 'spotify:artist:6M2wZ9GZgrQXHCFfjv46we'
-  - genres:
-      - dance pop
-      - pop
-      - post-teen pop
-    href: 'https://api.spotify.com/v1/artists/5p7f24Rk5HkUZsaS3BLG5F'
-    id: 5p7f24Rk5HkUZsaS3BLG5F
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/4520a1f2ef56222c7e96d14271fbb0cb01cddd0d'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/950d483a381c21a41e80a755ae3dc30723d85912'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/a2107931e1639b71f4ceb2db20dfba0d09506438'
-        width: 160
-    name: Hailee Steinfeld
-    type: artist
-    uri: 'spotify:artist:5p7f24Rk5HkUZsaS3BLG5F'
