@@ -12,9 +12,9 @@
     thinks. Find the best ways to persuade in the modern search for common
     ground.
   url: 'https://www.nytimes.com/theargument'
-  lastEpisodePublished: '2020-08-06T04:00:00Z'
+  lastEpisodePublished: '2020-08-13T04:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 0609a22d-9b90-415b-a40c-bcbd8933bc91
+  lastEpisodeUuid: 94874671-5a0f-4d01-912b-f2be0da9d8e2
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -29,9 +29,9 @@
     Atwood, Woz, Martha Stewart, and Leon Panetta. Every episode will make you a
     little more remarkable.
   url: 'https://guykawasaki.com/remarkable-people/'
-  lastEpisodePublished: '2020-08-12T13:30:10Z'
+  lastEpisodePublished: '2020-08-19T11:58:11Z'
   unplayed: true
-  lastEpisodeUuid: 933a8eec-715d-4bed-a639-635ee48bba55
+  lastEpisodeUuid: 67db4e3b-5ff1-4615-9400-271401f67157
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -48,9 +48,9 @@
     technology, to space, health and the environment, we share all the
     information you need to keep pace. Produced by Right Angles.
   url: 'https://www.newscientist.com/'
-  lastEpisodePublished: '2020-08-06T23:00:00Z'
+  lastEpisodePublished: '2020-08-13T23:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 5264271c-bde5-4152-a72d-9e1ad4110b99
+  lastEpisodeUuid: 03fb241e-6f6d-47a5-b49f-d85ac924838e
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -101,9 +101,9 @@
     every week; visit a16z.com for more details and to sign up for our
     newsletters and other content as well!
   url: 'https://www.a16z.com'
-  lastEpisodePublished: '2020-08-10T20:03:04Z'
+  lastEpisodePublished: '2020-08-17T15:00:09Z'
   unplayed: true
-  lastEpisodeUuid: b278e77c-603d-4770-afbe-1c3a43b21aa0
+  lastEpisodeUuid: a9099395-717d-4ed3-b91f-fe6f8f8be160
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -152,9 +152,9 @@
     Stack Overflow each month to help solve coding problems, develop new skills,
     and find job opportunities.
   url: 'https://stackoverflow.blog/podcast/'
-  lastEpisodePublished: '2020-08-11T04:20:03Z'
+  lastEpisodePublished: '2020-08-18T04:20:14Z'
   unplayed: true
-  lastEpisodeUuid: 835be54d-4e53-42a0-a980-d7478a3ec35b
+  lastEpisodeUuid: 85bdb8d6-fee5-450d-a897-54388aa7fc7c
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -184,11 +184,11 @@
     Knutson. The Journal is a co-production from Gimlet Media and The Wall
     Street Journal.
   url: 'https://www.wsj.com/podcasts/the-journal'
-  lastEpisodePublished: '2020-08-11T20:00:00Z'
-  unplayed: true
-  lastEpisodeUuid: 58386bf6-f6f6-428a-852a-b9f144a57e47
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
+  lastEpisodePublished: '2020-08-18T20:00:04Z'
+  unplayed: false
+  lastEpisodeUuid: b1aedabb-f96d-4105-a18e-fd4b827e63c3
+  lastEpisodePlayingStatus: 3
+  lastEpisodeArchived: true
   autoSkipLast: 0
 - uuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
   episodesSortOrder: 3
@@ -208,22 +208,6 @@
   lastEpisodeUuid: b5245e2d-05ad-4487-a00a-86a753e93656
   lastEpisodePlayingStatus: 0
   lastEpisodeArchived: true
-  autoSkipLast: 0
-- uuid: 4eb5b260-c933-0134-10da-25324e2a541d
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: The Daily
-  author: The New York Times
-  description: >-
-    This is what the news should sound like. The biggest stories of our time,
-    told by the best journalists in the world. Hosted by Michael Barbaro. Twenty
-    minutes a day, five days a week, ready by 6 a.m.
-  url: 'https://www.nytimes.com/the-daily'
-  lastEpisodePublished: '2020-08-12T09:54:56Z'
-  unplayed: true
-  lastEpisodeUuid: 6afd3429-b568-438b-b2d3-36c69021922d
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 77f1b350-5419-0134-ec2d-0d50f522381b
   episodesSortOrder: 3
@@ -257,9 +241,9 @@
     space for us to hear our own lives and struggles articulated in the stories
     of others. So....where should we begin?
   url: 'https://estherperel.com/podcast'
-  lastEpisodePublished: '2020-08-06T10:00:00Z'
+  lastEpisodePublished: '2020-08-13T10:00:00Z'
   unplayed: false
-  lastEpisodeUuid: 4533f324-f0b5-4b22-bf3c-53d17bf0d641
+  lastEpisodeUuid: 737f4c39-d78f-48a7-bfc0-5acb43461b63
   lastEpisodePlayingStatus: 0
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -292,9 +276,9 @@
     Advocates from Google, who gleefully breakdown complex aspects of CSS into
     digestible episodes covering everything from accessibility to z-index.
   url: 'https://thecsspodcast.libsyn.com'
-  lastEpisodePublished: '2020-08-05T17:03:35Z'
+  lastEpisodePublished: '2020-08-12T17:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 6a5b60d4-b22d-46b8-9639-21ed8bab3930
+  lastEpisodeUuid: 1961adf3-7dbc-4fc9-b29f-ed7c6b52eca7
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -389,9 +373,9 @@
     companies. How I Built This weaves a narrative journey about innovators,
     entrepreneurs and idealists—and the movements they built.
   url: 'http://www.npr.org/series/490248027/how-i-built-this'
-  lastEpisodePublished: '2020-08-10T04:01:17Z'
+  lastEpisodePublished: '2020-08-17T04:01:01Z'
   unplayed: true
-  lastEpisodeUuid: 0c9d115a-e174-4034-9509-2d1335c3155c
+  lastEpisodeUuid: 41ec3099-924b-4d7f-8f82-364297148715
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -420,9 +404,9 @@
   author: Relay FM
   description: "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always\_watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent."
   url: 'https://www.relay.fm/clockwise'
-  lastEpisodePublished: '2020-08-05T17:45:00Z'
+  lastEpisodePublished: '2020-08-12T17:30:00Z'
   unplayed: true
-  lastEpisodeUuid: beb7fdf7-3edb-405c-bde2-3f104e35ef9d
+  lastEpisodeUuid: 766f812b-ccc5-4d89-968e-24fdb60365fc
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -433,9 +417,9 @@
   author: Tim Hein and Brady Haran
   description: Tim and Brady discuss ideas for podcasts that they will never make.
   url: 'https://www.unmade.fm/'
-  lastEpisodePublished: '2020-08-05T17:13:41Z'
+  lastEpisodePublished: '2020-08-13T17:20:56Z'
   unplayed: false
-  lastEpisodeUuid: fc7d66b5-161d-465d-864c-1d04f18a5f94
+  lastEpisodeUuid: 4a828e34-d927-46e7-b031-cf9b696dd1c0
   lastEpisodePlayingStatus: 3
   lastEpisodeArchived: true
   autoSkipLast: 0
@@ -461,23 +445,6 @@
   lastEpisodePlayingStatus: 0
   lastEpisodeArchived: true
   autoSkipLast: 0
-- uuid: ec7954e0-4f9c-0130-e55a-723c91aeae46
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: NL Hafta
-  author: Newslaundry.com
-  description: >-
-    Weekly wrap of events of the week peppered with context, commentary and
-    opinion by a superstar panel. Click here to support Newslaundry:
-    http://bit.ly/paytokeepnewsfree See acast.com/privacy for privacy and
-    opt-out information.
-  url: 'https://www.newslaundry.com/subscription'
-  lastEpisodePublished: '2020-08-08T14:40:16Z'
-  unplayed: true
-  lastEpisodeUuid: 636c037a-db16-44ec-9abd-f45360682759
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
-  autoSkipLast: 0
 - uuid: ecb717a0-f99a-0131-9b3f-5f4c86fd3263
   episodesSortOrder: 3
   autoStartFrom: 0
@@ -489,9 +456,9 @@
     Connected provides a perspective that no other show can. Hosted by Federico
     Viticci, Myke Hurley, and Stephen Hackett.
   url: 'https://www.relay.fm/connected'
-  lastEpisodePublished: '2020-08-05T22:30:00Z'
+  lastEpisodePublished: '2020-08-12T21:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 070f15b4-9a47-481c-88a0-c2e2c0300e26
+  lastEpisodeUuid: 4d93d75c-84be-4821-a59e-5d809d68142a
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -553,23 +520,6 @@
   lastEpisodePublished: '2020-06-10T15:22:59Z'
   unplayed: true
   lastEpisodeUuid: 90d2e924-d1b1-44d6-a41c-ab67d0fe4061
-  lastEpisodePlayingStatus: 1
-  lastEpisodeArchived: false
-  autoSkipLast: 0
-- uuid: fd48a2f0-5d8c-0138-97dd-0acc26574db2
-  episodesSortOrder: 3
-  autoStartFrom: 0
-  title: 'COVID Sucks, People Don''t'
-  author: Hank Green
-  description: >-
-    So this situation is all awful, but people are working very hard to fight
-    this disease, get it under control, and help the people who need help. This
-    podcast is a weekly opportunity to spend some time thinking about those
-    people...and then to remember that, actually, those people are all of us.
-  url: 'http://covidsucks.libsyn.com/website'
-  lastEpisodePublished: '2020-05-27T19:10:29Z'
-  unplayed: true
-  lastEpisodeUuid: e3c678d4-c783-4ee9-817f-211216bae66c
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
