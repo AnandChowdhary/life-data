@@ -1,3 +1,51 @@
+- uuid: 6784d6ba-acc9-4aac-be06-a76c73a84e6d
+  url: 'https://traffic.megaphone.fm/WSJ4562409725.mp3'
+  published: '2020-08-13T20:00:00Z'
+  duration: 1138
+  fileType: audio/mp3
+  title: One College Tries to Bring Everyone Back
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 707
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: b1aedabb-f96d-4105-a18e-fd4b827e63c3
+  url: 'https://traffic.megaphone.fm/WSJ2867232016.mp3'
+  published: '2020-08-18T20:00:04Z'
+  duration: 804
+  fileType: audio/mpeg
+  title: When Back to Work Collides With Back to School
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 804
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: a1ad3644-62da-4b68-a468-7ca1fc88cba8
+  url: 'https://traffic.megaphone.fm/WSJ3952486439.mp3'
+  published: '2020-08-17T22:10:53Z'
+  duration: 992
+  fileType: audio/mp3
+  title: What's Going On With the Post Office?
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 992
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 66e3b1c3-fdc1-463b-a2cb-aa4c4c198830
   url: 'http://traffic.libsyn.com/hellointernet/101.mp3'
   published: '2018-04-26T13:08:08Z'
@@ -6,7 +54,7 @@
   title: ‍      ‍
   size: '0'
   playingStatus: 2
-  playedUpTo: 3542
+  playedUpTo: 5115
   starred: false
   podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
   podcastTitle: Hello Internet
@@ -1573,56 +1621,6 @@
   starred: false
   podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
   podcastTitle: How I Built This with Guy Raz
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 71919154-699d-4a38-8eab-554b78c6bfe2
-  url: 'https://traffic.megaphone.fm/WSJ5792199215.mp3'
-  published: '2020-03-06T22:15:03Z'
-  duration: 1172
-  fileType: audio/mp3
-  title: Why So Few CEOs Are Women
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1172
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: d5fcee0a-cba2-4b00-9e58-7e483217af24
-  url: >-
-    https://media.blubrry.com/sitepen/media.sitepen.com/podcast/TalkScript_054.mp3
-  published: '2020-03-06T14:13:36Z'
-  duration: 3182
-  fileType: audio/mp3
-  title: 'Episode 54: Tools We Love'
-  size: '50966272'
-  playingStatus: 3
-  playedUpTo: 3182
-  starred: false
-  podcastUuid: 20592310-4f61-0133-c35e-0d11918ab357
-  podcastTitle: TalkScript
-  episodeType: full
-  episodeSeason: 1
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 068fe9e6-fb93-4c9e-880b-4f44d8dea632
-  url: >-
-    https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/d0258043-0e74-40df-922e-9c1275d5a443.mp3
-  published: '2020-03-06T10:50:24Z'
-  duration: 2029
-  fileType: audio/mp3
-  title: The Almost-Peace Deal
-  size: '31193547'
-  playingStatus: 3
-  playedUpTo: 2029
-  starred: false
-  podcastUuid: 4eb5b260-c933-0134-10da-25324e2a541d
-  podcastTitle: The Daily
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
