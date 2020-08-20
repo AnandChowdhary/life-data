@@ -1,12 +1,12 @@
-- uuid: 6784d6ba-acc9-4aac-be06-a76c73a84e6d
-  url: 'https://traffic.megaphone.fm/WSJ4562409725.mp3'
-  published: '2020-08-13T20:00:00Z'
-  duration: 1138
+- uuid: 88b1184e-14f5-42b8-84e3-bf092748f448
+  url: 'https://traffic.megaphone.fm/WSJ2628593632.mp3'
+  published: '2020-07-31T21:03:03Z'
+  duration: 1057
   fileType: audio/mp3
-  title: One College Tries to Bring Everyone Back
+  title: Why Evictions Are Starting Again
   size: '0'
   playingStatus: 2
-  playedUpTo: 707
+  playedUpTo: 400
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: The Journal.
@@ -14,6 +14,70 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: false
+- uuid: 58386bf6-f6f6-428a-852a-b9f144a57e47
+  url: 'https://traffic.megaphone.fm/WSJ3822545116.mp3?updated=1597177201'
+  published: '2020-08-11T20:00:00Z'
+  duration: 1053
+  fileType: audio/mpeg
+  title: 'In a World Without Touring, Musicians Get Creative'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1053
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 66e3b1c3-fdc1-463b-a2cb-aa4c4c198830
+  url: 'http://traffic.libsyn.com/hellointernet/101.mp3'
+  published: '2018-04-26T13:08:08Z'
+  duration: 6791
+  fileType: audio/mp3
+  title: ‍      ‍
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 5718
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: Hello Internet
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 101
+  isDeleted: false
+- uuid: 054fd93b-e56b-4fbd-8c92-3855b4cedbf1
+  url: 'https://traffic.megaphone.fm/WSJ1944858940.mp3'
+  published: '2020-08-14T21:42:36Z'
+  duration: 1183
+  fileType: audio/mpeg
+  title: The Biden-Harris Ticket Takes the Stage
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1183
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 6784d6ba-acc9-4aac-be06-a76c73a84e6d
+  url: 'https://traffic.megaphone.fm/WSJ4562409725.mp3'
+  published: '2020-08-13T20:00:00Z'
+  duration: 1138
+  fileType: audio/mp3
+  title: One College Tries to Bring Everyone Back
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1138
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: b1aedabb-f96d-4105-a18e-fd4b827e63c3
   url: 'https://traffic.megaphone.fm/WSJ2867232016.mp3'
   published: '2020-08-18T20:00:04Z'
@@ -46,22 +110,6 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: true
-- uuid: 66e3b1c3-fdc1-463b-a2cb-aa4c4c198830
-  url: 'http://traffic.libsyn.com/hellointernet/101.mp3'
-  published: '2018-04-26T13:08:08Z'
-  duration: 6791
-  fileType: audio/mp3
-  title: ‍      ‍
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 5115
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: Hello Internet
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 101
-  isDeleted: false
 - uuid: 4a828e34-d927-46e7-b031-cf9b696dd1c0
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode56.mp3'
   published: '2020-08-13T17:20:56Z'
@@ -1572,55 +1620,6 @@
   starred: false
   podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
   podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 70df7547-0e8a-4b2d-acb3-67e417ed62fe
-  url: 'http://traffic.libsyn.com/numberphile/numberphile_holly_krieger.mp3'
-  published: '2019-12-13T10:02:45Z'
-  duration: 2400
-  fileType: audio/mp3
-  title: Champaign Mathematician - with Holly Krieger
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 2400
-  starred: false
-  podcastUuid: 8cb63a90-c70a-0136-7b94-27f978dac4db
-  podcastTitle: The Numberphile Podcast
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 13bb1a48-d678-42bf-8d14-f6a6bfa6d174
-  url: 'https://traffic.megaphone.fm/WSJ8573279313.mp3'
-  published: '2020-03-10T21:30:36Z'
-  duration: 1004
-  fileType: audio/mp3
-  title: Why the Markets Tanked on Monday
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1004
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 13b17f08-5da0-4681-8e35-9b4e79023607
-  url: >-
-    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2020/02/20200212_hibt_hibt_-_summit_2019___jetblue_final_podcast_mix.mp3?awCollectionId=510313&awEpisodeId=786502927&orgId=1&d=1021&p=510313&story=786502927&t=podcast&e=786502927&size=16312623&ft=pod&f=510313
-  published: '2020-02-13T05:01:59Z'
-  duration: 1021
-  fileType: audio/mpeg
-  title: 'Live From The HIBT Summit: David Neeleman of JetBlue Airways'
-  size: '16312623'
-  playingStatus: 3
-  playedUpTo: 1021
-  starred: false
-  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-  podcastTitle: How I Built This with Guy Raz
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
