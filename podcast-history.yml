@@ -1,3 +1,84 @@
+- uuid: 281dc1b3-2eaa-480d-8864-c8e59b9a46c5
+  url: 'https://traffic.megaphone.fm/WSJ4009917376.mp3'
+  published: '2020-08-19T22:06:01Z'
+  duration: 937
+  fileType: audio/mp3
+  title: Fortnite's Battle Royale With Big Tech
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 39
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 5831b479-f9d3-47d1-8e5e-9c49bb7ddb3c
+  url: 'https://traffic.megaphone.fm/WSJ9312420641.mp3'
+  published: '2020-08-20T22:26:18Z'
+  duration: 988
+  fileType: audio/mp3
+  title: Why Steve Bannon Got Arrested
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 988
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 724e8996-8ffd-44f4-b615-0c4f5b5fe27c
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode57.mp3'
+  published: '2020-08-20T13:39:16Z'
+  duration: 3671
+  fileType: audio/mp3
+  title: '57: Spoon of the Week'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 3670
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: 66e3b1c3-fdc1-463b-a2cb-aa4c4c198830
+  url: 'http://traffic.libsyn.com/hellointernet/101.mp3'
+  published: '2018-04-26T13:08:08Z'
+  duration: 6791
+  fileType: audio/mp3
+  title: ‍      ‍
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 5768
+  starred: false
+  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
+  podcastTitle: Hello Internet
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 101
+  isDeleted: false
+- uuid: 8355c57b-70f8-4d9c-8918-3540ffee821d
+  url: >-
+    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2020/08/20200812_hibt_airbnbfblive.mp3?awCollectionId=510313&awEpisodeId=901768355&aw_0_1st.cv=yes&orgId=1&d=1472&p=510313&story=901768355&t=podcast&e=901768355&size=23505456&ft=pod&f=510313
+  published: '2020-08-13T04:01:49Z'
+  duration: 1472
+  fileType: audio/mpeg
+  title: 'How I Built Resilience: Brian Chesky of Airbnb'
+  size: '23505456'
+  playingStatus: 2
+  playedUpTo: 0
+  starred: false
+  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
+  podcastTitle: How I Built This with Guy Raz
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 88b1184e-14f5-42b8-84e3-bf092748f448
   url: 'https://traffic.megaphone.fm/WSJ2628593632.mp3'
   published: '2020-07-31T21:03:03Z'
@@ -30,22 +111,6 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: true
-- uuid: 66e3b1c3-fdc1-463b-a2cb-aa4c4c198830
-  url: 'http://traffic.libsyn.com/hellointernet/101.mp3'
-  published: '2018-04-26T13:08:08Z'
-  duration: 6791
-  fileType: audio/mp3
-  title: ‍      ‍
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 5718
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: Hello Internet
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 101
-  isDeleted: false
 - uuid: 054fd93b-e56b-4fbd-8c92-3855b4cedbf1
   url: 'https://traffic.megaphone.fm/WSJ1944858940.mp3'
   published: '2020-08-14T21:42:36Z'
@@ -1557,70 +1622,4 @@
   episodeType: full
   episodeSeason: 1
   episodeNumber: 1
-  isDeleted: true
-- uuid: d861b564-ac52-4d01-b801-2bcd2dc9b002
-  url: 'https://traffic.megaphone.fm/WSJ4286267157.mp3'
-  published: '2020-03-12T22:05:24Z'
-  duration: 1112
-  fileType: audio/mp3
-  title: The Day Coronavirus Became a Pandemic
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1112
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: dddc6f32-8ed6-4803-90a6-fcbb013204cd
-  url: >-
-    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2020/01/20200128_hibt_hibt_-_summit_2019___slack_final_podcast_mix.mp3?awCollectionId=510313&awEpisodeId=786502527&orgId=1&d=973&p=510313&story=786502527&t=podcast&e=786502527&size=15548679&ft=pod&f=510313
-  published: '2020-01-30T05:01:49Z'
-  duration: 974
-  fileType: audio/mpeg
-  title: 'Live From The HIBT Summit: Stewart Butterfield'
-  size: '15548679'
-  playingStatus: 3
-  playedUpTo: 974
-  starred: false
-  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-  podcastTitle: How I Built This with Guy Raz
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 5dcf4fc6-409b-403a-8a1e-85b7555868ad
-  url: >-
-    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2020/03/20200311_hibt_hibt_-_summit_2019___stacys_pita_chips__-_final_podcast_mix.mp3?awCollectionId=510313&awEpisodeId=814562893&orgId=1&d=746&p=510313&story=814562893&t=podcast&e=814562893&size=11911188&ft=pod&f=510313
-  published: '2020-03-12T04:01:05Z'
-  duration: 746
-  fileType: audio/mpeg
-  title: 'Live From The HIBT Summit: Stacy Madison of Stacy''s Pita Chips'
-  size: '11911188'
-  playingStatus: 3
-  playedUpTo: 746
-  starred: false
-  podcastUuid: a4085f60-5672-0134-ec37-0d50f522381b
-  podcastTitle: How I Built This with Guy Raz
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: e19520fb-d1e2-42c9-b6ee-7cdf0208781a
-  url: 'https://traffic.megaphone.fm/WSJ5883772997.mp3'
-  published: '2020-03-11T20:52:56Z'
-  duration: 1122
-  fileType: audio/mp3
-  title: Scandal Engulfs One of America's Biggest Unions
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1122
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
   isDeleted: true
