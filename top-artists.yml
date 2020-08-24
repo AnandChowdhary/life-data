@@ -151,6 +151,7 @@ longTermArtists:
     uri: 'spotify:artist:0ZED1XzwlLHW4ZaG4lOT6m'
   - genres:
       - pop
+      - post-teen pop
     href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
     id: 5JZ7CnR6gTvEMKX4g70Amv
     images:
@@ -187,6 +188,7 @@ longTermArtists:
     uri: 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'
   - genres:
       - modern rock
+      - pop
       - rock
     href: 'https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q'
     id: 53XhwfbYqKCa1cC15pYq2q
@@ -268,29 +270,6 @@ longTermArtists:
     type: artist
     uri: 'spotify:artist:3WrFJ7ztbogyGnTHbHJFl2'
   - genres:
-      - celtic rock
-      - dance pop
-      - neo mellow
-      - pop
-      - pop rock
-      - post-teen pop
-      - viral pop
-    href: 'https://api.spotify.com/v1/artists/3AQRLZ9PuTAozP28Skbq8V'
-    id: 3AQRLZ9PuTAozP28Skbq8V
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/b0d7782a07bb4305554837a88078a3b19a5c9eda'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/5e0a9c7a5c88ef5fe439ac3e4eca933a7820100a'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/7312c86e77e44eaa56eaf6afb9948350c2cbc369'
-        width: 160
-    name: The Script
-    type: artist
-    uri: 'spotify:artist:3AQRLZ9PuTAozP28Skbq8V'
-  - genres:
       - dance pop
       - edm
       - electropop
@@ -315,6 +294,29 @@ longTermArtists:
     name: Zara Larsson
     type: artist
     uri: 'spotify:artist:1Xylc3o4UrD53lo9CvFvVg'
+  - genres:
+      - celtic rock
+      - dance pop
+      - neo mellow
+      - pop
+      - pop rock
+      - post-teen pop
+      - viral pop
+    href: 'https://api.spotify.com/v1/artists/3AQRLZ9PuTAozP28Skbq8V'
+    id: 3AQRLZ9PuTAozP28Skbq8V
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/b0d7782a07bb4305554837a88078a3b19a5c9eda'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/5e0a9c7a5c88ef5fe439ac3e4eca933a7820100a'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/7312c86e77e44eaa56eaf6afb9948350c2cbc369'
+        width: 160
+    name: The Script
+    type: artist
+    uri: 'spotify:artist:3AQRLZ9PuTAozP28Skbq8V'
   - genres:
       - dance pop
       - pop
@@ -413,6 +415,7 @@ mediumTermArtists:
     uri: 'spotify:artist:06HL4z0CvFAxyc27GXpf02'
   - genres:
       - pop
+      - post-teen pop
     href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
     id: 5JZ7CnR6gTvEMKX4g70Amv
     images:
@@ -772,7 +775,6 @@ mediumTermArtists:
   - genres:
       - dance pop
       - electropop
-      - indie cafe pop
       - indie poptimism
       - pop
       - post-teen pop
@@ -811,6 +813,24 @@ shortTermArtists:
     type: artist
     uri: 'spotify:artist:06HL4z0CvFAxyc27GXpf02'
   - genres:
+      - pop
+      - post-teen pop
+    href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
+    id: 5JZ7CnR6gTvEMKX4g70Amv
+    images:
+      - height: 640
+        url: 'https://i.scdn.co/image/445586dad6973252057c96c4e6c27ec2d5e6b9f4'
+        width: 640
+      - height: 320
+        url: 'https://i.scdn.co/image/4d42a8156f90ca265733484ba3459d927397c726'
+        width: 320
+      - height: 160
+        url: 'https://i.scdn.co/image/881df0a2eee52679a08d8930806a4767013de168'
+        width: 160
+    name: Lauv
+    type: artist
+    uri: 'spotify:artist:5JZ7CnR6gTvEMKX4g70Amv'
+  - genres:
       - canadian pop
       - candy pop
       - dance pop
@@ -831,23 +851,6 @@ shortTermArtists:
     name: Avril Lavigne
     type: artist
     uri: 'spotify:artist:0p4nmQO2msCgU4IF37Wi3j'
-  - genres:
-      - pop
-    href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
-    id: 5JZ7CnR6gTvEMKX4g70Amv
-    images:
-      - height: 640
-        url: 'https://i.scdn.co/image/445586dad6973252057c96c4e6c27ec2d5e6b9f4'
-        width: 640
-      - height: 320
-        url: 'https://i.scdn.co/image/4d42a8156f90ca265733484ba3459d927397c726'
-        width: 320
-      - height: 160
-        url: 'https://i.scdn.co/image/881df0a2eee52679a08d8930806a4767013de168'
-        width: 160
-    name: Lauv
-    type: artist
-    uri: 'spotify:artist:5JZ7CnR6gTvEMKX4g70Amv'
   - genres:
       - electropop
       - pop
