@@ -1,3 +1,35 @@
+- uuid: 0db302f7-0eb1-4242-94b4-960cc8a5e042
+  url: 'http://traffic.libsyn.com/unmade/special_trash_or_treasure.mp3'
+  published: '2018-10-04T12:17:27Z'
+  duration: 2886
+  fileType: audio/mp3
+  title: 'Special: Trash or Treasure'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 854
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: 20357a54-55cd-4f1a-9e28-d0b170d66e04
+  url: 'https://traffic.megaphone.fm/WSJ6477736893.mp3'
+  published: '2020-08-24T20:04:59Z'
+  duration: 860
+  fileType: audio/mp3
+  title: Netflix's $10 Million Deposit
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 468
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 88b1184e-14f5-42b8-84e3-bf092748f448
   url: 'https://traffic.megaphone.fm/WSJ2628593632.mp3'
   published: '2020-07-31T21:03:03Z'
@@ -13,7 +45,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 8355c57b-70f8-4d9c-8918-3540ffee821d
   url: >-
     https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2020/08/20200812_hibt_airbnbfblive.mp3?awCollectionId=510313&awEpisodeId=901768355&aw_0_1st.cv=yes&orgId=1&d=1472&p=510313&story=901768355&t=podcast&e=901768355&size=23505456&ft=pod&f=510313
@@ -223,7 +255,7 @@
   episodeType: full
   episodeSeason: 1
   episodeNumber: 4
-  isDeleted: false
+  isDeleted: true
 - uuid: d6976ef7-3dec-484d-90a8-d881db56feed
   url: >-
     https://www.buzzsprout.com/1097978/4261673-charity-majors-cto-and-founder-of-honeycomb.mp3?blob_id=16990280
@@ -1590,36 +1622,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: true
-- uuid: d47d536e-8427-4f88-be76-dec6739c285a
-  url: 'https://traffic.megaphone.fm/GLT1662327000.mp3'
-  published: '2020-02-25T10:00:00Z'
-  duration: 1485
-  fileType: audio/mpeg
-  title: 'Episode 1: Meet the Quinneys (Season 2)'
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 1485
-  starred: false
-  podcastUuid: d21b9df0-00aa-0137-324e-08b04944ede4
-  podcastTitle: Conviction
-  episodeType: full
-  episodeSeason: 2
-  episodeNumber: 1
-  isDeleted: false
-- uuid: 538ffac6-d1bb-46db-93e5-7bb72b878d83
-  url: 'https://traffic.megaphone.fm/GLT3318005977.mp3?updated=1549132499'
-  published: '2019-02-04T08:00:00Z'
-  duration: 1893
-  fileType: audio/mpeg
-  title: The Private Eye | S1 Ep1
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 1795
-  starred: false
-  podcastUuid: d21b9df0-00aa-0137-324e-08b04944ede4
-  podcastTitle: Conviction
-  episodeType: full
-  episodeSeason: 1
-  episodeNumber: 1
   isDeleted: true
