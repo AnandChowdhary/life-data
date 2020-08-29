@@ -1,3 +1,19 @@
+- uuid: 07359592-a2a3-4a64-a145-4c12ab3c58a9
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode58.mp3'
+  published: '2020-08-27T17:43:08Z'
+  duration: 4092
+  fileType: audio/mp3
+  title: '58: Hazelwood Power Station'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1194
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 0db302f7-0eb1-4242-94b4-960cc8a5e042
   url: 'http://traffic.libsyn.com/unmade/special_trash_or_treasure.mp3'
   published: '2018-10-04T12:17:27Z'
@@ -1603,22 +1619,6 @@
   starred: false
   podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
   podcastTitle: Heavyweight
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 3f7a4b31-b27d-44bc-97be-92b55fb46880
-  url: 'https://traffic.megaphone.fm/WSJ5504583070.mp3'
-  published: '2020-03-13T21:21:56Z'
-  duration: 1043
-  fileType: audio/mp3
-  title: The Oil Price War That Stoked the Market Freefall
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1043
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
