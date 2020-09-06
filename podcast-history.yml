@@ -5,15 +5,15 @@
   fileType: audio/mp3
   title: '58: Hazelwood Power Station'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 2702
+  playingStatus: 3
+  playedUpTo: 4092
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: The Unmade Podcast
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 0db302f7-0eb1-4242-94b4-960cc8a5e042
   url: 'http://traffic.libsyn.com/unmade/special_trash_or_treasure.mp3'
   published: '2018-10-04T12:17:27Z'
