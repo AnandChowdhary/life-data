@@ -1,3 +1,35 @@
+- uuid: c91638f3-5bbc-486e-a420-2ae3753e4856
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_special_1000_words.mp3'
+  published: '2020-09-01T12:33:46Z'
+  duration: 1169
+  fileType: audio/mp3
+  title: 'Special: Picture in 1000 Words'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1169
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
+- uuid: aec57a14-fe73-46a6-b687-5162290307b9
+  url: 'https://mcdn.podbean.com/mf/web/54nyq8/P4WCI_Week0.mp3'
+  published: '2020-08-30T22:52:35Z'
+  duration: 1197
+  fileType: audio/mp3
+  title: Ready for Week 1. Of Programming.
+  size: '14374765'
+  playingStatus: 2
+  playedUpTo: 721
+  starred: false
+  podcastUuid: f12efd20-d2ec-0138-e771-0acc26574db2
+  podcastTitle: The CreaTe Programming Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 1
+  isDeleted: true
 - uuid: 07359592-a2a3-4a64-a145-4c12ab3c58a9
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode58.mp3'
   published: '2020-08-27T17:43:08Z'
@@ -1586,39 +1618,6 @@
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: The Unmade Podcast
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 0fcf56dc-72c2-4b63-8853-50b4d7092535
-  url: >-
-    https://traffic.libsyn.com/secure/thecsspodcast/TCP_CSS_Podcast__Episode_001_v2.0.mp3?dest-id=1891556
-  published: '2020-03-12T19:00:00Z'
-  duration: 724
-  fileType: audio/mpeg
-  title: Box Model
-  size: '21697434'
-  playingStatus: 3
-  playedUpTo: 724
-  starred: false
-  podcastUuid: 8b549490-46c7-0138-9767-0acc26574db2
-  podcastTitle: The CSS Podcast
-  episodeType: full
-  episodeSeason: 1
-  episodeNumber: 1
-  isDeleted: true
-- uuid: 1778e8df-f24f-43c6-a7fd-f2e94588b998
-  url: 'https://traffic.megaphone.fm/GLT6355250712.mp3'
-  published: '2020-03-18T16:53:00Z'
-  duration: 941
-  fileType: audio/mp3
-  title: Heavyweight Checks In
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 941
-  starred: false
-  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-  podcastTitle: Heavyweight
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
