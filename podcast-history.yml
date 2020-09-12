@@ -1,3 +1,19 @@
+- uuid: d4ca6e8c-fc76-490d-abf3-434fcf95ad98
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode59.mp3'
+  published: '2020-09-08T10:54:42Z'
+  duration: 4420
+  fileType: audio/mp3
+  title: '59: I Fought The Law'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1361
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: c91638f3-5bbc-486e-a420-2ae3753e4856
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_special_1000_words.mp3'
   published: '2020-09-01T12:33:46Z'
@@ -1605,20 +1621,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 98
-  isDeleted: true
-- uuid: 4e4b694d-073b-41d1-b676-23fb321db76b
-  url: 'http://traffic.libsyn.com/unmade/unmade_episode40.mp3'
-  published: '2020-03-20T15:34:58Z'
-  duration: 1974
-  fileType: audio/mp3
-  title: '40: A Half-Baked Episode'
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 1945
-  starred: false
-  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-  podcastTitle: The Unmade Podcast
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
   isDeleted: true
