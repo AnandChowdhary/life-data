@@ -1,3 +1,19 @@
+- uuid: 20e04b42-faed-46f2-ab15-2c6b4fa16f16
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_special_balcony.mp3'
+  published: '2020-09-11T16:57:35Z'
+  duration: 1373
+  fileType: audio/mp3
+  title: 'Special: The Balcony Episode'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 1373
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: d4ca6e8c-fc76-490d-abf3-434fcf95ad98
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode59.mp3'
   published: '2020-09-08T10:54:42Z'
@@ -5,15 +21,15 @@
   fileType: audio/mp3
   title: '59: I Fought The Law'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 4233
+  playingStatus: 3
+  playedUpTo: 4420
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: The Unmade Podcast
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: c91638f3-5bbc-486e-a420-2ae3753e4856
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_special_1000_words.mp3'
   published: '2020-09-01T12:33:46Z'
@@ -93,7 +109,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 88b1184e-14f5-42b8-84e3-bf092748f448
   url: 'https://traffic.megaphone.fm/WSJ2628593632.mp3'
   published: '2020-07-31T21:03:03Z'
@@ -302,7 +318,7 @@
   episodeType: full
   episodeSeason: 3
   episodeNumber: 19
-  isDeleted: false
+  isDeleted: true
 - uuid: 4b2fae96-9c7e-455b-b40f-dd3c3b603bf9
   url: >-
     https://www.buzzsprout.com/1097978/4354517-evan-culver-of-segment.mp3?blob_id=17435234
@@ -1604,21 +1620,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: true
-- uuid: b393a998-17fa-442e-b634-a1b7fc239eb7
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_098.mp3
-  published: '2020-03-17T12:15:00Z'
-  duration: 7037
-  fileType: audio/mp3
-  title: A Stable Stack of Bricks
-  size: '113332010'
-  playingStatus: 3
-  playedUpTo: 7037
-  starred: false
-  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
-  podcastTitle: Cortex
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 98
   isDeleted: true
