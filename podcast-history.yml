@@ -1,3 +1,19 @@
+- uuid: 20e4ffbf-54d8-44f4-98ad-8ed1a21b5e92
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode60.mp3'
+  published: '2020-09-15T14:50:21Z'
+  duration: 4156
+  fileType: audio/mp3
+  title: '60: The Summer of Seven Ducks'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1992
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 20e04b42-faed-46f2-ab15-2c6b4fa16f16
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_special_balcony.mp3'
   published: '2020-09-11T16:57:35Z'
@@ -128,12 +144,12 @@
   isDeleted: true
 - uuid: 8355c57b-70f8-4d9c-8918-3540ffee821d
   url: >-
-    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2020/08/20200812_hibt_airbnbfblive.mp3?awCollectionId=510313&awEpisodeId=901768355&aw_0_1st.cv=yes&orgId=1&d=1472&p=510313&story=901768355&t=podcast&e=901768355&size=23505456&ft=pod&f=510313
+    https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-podcasts/podcast/npr/hibt/2020/08/20200812_hibt_airbnbfblive-4602e70c-0a42-41ed-bdcb-d38887e6944f.mp3?awCollectionId=510313&awEpisodeId=901768355&aw_0_1st.cv=yes&orgId=1&d=1472&p=510313&story=901768355&t=podcast&e=901768355&size=23505662&ft=pod&f=510313
   published: '2020-08-13T04:01:49Z'
   duration: 1472
   fileType: audio/mpeg
   title: 'How I Built Resilience: Brian Chesky of Airbnb'
-  size: '23505456'
+  size: '23505662'
   playingStatus: 3
   playedUpTo: 1472
   starred: false
@@ -1600,23 +1616,6 @@
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: The Unmade Podcast
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: a22b287a-1189-43a2-b8ee-864fb8e4be8e
-  url: >-
-    https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/87b0e08f-3425-453a-b844-8dc894a3bd63.mp3
-  published: '2020-03-13T09:55:50Z'
-  duration: 1841
-  fileType: audio/mp3
-  title: Learning to Live With the Coronavirus
-  size: '28033776'
-  playingStatus: 3
-  playedUpTo: 1841
-  starred: false
-  podcastUuid: 4eb5b260-c933-0134-10da-25324e2a541d
-  podcastTitle: The Daily
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
