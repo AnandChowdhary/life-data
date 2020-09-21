@@ -111,7 +111,7 @@
   episodeNumber: 0
   isDeleted: false
 - uuid: 20357a54-55cd-4f1a-9e28-d0b170d66e04
-  url: 'https://traffic.megaphone.fm/WSJ6477736893.mp3'
+  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ6477736893.mp3'
   published: '2020-08-24T20:04:59Z'
   duration: 860
   fileType: audio/mp3
@@ -127,7 +127,7 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: 88b1184e-14f5-42b8-84e3-bf092748f448
-  url: 'https://traffic.megaphone.fm/WSJ2628593632.mp3'
+  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ2628593632.mp3'
   published: '2020-07-31T21:03:03Z'
   duration: 1057
   fileType: audio/mp3
@@ -176,7 +176,7 @@
   episodeNumber: 101
   isDeleted: true
 - uuid: 281dc1b3-2eaa-480d-8864-c8e59b9a46c5
-  url: 'https://traffic.megaphone.fm/WSJ4009917376.mp3'
+  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ4009917376.mp3'
   published: '2020-08-19T22:06:01Z'
   duration: 937
   fileType: audio/mp3
@@ -192,7 +192,7 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: 5831b479-f9d3-47d1-8e5e-9c49bb7ddb3c
-  url: 'https://traffic.megaphone.fm/WSJ9312420641.mp3'
+  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ9312420641.mp3'
   published: '2020-08-20T22:26:18Z'
   duration: 988
   fileType: audio/mp3
@@ -224,7 +224,8 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: 58386bf6-f6f6-428a-852a-b9f144a57e47
-  url: 'https://traffic.megaphone.fm/WSJ3822545116.mp3?updated=1597177201'
+  url: >-
+    https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ3822545116.mp3?updated=1597177201
   published: '2020-08-11T20:00:00Z'
   duration: 1053
   fileType: audio/mpeg
@@ -240,7 +241,8 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: 054fd93b-e56b-4fbd-8c92-3855b4cedbf1
-  url: 'https://traffic.megaphone.fm/WSJ1944858940.mp3'
+  url: >-
+    https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ1944858940.mp3?updated=1597445685
   published: '2020-08-14T21:42:36Z'
   duration: 1183
   fileType: audio/mpeg
@@ -256,7 +258,7 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: 6784d6ba-acc9-4aac-be06-a76c73a84e6d
-  url: 'https://traffic.megaphone.fm/WSJ4562409725.mp3'
+  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ4562409725.mp3'
   published: '2020-08-13T20:00:00Z'
   duration: 1138
   fileType: audio/mp3
@@ -272,7 +274,8 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: b1aedabb-f96d-4105-a18e-fd4b827e63c3
-  url: 'https://traffic.megaphone.fm/WSJ2867232016.mp3'
+  url: >-
+    https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ2867232016.mp3?updated=1597783142
   published: '2020-08-18T20:00:04Z'
   duration: 804
   fileType: audio/mpeg
@@ -288,7 +291,7 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: a1ad3644-62da-4b68-a468-7ca1fc88cba8
-  url: 'https://traffic.megaphone.fm/WSJ3952486439.mp3'
+  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ3952486439.mp3'
   published: '2020-08-17T22:10:53Z'
   duration: 992
   fileType: audio/mp3
@@ -387,7 +390,7 @@
   episodeNumber: 2
   isDeleted: true
 - uuid: fca88c81-f465-4c59-93a2-dfd843105b44
-  url: 'https://traffic.megaphone.fm/WSJ6662360428.mp3'
+  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ6662360428.mp3'
   published: '2020-07-22T20:35:37Z'
   duration: 1136
   fileType: audio/mp3
@@ -403,7 +406,7 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: c39f71f4-6185-453c-bd38-93d661c814b5
-  url: 'https://traffic.megaphone.fm/WSJ4226971585.mp3'
+  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ4226971585.mp3'
   published: '2020-07-24T20:42:08Z'
   duration: 1029
   fileType: audio/mp3
@@ -419,7 +422,7 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: a63f058b-cddf-455a-b634-ccd1f0f42c00
-  url: 'https://traffic.megaphone.fm/WSJ2931876249.mp3'
+  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ2931876249.mp3'
   published: '2020-07-27T20:35:06Z'
   duration: 1249
   fileType: audio/mp3
@@ -484,7 +487,8 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: 6b9a8b80-0549-4673-9b99-b316aac6d112
-  url: 'https://traffic.megaphone.fm/WSJ5530690707.mp3?updated=1595370303'
+  url: >-
+    https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ5530690707.mp3?updated=1595370303
   published: '2020-07-21T21:49:13Z'
   duration: 978
   fileType: audio/mpeg
@@ -646,7 +650,7 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: e2513bfc-0eca-437f-9d41-0df10c5f8a08
-  url: 'https://traffic.megaphone.fm/WSJ5743574482.mp3'
+  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ5743574482.mp3'
   published: '2020-07-09T21:30:53Z'
   duration: 893
   fileType: audio/mp3
@@ -662,7 +666,8 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: d56fe611-13e3-4e6c-b175-40b1e86190b2
-  url: 'https://traffic.megaphone.fm/WSJ4777837657.mp3?updated=1593116289'
+  url: >-
+    https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ4777837657.mp3?updated=1593116289
   published: '2020-06-25T20:09:30Z'
   duration: 1020
   fileType: audio/mpeg
@@ -678,7 +683,7 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: 1a4e67f4-df5e-4f06-a355-5574373a936f
-  url: 'https://traffic.megaphone.fm/WSJ4546221191.mp3'
+  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ4546221191.mp3'
   published: '2020-06-23T20:00:00Z'
   duration: 1109
   fileType: audio/mp3
@@ -957,7 +962,7 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: 65ad78ea-6807-40ad-92e6-624bca07ba3e
-  url: 'https://traffic.megaphone.fm/WSJ2909875204.mp3'
+  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ2909875204.mp3'
   published: '2020-05-29T23:13:08Z'
   duration: 1117
   fileType: audio/mp3
@@ -1442,7 +1447,7 @@
   episodeNumber: 105
   isDeleted: true
 - uuid: 74246d91-6440-4d82-947d-abec248414ca
-  url: 'https://traffic.megaphone.fm/WSJ8066099095.mp3'
+  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ8066099095.mp3'
   published: '2020-04-09T19:21:29Z'
   duration: 862
   fileType: audio/mp3
@@ -1458,7 +1463,7 @@
   episodeNumber: 0
   isDeleted: true
 - uuid: 5d362a59-e309-47a6-8887-df47f66fec22
-  url: 'https://traffic.megaphone.fm/WSJ9055926217.mp3'
+  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ9055926217.mp3'
   published: '2020-04-10T19:53:36Z'
   duration: 967
   fileType: audio/mp3
