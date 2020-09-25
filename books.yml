@@ -1,3 +1,116 @@
+- isbn: 0887307280
+  isbn13: '9780887307287'
+  fullTitle: >-
+    The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do
+    About It
+  title: The E-Myth Revisited
+  image_url: >-
+    https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  link: 'https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited'
+  publisher: Harper Business
+  author: Michael E. Gerber
+  rating: '3'
+  dateAdded: 'Sun Sep 20 09:33:40 -0700 2020'
+  url: 'https://www.goodreads.com/review/show/3558018592'
+- fullTitle: 'Homo Deus: A History of Tomorrow'
+  title: Homo Deus
+  image_url: >-
+    https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  link: 'https://www.goodreads.com/book/show/31138556-homo-deus'
+  author: Yuval Noah Harari
+  rating: '4'
+  dateAdded: 'Sun Sep 20 09:31:15 -0700 2020'
+  url: 'https://www.goodreads.com/review/show/3558015121'
+- isbn: 0385349947
+  isbn13: '9780385349949'
+  fullTitle: 'Lean In: Women, Work, and the Will to Lead'
+  title: Lean In
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364250803l/16071764._SY160_.jpg
+  link: 'https://www.goodreads.com/book/show/16071764-lean-in'
+  publisher: Knopf
+  author: Sheryl Sandberg
+  rating: '5'
+  dateAdded: 'Sun Sep 20 09:28:42 -0700 2020'
+  url: 'https://www.goodreads.com/review/show/3558011513'
+- isbn: 0142000280
+  isbn13: '9780142000281'
+  fullTitle: 'Getting Things Done: The Art of Stress-Free Productivity'
+  title: Getting Things Done
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312474060l/1633._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/1633.Getting_Things_Done'
+  publisher: Penguin Group
+  author: David    Allen
+  rating: '4'
+  dateAdded: 'Sun Sep 20 09:28:34 -0700 2020'
+  url: 'https://www.goodreads.com/review/show/3558011327'
+- isbn: '1451648537'
+  isbn13: '9781451648539'
+  fullTitle: Steve Jobs
+  title: Steve Jobs
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511288482l/11084145._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/11084145-steve-jobs'
+  publisher: Simon & Schuster
+  author: Walter Isaacson
+  rating: '4'
+  dateAdded: 'Sun Sep 20 09:27:52 -0700 2020'
+  url: 'https://www.goodreads.com/review/show/3558010447'
+- isbn: '0062273205'
+  isbn13: '9780062273208'
+  fullTitle: >-
+    The Hard Thing About Hard Things: Building a Business When There Are No Easy
+    Answers
+  title: The Hard Thing About Hard Things
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386609333l/18176747._SX98_.jpg
+  link: >-
+    https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things
+  publisher: Harper Business
+  author: Ben Horowitz
+  rating: '4'
+  dateAdded: 'Sun Sep 20 09:27:04 -0700 2020'
+  url: 'https://www.goodreads.com/review/show/3558009320'
+- isbn: 0812993012
+  isbn13: '9780812993011'
+  fullTitle: >-
+    Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True
+    Inspiration
+  title: 'Creativity, Inc.'
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400863577l/18077903._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/18077903-creativity-inc'
+  publisher: Random House
+  author: Ed Catmull
+  rating: '4'
+  dateAdded: 'Sun Sep 20 09:23:42 -0700 2020'
+  url: 'https://www.goodreads.com/review/show/3558004167'
+- isbn: 0804139296
+  isbn13: '9780804139298'
+  fullTitle: 'Zero to One: Notes on Startups, or How to Build the Future'
+  title: Zero to One
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414347376l/18050143._SX98_.jpg
+  link: 'https://www.goodreads.com/book/show/18050143-zero-to-one'
+  publisher: Crown Business
+  author: Peter Thiel
+  rating: '4'
+  dateAdded: 'Sun Sep 20 09:23:01 -0700 2020'
+  url: 'https://www.goodreads.com/review/show/3558003139'
+- fullTitle: >-
+    The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a
+    Good Life
+  title: The Subtle Art of Not Giving a F*ck
+  image_url: >-
+    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707._SX98_.jpg
+  link: >-
+    https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck
+  publisher: Harper
+  author: Mark Manson
+  rating: '2'
+  dateAdded: 'Sun Sep 20 09:22:48 -0700 2020'
+  url: 'https://www.goodreads.com/review/show/3558002816'
 - fullTitle: Lying
   title: Lying
   image_url: >-
@@ -87,19 +200,6 @@
   dateAdded: 'Sat Feb 22 01:19:45 -0800 2020'
   startedAt: 'Sat Feb 22 01:19:45 -0800 2020'
   url: 'https://www.goodreads.com/review/show/3201467219'
-- isbn: 0316017922
-  isbn13: '9780316017923'
-  fullTitle: 'Outliers: The Story of Success'
-  title: Outliers
-  image_url: >-
-    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344266315l/3228917._SX98_.jpg
-  link: 'https://www.goodreads.com/book/show/3228917-outliers'
-  publisher: 'Little, Brown and Company'
-  author: Malcolm Gladwell
-  rating: '4'
-  dateAdded: 'Sat Feb 22 01:05:20 -0800 2020'
-  readAt: 'Fri Feb 21 00:00:00 -0800 2020'
-  url: 'https://www.goodreads.com/review/show/3201459373'
 - isbn: 147670869X
   isbn13: '9781476708690'
   fullTitle: >-
@@ -128,32 +228,6 @@
   dateAdded: 'Sat Feb 22 01:10:54 -0800 2020'
   readAt: 'Mon Mar 25 00:00:00 -0700 2019'
   url: 'https://www.goodreads.com/review/show/3201462310'
-- isbn: '1849048088'
-  isbn13: '9781849048088'
-  fullTitle: 'Inglorious Empire: What the British Did to India'
-  title: Inglorious Empire
-  image_url: >-
-    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490075230l/34185892._SX98_.jpg
-  link: 'https://www.goodreads.com/book/show/34185892-inglorious-empire'
-  publisher: C Hurst & Co
-  author: Shashi Tharoor
-  rating: '3'
-  dateAdded: 'Sat Feb 22 01:10:13 -0800 2020'
-  readAt: 'Wed Feb 06 00:00:00 -0800 2019'
-  url: 'https://www.goodreads.com/review/show/3201461953'
-- isbn: 0525512179
-  isbn13: '9780525512172'
-  fullTitle: 21 Lessons for the 21st Century
-  title: 21 Lessons for the 21st Century
-  image_url: >-
-    https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564577305l/38820046._SX98_.jpg
-  link: 'https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century'
-  publisher: Random House
-  author: Yuval Noah Harari
-  rating: '4'
-  dateAdded: 'Sat Feb 22 01:09:38 -0800 2020'
-  readAt: 'Mon Jan 07 00:00:00 -0800 2019'
-  url: 'https://www.goodreads.com/review/show/3201461671'
 - fullTitle: '1984'
   title: '1984'
   image_url: >-
