@@ -1,3 +1,19 @@
+- uuid: 7a9badbc-6565-43c0-a08e-21d7680e012c
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode61.mp3'
+  published: '2020-09-24T06:25:40Z'
+  duration: 3036
+  fileType: audio/mp3
+  title: '61: That''s The Way I Remember It'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 2194
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 3f93672d-7dfe-4ca0-b67c-1e7a77ea936a
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_special_outta__10.mp3'
   published: '2020-09-17T14:28:20Z'
@@ -1608,20 +1624,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: true
-- uuid: 5ddaa9bd-363c-4cba-b98a-bdc5d54a671e
-  url: 'https://traffic.megaphone.fm/GLT6777511308.mp3'
-  published: '2017-09-28T17:36:00Z'
-  duration: 1668
-  fileType: audio/mp3
-  title: Milt
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 1243
-  starred: false
-  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
-  podcastTitle: Heavyweight
-  episodeType: full
-  episodeSeason: 2
-  episodeNumber: 9
   isDeleted: true
