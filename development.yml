@@ -1,51 +1,51 @@
-start: '2020-09-26T18:30:00Z'
-end: '2020-10-03T18:29:59Z'
-total: 91991.392922
-totalText: 25 hrs 33 mins
-dailyAverage: 13142
-dailyAverageText: 3 hrs 39 mins
+start: '2020-09-27T18:30:00Z'
+end: '2020-10-04T18:29:59Z'
+total: 92659.758788
+totalText: 25 hrs 44 mins
+dailyAverage: 13237
+dailyAverageText: 3 hrs 40 mins
 days: 7
 languages:
   - digital: '11:24'
     hours: 11
     minutes: 24
     name: Svelte
-    percent: 44.62
+    percent: 44.3
     text: 11 hrs 24 mins
     total_seconds: 41045.063518
-  - digital: '8:50'
+  - digital: '8:51'
     hours: 8
-    minutes: 50
+    minutes: 51
     name: TypeScript
-    percent: 34.62
-    text: 8 hrs 50 mins
-    total_seconds: 31845.624646
+    percent: 34.43
+    text: 8 hrs 51 mins
+    total_seconds: 31900.988702
   - digital: '1:37'
     hours: 1
     minutes: 37
     name: JSON
-    percent: 6.37
+    percent: 6.3
     text: 1 hr 37 mins
-    total_seconds: 5864.34367
+    total_seconds: 5837.61091
+  - digital: '1:34'
+    hours: 1
+    minutes: 34
+    name: JavaScript
+    percent: 6.12
+    text: 1 hr 34 mins
+    total_seconds: 5672.536616
   - digital: '1:28'
     hours: 1
     minutes: 28
     name: YAML
-    percent: 5.74
+    percent: 5.7
     text: 1 hr 28 mins
-    total_seconds: 5280.3131
-  - digital: '1:23'
-    hours: 1
-    minutes: 23
-    name: JavaScript
-    percent: 5.42
-    text: 1 hr 23 mins
-    total_seconds: 4986.42344
+    total_seconds: 5281.141326
   - digital: '0:17'
     hours: 0
     minutes: 17
     name: Other
-    percent: 1.14
+    percent: 1.13
     text: 17 mins
     total_seconds: 1046.287101
   - digital: '0:12'
@@ -59,7 +59,7 @@ languages:
     hours: 0
     minutes: 8
     name: Markdown
-    percent: 0.55
+    percent: 0.54
     text: 8 mins
     total_seconds: 502.145878
   - digital: '0:04'
@@ -83,10 +83,3 @@ languages:
     percent: 0.06
     text: 0 secs
     total_seconds: 55.381303
-  - digital: '0:00'
-    hours: 0
-    minutes: 0
-    name: XML
-    percent: 0.05
-    text: 0 secs
-    total_seconds: 47.206832
