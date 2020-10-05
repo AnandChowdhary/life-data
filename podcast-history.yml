@@ -5,15 +5,15 @@
   fileType: audio/mp3
   title: '61: That''s The Way I Remember It'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 2206
+  playingStatus: 3
+  playedUpTo: 3035
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: The Unmade Podcast
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 3f93672d-7dfe-4ca0-b67c-1e7a77ea936a
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_special_outta__10.mp3'
   published: '2020-09-17T14:28:20Z'
