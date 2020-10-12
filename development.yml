@@ -1,53 +1,53 @@
-start: '2020-10-03T18:30:00Z'
-end: '2020-10-10T18:29:59Z'
-total: 86421.918218
+start: '2020-10-04T18:30:00Z'
+end: '2020-10-11T18:29:59Z'
+total: 86401.481768
 totalText: 24 hrs
-dailyAverage: 14404
+dailyAverage: 14400
 dailyAverageText: 4 hrs
 days: 7
 languages:
-  - digital: '12:29'
+  - digital: '12:30'
     hours: 12
-    minutes: 29
+    minutes: 30
     name: TypeScript
-    percent: 52.06
-    text: 12 hrs 29 mins
-    total_seconds: 44993.651382
-  - digital: '3:58'
+    percent: 52.14
+    text: 12 hrs 30 mins
+    total_seconds: 45045.78868
+  - digital: '3:59'
     hours: 3
-    minutes: 58
+    minutes: 59
     name: Svelte
-    percent: 16.58
-    text: 3 hrs 58 mins
-    total_seconds: 14326.400724
-  - digital: '1:46'
+    percent: 16.61
+    text: 3 hrs 59 mins
+    total_seconds: 14353.029165
+  - digital: '1:51'
     hours: 1
-    minutes: 46
+    minutes: 51
     name: JSON
-    percent: 7.38
-    text: 1 hr 46 mins
-    total_seconds: 6375.802279
+    percent: 7.77
+    text: 1 hr 51 mins
+    total_seconds: 6714.329247
   - digital: '1:37'
     hours: 1
     minutes: 37
     name: YAML
     percent: 6.76
     text: 1 hr 37 mins
-    total_seconds: 5844.868616
-  - digital: '1:33'
+    total_seconds: 5844.04039
+  - digital: '1:31'
     hours: 1
-    minutes: 33
-    name: JavaScript
-    percent: 6.46
-    text: 1 hr 33 mins
-    total_seconds: 5585.726409
-  - digital: '1:28'
-    hours: 1
-    minutes: 28
+    minutes: 31
     name: Other
-    percent: 6.14
-    text: 1 hr 28 mins
-    total_seconds: 5303.185603
+    percent: 6.36
+    text: 1 hr 31 mins
+    total_seconds: 5495.149852
+  - digital: '1:22'
+    hours: 1
+    minutes: 22
+    name: JavaScript
+    percent: 5.74
+    text: 1 hr 22 mins
+    total_seconds: 4956.861229
   - digital: '0:29'
     hours: 0
     minutes: 29
