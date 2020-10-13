@@ -5,15 +5,15 @@
   fileType: audio/mp3
   title: '62: Childhood Homes'
   size: '0'
-  playingStatus: 2
-  playedUpTo: 3365
+  playingStatus: 3
+  playedUpTo: 3456
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: The Unmade Podcast
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 36590896-5403-43d4-a9d7-5072aa4feba0
   url: 'https://traffic.libsyn.com/secure/unmade/kfc_episode.mp3'
   published: '2020-09-30T14:15:43Z'
@@ -54,7 +54,7 @@
   title: 'Special: Out of Ten'
   size: '0'
   playingStatus: 2
-  playedUpTo: 1730
+  playedUpTo: 2610
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: The Unmade Podcast
