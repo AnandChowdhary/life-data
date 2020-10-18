@@ -1,3 +1,19 @@
+- uuid: d9ebadff-b1fe-40f0-8346-6b8bab1cdb97
+  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ2096152953.mp3'
+  published: '2020-10-16T20:00:00Z'
+  duration: 976
+  fileType: audio/mp3
+  title: Melinda Gates on What Covid Has Exposed
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 923
+  starred: false
+  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
+  podcastTitle: The Journal.
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 30d0ede6-78c4-4360-a75d-36e2f02bd186
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/cortex/Cortex_105.mp3
@@ -6,15 +22,15 @@
   fileType: audio/mp3
   title: Atomic Notes
   size: '157062258'
-  playingStatus: 2
-  playedUpTo: 4234
+  playingStatus: 3
+  playedUpTo: 6513
   starred: false
   podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
   podcastTitle: Cortex
   episodeType: full
   episodeSeason: 0
   episodeNumber: 105
-  isDeleted: false
+  isDeleted: true
 - uuid: 3f93672d-7dfe-4ca0-b67c-1e7a77ea936a
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_special_outta__10.mp3'
   published: '2020-09-17T14:28:20Z'
@@ -1607,21 +1623,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: true
-- uuid: 81d464bb-c236-4165-9695-c0e3e83ab053
-  url: >-
-    https://anchor.fm/s/ee89d20/podcast/play/7418357/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-23%2F30445763-48000-2-56eeafa371334.mp3
-  published: '2019-10-26T13:36:05Z'
-  duration: 502
-  fileType: audio/mp3
-  title: Stand up comedy on Tik tok
-  size: '16090501'
-  playingStatus: 2
-  playedUpTo: 264
-  starred: false
-  podcastUuid: 28b7a1e0-ccc1-0137-1e17-0acc26574db2
-  podcastTitle: Stand Up Comedy
-  episodeType: full
-  episodeSeason: 1
-  episodeNumber: 12
   isDeleted: true
