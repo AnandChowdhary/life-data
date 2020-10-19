@@ -1,3 +1,19 @@
+- uuid: 0db302f7-0eb1-4242-94b4-960cc8a5e042
+  url: 'http://traffic.libsyn.com/unmade/special_trash_or_treasure.mp3'
+  published: '2018-10-04T12:17:27Z'
+  duration: 2886
+  fileType: audio/mp3
+  title: 'Special: Trash or Treasure'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1939
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: d9ebadff-b1fe-40f0-8346-6b8bab1cdb97
   url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ2096152953.mp3'
   published: '2020-10-16T20:00:00Z'
@@ -13,7 +29,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 30d0ede6-78c4-4360-a75d-36e2f02bd186
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/cortex/Cortex_105.mp3
@@ -46,7 +62,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: 6dd89ccb-6f77-4e2f-a570-6dcb1b11e29b
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode62.mp3'
   published: '2020-10-07T13:35:45Z'
@@ -191,22 +207,6 @@
   episodeSeason: 0
   episodeNumber: 0
   isDeleted: true
-- uuid: 0db302f7-0eb1-4242-94b4-960cc8a5e042
-  url: 'http://traffic.libsyn.com/unmade/special_trash_or_treasure.mp3'
-  published: '2018-10-04T12:17:27Z'
-  duration: 2886
-  fileType: audio/mp3
-  title: 'Special: Trash or Treasure'
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 854
-  starred: false
-  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-  podcastTitle: The Unmade Podcast
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: false
 - uuid: 20357a54-55cd-4f1a-9e28-d0b170d66e04
   url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ6477736893.mp3'
   published: '2020-08-24T20:04:59Z'
