@@ -11,9 +11,9 @@
     your own opinion of the latest news, and learn how the other half thinks.
     Find the best ways to persuade in the modern search for common ground.
   url: 'https://www.nytimes.com/theargument'
-  lastEpisodePublished: '2020-10-09T04:00:00Z'
+  lastEpisodePublished: '2020-10-16T04:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 27484616-9a83-4fbe-8745-b18722bc26a5
+  lastEpisodeUuid: ed3d74f2-83bd-4417-a16e-a989224a3e15
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -28,9 +28,9 @@
     Atwood, Woz, Martha Stewart, and Leon Panetta. Every episode will make you a
     little more remarkable.
   url: 'https://guykawasaki.com/remarkable-people/'
-  lastEpisodePublished: '2020-10-14T13:30:00Z'
+  lastEpisodePublished: '2020-10-21T13:30:00Z'
   unplayed: true
-  lastEpisodeUuid: b4862765-8bbc-476c-91a2-42ec2304e24b
+  lastEpisodeUuid: 17d66de0-7492-4069-ae45-e7d24c116de9
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -47,9 +47,9 @@
     technology, to space, health and the environment, we share all the
     information you need to keep pace.
   url: 'https://www.newscientist.com/'
-  lastEpisodePublished: '2020-10-08T23:00:00Z'
+  lastEpisodePublished: '2020-10-15T23:00:00Z'
   unplayed: true
-  lastEpisodeUuid: d6f492bc-126b-41e4-b04a-b975541910e1
+  lastEpisodeUuid: 3e8dce4e-8656-426b-949b-c7c14930cbc8
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -100,9 +100,9 @@
     every week; visit a16z.com for more details and to sign up for our
     newsletters and other content as well!
   url: 'https://www.a16z.com'
-  lastEpisodePublished: '2020-10-11T14:00:00Z'
+  lastEpisodePublished: '2020-10-19T17:43:53Z'
   unplayed: true
-  lastEpisodeUuid: efa43bea-4991-4be8-b9cb-6efc0bc2f031
+  lastEpisodeUuid: 045afe44-ebf0-46af-80df-381fd6ad1ffb
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -151,9 +151,28 @@
     Stack Overflow each month to help solve coding problems, develop new skills,
     and find job opportunities.
   url: 'https://stackoverflow.blog/podcast/'
-  lastEpisodePublished: '2020-10-13T04:20:00Z'
+  lastEpisodePublished: '2020-10-20T04:20:00Z'
   unplayed: true
-  lastEpisodeUuid: 15582a86-3c70-4a09-a151-7457d530bd7a
+  lastEpisodeUuid: c54b6461-1a6a-4923-b941-da735f2bc61d
+  lastEpisodePlayingStatus: 1
+  lastEpisodeArchived: false
+  autoSkipLast: 0
+- uuid: 3b713580-ee10-0138-e803-0acc26574db2
+  episodesSortOrder: 3
+  autoStartFrom: 0
+  title: Taskmaster The Podcast
+  author: Avalon Television Ltd
+  description: >-
+    This is the official Taskmaster podcast, hosted by former champion and
+    chickpea lover, Ed Gamble. Each week, released straight after the show is
+    broadcast on Channel 4, Ed will be joined by a special guest to dissect and
+    discuss the latest episode. Past contestants, little Alex Horne, and even
+    the Taskmaster himself will feature in this brand-new podcast from the
+    producers of the BAFTA-winning comedy show.
+  url: 'https://taskmasterpodcast.podbean.com'
+  lastEpisodePublished: '2020-10-15T20:57:00Z'
+  unplayed: true
+  lastEpisodeUuid: 09b31d34-2317-46ed-b968-43970c65e6ad
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -183,10 +202,10 @@
     Knutson. The Journal is a co-production from Gimlet Media and The Wall
     Street Journal.
   url: 'https://www.wsj.com/podcasts/the-journal'
-  lastEpisodePublished: '2020-10-13T20:52:53Z'
-  unplayed: false
-  lastEpisodeUuid: f268aac2-6835-4b31-b975-18f5e9fd23f5
-  lastEpisodePlayingStatus: 0
+  lastEpisodePublished: '2020-10-20T21:42:32Z'
+  unplayed: true
+  lastEpisodeUuid: 83b90a15-7d4d-4bac-9574-440388dcc351
+  lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
 - uuid: 4c4ada90-c44b-0136-7b94-27f978dac4db
@@ -220,9 +239,9 @@
     trips, thorny reunions, and difficult conversations as he backpedals his way
     into the past like a therapist with a time machine. From Gimlet Media.
   url: 'https://gimletmedia.com/show/heavyweight/'
-  lastEpisodePublished: '2020-10-08T08:00:00Z'
+  lastEpisodePublished: '2020-10-15T08:00:00Z'
   unplayed: false
-  lastEpisodeUuid: 50d42ed7-e430-459b-82eb-4d2f6802f449
+  lastEpisodeUuid: 9b47e88a-32f6-46c0-9268-4078e88d6d49
   lastEpisodePlayingStatus: 0
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -335,9 +354,9 @@
     episode, they get together to discuss their working lives. Hosted by CGP
     Grey and Myke Hurley.
   url: 'https://www.relay.fm/cortex'
-  lastEpisodePublished: '2020-09-14T12:15:00Z'
+  lastEpisodePublished: '2020-10-19T11:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 24b5cabd-125a-4185-96cb-5de064c1d56a
+  lastEpisodeUuid: ce1e5f1b-f8a7-4146-97de-b54f65bcf932
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -373,9 +392,9 @@
     entrepreneurs and idealists—and the movements they built. Pre-order the How
     I Built This book at https://smarturl.it/HowIBuiltThis.
   url: 'http://www.npr.org/series/490248027/how-i-built-this'
-  lastEpisodePublished: '2020-10-12T04:01:00Z'
+  lastEpisodePublished: '2020-10-19T04:01:17Z'
   unplayed: true
-  lastEpisodeUuid: 0e8ed129-c8bb-4a1c-bd45-07eb9c9da195
+  lastEpisodeUuid: 7f4ba71e-003e-47b9-865a-0e51a57f7461
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -391,9 +410,9 @@
     personally and professionally as they try to turn their idea into something
     that will change the world.
   url: 'https://www.startups.com/community/startup-therapy'
-  lastEpisodePublished: '2020-10-12T09:00:00Z'
+  lastEpisodePublished: '2020-10-19T09:00:00Z'
   unplayed: true
-  lastEpisodeUuid: 8946af41-cecd-4bfd-b04e-9c0e9e28b37f
+  lastEpisodeUuid: 7f88df47-1c81-4d0c-87ef-af1d28dff99c
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -404,9 +423,9 @@
   author: Relay FM
   description: "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always\_watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent."
   url: 'https://www.relay.fm/clockwise'
-  lastEpisodePublished: '2020-10-07T18:00:00Z'
+  lastEpisodePublished: '2020-10-14T23:15:00Z'
   unplayed: true
-  lastEpisodeUuid: 97bdfff9-4daa-402d-abff-393d0e7c6636
+  lastEpisodeUuid: a929e70a-4db3-4ca7-916e-c870a281ebd6
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -473,9 +492,9 @@
     Connected provides a perspective that no other show can. Hosted by Federico
     Viticci, Myke Hurley, and Stephen Hackett.
   url: 'https://www.relay.fm/connected'
-  lastEpisodePublished: '2020-10-07T22:00:00Z'
+  lastEpisodePublished: '2020-10-14T21:45:00Z'
   unplayed: true
-  lastEpisodeUuid: 331e9ed5-0120-4543-9998-85814bda3869
+  lastEpisodeUuid: e9a5b371-a4a5-4d4f-ab68-232ff2da7391
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
@@ -486,9 +505,9 @@
   author: createprogramming
   description: Our approximately weekly chat about programming in Module 1 of CreaTe.
   url: 'https://createprogramming.podbean.com'
-  lastEpisodePublished: '2020-10-02T15:13:04Z'
+  lastEpisodePublished: '2020-10-19T05:14:40Z'
   unplayed: true
-  lastEpisodeUuid: 95d7c31e-2f98-49f2-bf55-5df55aea9558
+  lastEpisodeUuid: cd3e8d27-e6c0-40a3-9dd5-99ad595fda48
   lastEpisodePlayingStatus: 1
   lastEpisodeArchived: false
   autoSkipLast: 0
