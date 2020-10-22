@@ -2,6 +2,12 @@
 
 This repo contains data about my life. It's primarily powered by [Services](https://github.com/AnandChowdhary/services), my microservices for automating tasks, and is committed by [Finding Anand](https://github.com/FindingAnand), my bff bot.
 
+⚠️ **Deprecation note:** This is the old version of my life data repo, find the new one here: https://github.com/AnandChowdhary/life.
+
+## 🧬 Get your own life data repo!
+
+While building my new life data repo ([AnandChowdhary/life](https://github.com/AnandChowdhary/life)), I built **[Stethoscope](https://github.com/stethoscope-js/stethoscope)**, an automated tool to track, visualize, and embed your life data.
+
 ## ⭐ Data points
 
 | File | Description |
