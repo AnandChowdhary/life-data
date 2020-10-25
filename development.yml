@@ -1,74 +1,74 @@
-start: '2020-10-16T18:30:00Z'
-end: '2020-10-23T18:29:59Z'
-total: 111646.261839
-totalText: 31 hrs
-dailyAverage: 15949
-dailyAverageText: 4 hrs 25 mins
+start: '2020-10-17T18:30:00Z'
+end: '2020-10-24T18:29:59Z'
+total: 113611.948967
+totalText: 31 hrs 33 mins
+dailyAverage: 16230
+dailyAverageText: 4 hrs 30 mins
 days: 7
 languages:
-  - digital: '19:42'
-    hours: 19
-    minutes: 42
+  - digital: '22:08'
+    hours: 22
+    minutes: 8
     name: TypeScript
-    percent: 63.52
-    text: 19 hrs 42 mins
-    total_seconds: 70923.139551
-  - digital: '6:43'
-    hours: 6
-    minutes: 43
+    percent: 70.16
+    text: 22 hrs 8 mins
+    total_seconds: 79715.577699
+  - digital: '5:53'
+    hours: 5
+    minutes: 53
     name: Svelte
-    percent: 21.69
-    text: 6 hrs 43 mins
-    total_seconds: 24216.993614
-  - digital: '1:43'
+    percent: 18.66
+    text: 5 hrs 53 mins
+    total_seconds: 21204.031032
+  - digital: '1:19'
     hours: 1
-    minutes: 43
-    name: YAML
-    percent: 5.58
-    text: 1 hr 43 mins
-    total_seconds: 6230.683914
-  - digital: '0:52'
-    hours: 0
-    minutes: 52
-    name: JSON
-    percent: 2.8
-    text: 52 mins
-    total_seconds: 3123.961527
-  - digital: '0:44'
-    hours: 0
-    minutes: 44
+    minutes: 19
     name: Markdown
-    percent: 2.38
-    text: 44 mins
-    total_seconds: 2654.866154
-  - digital: '0:30'
+    percent: 4.18
+    text: 1 hr 19 mins
+    total_seconds: 4749.667303
+  - digital: '0:46'
     hours: 0
-    minutes: 30
+    minutes: 46
+    name: JSON
+    percent: 2.47
+    text: 46 mins
+    total_seconds: 2803.905425
+  - digital: '0:33'
+    hours: 0
+    minutes: 33
     name: Other
-    percent: 1.66
-    text: 30 mins
-    total_seconds: 1856.226582
-  - digital: '0:18'
+    percent: 1.76
+    text: 33 mins
+    total_seconds: 2004.791565
+  - digital: '0:28'
     hours: 0
-    minutes: 18
-    name: JavaScript
-    percent: 1
-    text: 18 mins
-    total_seconds: 1118.647068
-  - digital: '0:17'
+    minutes: 28
+    name: YAML
+    percent: 1.51
+    text: 28 mins
+    total_seconds: 1717.45074
+  - digital: '0:10'
     hours: 0
-    minutes: 17
+    minutes: 10
     name: SCSS
-    percent: 0.94
-    text: 17 mins
-    total_seconds: 1044.146327
+    percent: 0.55
+    text: 10 mins
+    total_seconds: 621.921459
   - digital: '0:07'
     hours: 0
     minutes: 7
     name: HTML
-    percent: 0.41
+    percent: 0.4
     text: 7 mins
-    total_seconds: 456.278085
+    total_seconds: 454.365172
+  - digital: '0:05'
+    hours: 0
+    minutes: 5
+    name: JavaScript
+    percent: 0.28
+    text: 5 mins
+    total_seconds: 318.919555
   - digital: '0:00'
     hours: 0
     minutes: 0
