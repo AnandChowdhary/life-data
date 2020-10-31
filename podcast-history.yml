@@ -1,3 +1,19 @@
+- uuid: d5a6853f-4199-4e0d-b138-9a2113a04bfe
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode_63_bump.mp3'
+  published: '2020-10-21T18:59:54Z'
+  duration: 2870
+  fileType: audio/mp3
+  title: '63: The Bump (Do Not Whip)'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 991
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: 0db302f7-0eb1-4242-94b4-960cc8a5e042
   url: 'http://traffic.libsyn.com/unmade/special_trash_or_treasure.mp3'
   published: '2018-10-04T12:17:27Z'
@@ -13,7 +29,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: d9ebadff-b1fe-40f0-8346-6b8bab1cdb97
   url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ2096152953.mp3'
   published: '2020-10-16T20:00:00Z'
@@ -1607,20 +1623,4 @@
   episodeType: full
   episodeSeason: 1
   episodeNumber: 3
-  isDeleted: true
-- uuid: aa28332f-561f-4900-8a7b-7c32fce71110
-  url: 'http://traffic.libsyn.com/unmade/unmade_episode42.mp3'
-  published: '2020-04-08T12:56:45Z'
-  duration: 3269
-  fileType: audio/mp3
-  title: '42: Jammin'' with Tim'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 3269
-  starred: false
-  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-  podcastTitle: The Unmade Podcast
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
   isDeleted: true
