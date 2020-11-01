@@ -1,8 +1,8 @@
 {
-  "locality": "Green Park",
+  "locality": "Sector 13",
   "city": "New Delhi",
-  "county": "Hauz Khas Tehsil",
-  "state_district": "South Delhi",
+  "county": "Vasant Vihar Tehsil",
+  "suburb": "Ramakrishna Puram",
   "state": "Delhi",
   "country": "India"
 }
