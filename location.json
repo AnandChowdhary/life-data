@@ -1,8 +1,7 @@
 {
-  "locality": "DLF II",
-  "city": "Gurugram",
-  "county": "Gurgaon",
-  "suburb": "Sector 25",
-  "state": "Haryana",
+  "city": "New Delhi",
+  "county": "Mehrauli Tehsil",
+  "state_district": "South Delhi",
+  "state": "Delhi",
   "country": "India"
 }
