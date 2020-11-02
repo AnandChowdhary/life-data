@@ -1,3 +1,69 @@
+- uuid: ce1e5f1b-f8a7-4146-97de-b54f65bcf932
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/cortex/Cortex_107.mp3
+  published: '2020-10-19T11:00:00Z'
+  duration: 6947
+  fileType: audio/mp3
+  title: A Visual Bombardment
+  size: '112281899'
+  playingStatus: 2
+  playedUpTo: 1441
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: Cortex
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 107
+  isDeleted: false
+- uuid: 24b5cabd-125a-4185-96cb-5de064c1d56a
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/cortex/Cortex_106.mp3
+  published: '2020-09-14T12:15:00Z'
+  duration: 5447
+  fileType: audio/mp3
+  title: Clear and Boring
+  size: '88098038'
+  playingStatus: 3
+  playedUpTo: 5447
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: Cortex
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 106
+  isDeleted: true
+- uuid: acbc524e-500e-458e-a667-9b7d82007c3b
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode64.mp3'
+  published: '2020-10-25T21:53:22Z'
+  duration: 2993
+  fileType: audio/mp3
+  title: '64: Tim''s First Wombat'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1251
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
+- uuid: a0b40290-17bb-4230-acdd-85a074d1577a
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_sofa_shop_interviews.mp3'
+  published: '2020-10-30T16:57:51Z'
+  duration: 3220
+  fileType: audio/mp3
+  title: 'EXCLUSIVE: The Sofa Shop Interviews'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 8
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: false
 - uuid: d5a6853f-4199-4e0d-b138-9a2113a04bfe
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode_63_bump.mp3'
   published: '2020-10-21T18:59:54Z'
@@ -1558,69 +1624,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 105
-  isDeleted: true
-- uuid: 74246d91-6440-4d82-947d-abec248414ca
-  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ8066099095.mp3'
-  published: '2020-04-09T19:21:29Z'
-  duration: 862
-  fileType: audio/mp3
-  title: What Happens When 10% of Workers File for Unemployment
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 862
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 5d362a59-e309-47a6-8887-df47f66fec22
-  url: 'https://chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ9055926217.mp3'
-  published: '2020-04-10T19:53:36Z'
-  duration: 967
-  fileType: audio/mp3
-  title: The World Has Too Much Oil
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 967
-  starred: false
-  podcastUuid: 472f9970-773b-0137-f268-1d245fc5f9cf
-  podcastTitle: The Journal.
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 97d0dd8a-2f1b-4419-8f37-ba51b8c60b9d
-  url: 'http://traffic.libsyn.com/hellointernet/123.mp3'
-  published: '2019-04-30T20:04:17Z'
-  duration: 5072
-  fileType: audio/mp3
-  title: 'H.I. #123: Pop Quiz'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 5072
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: Hello Internet
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 123
-  isDeleted: true
-- uuid: 224d9221-9330-4719-9ada-3d36cf255393
-  url: >-
-    https://traffic.libsyn.com/secure/thecsspodcast/TCP_CSS_Podcast__Episode_003_v2.0_FINAL.mp3?dest-id=1891556
-  published: '2020-03-24T23:00:39Z'
-  duration: 777
-  fileType: audio/mpeg
-  title: Specificity
-  size: '22979524'
-  playingStatus: 3
-  playedUpTo: 777
-  starred: false
-  podcastUuid: 8b549490-46c7-0138-9767-0acc26574db2
-  podcastTitle: The CSS Podcast
-  episodeType: full
-  episodeSeason: 1
-  episodeNumber: 3
   isDeleted: true
