@@ -7,13 +7,29 @@
   title: A Visual Bombardment
   size: '112281899'
   playingStatus: 2
-  playedUpTo: 1441
+  playedUpTo: 2690
   starred: false
   podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
   podcastTitle: Cortex
   episodeType: full
   episodeSeason: 0
   episodeNumber: 107
+  isDeleted: false
+- uuid: d5a6853f-4199-4e0d-b138-9a2113a04bfe
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode_63_bump.mp3'
+  published: '2020-10-21T18:59:54Z'
+  duration: 2870
+  fileType: audio/mp3
+  title: '63: The Bump (Do Not Whip)'
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 2297
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
   isDeleted: false
 - uuid: 24b5cabd-125a-4185-96cb-5de064c1d56a
   url: >-
@@ -57,22 +73,6 @@
   size: '0'
   playingStatus: 2
   playedUpTo: 8
-  starred: false
-  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-  podcastTitle: The Unmade Podcast
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: false
-- uuid: d5a6853f-4199-4e0d-b138-9a2113a04bfe
-  url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode_63_bump.mp3'
-  published: '2020-10-21T18:59:54Z'
-  duration: 2870
-  fileType: audio/mp3
-  title: '63: The Bump (Do Not Whip)'
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 991
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: The Unmade Podcast
