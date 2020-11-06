@@ -1,3 +1,19 @@
+- uuid: a0b40290-17bb-4230-acdd-85a074d1577a
+  url: 'https://traffic.libsyn.com/secure/unmade/unmade_sofa_shop_interviews.mp3'
+  published: '2020-10-30T16:57:51Z'
+  duration: 3220
+  fileType: audio/mp3
+  title: 'EXCLUSIVE: The Sofa Shop Interviews'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 3220
+  starred: false
+  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
+  podcastTitle: The Unmade Podcast
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: acbc524e-500e-458e-a667-9b7d82007c3b
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode64.mp3'
   published: '2020-10-25T21:53:22Z'
@@ -6,7 +22,7 @@
   title: '64: Tim''s First Wombat'
   size: '0'
   playingStatus: 2
-  playedUpTo: 1901
+  playedUpTo: 2684
   starred: false
   podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
   podcastTitle: The Unmade Podcast
@@ -64,22 +80,6 @@
   episodeSeason: 0
   episodeNumber: 106
   isDeleted: true
-- uuid: a0b40290-17bb-4230-acdd-85a074d1577a
-  url: 'https://traffic.libsyn.com/secure/unmade/unmade_sofa_shop_interviews.mp3'
-  published: '2020-10-30T16:57:51Z'
-  duration: 3220
-  fileType: audio/mp3
-  title: 'EXCLUSIVE: The Sofa Shop Interviews'
-  size: '0'
-  playingStatus: 2
-  playedUpTo: 8
-  starred: false
-  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-  podcastTitle: The Unmade Podcast
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: false
 - uuid: 0db302f7-0eb1-4242-94b4-960cc8a5e042
   url: 'http://traffic.libsyn.com/unmade/special_trash_or_treasure.mp3'
   published: '2018-10-04T12:17:27Z'
