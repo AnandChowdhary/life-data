@@ -1,3 +1,35 @@
+- uuid: 4c7a0267-9b18-41a4-b105-dadf4ffe64da
+  url: 'https://traffic.megaphone.fm/GLT6073734073.mp3?updated=1603314599'
+  published: '2020-10-22T08:00:00Z'
+  duration: 2258
+  fileType: audio/mpeg
+  title: Bobby
+  size: '0'
+  playingStatus: 2
+  playedUpTo: 1891
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: Heavyweight
+  episodeType: full
+  episodeSeason: 5
+  episodeNumber: 33
+  isDeleted: false
+- uuid: f805fe21-57b5-40c4-9e5a-cdd844f724eb
+  url: 'https://traffic.megaphone.fm/GLT8410928206.mp3?updated=1604524289'
+  published: '2020-11-05T09:00:00Z'
+  duration: 2761
+  fileType: audio/mpeg
+  title: Annie
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2761
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: Heavyweight
+  episodeType: full
+  episodeSeason: 5
+  episodeNumber: 34
+  isDeleted: true
 - uuid: a0b40290-17bb-4230-acdd-85a074d1577a
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_sofa_shop_interviews.mp3'
   published: '2020-10-30T16:57:51Z'
@@ -29,7 +61,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
+  isDeleted: true
 - uuid: d5a6853f-4199-4e0d-b138-9a2113a04bfe
   url: 'https://traffic.libsyn.com/secure/unmade/unmade_episode_63_bump.mp3'
   published: '2020-10-21T18:59:54Z'
@@ -1592,36 +1624,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 104
-  isDeleted: true
-- uuid: 7cc4372a-c951-4df6-a19f-343b85b20db4
-  url: 'http://traffic.libsyn.com/unmade/unmade_quiz.mp3'
-  published: '2020-04-16T11:03:48Z'
-  duration: 4058
-  fileType: audio/mp3
-  title: 'Special: The Inaugural Bean Dish Quiz'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 4058
-  starred: false
-  podcastUuid: c07ea620-6997-0135-902f-63f4b61a9224
-  podcastTitle: The Unmade Podcast
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 0
-  isDeleted: true
-- uuid: 277bac18-016e-487c-8de4-aa17f6f789f0
-  url: 'http://traffic.libsyn.com/hellointernet/ARecentHelloInternet.mp3'
-  published: '2018-07-20T20:16:26Z'
-  duration: 5183
-  fileType: audio/mp3
-  title: A Recent Hello Internet
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 5183
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: Hello Internet
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 105
   isDeleted: true
