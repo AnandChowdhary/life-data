@@ -1,7 +1,8 @@
 {
-  "locality": "Naraina",
-  "city": "Delhi Cantonment",
-  "county": "Delhi Cantonment",
+  "city": "New Delhi",
+  "county": "Rajouri Garden Tehsil",
+  "suburb": "Janakpuri",
+  "state_district": "West Delhi",
   "state": "Delhi",
   "country": "India"
 }
