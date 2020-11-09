@@ -1,3 +1,36 @@
+- uuid: ce1e5f1b-f8a7-4146-97de-b54f65bcf932
+  url: >-
+    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/cortex/Cortex_107.mp3
+  published: '2020-10-19T11:00:00Z'
+  duration: 6947
+  fileType: audio/mp3
+  title: A Visual Bombardment
+  size: '112281899'
+  playingStatus: 2
+  playedUpTo: 4209
+  starred: false
+  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
+  podcastTitle: Cortex
+  episodeType: full
+  episodeSeason: 0
+  episodeNumber: 107
+  isDeleted: false
+- uuid: c19c66f9-6975-4bce-ac4f-a7ffeb6fd7c4
+  url: 'https://traffic.megaphone.fm/GLT2109412240.mp3'
+  published: '2020-10-29T08:00:00Z'
+  duration: 2293
+  fileType: audio/mp3
+  title: 'Introducing: Resistance'
+  size: '0'
+  playingStatus: 3
+  playedUpTo: 2293
+  starred: false
+  podcastUuid: 77f1b350-5419-0134-ec2d-0d50f522381b
+  podcastTitle: Heavyweight
+  episodeType: bonus
+  episodeSeason: 0
+  episodeNumber: 0
+  isDeleted: true
 - uuid: 4c7a0267-9b18-41a4-b105-dadf4ffe64da
   url: 'https://traffic.megaphone.fm/GLT6073734073.mp3?updated=1603314599'
   published: '2020-10-22T08:00:00Z'
@@ -77,24 +110,7 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: false
-- uuid: ce1e5f1b-f8a7-4146-97de-b54f65bcf932
-  url: >-
-    https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/cortex/Cortex_107.mp3
-  published: '2020-10-19T11:00:00Z'
-  duration: 6947
-  fileType: audio/mp3
-  title: A Visual Bombardment
-  size: '112281899'
-  playingStatus: 2
-  playedUpTo: 2870
-  starred: false
-  podcastUuid: 9a61baa0-ec2e-0132-1127-059c869cc4eb
-  podcastTitle: Cortex
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 107
-  isDeleted: false
+  isDeleted: true
 - uuid: 24b5cabd-125a-4185-96cb-5de064c1d56a
   url: >-
     https://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/cortex/Cortex_106.mp3
@@ -1608,20 +1624,4 @@
   episodeType: full
   episodeSeason: 0
   episodeNumber: 0
-  isDeleted: true
-- uuid: 6bb02576-3ad1-4a90-be18-25a547ae87a4
-  url: 'http://traffic.libsyn.com/hellointernet/104.mp3'
-  published: '2018-06-29T20:00:12Z'
-  duration: 7382
-  fileType: audio/mp3
-  title: 'H.I. #104: Fruitbooting'
-  size: '0'
-  playingStatus: 3
-  playedUpTo: 7382
-  starred: false
-  podcastUuid: 8fa0f3b0-6fdd-0131-7b79-723c91aeae46
-  podcastTitle: Hello Internet
-  episodeType: full
-  episodeSeason: 0
-  episodeNumber: 104
   isDeleted: true
