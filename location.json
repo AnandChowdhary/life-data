@@ -1,6 +1,8 @@
 {
-  "city": "Delhi Cantonment",
-  "county": "Delhi Cantonment",
+  "locality": "Sector 13",
+  "city": "New Delhi",
+  "county": "Vasant Vihar Tehsil",
+  "suburb": "Ramakrishna Puram",
   "state": "Delhi",
   "country": "India"
 }
