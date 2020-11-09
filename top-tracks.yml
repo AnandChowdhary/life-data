@@ -583,6 +583,46 @@ longTermTracks:
   - album:
       artists:
         - external_urls:
+            spotify: 'https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr'
+          href: 'https://api.spotify.com/v1/artists/4N874uPqBka1QiCvnCVOtr'
+          id: 4N874uPqBka1QiCvnCVOtr
+          name: Phoebe Ryan
+          type: artist
+          uri: 'spotify:artist:4N874uPqBka1QiCvnCVOtr'
+      href: 'https://api.spotify.com/v1/albums/2a32pA1ujh4yOGCHTcpO1f'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/ab67616d0000b2739fefb158145d5e698089b41d'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/ab67616d00001e029fefb158145d5e698089b41d'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/ab67616d000048519fefb158145d5e698089b41d'
+          width: 64
+      name: James Has Changed
+      release_date: '2017-10-06'
+      release_date_precision: day
+      total_tracks: 1
+      type: album
+      uri: 'spotify:album:2a32pA1ujh4yOGCHTcpO1f'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr'
+        href: 'https://api.spotify.com/v1/artists/4N874uPqBka1QiCvnCVOtr'
+        id: 4N874uPqBka1QiCvnCVOtr
+        name: Phoebe Ryan
+        type: artist
+        uri: 'spotify:artist:4N874uPqBka1QiCvnCVOtr'
+    explicit: false
+    href: 'https://api.spotify.com/v1/tracks/0N0R6gngeVymhCN0tN7a5L'
+    is_local: false
+    name: James Has Changed
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/edddca63f74132d9825b620255c6b990cf90272d?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
             spotify: 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'
           href: 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR'
           id: 66CXWjxzNUsdJxJ2JdwvnR
@@ -739,46 +779,6 @@ longTermTracks:
     is_local: false
     name: Tell Me It's Over
     preview_url: null
-  - album:
-      artists:
-        - external_urls:
-            spotify: 'https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr'
-          href: 'https://api.spotify.com/v1/artists/4N874uPqBka1QiCvnCVOtr'
-          id: 4N874uPqBka1QiCvnCVOtr
-          name: Phoebe Ryan
-          type: artist
-          uri: 'spotify:artist:4N874uPqBka1QiCvnCVOtr'
-      href: 'https://api.spotify.com/v1/albums/2a32pA1ujh4yOGCHTcpO1f'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b2739fefb158145d5e698089b41d'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e029fefb158145d5e698089b41d'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/ab67616d000048519fefb158145d5e698089b41d'
-          width: 64
-      name: James Has Changed
-      release_date: '2017-10-06'
-      release_date_precision: day
-      total_tracks: 1
-      type: album
-      uri: 'spotify:album:2a32pA1ujh4yOGCHTcpO1f'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr'
-        href: 'https://api.spotify.com/v1/artists/4N874uPqBka1QiCvnCVOtr'
-        id: 4N874uPqBka1QiCvnCVOtr
-        name: Phoebe Ryan
-        type: artist
-        uri: 'spotify:artist:4N874uPqBka1QiCvnCVOtr'
-    explicit: false
-    href: 'https://api.spotify.com/v1/tracks/0N0R6gngeVymhCN0tN7a5L'
-    is_local: false
-    name: James Has Changed
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/edddca63f74132d9825b620255c6b990cf90272d?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -950,6 +950,46 @@ mediumTermTracks:
   - album:
       artists:
         - external_urls:
+            spotify: 'https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'
+          href: 'https://api.spotify.com/v1/artists/7LImGq5KnzQobZciDJpeJb'
+          id: 7LImGq5KnzQobZciDJpeJb
+          name: Charlotte Lawrence
+          type: artist
+          uri: 'spotify:artist:7LImGq5KnzQobZciDJpeJb'
+      href: 'https://api.spotify.com/v1/albums/0uu8cPSov9nCPWlfWs8c6d'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/ab67616d0000b2738402cb666fc8f03f57e81027'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/ab67616d00001e028402cb666fc8f03f57e81027'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/ab67616d000048518402cb666fc8f03f57e81027'
+          width: 64
+      name: Slow Motion
+      release_date: '2020-07-24'
+      release_date_precision: day
+      total_tracks: 1
+      type: album
+      uri: 'spotify:album:0uu8cPSov9nCPWlfWs8c6d'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'
+        href: 'https://api.spotify.com/v1/artists/7LImGq5KnzQobZciDJpeJb'
+        id: 7LImGq5KnzQobZciDJpeJb
+        name: Charlotte Lawrence
+        type: artist
+        uri: 'spotify:artist:7LImGq5KnzQobZciDJpeJb'
+    explicit: false
+    href: 'https://api.spotify.com/v1/tracks/09svEvkmTi9vw4kWRyBC6X'
+    is_local: false
+    name: Slow Motion
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/33ca75df63f064f8aa3ef7afb8c21af4f5dc83ce?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
             spotify: 'https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ'
           href: 'https://api.spotify.com/v1/artists/3w6zswp5THsSKYLICUbDTZ'
           id: 3w6zswp5THsSKYLICUbDTZ
@@ -1044,43 +1084,43 @@ mediumTermTracks:
   - album:
       artists:
         - external_urls:
-            spotify: 'https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'
-          href: 'https://api.spotify.com/v1/artists/7LImGq5KnzQobZciDJpeJb'
-          id: 7LImGq5KnzQobZciDJpeJb
-          name: Charlotte Lawrence
+            spotify: 'https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8'
+          href: 'https://api.spotify.com/v1/artists/736HGQRGr9rjG4VmmSpkz8'
+          id: 736HGQRGr9rjG4VmmSpkz8
+          name: Naaz
           type: artist
-          uri: 'spotify:artist:7LImGq5KnzQobZciDJpeJb'
-      href: 'https://api.spotify.com/v1/albums/0uu8cPSov9nCPWlfWs8c6d'
+          uri: 'spotify:artist:736HGQRGr9rjG4VmmSpkz8'
+      href: 'https://api.spotify.com/v1/albums/3PHCH3YSfPjmWklUdarPtA'
       images:
         - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b2738402cb666fc8f03f57e81027'
+          url: 'https://i.scdn.co/image/ab67616d0000b273a4ceae84d4a666591d834c6f'
           width: 640
         - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e028402cb666fc8f03f57e81027'
+          url: 'https://i.scdn.co/image/ab67616d00001e02a4ceae84d4a666591d834c6f'
           width: 300
         - height: 64
-          url: 'https://i.scdn.co/image/ab67616d000048518402cb666fc8f03f57e81027'
+          url: 'https://i.scdn.co/image/ab67616d00004851a4ceae84d4a666591d834c6f'
           width: 64
-      name: Slow Motion
-      release_date: '2020-07-24'
+      name: Mute Love
+      release_date: '2020-07-10'
       release_date_precision: day
       total_tracks: 1
       type: album
-      uri: 'spotify:album:0uu8cPSov9nCPWlfWs8c6d'
+      uri: 'spotify:album:3PHCH3YSfPjmWklUdarPtA'
     artists:
       - external_urls:
-          spotify: 'https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'
-        href: 'https://api.spotify.com/v1/artists/7LImGq5KnzQobZciDJpeJb'
-        id: 7LImGq5KnzQobZciDJpeJb
-        name: Charlotte Lawrence
+          spotify: 'https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8'
+        href: 'https://api.spotify.com/v1/artists/736HGQRGr9rjG4VmmSpkz8'
+        id: 736HGQRGr9rjG4VmmSpkz8
+        name: Naaz
         type: artist
-        uri: 'spotify:artist:7LImGq5KnzQobZciDJpeJb'
+        uri: 'spotify:artist:736HGQRGr9rjG4VmmSpkz8'
     explicit: false
-    href: 'https://api.spotify.com/v1/tracks/09svEvkmTi9vw4kWRyBC6X'
+    href: 'https://api.spotify.com/v1/tracks/38QI96WyvskHQk81GgerDu'
     is_local: false
-    name: Slow Motion
+    name: Mute Love
     preview_url: >-
-      https://p.scdn.co/mp3-preview/33ca75df63f064f8aa3ef7afb8c21af4f5dc83ce?cid=b293a7a884f34d91ab03e19184a9041e
+      https://p.scdn.co/mp3-preview/3f6eb8a3c7c5e2567cb8ee268a375e555ede6240?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -1135,46 +1175,6 @@ mediumTermTracks:
     name: Miss You 2
     preview_url: >-
       https://p.scdn.co/mp3-preview/5c6d04d7317d8c33673b52fea1307fab12f2846a?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
-            spotify: 'https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH'
-          href: 'https://api.spotify.com/v1/artists/524oC8NzSWvqPbwiRkYSLH'
-          id: 524oC8NzSWvqPbwiRkYSLH
-          name: 'merci, mercy'
-          type: artist
-          uri: 'spotify:artist:524oC8NzSWvqPbwiRkYSLH'
-      href: 'https://api.spotify.com/v1/albums/59HtpzKP2cNJbSdLZrui2d'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b27392920063c6fd7bb2bcd83160'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e0292920063c6fd7bb2bcd83160'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/ab67616d0000485192920063c6fd7bb2bcd83160'
-          width: 64
-      name: Fucked Myself Up
-      release_date: '2020-03-06'
-      release_date_precision: day
-      total_tracks: 1
-      type: album
-      uri: 'spotify:album:59HtpzKP2cNJbSdLZrui2d'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH'
-        href: 'https://api.spotify.com/v1/artists/524oC8NzSWvqPbwiRkYSLH'
-        id: 524oC8NzSWvqPbwiRkYSLH
-        name: 'merci, mercy'
-        type: artist
-        uri: 'spotify:artist:524oC8NzSWvqPbwiRkYSLH'
-    explicit: true
-    href: 'https://api.spotify.com/v1/tracks/4nbWUMaUdc2PbTZjFKJrAb'
-    is_local: false
-    name: Fucked Myself Up
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/767e3e8c7ffe740fc23d1c3ea44be2a6261f0abf?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -1338,140 +1338,6 @@ mediumTermTracks:
   - album:
       artists:
         - external_urls:
-            spotify: 'https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp'
-          href: 'https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp'
-          id: 5JMLG56F1X5mFmWNmS0iAp
-          name: Chelsea Cutler
-          type: artist
-          uri: 'spotify:artist:5JMLG56F1X5mFmWNmS0iAp'
-      href: 'https://api.spotify.com/v1/albums/2oOAjpOoHkiOjFGsf2sION'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b273553de6179fd1ba659a9fbbb7'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e02553de6179fd1ba659a9fbbb7'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/ab67616d00004851553de6179fd1ba659a9fbbb7'
-          width: 64
-      name: How To Be Human
-      release_date: '2020-01-17'
-      release_date_precision: day
-      total_tracks: 16
-      type: album
-      uri: 'spotify:album:2oOAjpOoHkiOjFGsf2sION'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp'
-        href: 'https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp'
-        id: 5JMLG56F1X5mFmWNmS0iAp
-        name: Chelsea Cutler
-        type: artist
-        uri: 'spotify:artist:5JMLG56F1X5mFmWNmS0iAp'
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag'
-        href: 'https://api.spotify.com/v1/artists/6sFHvCyqklnJpXC9Nh1aag'
-        id: 6sFHvCyqklnJpXC9Nh1aag
-        name: Alexander 23
-        type: artist
-        uri: 'spotify:artist:6sFHvCyqklnJpXC9Nh1aag'
-    explicit: false
-    href: 'https://api.spotify.com/v1/tracks/0AnZrWo2TuUX5BnFjsoy3N'
-    is_local: false
-    name: Lucky
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/d40bffb1fc33b7515246b54aadd17404d547c210?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
-            spotify: 'https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh'
-          href: 'https://api.spotify.com/v1/artists/2XpEZIV9uuJY6pdhKAbuBh'
-          id: 2XpEZIV9uuJY6pdhKAbuBh
-          name: Missy & Blonde
-          type: artist
-          uri: 'spotify:artist:2XpEZIV9uuJY6pdhKAbuBh'
-      href: 'https://api.spotify.com/v1/albums/10XBLTxCUvDqAUcKAqxxy7'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b27399130a080205981e6a345587'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e0299130a080205981e6a345587'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/ab67616d0000485199130a080205981e6a345587'
-          width: 64
-      name: Something Just Like This
-      release_date: '2017-03-17'
-      release_date_precision: day
-      total_tracks: 1
-      type: album
-      uri: 'spotify:album:10XBLTxCUvDqAUcKAqxxy7'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh'
-        href: 'https://api.spotify.com/v1/artists/2XpEZIV9uuJY6pdhKAbuBh'
-        id: 2XpEZIV9uuJY6pdhKAbuBh
-        name: Missy & Blonde
-        type: artist
-        uri: 'spotify:artist:2XpEZIV9uuJY6pdhKAbuBh'
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu'
-        href: 'https://api.spotify.com/v1/artists/6fOD5mThYrqHe1cyTrKcyu'
-        id: 6fOD5mThYrqHe1cyTrKcyu
-        name: Julia Ross
-        type: artist
-        uri: 'spotify:artist:6fOD5mThYrqHe1cyTrKcyu'
-    explicit: false
-    href: 'https://api.spotify.com/v1/tracks/6tmwEEqi4o7wpys88d0sqg'
-    is_local: false
-    name: Something Just Like This - Acoustic
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/0441b03871b21446eb60dc27088ca522596d3bc1?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
-            spotify: 'https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8'
-          href: 'https://api.spotify.com/v1/artists/736HGQRGr9rjG4VmmSpkz8'
-          id: 736HGQRGr9rjG4VmmSpkz8
-          name: Naaz
-          type: artist
-          uri: 'spotify:artist:736HGQRGr9rjG4VmmSpkz8'
-      href: 'https://api.spotify.com/v1/albums/3PHCH3YSfPjmWklUdarPtA'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b273a4ceae84d4a666591d834c6f'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e02a4ceae84d4a666591d834c6f'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/ab67616d00004851a4ceae84d4a666591d834c6f'
-          width: 64
-      name: Mute Love
-      release_date: '2020-07-10'
-      release_date_precision: day
-      total_tracks: 1
-      type: album
-      uri: 'spotify:album:3PHCH3YSfPjmWklUdarPtA'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8'
-        href: 'https://api.spotify.com/v1/artists/736HGQRGr9rjG4VmmSpkz8'
-        id: 736HGQRGr9rjG4VmmSpkz8
-        name: Naaz
-        type: artist
-        uri: 'spotify:artist:736HGQRGr9rjG4VmmSpkz8'
-    explicit: false
-    href: 'https://api.spotify.com/v1/tracks/38QI96WyvskHQk81GgerDu'
-    is_local: false
-    name: Mute Love
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/3f6eb8a3c7c5e2567cb8ee268a375e555ede6240?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
             spotify: 'https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7'
           href: 'https://api.spotify.com/v1/artists/04HqRx07Bv9gh7rsrMTqs7'
           id: 04HqRx07Bv9gh7rsrMTqs7
@@ -1559,43 +1425,137 @@ mediumTermTracks:
   - album:
       artists:
         - external_urls:
-            spotify: 'https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'
-          href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
-          id: 5JZ7CnR6gTvEMKX4g70Amv
-          name: Lauv
+            spotify: 'https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH'
+          href: 'https://api.spotify.com/v1/artists/524oC8NzSWvqPbwiRkYSLH'
+          id: 524oC8NzSWvqPbwiRkYSLH
+          name: 'merci, mercy'
           type: artist
-          uri: 'spotify:artist:5JZ7CnR6gTvEMKX4g70Amv'
-      href: 'https://api.spotify.com/v1/albums/6EgJXcGqaUvgZIF9bqPXfP'
+          uri: 'spotify:artist:524oC8NzSWvqPbwiRkYSLH'
+      href: 'https://api.spotify.com/v1/albums/59HtpzKP2cNJbSdLZrui2d'
       images:
         - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b2736047672696efe2a146cf309e'
+          url: 'https://i.scdn.co/image/ab67616d0000b27392920063c6fd7bb2bcd83160'
           width: 640
         - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e026047672696efe2a146cf309e'
+          url: 'https://i.scdn.co/image/ab67616d00001e0292920063c6fd7bb2bcd83160'
           width: 300
         - height: 64
-          url: 'https://i.scdn.co/image/ab67616d000048516047672696efe2a146cf309e'
+          url: 'https://i.scdn.co/image/ab67616d0000485192920063c6fd7bb2bcd83160'
           width: 64
-      name: ~how i'm feeling~
+      name: Fucked Myself Up
       release_date: '2020-03-06'
       release_date_precision: day
-      total_tracks: 21
+      total_tracks: 1
       type: album
-      uri: 'spotify:album:6EgJXcGqaUvgZIF9bqPXfP'
+      uri: 'spotify:album:59HtpzKP2cNJbSdLZrui2d'
     artists:
       - external_urls:
-          spotify: 'https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'
-        href: 'https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv'
-        id: 5JZ7CnR6gTvEMKX4g70Amv
-        name: Lauv
+          spotify: 'https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH'
+        href: 'https://api.spotify.com/v1/artists/524oC8NzSWvqPbwiRkYSLH'
+        id: 524oC8NzSWvqPbwiRkYSLH
+        name: 'merci, mercy'
         type: artist
-        uri: 'spotify:artist:5JZ7CnR6gTvEMKX4g70Amv'
+        uri: 'spotify:artist:524oC8NzSWvqPbwiRkYSLH'
     explicit: true
-    href: 'https://api.spotify.com/v1/tracks/1eyek0KJEh2v5HQ9uQSybb'
+    href: 'https://api.spotify.com/v1/tracks/4nbWUMaUdc2PbTZjFKJrAb'
     is_local: false
-    name: Modern Loneliness
+    name: Fucked Myself Up
     preview_url: >-
-      https://p.scdn.co/mp3-preview/5102cc24991c1a7d6248ff468bf163cb964804f6?cid=b293a7a884f34d91ab03e19184a9041e
+      https://p.scdn.co/mp3-preview/767e3e8c7ffe740fc23d1c3ea44be2a6261f0abf?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
+            spotify: 'https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh'
+          href: 'https://api.spotify.com/v1/artists/2XpEZIV9uuJY6pdhKAbuBh'
+          id: 2XpEZIV9uuJY6pdhKAbuBh
+          name: Missy & Blonde
+          type: artist
+          uri: 'spotify:artist:2XpEZIV9uuJY6pdhKAbuBh'
+      href: 'https://api.spotify.com/v1/albums/10XBLTxCUvDqAUcKAqxxy7'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/ab67616d0000b27399130a080205981e6a345587'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/ab67616d00001e0299130a080205981e6a345587'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/ab67616d0000485199130a080205981e6a345587'
+          width: 64
+      name: Something Just Like This
+      release_date: '2017-03-17'
+      release_date_precision: day
+      total_tracks: 1
+      type: album
+      uri: 'spotify:album:10XBLTxCUvDqAUcKAqxxy7'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh'
+        href: 'https://api.spotify.com/v1/artists/2XpEZIV9uuJY6pdhKAbuBh'
+        id: 2XpEZIV9uuJY6pdhKAbuBh
+        name: Missy & Blonde
+        type: artist
+        uri: 'spotify:artist:2XpEZIV9uuJY6pdhKAbuBh'
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu'
+        href: 'https://api.spotify.com/v1/artists/6fOD5mThYrqHe1cyTrKcyu'
+        id: 6fOD5mThYrqHe1cyTrKcyu
+        name: Julia Ross
+        type: artist
+        uri: 'spotify:artist:6fOD5mThYrqHe1cyTrKcyu'
+    explicit: false
+    href: 'https://api.spotify.com/v1/tracks/6tmwEEqi4o7wpys88d0sqg'
+    is_local: false
+    name: Something Just Like This - Acoustic
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/0441b03871b21446eb60dc27088ca522596d3bc1?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
+            spotify: 'https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp'
+          href: 'https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp'
+          id: 5JMLG56F1X5mFmWNmS0iAp
+          name: Chelsea Cutler
+          type: artist
+          uri: 'spotify:artist:5JMLG56F1X5mFmWNmS0iAp'
+      href: 'https://api.spotify.com/v1/albums/2oOAjpOoHkiOjFGsf2sION'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/ab67616d0000b273553de6179fd1ba659a9fbbb7'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/ab67616d00001e02553de6179fd1ba659a9fbbb7'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/ab67616d00004851553de6179fd1ba659a9fbbb7'
+          width: 64
+      name: How To Be Human
+      release_date: '2020-01-17'
+      release_date_precision: day
+      total_tracks: 16
+      type: album
+      uri: 'spotify:album:2oOAjpOoHkiOjFGsf2sION'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp'
+        href: 'https://api.spotify.com/v1/artists/5JMLG56F1X5mFmWNmS0iAp'
+        id: 5JMLG56F1X5mFmWNmS0iAp
+        name: Chelsea Cutler
+        type: artist
+        uri: 'spotify:artist:5JMLG56F1X5mFmWNmS0iAp'
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag'
+        href: 'https://api.spotify.com/v1/artists/6sFHvCyqklnJpXC9Nh1aag'
+        id: 6sFHvCyqklnJpXC9Nh1aag
+        name: Alexander 23
+        type: artist
+        uri: 'spotify:artist:6sFHvCyqklnJpXC9Nh1aag'
+    explicit: false
+    href: 'https://api.spotify.com/v1/tracks/0AnZrWo2TuUX5BnFjsoy3N'
+    is_local: false
+    name: Lucky
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/d40bffb1fc33b7515246b54aadd17404d547c210?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -1676,7 +1636,94 @@ mediumTermTracks:
     name: Play Date
     preview_url: >-
       https://p.scdn.co/mp3-preview/72adc548b3c77bd00ef8d0ac56846121b63da6e8?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
+            spotify: 'https://open.spotify.com/artist/43G7qlx7v7OGJJrUTXIqLq'
+          href: 'https://api.spotify.com/v1/artists/43G7qlx7v7OGJJrUTXIqLq'
+          id: 43G7qlx7v7OGJJrUTXIqLq
+          name: Ivy Adara
+          type: artist
+          uri: 'spotify:artist:43G7qlx7v7OGJJrUTXIqLq'
+      href: 'https://api.spotify.com/v1/albums/4QTVLzy6k7Wn0GtpGa62MB'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/ab67616d0000b2738f281550be7899384ad3155f'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/ab67616d00001e028f281550be7899384ad3155f'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/ab67616d000048518f281550be7899384ad3155f'
+          width: 64
+      name: Rebels
+      release_date: '2018-08-24'
+      release_date_precision: day
+      total_tracks: 1
+      type: album
+      uri: 'spotify:album:4QTVLzy6k7Wn0GtpGa62MB'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/43G7qlx7v7OGJJrUTXIqLq'
+        href: 'https://api.spotify.com/v1/artists/43G7qlx7v7OGJJrUTXIqLq'
+        id: 43G7qlx7v7OGJJrUTXIqLq
+        name: Ivy Adara
+        type: artist
+        uri: 'spotify:artist:43G7qlx7v7OGJJrUTXIqLq'
+    explicit: false
+    href: 'https://api.spotify.com/v1/tracks/36qh3jgsWjKLDBTeBb3lWW'
+    is_local: false
+    name: Rebels
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/b10de7b99896b6b62e6e806be7ced9793e92bf91?cid=b293a7a884f34d91ab03e19184a9041e
 shortTermTracks:
+  - album:
+      artists:
+        - external_urls:
+            spotify: 'https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs'
+          href: 'https://api.spotify.com/v1/artists/2RVvqRBon9NgaGXKfywDSs'
+          id: 2RVvqRBon9NgaGXKfywDSs
+          name: Maisie Peters
+          type: artist
+          uri: 'spotify:artist:2RVvqRBon9NgaGXKfywDSs'
+      href: 'https://api.spotify.com/v1/albums/2X5tbY4Yam5ir3dG8eJSHa'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/ab67616d0000b273a04dfe86aa8f5dd21b170db2'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/ab67616d00001e02a04dfe86aa8f5dd21b170db2'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/ab67616d00004851a04dfe86aa8f5dd21b170db2'
+          width: 64
+      name: Maybe Don't (feat. JP Saxe)
+      release_date: '2020-09-21'
+      release_date_precision: day
+      total_tracks: 1
+      type: album
+      uri: 'spotify:album:2X5tbY4Yam5ir3dG8eJSHa'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs'
+        href: 'https://api.spotify.com/v1/artists/2RVvqRBon9NgaGXKfywDSs'
+        id: 2RVvqRBon9NgaGXKfywDSs
+        name: Maisie Peters
+        type: artist
+        uri: 'spotify:artist:2RVvqRBon9NgaGXKfywDSs'
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'
+        href: 'https://api.spotify.com/v1/artists/66W9LaWS0DPdL7Sz8iYGYe'
+        id: 66W9LaWS0DPdL7Sz8iYGYe
+        name: JP Saxe
+        type: artist
+        uri: 'spotify:artist:66W9LaWS0DPdL7Sz8iYGYe'
+    explicit: false
+    href: 'https://api.spotify.com/v1/tracks/7ksYNhalX8IWKku513n8QG'
+    is_local: false
+    name: Maybe Don't (feat. JP Saxe)
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/bee5979139c734a99e1af92dda1da0e7579f4fc2?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -1726,23 +1773,23 @@ shortTermTracks:
           name: BLACKPINK
           type: artist
           uri: 'spotify:artist:41MozSoPIsD1dJM0CLPjZF'
-      href: 'https://api.spotify.com/v1/albums/6IzQb2kLydYNfzmKXvmndX'
+      href: 'https://api.spotify.com/v1/albums/4DrS5uqr2LBqfTF5nsRtyT'
       images:
         - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b273d9ac4a9970da8f98ce2e2b35'
+          url: 'https://i.scdn.co/image/ab67616d0000b27383e20fb049016e87123cb093'
           width: 640
         - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e02d9ac4a9970da8f98ce2e2b35'
+          url: 'https://i.scdn.co/image/ab67616d00001e0283e20fb049016e87123cb093'
           width: 300
         - height: 64
-          url: 'https://i.scdn.co/image/ab67616d00004851d9ac4a9970da8f98ce2e2b35'
+          url: 'https://i.scdn.co/image/ab67616d0000485183e20fb049016e87123cb093'
           width: 64
-      name: As If It's Your Last
-      release_date: '2017-06-22'
+      name: THE ALBUM
+      release_date: '2020-10-02'
       release_date_precision: day
-      total_tracks: 1
+      total_tracks: 8
       type: album
-      uri: 'spotify:album:6IzQb2kLydYNfzmKXvmndX'
+      uri: 'spotify:album:4DrS5uqr2LBqfTF5nsRtyT'
     artists:
       - external_urls:
           spotify: 'https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF'
@@ -1751,12 +1798,19 @@ shortTermTracks:
         name: BLACKPINK
         type: artist
         uri: 'spotify:artist:41MozSoPIsD1dJM0CLPjZF'
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx'
+        href: 'https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx'
+        id: 0C8ZW7ezQVs4URX5aX7Kqx
+        name: Selena Gomez
+        type: artist
+        uri: 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'
     explicit: false
-    href: 'https://api.spotify.com/v1/tracks/1Zyd6zQnC6XIIzmg3hP7Ot'
+    href: 'https://api.spotify.com/v1/tracks/4Q9hOAbmZVZqu6wNJCbRnz'
     is_local: false
-    name: As If It's Your Last
+    name: Ice Cream (with Selena Gomez)
     preview_url: >-
-      https://p.scdn.co/mp3-preview/4c014ed0e553e6430bb3a8dde61f3baf767ce8cf?cid=b293a7a884f34d91ab03e19184a9041e
+      https://p.scdn.co/mp3-preview/51113c112bbba212201ccbaefc07e94275392dcf?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -1840,29 +1894,83 @@ shortTermTracks:
   - album:
       artists:
         - external_urls:
+            spotify: 'https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'
+          href: 'https://api.spotify.com/v1/artists/66W9LaWS0DPdL7Sz8iYGYe'
+          id: 66W9LaWS0DPdL7Sz8iYGYe
+          name: JP Saxe
+          type: artist
+          uri: 'spotify:artist:66W9LaWS0DPdL7Sz8iYGYe'
+        - external_urls:
+            spotify: 'https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'
+          href: 'https://api.spotify.com/v1/artists/7LImGq5KnzQobZciDJpeJb'
+          id: 7LImGq5KnzQobZciDJpeJb
+          name: Charlotte Lawrence
+          type: artist
+          uri: 'spotify:artist:7LImGq5KnzQobZciDJpeJb'
+      href: 'https://api.spotify.com/v1/albums/1UTQg1Y9DUJQGZQOICLCv1'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/ab67616d0000b273e96b9961dfe4b02b565ca238'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/ab67616d00001e02e96b9961dfe4b02b565ca238'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/ab67616d00004851e96b9961dfe4b02b565ca238'
+          width: 64
+      name: The Few Things (With Charlotte Lawrence)
+      release_date: '2018-08-10'
+      release_date_precision: day
+      total_tracks: 1
+      type: album
+      uri: 'spotify:album:1UTQg1Y9DUJQGZQOICLCv1'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'
+        href: 'https://api.spotify.com/v1/artists/66W9LaWS0DPdL7Sz8iYGYe'
+        id: 66W9LaWS0DPdL7Sz8iYGYe
+        name: JP Saxe
+        type: artist
+        uri: 'spotify:artist:66W9LaWS0DPdL7Sz8iYGYe'
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'
+        href: 'https://api.spotify.com/v1/artists/7LImGq5KnzQobZciDJpeJb'
+        id: 7LImGq5KnzQobZciDJpeJb
+        name: Charlotte Lawrence
+        type: artist
+        uri: 'spotify:artist:7LImGq5KnzQobZciDJpeJb'
+    explicit: false
+    href: 'https://api.spotify.com/v1/tracks/7BdXiDH2bPhBuPP2jTwRZB'
+    is_local: false
+    name: The Few Things (With Charlotte Lawrence)
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/efec693904840ec8b1074e743eae0ca7a2ed20a7?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
             spotify: 'https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF'
           href: 'https://api.spotify.com/v1/artists/41MozSoPIsD1dJM0CLPjZF'
           id: 41MozSoPIsD1dJM0CLPjZF
           name: BLACKPINK
           type: artist
           uri: 'spotify:artist:41MozSoPIsD1dJM0CLPjZF'
-      href: 'https://api.spotify.com/v1/albums/4DrS5uqr2LBqfTF5nsRtyT'
+      href: 'https://api.spotify.com/v1/albums/6IzQb2kLydYNfzmKXvmndX'
       images:
         - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b27383e20fb049016e87123cb093'
+          url: 'https://i.scdn.co/image/ab67616d0000b273d9ac4a9970da8f98ce2e2b35'
           width: 640
         - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e0283e20fb049016e87123cb093'
+          url: 'https://i.scdn.co/image/ab67616d00001e02d9ac4a9970da8f98ce2e2b35'
           width: 300
         - height: 64
-          url: 'https://i.scdn.co/image/ab67616d0000485183e20fb049016e87123cb093'
+          url: 'https://i.scdn.co/image/ab67616d00004851d9ac4a9970da8f98ce2e2b35'
           width: 64
-      name: THE ALBUM
-      release_date: '2020-10-02'
+      name: As If It's Your Last
+      release_date: '2017-06-22'
       release_date_precision: day
-      total_tracks: 8
+      total_tracks: 1
       type: album
-      uri: 'spotify:album:4DrS5uqr2LBqfTF5nsRtyT'
+      uri: 'spotify:album:6IzQb2kLydYNfzmKXvmndX'
     artists:
       - external_urls:
           spotify: 'https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF'
@@ -1871,66 +1979,92 @@ shortTermTracks:
         name: BLACKPINK
         type: artist
         uri: 'spotify:artist:41MozSoPIsD1dJM0CLPjZF'
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx'
-        href: 'https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx'
-        id: 0C8ZW7ezQVs4URX5aX7Kqx
-        name: Selena Gomez
-        type: artist
-        uri: 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'
     explicit: false
-    href: 'https://api.spotify.com/v1/tracks/4Q9hOAbmZVZqu6wNJCbRnz'
+    href: 'https://api.spotify.com/v1/tracks/1Zyd6zQnC6XIIzmg3hP7Ot'
     is_local: false
-    name: Ice Cream (with Selena Gomez)
+    name: As If It's Your Last
     preview_url: >-
-      https://p.scdn.co/mp3-preview/51113c112bbba212201ccbaefc07e94275392dcf?cid=b293a7a884f34d91ab03e19184a9041e
+      https://p.scdn.co/mp3-preview/4c014ed0e553e6430bb3a8dde61f3baf767ce8cf?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
-            spotify: 'https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs'
-          href: 'https://api.spotify.com/v1/artists/2RVvqRBon9NgaGXKfywDSs'
-          id: 2RVvqRBon9NgaGXKfywDSs
-          name: Maisie Peters
+            spotify: 'https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'
+          href: 'https://api.spotify.com/v1/artists/7LImGq5KnzQobZciDJpeJb'
+          id: 7LImGq5KnzQobZciDJpeJb
+          name: Charlotte Lawrence
           type: artist
-          uri: 'spotify:artist:2RVvqRBon9NgaGXKfywDSs'
-      href: 'https://api.spotify.com/v1/albums/2X5tbY4Yam5ir3dG8eJSHa'
+          uri: 'spotify:artist:7LImGq5KnzQobZciDJpeJb'
+      href: 'https://api.spotify.com/v1/albums/6Ptn7VcbW5P7rGUFqgrqtT'
       images:
         - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b273a04dfe86aa8f5dd21b170db2'
+          url: 'https://i.scdn.co/image/ab67616d0000b273dd27e0f855228e988ded6271'
           width: 640
         - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e02a04dfe86aa8f5dd21b170db2'
+          url: 'https://i.scdn.co/image/ab67616d00001e02dd27e0f855228e988ded6271'
           width: 300
         - height: 64
-          url: 'https://i.scdn.co/image/ab67616d00004851a04dfe86aa8f5dd21b170db2'
+          url: 'https://i.scdn.co/image/ab67616d00004851dd27e0f855228e988ded6271'
           width: 64
-      name: Maybe Don't (feat. JP Saxe)
-      release_date: '2020-09-21'
+      name: Just The Same
+      release_date: '2018-01-26'
       release_date_precision: day
       total_tracks: 1
       type: album
-      uri: 'spotify:album:2X5tbY4Yam5ir3dG8eJSHa'
+      uri: 'spotify:album:6Ptn7VcbW5P7rGUFqgrqtT'
     artists:
       - external_urls:
-          spotify: 'https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs'
-        href: 'https://api.spotify.com/v1/artists/2RVvqRBon9NgaGXKfywDSs'
-        id: 2RVvqRBon9NgaGXKfywDSs
-        name: Maisie Peters
+          spotify: 'https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'
+        href: 'https://api.spotify.com/v1/artists/7LImGq5KnzQobZciDJpeJb'
+        id: 7LImGq5KnzQobZciDJpeJb
+        name: Charlotte Lawrence
         type: artist
-        uri: 'spotify:artist:2RVvqRBon9NgaGXKfywDSs'
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'
-        href: 'https://api.spotify.com/v1/artists/66W9LaWS0DPdL7Sz8iYGYe'
-        id: 66W9LaWS0DPdL7Sz8iYGYe
-        name: JP Saxe
-        type: artist
-        uri: 'spotify:artist:66W9LaWS0DPdL7Sz8iYGYe'
-    explicit: false
-    href: 'https://api.spotify.com/v1/tracks/7ksYNhalX8IWKku513n8QG'
+        uri: 'spotify:artist:7LImGq5KnzQobZciDJpeJb'
+    explicit: true
+    href: 'https://api.spotify.com/v1/tracks/58HqKMdKE1ZoYqazy87guy'
     is_local: false
-    name: Maybe Don't (feat. JP Saxe)
+    name: Just The Same
     preview_url: >-
-      https://p.scdn.co/mp3-preview/bee5979139c734a99e1af92dda1da0e7579f4fc2?cid=b293a7a884f34d91ab03e19184a9041e
+      https://p.scdn.co/mp3-preview/35de706450f80ed36560054268b24e34b3ce1913?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
+            spotify: 'https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD'
+          href: 'https://api.spotify.com/v1/artists/2y9j8qUwBMGPYPQJJxmYzD'
+          id: 2y9j8qUwBMGPYPQJJxmYzD
+          name: Anna Clendening
+          type: artist
+          uri: 'spotify:artist:2y9j8qUwBMGPYPQJJxmYzD'
+      href: 'https://api.spotify.com/v1/albums/4le148qEn3xi1yh9bknqAh'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/ab67616d0000b27379022cd5c424b7c85fa51f99'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/ab67616d00001e0279022cd5c424b7c85fa51f99'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/ab67616d0000485179022cd5c424b7c85fa51f99'
+          width: 64
+      name: Evolve EP
+      release_date: '2020-10-09'
+      release_date_precision: day
+      total_tracks: 5
+      type: album
+      uri: 'spotify:album:4le148qEn3xi1yh9bknqAh'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD'
+        href: 'https://api.spotify.com/v1/artists/2y9j8qUwBMGPYPQJJxmYzD'
+        id: 2y9j8qUwBMGPYPQJJxmYzD
+        name: Anna Clendening
+        type: artist
+        uri: 'spotify:artist:2y9j8qUwBMGPYPQJJxmYzD'
+    explicit: true
+    href: 'https://api.spotify.com/v1/tracks/2WxCovJaXPloCHw0yJ0Z0z'
+    is_local: false
+    name: Sorry That I Do That
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/fcb772dd4db18ac58cdac8be7b4bb1241b5b5e1f?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -2021,140 +2155,6 @@ shortTermTracks:
   - album:
       artists:
         - external_urls:
-            spotify: 'https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs'
-          href: 'https://api.spotify.com/v1/artists/2RVvqRBon9NgaGXKfywDSs'
-          id: 2RVvqRBon9NgaGXKfywDSs
-          name: Maisie Peters
-          type: artist
-          uri: 'spotify:artist:2RVvqRBon9NgaGXKfywDSs'
-      href: 'https://api.spotify.com/v1/albums/0ycKvTCeXMxiZy8xkiworC'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b273037fe79c1f614696e2585a29'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e02037fe79c1f614696e2585a29'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/ab67616d00004851037fe79c1f614696e2585a29'
-          width: 64
-      name: The List
-      release_date: '2020-05-15'
-      release_date_precision: day
-      total_tracks: 1
-      type: album
-      uri: 'spotify:album:0ycKvTCeXMxiZy8xkiworC'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs'
-        href: 'https://api.spotify.com/v1/artists/2RVvqRBon9NgaGXKfywDSs'
-        id: 2RVvqRBon9NgaGXKfywDSs
-        name: Maisie Peters
-        type: artist
-        uri: 'spotify:artist:2RVvqRBon9NgaGXKfywDSs'
-    explicit: false
-    href: 'https://api.spotify.com/v1/tracks/1Nm13xmpLsLvFsUp4vR8ED'
-    is_local: false
-    name: The List
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/302fd92f9b1f4a9fcc395a691e458b9eeb105dc8?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
-            spotify: 'https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'
-          href: 'https://api.spotify.com/v1/artists/66W9LaWS0DPdL7Sz8iYGYe'
-          id: 66W9LaWS0DPdL7Sz8iYGYe
-          name: JP Saxe
-          type: artist
-          uri: 'spotify:artist:66W9LaWS0DPdL7Sz8iYGYe'
-        - external_urls:
-            spotify: 'https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'
-          href: 'https://api.spotify.com/v1/artists/7LImGq5KnzQobZciDJpeJb'
-          id: 7LImGq5KnzQobZciDJpeJb
-          name: Charlotte Lawrence
-          type: artist
-          uri: 'spotify:artist:7LImGq5KnzQobZciDJpeJb'
-      href: 'https://api.spotify.com/v1/albums/1UTQg1Y9DUJQGZQOICLCv1'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b273e96b9961dfe4b02b565ca238'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e02e96b9961dfe4b02b565ca238'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/ab67616d00004851e96b9961dfe4b02b565ca238'
-          width: 64
-      name: The Few Things (With Charlotte Lawrence)
-      release_date: '2018-08-10'
-      release_date_precision: day
-      total_tracks: 1
-      type: album
-      uri: 'spotify:album:1UTQg1Y9DUJQGZQOICLCv1'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe'
-        href: 'https://api.spotify.com/v1/artists/66W9LaWS0DPdL7Sz8iYGYe'
-        id: 66W9LaWS0DPdL7Sz8iYGYe
-        name: JP Saxe
-        type: artist
-        uri: 'spotify:artist:66W9LaWS0DPdL7Sz8iYGYe'
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'
-        href: 'https://api.spotify.com/v1/artists/7LImGq5KnzQobZciDJpeJb'
-        id: 7LImGq5KnzQobZciDJpeJb
-        name: Charlotte Lawrence
-        type: artist
-        uri: 'spotify:artist:7LImGq5KnzQobZciDJpeJb'
-    explicit: false
-    href: 'https://api.spotify.com/v1/tracks/7BdXiDH2bPhBuPP2jTwRZB'
-    is_local: false
-    name: The Few Things (With Charlotte Lawrence)
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/efec693904840ec8b1074e743eae0ca7a2ed20a7?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
-            spotify: 'https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'
-          href: 'https://api.spotify.com/v1/artists/7LImGq5KnzQobZciDJpeJb'
-          id: 7LImGq5KnzQobZciDJpeJb
-          name: Charlotte Lawrence
-          type: artist
-          uri: 'spotify:artist:7LImGq5KnzQobZciDJpeJb'
-      href: 'https://api.spotify.com/v1/albums/6Ptn7VcbW5P7rGUFqgrqtT'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b273dd27e0f855228e988ded6271'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e02dd27e0f855228e988ded6271'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/ab67616d00004851dd27e0f855228e988ded6271'
-          width: 64
-      name: Just The Same
-      release_date: '2018-01-26'
-      release_date_precision: day
-      total_tracks: 1
-      type: album
-      uri: 'spotify:album:6Ptn7VcbW5P7rGUFqgrqtT'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'
-        href: 'https://api.spotify.com/v1/artists/7LImGq5KnzQobZciDJpeJb'
-        id: 7LImGq5KnzQobZciDJpeJb
-        name: Charlotte Lawrence
-        type: artist
-        uri: 'spotify:artist:7LImGq5KnzQobZciDJpeJb'
-    explicit: true
-    href: 'https://api.spotify.com/v1/tracks/58HqKMdKE1ZoYqazy87guy'
-    is_local: false
-    name: Just The Same
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/35de706450f80ed36560054268b24e34b3ce1913?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
             spotify: 'https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb'
           href: 'https://api.spotify.com/v1/artists/7LImGq5KnzQobZciDJpeJb'
           id: 7LImGq5KnzQobZciDJpeJb
@@ -2195,43 +2195,43 @@ shortTermTracks:
   - album:
       artists:
         - external_urls:
-            spotify: 'https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD'
-          href: 'https://api.spotify.com/v1/artists/2y9j8qUwBMGPYPQJJxmYzD'
-          id: 2y9j8qUwBMGPYPQJJxmYzD
-          name: Anna Clendening
+            spotify: 'https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs'
+          href: 'https://api.spotify.com/v1/artists/2RVvqRBon9NgaGXKfywDSs'
+          id: 2RVvqRBon9NgaGXKfywDSs
+          name: Maisie Peters
           type: artist
-          uri: 'spotify:artist:2y9j8qUwBMGPYPQJJxmYzD'
-      href: 'https://api.spotify.com/v1/albums/4le148qEn3xi1yh9bknqAh'
+          uri: 'spotify:artist:2RVvqRBon9NgaGXKfywDSs'
+      href: 'https://api.spotify.com/v1/albums/0ycKvTCeXMxiZy8xkiworC'
       images:
         - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b27379022cd5c424b7c85fa51f99'
+          url: 'https://i.scdn.co/image/ab67616d0000b273037fe79c1f614696e2585a29'
           width: 640
         - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e0279022cd5c424b7c85fa51f99'
+          url: 'https://i.scdn.co/image/ab67616d00001e02037fe79c1f614696e2585a29'
           width: 300
         - height: 64
-          url: 'https://i.scdn.co/image/ab67616d0000485179022cd5c424b7c85fa51f99'
+          url: 'https://i.scdn.co/image/ab67616d00004851037fe79c1f614696e2585a29'
           width: 64
-      name: Evolve EP
-      release_date: '2020-10-09'
+      name: The List
+      release_date: '2020-05-15'
       release_date_precision: day
-      total_tracks: 5
+      total_tracks: 1
       type: album
-      uri: 'spotify:album:4le148qEn3xi1yh9bknqAh'
+      uri: 'spotify:album:0ycKvTCeXMxiZy8xkiworC'
     artists:
       - external_urls:
-          spotify: 'https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD'
-        href: 'https://api.spotify.com/v1/artists/2y9j8qUwBMGPYPQJJxmYzD'
-        id: 2y9j8qUwBMGPYPQJJxmYzD
-        name: Anna Clendening
+          spotify: 'https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs'
+        href: 'https://api.spotify.com/v1/artists/2RVvqRBon9NgaGXKfywDSs'
+        id: 2RVvqRBon9NgaGXKfywDSs
+        name: Maisie Peters
         type: artist
-        uri: 'spotify:artist:2y9j8qUwBMGPYPQJJxmYzD'
-    explicit: true
-    href: 'https://api.spotify.com/v1/tracks/2WxCovJaXPloCHw0yJ0Z0z'
+        uri: 'spotify:artist:2RVvqRBon9NgaGXKfywDSs'
+    explicit: false
+    href: 'https://api.spotify.com/v1/tracks/1Nm13xmpLsLvFsUp4vR8ED'
     is_local: false
-    name: Sorry That I Do That
+    name: The List
     preview_url: >-
-      https://p.scdn.co/mp3-preview/fcb772dd4db18ac58cdac8be7b4bb1241b5b5e1f?cid=b293a7a884f34d91ab03e19184a9041e
+      https://p.scdn.co/mp3-preview/302fd92f9b1f4a9fcc395a691e458b9eeb105dc8?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -2275,43 +2275,43 @@ shortTermTracks:
   - album:
       artists:
         - external_urls:
-            spotify: 'https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'
-          href: 'https://api.spotify.com/v1/artists/5IH6FPUwQTxPSXurCrcIov'
-          id: 5IH6FPUwQTxPSXurCrcIov
-          name: Alec Benjamin
+            spotify: 'https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs'
+          href: 'https://api.spotify.com/v1/artists/2RVvqRBon9NgaGXKfywDSs'
+          id: 2RVvqRBon9NgaGXKfywDSs
+          name: Maisie Peters
           type: artist
-          uri: 'spotify:artist:5IH6FPUwQTxPSXurCrcIov'
-      href: 'https://api.spotify.com/v1/albums/31s5CRYvua6xU9c2n7H8PJ'
+          uri: 'spotify:artist:2RVvqRBon9NgaGXKfywDSs'
+      href: 'https://api.spotify.com/v1/albums/0hIIlNhG6PZoQxCmSA24Uz'
       images:
         - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b273aefd88c6793b26679a570036'
+          url: 'https://i.scdn.co/image/ab67616d0000b2738806b1038d854624e6a7ab08'
           width: 640
         - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e02aefd88c6793b26679a570036'
+          url: 'https://i.scdn.co/image/ab67616d00001e028806b1038d854624e6a7ab08'
           width: 300
         - height: 64
-          url: 'https://i.scdn.co/image/ab67616d00004851aefd88c6793b26679a570036'
+          url: 'https://i.scdn.co/image/ab67616d000048518806b1038d854624e6a7ab08'
           width: 64
-      name: I Built A Friend (2020)
-      release_date: '2020-07-23'
+      name: Favourite Ex
+      release_date: '2019-04-12'
       release_date_precision: day
       total_tracks: 2
       type: album
-      uri: 'spotify:album:31s5CRYvua6xU9c2n7H8PJ'
+      uri: 'spotify:album:0hIIlNhG6PZoQxCmSA24Uz'
     artists:
       - external_urls:
-          spotify: 'https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov'
-        href: 'https://api.spotify.com/v1/artists/5IH6FPUwQTxPSXurCrcIov'
-        id: 5IH6FPUwQTxPSXurCrcIov
-        name: Alec Benjamin
+          spotify: 'https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs'
+        href: 'https://api.spotify.com/v1/artists/2RVvqRBon9NgaGXKfywDSs'
+        id: 2RVvqRBon9NgaGXKfywDSs
+        name: Maisie Peters
         type: artist
-        uri: 'spotify:artist:5IH6FPUwQTxPSXurCrcIov'
+        uri: 'spotify:artist:2RVvqRBon9NgaGXKfywDSs'
     explicit: false
-    href: 'https://api.spotify.com/v1/tracks/68XhCrBajUR64h6wv4eYYW'
+    href: 'https://api.spotify.com/v1/tracks/1a1SQeSqUKzH5OUVTEx4ae'
     is_local: false
-    name: I Built A Friend (2020)
+    name: Favourite Ex
     preview_url: >-
-      https://p.scdn.co/mp3-preview/0e12c946efd469dbc3e3e2b81731025cf93b58ef?cid=b293a7a884f34d91ab03e19184a9041e
+      https://p.scdn.co/mp3-preview/57c84d691c92ed70eec76175eb2c67eb1bacb924?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -2352,93 +2352,6 @@ shortTermTracks:
     name: Wrong Direction
     preview_url: >-
       https://p.scdn.co/mp3-preview/b12f6f5007da8d4a105ae06cc533ef1bf7c21b2a?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
-            spotify: 'https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs'
-          href: 'https://api.spotify.com/v1/artists/2RVvqRBon9NgaGXKfywDSs'
-          id: 2RVvqRBon9NgaGXKfywDSs
-          name: Maisie Peters
-          type: artist
-          uri: 'spotify:artist:2RVvqRBon9NgaGXKfywDSs'
-      href: 'https://api.spotify.com/v1/albums/6lFljqlC3nPNnnBglSpsAm'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b27322985e89b2d1341401cc4961'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e0222985e89b2d1341401cc4961'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/ab67616d0000485122985e89b2d1341401cc4961'
-          width: 64
-      name: Daydreams
-      release_date: '2020-03-27'
-      release_date_precision: day
-      total_tracks: 1
-      type: album
-      uri: 'spotify:album:6lFljqlC3nPNnnBglSpsAm'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs'
-        href: 'https://api.spotify.com/v1/artists/2RVvqRBon9NgaGXKfywDSs'
-        id: 2RVvqRBon9NgaGXKfywDSs
-        name: Maisie Peters
-        type: artist
-        uri: 'spotify:artist:2RVvqRBon9NgaGXKfywDSs'
-    explicit: false
-    href: 'https://api.spotify.com/v1/tracks/58f9nTeQ3ORN2nvtWYbnON'
-    is_local: false
-    name: Daydreams
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/eb0031a656406fc0f780f9ac66af9aee158ef467?cid=b293a7a884f34d91ab03e19184a9041e
-  - album:
-      artists:
-        - external_urls:
-            spotify: 'https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh'
-          href: 'https://api.spotify.com/v1/artists/2XpEZIV9uuJY6pdhKAbuBh'
-          id: 2XpEZIV9uuJY6pdhKAbuBh
-          name: Missy & Blonde
-          type: artist
-          uri: 'spotify:artist:2XpEZIV9uuJY6pdhKAbuBh'
-      href: 'https://api.spotify.com/v1/albums/10XBLTxCUvDqAUcKAqxxy7'
-      images:
-        - height: 640
-          url: 'https://i.scdn.co/image/ab67616d0000b27399130a080205981e6a345587'
-          width: 640
-        - height: 300
-          url: 'https://i.scdn.co/image/ab67616d00001e0299130a080205981e6a345587'
-          width: 300
-        - height: 64
-          url: 'https://i.scdn.co/image/ab67616d0000485199130a080205981e6a345587'
-          width: 64
-      name: Something Just Like This
-      release_date: '2017-03-17'
-      release_date_precision: day
-      total_tracks: 1
-      type: album
-      uri: 'spotify:album:10XBLTxCUvDqAUcKAqxxy7'
-    artists:
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh'
-        href: 'https://api.spotify.com/v1/artists/2XpEZIV9uuJY6pdhKAbuBh'
-        id: 2XpEZIV9uuJY6pdhKAbuBh
-        name: Missy & Blonde
-        type: artist
-        uri: 'spotify:artist:2XpEZIV9uuJY6pdhKAbuBh'
-      - external_urls:
-          spotify: 'https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu'
-        href: 'https://api.spotify.com/v1/artists/6fOD5mThYrqHe1cyTrKcyu'
-        id: 6fOD5mThYrqHe1cyTrKcyu
-        name: Julia Ross
-        type: artist
-        uri: 'spotify:artist:6fOD5mThYrqHe1cyTrKcyu'
-    explicit: false
-    href: 'https://api.spotify.com/v1/tracks/6tmwEEqi4o7wpys88d0sqg'
-    is_local: false
-    name: Something Just Like This - Acoustic
-    preview_url: >-
-      https://p.scdn.co/mp3-preview/0441b03871b21446eb60dc27088ca522596d3bc1?cid=b293a7a884f34d91ab03e19184a9041e
   - album:
       artists:
         - external_urls:
@@ -2519,3 +2432,83 @@ shortTermTracks:
     name: Heather
     preview_url: >-
       https://p.scdn.co/mp3-preview/a9bc6c86e6d667590cb7e9e73b750f364431f762?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
+            spotify: 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'
+          href: 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR'
+          id: 66CXWjxzNUsdJxJ2JdwvnR
+          name: Ariana Grande
+          type: artist
+          uri: 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'
+      href: 'https://api.spotify.com/v1/albums/3euz4vS7ezKGnNSwgyvKcd'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/ab67616d00001e025ef878a782c987d38d82b605'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/ab67616d000048515ef878a782c987d38d82b605'
+          width: 64
+      name: Positions
+      release_date: '2020-10-30'
+      release_date_precision: day
+      total_tracks: 14
+      type: album
+      uri: 'spotify:album:3euz4vS7ezKGnNSwgyvKcd'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'
+        href: 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR'
+        id: 66CXWjxzNUsdJxJ2JdwvnR
+        name: Ariana Grande
+        type: artist
+        uri: 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'
+    explicit: true
+    href: 'https://api.spotify.com/v1/tracks/6Im9k8u9iIzKMrmV7BWtlF'
+    is_local: false
+    name: 34+35
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/bc3cc7b1c690fa35ce1848df4db41a3f080fcac5?cid=b293a7a884f34d91ab03e19184a9041e
+  - album:
+      artists:
+        - external_urls:
+            spotify: 'https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs'
+          href: 'https://api.spotify.com/v1/artists/3DKkhRCGOG4e8IUPYFPfWs'
+          id: 3DKkhRCGOG4e8IUPYFPfWs
+          name: Dixie D’Amelio
+          type: artist
+          uri: 'spotify:artist:3DKkhRCGOG4e8IUPYFPfWs'
+      href: 'https://api.spotify.com/v1/albums/2VU4zk10Mk6SAK8BjH89R9'
+      images:
+        - height: 640
+          url: 'https://i.scdn.co/image/ab67616d0000b2739f63ba0b3b1f6eaf6fd4ed7f'
+          width: 640
+        - height: 300
+          url: 'https://i.scdn.co/image/ab67616d00001e029f63ba0b3b1f6eaf6fd4ed7f'
+          width: 300
+        - height: 64
+          url: 'https://i.scdn.co/image/ab67616d000048519f63ba0b3b1f6eaf6fd4ed7f'
+          width: 64
+      name: Be Happy
+      release_date: '2020-06-26'
+      release_date_precision: day
+      total_tracks: 1
+      type: album
+      uri: 'spotify:album:2VU4zk10Mk6SAK8BjH89R9'
+    artists:
+      - external_urls:
+          spotify: 'https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs'
+        href: 'https://api.spotify.com/v1/artists/3DKkhRCGOG4e8IUPYFPfWs'
+        id: 3DKkhRCGOG4e8IUPYFPfWs
+        name: Dixie D’Amelio
+        type: artist
+        uri: 'spotify:artist:3DKkhRCGOG4e8IUPYFPfWs'
+    explicit: true
+    href: 'https://api.spotify.com/v1/tracks/1KVQBPyORdhfITlixROtvC'
+    is_local: false
+    name: Be Happy
+    preview_url: >-
+      https://p.scdn.co/mp3-preview/5bce353fd8e3c1005df80e04aed33b2b6e94764e?cid=b293a7a884f34d91ab03e19184a9041e
