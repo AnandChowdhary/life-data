@@ -1,8 +1,8 @@
 {
-  "city": "Delhi",
-  "county": "Kotwali Tehsil",
-  "suburb": "Chandni Chowk",
-  "state_district": "Central Delhi",
+  "locality": "Green Park Extension",
+  "city": "New Delhi",
+  "county": "Hauz Khas Tehsil",
+  "state_district": "South East Delhi",
   "state": "Delhi",
   "country": "India"
 }
