@@ -1,6 +1,8 @@
 {
   "city": "New Delhi",
-  "county": "Hauz Khas Tehsil",
+  "county": "Defence Colony Teshil",
+  "suburb": "Kaka Nagar",
+  "state_district": "South East Delhi",
   "state": "Delhi",
   "country": "India"
 }
