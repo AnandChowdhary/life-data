@@ -1,7 +1,8 @@
 {
-  "locality": "Ware Housing Scheme Block 1",
+  "locality": "Kirti Nagar",
   "city": "New Delhi",
-  "county": "Delhi Cantonment",
+  "county": "Patel Nagar Tehsil",
+  "state_district": "West Delhi",
   "state": "Delhi",
   "country": "India"
 }
