@@ -1,6 +1,8 @@
 {
+  "locality": "Sector 2",
   "city": "New Delhi",
   "county": "Vasant Vihar Tehsil",
+  "suburb": "Ramakrishna Puram",
   "state": "Delhi",
   "country": "India"
 }
