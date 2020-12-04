@@ -1,7 +1,8 @@
 {
-  "locality": "Green Park Extension",
-  "city": "New Delhi",
-  "county": "Vasant Vihar Tehsil",
+  "city": "Delhi",
+  "county": "Defence Colony Teshil",
+  "suburb": "Govindpuri",
+  "state_district": "South East Delhi",
   "state": "Delhi",
   "country": "India"
 }
