@@ -1,6 +1,8 @@
 {
-  "city": "New Delhi",
-  "county": "Chanakya Puri Tehsil",
+  "city": "Delhi",
+  "county": "Defence Colony Teshil",
+  "suburb": "Govindpuri",
+  "state_district": "South East Delhi",
   "state": "Delhi",
   "country": "India"
 }
