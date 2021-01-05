@@ -1,7 +1,8 @@
 {
   "city": "New Delhi",
-  "county": "Defence Colony Teshil",
-  "state_district": "South East Delhi",
+  "county": "Hauz Khas Tehsil",
+  "suburb": "Yusuf Sarai",
+  "state_district": "South Delhi",
   "state": "Delhi",
   "country": "India"
 }
