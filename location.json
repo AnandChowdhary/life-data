@@ -1,5 +1,8 @@
 {
-  "city": "New Delhi",
-  "state": "Delhi",
+  "city": "Faridabad",
+  "county": "Faridabad",
+  "suburb": "Asola",
+  "state_district": "Faridabad",
+  "state": "Haryana",
   "country": "India"
 }
