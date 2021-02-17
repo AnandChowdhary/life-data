@@ -1,6 +1,7 @@
 {
   "city": "New Delhi",
-  "suburb": "Ramakrishna Puram",
+  "county": "Hauz Khas Tehsil",
+  "state_district": "South Delhi",
   "state": "Delhi",
   "country": "India"
 }
